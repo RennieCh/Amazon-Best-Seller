@@ -1,6 +1,36 @@
-# Getting Started with Create React App
+# Amazon Bestsellers Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Overview
+
+This project is a web app (Dashboard) that displays the most recent best-selling products across 40 categories from Amazon. The dashboard aims to make it easier for shoppers to browse and analyze bestsellers by summarizing and presenting products with high ratings (four and five stars). The data is collected using APIs, aggregated into a unified format, and displayed in a user-friendly interface.
+
+The dashboard is built using **React** and styled with **HTML** and **CSS**. It provides insights into product popularity and trends across different categories, enabling users to make informed shopping decisions.
+
+## Team Members
+
+- **Runying Chen – Team Leader**
+  - Responsible for project planning, scheduling, and team management.
+  
+- **Bohan Cao – Team Member**
+  - Focuses on API integration, data collection, and the creation of the dashboard interface.
+
+## Data Sources
+
+- **ScrapeHero API**: We are using the ScrapeHero API to gather data from the first page of Amazon best sellers across 40 categories. Categories include:
+  - Amazon Devices & Accessories
+  - Beauty & Personal Care
+  - Books
+  - Electronics
+  - Home & Kitchen
+  - And many more (40 categories in total).
+
+- **ASIN Data API**: Each product's ASIN is used to pull detailed product-specific information from the ASIN Data API.
+
+## Features
+
+- **Real-Time Data**: Pulls data dynamically from Amazon best seller categories.
+- **Product Details**: Displays detailed information for each product, including ASIN, price, ratings, and product title.
+- **User-Friendly Dashboard**: A clean and simple interface for browsing the most popular products.
 
 ## Available Scripts
 
@@ -24,23 +54,19 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!** This command will remove the single build dependency from your project, giving you full control over the configuration.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Technologies Used
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- **React**: A JavaScript library for building user interfaces.
+- **ScrapeHero API**: For collecting best-seller data.
+- **ASIN Data API**: For fetching detailed product information using ASINs.
+- **HTML/CSS**: For building and styling the user interface.
+- **GitHub**: For version control and collaboration.
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+To learn more about React, check out the [React documentation](https://reactjs.org/).\
+To learn more about the APIs used, check out the [ScrapeHero API](https://app.scrapehero.com/home) and [ASIN Data API](https://docs.trajectdata.com/asindataapi/product-data-api/results/product).
