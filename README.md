@@ -69,4 +69,4 @@ It correctly bundles React in production mode and optimizes the build for the be
 ## Learn More
 
 To learn more about React, check out the [React documentation](https://reactjs.org/).\
-To learn more about the APIs used, check out the [ScrapeHero API](https://app.scrapehero.com/home) and [ASIN Data API](https://docs.trajectdata.com/asindataapi/product-data-api/results/product).
+To learn more about the APIs used, check out the [ScrapeHero API](https://app.scrapehero.com/home) and [ASIN Data API](https://app.asindataapi.com/playground).
