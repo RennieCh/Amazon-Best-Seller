@@ -1,598 +1,634 @@
 {
     "200": {
-        "category": "Amazon Best SellersPet Supplies",
+        "category": "Amazon Best SellersSoftware",
         "category_hierarchy": [
             {
                 "name": "Any Department",
-                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_pet-supplies_0_1"
+                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_software_0_1"
             },
             {
-                "name": "Pet Supplies",
-                "url": "https://www.amazon.com/Best-Sellers-Pet-Supplies/zgbs/pet-supplies/ref=zg_bs_nav_pet-supplies_0?pg=1"
+                "name": "Software",
+                "url": "https://www.amazon.com/best-sellers-software/zgbs/software/ref=zg_bs_nav_software_0?pg=1"
             }
         ],
         "child_categories": [
             {
-                "category": "Birds",
-                "url": "https://www.amazon.com/Best-Sellers-Pet-Supplies-Pet-Bird-Supplies/zgbs/pet-supplies/2975221011/ref=zg_bs_nav_pet-supplies_1"
+                "category": "Accounting & Finance",
+                "url": "https://www.amazon.com/Best-Sellers-Software-Accounting-Finance/zgbs/software/5223260011/ref=zg_bs_nav_software_1"
             },
             {
-                "category": "Cats",
-                "url": "https://www.amazon.com/Best-Sellers-Pet-Supplies-Cat-Supplies/zgbs/pet-supplies/2975241011/ref=zg_bs_nav_pet-supplies_1"
+                "category": "Antivirus & Security",
+                "url": "https://www.amazon.com/Best-Sellers-Software-Antivirus-Security/zgbs/software/229677/ref=zg_bs_nav_software_1"
             },
             {
-                "category": "Dogs",
-                "url": "https://www.amazon.com/Best-Sellers-Pet-Supplies-Dog-Supplies/zgbs/pet-supplies/2975312011/ref=zg_bs_nav_pet-supplies_1"
+                "category": "Business & Office",
+                "url": "https://www.amazon.com/Best-Sellers-Software-Business-Office/zgbs/software/229535/ref=zg_bs_nav_software_1"
             },
             {
-                "category": "Fish & Aquatic Pets",
-                "url": "https://www.amazon.com/Best-Sellers-Pet-Supplies-Fish-Aquatic-Pets/zgbs/pet-supplies/2975446011/ref=zg_bs_nav_pet-supplies_1"
+                "category": "Children's Software",
+                "url": "https://www.amazon.com/Best-Sellers-Software-Childrens-Software/zgbs/software/229548/ref=zg_bs_nav_software_1"
             },
             {
-                "category": "Horses",
-                "url": "https://www.amazon.com/Best-Sellers-Pet-Supplies-Horse-Supplies/zgbs/pet-supplies/2975481011/ref=zg_bs_nav_pet-supplies_1"
+                "category": "Design & Illustration",
+                "url": "https://www.amazon.com/Best-Sellers-Software-Photography-Graphic-Design/zgbs/software/229614/ref=zg_bs_nav_software_1"
             },
             {
-                "category": "Reptiles & Amphibians",
-                "url": "https://www.amazon.com/Best-Sellers-Pet-Supplies-Reptiles-Amphibian-Supplies/zgbs/pet-supplies/2975504011/ref=zg_bs_nav_pet-supplies_1"
+                "category": "Education & Reference",
+                "url": "https://www.amazon.com/Best-Sellers-Software-Education-Reference/zgbs/software/229563/ref=zg_bs_nav_software_1"
             },
             {
-                "category": "Small Animals",
-                "url": "https://www.amazon.com/Best-Sellers-Pet-Supplies-Small-Animal-Supplies/zgbs/pet-supplies/2975520011/ref=zg_bs_nav_pet-supplies_1"
+                "category": "Lifestyle & Hobbies",
+                "url": "https://www.amazon.com/Best-Sellers-Software-Home-Hobbies/zgbs/software/229624/ref=zg_bs_nav_software_1"
+            },
+            {
+                "category": "Mac Software",
+                "url": "https://www.amazon.com/Best-Sellers-Software-Mac-Software/zgbs/software/120225784011/ref=zg_bs_nav_software_1"
+            },
+            {
+                "category": "Music",
+                "url": "https://www.amazon.com/Best-Sellers-Software-Music/zgbs/software/497022/ref=zg_bs_nav_software_1"
+            },
+            {
+                "category": "Networking & Servers",
+                "url": "https://www.amazon.com/Best-Sellers-Software-Networking-Servers/zgbs/software/229637/ref=zg_bs_nav_software_1"
+            },
+            {
+                "category": "Operating Systems",
+                "url": "https://www.amazon.com/Best-Sellers-Software-Operating-Systems/zgbs/software/229653/ref=zg_bs_nav_software_1"
+            },
+            {
+                "category": "Photography",
+                "url": "https://www.amazon.com/Best-Sellers-Software-Photography/zgbs/software/229621/ref=zg_bs_nav_software_1"
+            },
+            {
+                "category": "Programming & Web Development",
+                "url": "https://www.amazon.com/Best-Sellers-Software-Programming-Web-Development/zgbs/software/5223262011/ref=zg_bs_nav_software_1"
+            },
+            {
+                "category": "Tax Preparation",
+                "url": "https://www.amazon.com/Best-Sellers-Software-Tax-Preparation/zgbs/software/229545/ref=zg_bs_nav_software_1"
+            },
+            {
+                "category": "Utilities",
+                "url": "https://www.amazon.com/Best-Sellers-Software-Utilities/zgbs/software/229672/ref=zg_bs_nav_software_1"
+            },
+            {
+                "category": "Video",
+                "url": "https://www.amazon.com/Best-Sellers-Software-Digital-Video/zgbs/software/290542/ref=zg_bs_nav_software_1"
             }
         ],
-        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/Best-Sellers-Pet-Supplies/zgbs/pet-supplies/ref%3Dzg_bs_pg_2_pet-supplies%3F_encoding%3DUTF8%26pg%3D2",
-        "url": "https://www.amazon.com/Best-Sellers-Pet-Supplies/zgbs/pet-supplies/ref=zg_bs_nav_pet-supplies_0?pg=1",
+        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/best-sellers-software/zgbs/software/ref%3Dzg_bs_pg_2_software%3F_encoding%3DUTF8%26pg%3D2",
+        "url": "https://www.amazon.com/best-sellers-software/zgbs/software/ref=zg_bs_nav_software_0?pg=1",
         "product_listings": [
             {
                 "rank": 1,
-                "asin": "B00MW8G62E",
-                "name": "Amazon Basics Dog and Puppy Pee Pads with Leak-Proof Quick-Dry Design for Potty Training, Standard Absorbency, Regular Size, 22 x 22 Inches, Pack of 100, Blue & White",
-                "ratings_count": 242818,
-                "rating": "4.5",
-                "sale_price": "$20.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71LHksRF15L._AC_UL300_SR300,200_.jpg",
+                "asin": "B0CLC5MKTP",
+                "name": "TurboTax Home & Business 2023 Tax Software, Federal & State Tax Return [Amazon Exclusive] [PC/Mac Download]IntuitWindows 10 / 11, Mac OS Monterey 12",
+                "ratings_count": 4423,
+                "rating": "4.4",
+                "sale_price": "$119.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71K4wikrrkL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Amazon-Basics-Leak-Proof-Quick-Dry-Absorbency/dp/B00MW8G62E/ref=zg_bs_g_pet-supplies_d_sccl_1/144-8260952-4971240?psc=1"
+                "product_url": "https://www.amazon.com/TurboTax-Business-Software-Exclusive-Download/dp/B0CLC5MKTP/ref=zg_bs_g_software_d_sccl_1/130-4180459-9701019?psc=1"
             },
             {
                 "rank": 2,
-                "asin": "B00BSYR7K8",
-                "name": "Earth Rated Dog Poop Bags, Guaranteed Leak Proof and Extra Thick Waste Bag Refill Rolls For Dogs, Lavender Scented, 270 Count",
-                "ratings_count": 229186,
-                "rating": "4.8",
-                "sale_price": "$13.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71ciGcL3WYL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07Q33SJDW",
+                "name": "Norton 360 Deluxe 2024, Antivirus software for 5 Devices with Auto Renewal - Includes VPN, PC Cloud Backup & Dark Web Monitoring [Download]NortonWindows 8.1 / 10 / 11 / 7, Mac OS Sierra 10.12, Mac OS X El Capitan 10.11",
+                "ratings_count": 14964,
+                "rating": "4.1",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71wMGGsiQHL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Earth-Rated-Lavender-Scented-Completely/dp/B00BSYR7K8/ref=zg_bs_g_pet-supplies_d_sccl_2/144-8260952-4971240?psc=1"
+                "product_url": "https://www.amazon.com/NEW-Norton-360-Deluxe-Monitoring/dp/B07Q33SJDW/ref=zg_bs_g_software_d_sccl_2/130-4180459-9701019?psc=1"
             },
             {
                 "rank": 3,
-                "asin": "B0009X29WK",
-                "name": "Dr. Elsey's Cat Litter - Premium Unscented Cat Litter w/ Natural Ingredients - Low Dust Superior Odor Control Cat Litter - Hard Clumping Moisture Absorbing Clay Multi Cat Litter (For All Cats - 40lbs)",
-                "ratings_count": 80438,
-                "rating": "4.3",
-                "sale_price": "$20.56",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71yvqBnUtKL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0CLBV27N2",
+                "name": "TurboTax Deluxe 2023 Tax Software, Federal & State Tax Return [Amazon Exclusive] [PC/Mac Download]IntuitWindows 10 / 11, Mac OS Monterey 12",
+                "ratings_count": 15086,
+                "rating": "4.4",
+                "sale_price": "$69.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/719rCYQpjdL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Dr-Elseys-Premium-Clumping-Litter/dp/B0009X29WK/ref=zg_bs_g_pet-supplies_d_sccl_3/144-8260952-4971240?psc=1"
+                "product_url": "https://www.amazon.com/TurboTax-Software-Federal-Exclusive-Download/dp/B0CLBV27N2/ref=zg_bs_g_software_d_sccl_3/130-4180459-9701019?psc=1"
             },
             {
                 "rank": 4,
-                "asin": "B00NABTC8M",
-                "name": "Amazon Basics Dog Poop Leak Proof Bags With Dispenser and Leash Clip, Unscented, 300 Count, 20 Pack of 15, Black, 13 Inch x 9 Inch",
-                "ratings_count": 207695,
-                "rating": "4.8",
-                "sale_price": "$7.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71pS4O3AJ6L._AC_UL300_SR300,200_.jpg",
+                "asin": "B0DGVQMGBB",
+                "name": "Microsoft Office Home 2024 | Classic Apps: Word, Excel, PowerPoint | One-Time Purchase for 1 PC/MAC | Instant Download | Formerly Home & Student 2021 [PC/Mac Online Code]MicrosoftWindows 10 / 11, Mac OS X",
+                "ratings_count": 1888,
+                "rating": "3.8",
+                "sale_price": "$149.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61phY52G-OL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/AmazonBasics-Waste-Bags-Dispenser-Leash/dp/B00NABTC8M/ref=zg_bs_g_pet-supplies_d_sccl_4/144-8260952-4971240?psc=1"
+                "product_url": "https://www.amazon.com/Microsoft-Office-Home-2024-Classic/dp/B0DGVQMGBB/ref=zg_bs_g_software_d_sccl_4/130-4180459-9701019?psc=1"
             },
             {
                 "rank": 5,
-                "asin": "B07D323MFZ",
-                "name": "INABA Churu Cat Treats, Grain-Free, Lickable, Squeezable Creamy Purée Cat Treat/Topper with Vitamin E & Taurine, 0.5 Ounces Each Tube, 50 Tubes, Tuna & Chicken Variety",
-                "ratings_count": 38662,
-                "rating": "4.8",
-                "sale_price": "$24.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71sgD3kIhLL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0BB2N69J8",
+                "name": "McAfee Total Protection 2024 | 3 Device | Cybersecurity Software Includes Antivirus, Secure VPN, Password Manager, Dark Web Monitoring | DownloadMcAfeeWindows 8.1 / 10 / 11, iOS, Android, Mac OS Catalina 10.15",
+                "ratings_count": 5050,
+                "rating": "4.0",
+                "sale_price": "$14.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71KwjkEdXaL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/INABA-Chicken-Lickable-Creamy-Variety/dp/B07D323MFZ/ref=zg_bs_g_pet-supplies_d_sccl_5/144-8260952-4971240?psc=1"
+                "product_url": "https://www.amazon.com/McAfee-Protection-Exclusive-Monitoring-Subscription/dp/B0BB2N69J8/ref=zg_bs_g_software_d_sccl_5/130-4180459-9701019?psc=1"
             },
             {
                 "rank": 6,
-                "asin": "B000VDR8LA",
-                "name": "Fresh Step Clumping Cat Litter Multi-Cat Extra Strength Formula With Febreze Freshness, Multi Cat Litter With Ammonia Block Technology, 14 lb. Box",
-                "ratings_count": 90068,
-                "rating": "4.6",
-                "sale_price": "$9.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81BiWXf8BsL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0823GT5JG",
+                "name": "iFit Train - Monthly MembershipIFitWindows, Mac OS X, Android",
+                "ratings_count": 560,
+                "rating": "3.9",
+                "sale_price": "$15.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/518nPPYk0iL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Fresh-Step-Multi-Cat-Febreze-Shield/dp/B000VDR8LA/ref=zg_bs_g_pet-supplies_d_sccl_6/144-8260952-4971240?psc=1"
+                "product_url": "https://www.amazon.com/iFit-1-Month-Individual-Membership-Subscription/dp/B0823GT5JG/ref=zg_bs_g_software_d_sccl_6/130-4180459-9701019?psc=1"
             },
             {
                 "rank": 7,
-                "asin": "B0009YWKUA",
-                "name": "Blue Buffalo Life Protection Formula Adult Dry Dog Food, Helps Build and Maintain Strong Muscles, Made with Natural Ingredients, Chicken & Brown Rice Recipe, 30-lb. Bag",
-                "ratings_count": 47977,
-                "rating": "4.6",
-                "sale_price": "$64.98",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71jQsmvE0pL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07K98XDX8",
+                "name": "McAfee Total Protection 2024 | 3 Device | Cybersecurity Software Includes Antivirus, Secure VPN, Password Manager, Dark Web MonitoringMcAfeeWindows 8.1 / 8 / 10 / 11, Mac OS X, Mac OS Catalina 10.15",
+                "ratings_count": 5050,
+                "rating": "4.0",
+                "sale_price": "$99.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71qzG0gtV2L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Blue-Buffalo-Protection-Formula-Adult/dp/B0009YWKUA/ref=zg_bs_g_pet-supplies_d_sccl_7/144-8260952-4971240?psc=1"
+                "product_url": "https://www.amazon.com/McAfee-Total-Protection-Devices-Subscription/dp/B07K98XDX8/ref=zg_bs_g_software_d_sccl_7/130-4180459-9701019?psc=1"
             },
             {
                 "rank": 8,
-                "asin": "B01LNB6SA0",
-                "name": "Temptations Classic Crunchy and Soft Cat Treats Tasty Chicken Flavor, 30 oz. Tub",
-                "ratings_count": 71244,
-                "rating": "4.8",
-                "sale_price": "$15.48",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/8108Aln7zcL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0CLBVVRF3",
+                "name": "TurboTax Premier 2023 Tax Software, Federal & State Tax Return [Amazon Exclusive] [PC/Mac Download]IntuitWindows 10 / 11, Mac OS Monterey 12",
+                "ratings_count": 6042,
+                "rating": "4.3",
+                "sale_price": "$104.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71ABLSmFI3L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Temptations-Treats-Chicken-Flavor-Holiday/dp/B01LNB6SA0/ref=zg_bs_g_pet-supplies_d_sccl_8/144-8260952-4971240?psc=1"
+                "product_url": "https://www.amazon.com/TurboTax-Premier-Software-Exclusive-Download/dp/B0CLBVVRF3/ref=zg_bs_g_software_d_sccl_8/130-4180459-9701019?psc=1"
             },
             {
                 "rank": 9,
-                "asin": "B001650NNW",
-                "name": "Purina Pro Plan Veterinary Supplements FortiFlora Dog Probiotic Supplement, Canine Nutritional Supplement - 30 Ct. Box",
-                "ratings_count": 45940,
-                "rating": "4.7",
-                "sale_price": "$30.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71NHJn8UsCL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07Q8JGCSQ",
+                "name": "Norton 360 Deluxe 2024, Antivirus software for 3 Devices with Auto Renewal - Includes VPN, PC Cloud Backup & Dark Web Monitoring [Download]NortonWindows 8.1 / 10 / 11 / 7, Mac OS Sierra 10.12, Mac OS X El Capitan 10.11",
+                "ratings_count": 5196,
+                "rating": "4.0",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71uuBMzSgrL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Purina-Veterinary-Fortiflora-Nutritional-Supplement/dp/B001650NNW/ref=zg_bs_g_pet-supplies_d_sccl_9/144-8260952-4971240?psc=1"
+                "product_url": "https://www.amazon.com/NEW-Norton-360-Deluxe-Monitoring/dp/B07Q8JGCSQ/ref=zg_bs_g_software_d_sccl_9/130-4180459-9701019?psc=1"
             },
             {
                 "rank": 10,
-                "asin": "B07GL8SLKY",
-                "name": "Arm & Hammer Platinum SLIDE Easy Clean, Clumping Litter, Multi-Cat, 37 Lbs",
-                "ratings_count": 34134,
-                "rating": "4.6",
-                "sale_price": "$29.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71d4grOMlyL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07F3TQ6DQ",
+                "name": "Microsoft 365 Personal | 12-Month Subscription, 1 person | Word, Excel, PowerPoint | 1TB OneDrive cloud storage | PC/Mac Instant Download | Activation RequiredMicrosoftiOS, Windows, Android",
+                "ratings_count": 10914,
+                "rating": "4.4",
+                "sale_price": "$69.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61pCCojbi-L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Arm-Hammer-Platinum-Clean-Up-Multi-Cat/dp/B07GL8SLKY/ref=zg_bs_g_pet-supplies_d_sccl_10/144-8260952-4971240?psc=1"
+                "product_url": "https://www.amazon.com/Microsoft-Personal-12-month-subscription-Auto-renewal/dp/B07F3TQ6DQ/ref=zg_bs_g_software_d_sccl_10/130-4180459-9701019?psc=1"
             },
             {
                 "rank": 11,
-                "asin": "B01ALT2IRM",
-                "name": "Fancy Feast Poultry and Beef Feast Classic Pate Collection Grain Free Wet Cat Food Variety Pack - (Pack of 30) 3 oz. Cans",
-                "ratings_count": 37582,
-                "rating": "4.7",
-                "sale_price": "$21.64",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81sGVUT6RSL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0CJCWHXH2",
+                "name": "H&R Block Tax Software Deluxe + State 2023 with Refund Bonus Offer (Amazon Exclusive) (PC/MAC Download)H&R BlockWindows 10 / 11, Mac OS Catalina 10.15",
+                "ratings_count": 4213,
+                "rating": "4.1",
+                "sale_price": "$39.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51WNth-N57L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Purina-Fancy-Feast-Variety-Collection/dp/B01ALT2IRM/ref=zg_bs_g_pet-supplies_d_sccl_11/144-8260952-4971240?psc=1"
+                "product_url": "https://www.amazon.com/Block-Software-Deluxe-Exclusive-Download/dp/B0CJCWHXH2/ref=zg_bs_g_software_d_sccl_11/130-4180459-9701019?psc=1"
             },
             {
                 "rank": 12,
-                "asin": "B00BAGTNAQ",
-                "name": "Chom Chom Roller Pet Hair Remover and Reusable Lint Roller - ChomChom Cat and Dog Hair Remover for Furniture, Couch, Carpet, Clothing and Bedding - Portable, Multi-Surface Fur Removal Tool",
-                "ratings_count": 187052,
-                "rating": "4.5",
-                "sale_price": "$24.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71YFOZ2k0XL._AC_UL300_SR300,200_.jpg",
+                "asin": "B09MYJ1R6L",
+                "name": "Microsoft System Builder | Windоws 11 Home | Intended use for new systems | Install on a new PC | Branded by MicrosoftMicrosoftWindows 11",
+                "ratings_count": 1430,
+                "rating": "4.3",
+                "sale_price": "$119.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61JfosHunyL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Pet-Dog-Cat-Hair-Remover-Couch/dp/B00BAGTNAQ/ref=zg_bs_g_pet-supplies_d_sccl_12/144-8260952-4971240?psc=1"
+                "product_url": "https://www.amazon.com/Microsoft-Wind%D0%BEws-Home-OEM-DVD/dp/B09MYJ1R6L/ref=zg_bs_g_software_d_sccl_12/130-4180459-9701019?psc=1"
             },
             {
                 "rank": 13,
-                "asin": "B09PF4KVHJ",
-                "name": "Pooph Pet Odor Eliminator, 32oz Spray - Dismantles Odors on a Molecular Basis, Dogs, Cats, Freshener, Urine, Poop, Pee, Deodorizer, Natures, Puppy, Fresh, Clean, Furniture, Potty, Safe",
-                "ratings_count": 50684,
-                "rating": "4.1",
-                "sale_price": "$23.97",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61UfWwUq+vL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07Q6B5YL5",
+                "name": "Norton 360 Premium 2024, Antivirus software for 10 Devices with Auto Renewal - Includes VPN, PC Cloud Backup & Dark Web Monitoring [Download]NortonWindows 8.1 / 10 / 11 / 7, Mac OS Sierra 10.12, Mac OS X El Capitan 10.11",
+                "ratings_count": 4847,
+                "rating": "4.2",
+                "sale_price": "$44.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/718a2Fg9VCL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Pooph-Odor-Eliminator-32oz-Spray/dp/B09PF4KVHJ/ref=zg_bs_g_pet-supplies_d_sccl_13/144-8260952-4971240?psc=1"
+                "product_url": "https://www.amazon.com/NEW-Norton-360-Premium-Monitoring/dp/B07Q6B5YL5/ref=zg_bs_g_software_d_sccl_13/130-4180459-9701019?psc=1"
             },
             {
                 "rank": 14,
-                "asin": "B07NHL31CC",
-                "name": "Earth Rated Textured Pet Wipes for Dogs & Cats, Cleaning and Odor-Controlling Grooming Wipes for Paws, Body, and Butt, Unscented, 100 Count",
-                "ratings_count": 49087,
-                "rating": "4.6",
-                "sale_price": "$9.98",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61aJFGGJmQL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07CYFFH4H",
+                "name": "Bitdefender Total Security - 5 Devices | 1 year Subscription | PC/Mac | Activation Code by emailBitdefenderWindows 10, Mac OS Sierra 10.12",
+                "ratings_count": 2336,
+                "rating": "4.3",
+                "sale_price": "$44.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/714clBtOSiL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Earth-Rated-USDA-Certified-Hypoallergenic-Deodorizing/dp/B07NHL31CC/ref=zg_bs_g_pet-supplies_d_sccl_14/144-8260952-4971240?psc=1"
+                "product_url": "https://www.amazon.com/Bitdefender-Total-Security-Download-Online/dp/B07CYFFH4H/ref=zg_bs_g_software_d_sccl_14/130-4180459-9701019?psc=1"
             },
             {
                 "rank": 15,
-                "asin": "B001STX13U",
-                "name": "Purina Fancy Feast Grilled Wet Cat Food Seafood Collection in Wet Cat Food Variety Pack - (Pack of 24) 3 oz. Cans",
-                "ratings_count": 36896,
-                "rating": "4.7",
-                "sale_price": "$17.49",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/8122nv6lJlL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07BFRVMMN",
+                "name": "McAfee Total Protection 2024 | Unlimited Devices | Cybersecurity Software Includes Antivirus, Secure VPN, Password Manager, Dark Web Monitoring | DownloadMcAfeeWindows 8.1 / 8 / 10 / 11, Mac OS Sierra 10.12, Mac OS Catalina 10.15",
+                "ratings_count": 2713,
+                "rating": "4.2",
+                "sale_price": "$149.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/711Xo6nGdML._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Purina-Fancy-Feast-Grilled-Collection/dp/B001STX13U/ref=zg_bs_g_pet-supplies_d_sccl_15/144-8260952-4971240?psc=1"
+                "product_url": "https://www.amazon.com/McAfee-Protection-Unlimited-Device-Download/dp/B07BFRVMMN/ref=zg_bs_g_software_d_sccl_15/130-4180459-9701019?psc=1"
             },
             {
                 "rank": 16,
-                "asin": "B08P2D95G8",
-                "name": "Pur Luv Dog Treats, Chicken Jerky for Dogs, Made with 100% Real Chicken Breast, 16 Ounces, Healthy, Easily Digestible, Long-Lasting, High Protein Dog Treat, Satisfies Dog's Urge to Chew",
-                "ratings_count": 17711,
-                "rating": "4.6",
-                "sale_price": "$10.85",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/816d5YD4e9L._AC_UL300_SR300,200_.jpg",
+                "asin": "B0CLBPQX99",
+                "name": "TurboTax Business 2023 Tax Software, Federal Tax Return [PC Download]IntuitWindows 10 / 11",
+                "ratings_count": 902,
+                "rating": "4.2",
+                "sale_price": "$179.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71yyAB8-OPL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Pur-Luv-Chicken-Jerky-Treats/dp/B08P2D95G8/ref=zg_bs_g_pet-supplies_d_sccl_16/144-8260952-4971240?psc=1"
+                "product_url": "https://www.amazon.com/TurboTax-Business-Software-Federal-Download/dp/B0CLBPQX99/ref=zg_bs_g_software_d_sccl_16/130-4180459-9701019?psc=1"
             },
             {
                 "rank": 17,
-                "asin": "B09BBM5CX8",
-                "name": "Best Pet Supplies Crinkle Dog Toy for Small, Medium, and Large Breeds, Cute No Stuffing Duck with Soft Squeaker, Fun for Indoor Puppies and Senior Pups, Plush No Mess Chew and Play - Yellow",
-                "ratings_count": 30155,
-                "rating": "4.4",
-                "sale_price": "$5.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61iLNIUwPnL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07Q4QZGFR",
+                "name": "Adobe Acrobat Pro | 12-Month Subscription | PDF Software |Convert, Edit, E-Sign, Protect |Activation Required [PC/Mac Online Code]AdobeWindows 8.1 / 10, Mac OS X",
+                "ratings_count": 1050,
+                "rating": "4.2",
+                "sale_price": "$148.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51XI9kYWK8L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Best-Pet-Supplies-Stuffing-Squeaker/dp/B09BBM5CX8/ref=zg_bs_g_pet-supplies_d_sccl_17/144-8260952-4971240?psc=1"
+                "product_url": "https://www.amazon.com/Acrobat-Subscription-Software-Activation-Required/dp/B07Q4QZGFR/ref=zg_bs_g_software_d_sccl_17/130-4180459-9701019?psc=1"
             },
             {
                 "rank": 18,
-                "asin": "B07CTBXRXD",
-                "name": "Fancy Feast Poultry and Beef Feast Classic Pate Collection Grain Free Wet Cat Food Variety Pack - (Pack of 30) 3 oz. Cans",
-                "ratings_count": 56175,
-                "rating": "4.6",
-                "sale_price": "$25.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81oqk+lTFwL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07DDNL2BJ",
+                "name": "Webroot Antivirus Software 2024 | 3 Device | 1 Year Download for PC/MacWebrootWindows 8.1 / 8 / 10 / 11 / 7, Mac OS X",
+                "ratings_count": 2914,
+                "rating": "4.3",
+                "sale_price": "$14.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71564zohGmL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Purina-Fancy-Feast-Classic-Collection/dp/B07CTBXRXD/ref=zg_bs_g_pet-supplies_d_sccl_18/144-8260952-4971240?psc=1"
+                "product_url": "https://www.amazon.com/Webroot-Antivirus-Protection-Internet-Subscription/dp/B07DDNL2BJ/ref=zg_bs_g_software_d_sccl_18/130-4180459-9701019?psc=1"
             },
             {
                 "rank": 19,
-                "asin": "B00CPDWT2M",
-                "name": "Benebone Wishbone Durable Dog Chew Toy for Aggressive Chewers, Real Bacon, Made in USA, Medium",
-                "ratings_count": 96834,
-                "rating": "4.5",
-                "sale_price": "$9.00",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81Agaj-W5LL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0BB2GF9WW",
+                "name": "McAfee Total Protection 2024 | 5 Device | Cybersecurity Software Includes Antivirus, Secure VPN, Password Manager, Dark Web Monitoring | DownloadMcAfeeWindows 8.1 / 10 / 11, iOS, Android, Mac OS Catalina 10.15",
+                "ratings_count": 1216,
+                "rating": "4.1",
+                "sale_price": "$22.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71-PAHwakhL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Benebone-Wishbone-Durable-Aggressive-Chewers/dp/B00CPDWT2M/ref=zg_bs_g_pet-supplies_d_sccl_19/144-8260952-4971240?psc=1"
+                "product_url": "https://www.amazon.com/McAfee-Protection-Exclusive-Monitoring-Subscription/dp/B0BB2GF9WW/ref=zg_bs_g_software_d_sccl_19/130-4180459-9701019?psc=1"
             },
             {
                 "rank": 20,
-                "asin": "B003ULL1NQ",
-                "name": "Nutramax Laboratories Cosequin Maximum Strength Joint Health Supplement for Dogs - With Glucosamine, Chondroitin, and MSM, 132 Chewable Tablets",
-                "ratings_count": 69394,
-                "rating": "4.7",
-                "sale_price": "$32.21",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71HO0FsnMbL._AC_UL300_SR300,200_.jpg",
+                "asin": "B09C1RQQ2Z",
+                "name": "Norton 360 for Amazon 2024, Antivirus software for up to 5 Devices with Auto Renewal [Subscription]NortonWindows 8.1 / 8 / 10 / 11 / 7, Mac OS X",
+                "ratings_count": 511,
+                "rating": "4.0",
+                "sale_price": "$34.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/710R2j7jEQL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Cosequin-DS-Maximum-Strength-Chewable/dp/B003ULL1NQ/ref=zg_bs_g_pet-supplies_d_sccl_20/144-8260952-4971240?psc=1"
+                "product_url": "https://www.amazon.com/Norton-360-Amazon-Antivirus-Subscription/dp/B09C1RQQ2Z/ref=zg_bs_g_software_d_sccl_20/130-4180459-9701019?psc=1"
             },
             {
                 "rank": 21,
-                "asin": "B07S2TDDCK",
-                "name": "Greenies Pill Pockets for Dogs Capsule Size Natural Soft Dog Treats with Real Peanut Butter, 15.8 oz. Pack (60 Treats)",
-                "ratings_count": 47445,
-                "rating": "4.7",
-                "sale_price": "$17.98",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81kuxogKiPL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0CJDFTC7T",
+                "name": "H&R Block Tax Software Premium 2023 with Refund Bonus Offer (Amazon Exclusive) (PC/MAC Download)H&R BlockWindows 10 / 11, Mac OS Catalina 10.15",
+                "ratings_count": 816,
+                "rating": "4.0",
+                "sale_price": "$59.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51N4PQO2AmL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Greenies-Pockets-Natural-Treats-Capsule/dp/B07S2TDDCK/ref=zg_bs_g_pet-supplies_d_sccl_21/144-8260952-4971240?psc=1"
+                "product_url": "https://www.amazon.com/Block-Software-Premium-Exclusive-Download/dp/B0CJDFTC7T/ref=zg_bs_g_software_d_sccl_21/130-4180459-9701019?psc=1"
             },
             {
                 "rank": 22,
-                "asin": "B000F4AVPA",
-                "name": "Chuckit! Ultra Ball Dog Toy - Medium Bouncy Fetch Balls For Dogs 20-60 lbs - Made from Durable Rubber - Floating Water Pet Toys - Size Medium - 2.5-inch Diameter - Pack of 2",
-                "ratings_count": 133600,
-                "rating": "4.8",
-                "sale_price": "$5.10",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/714HUsBpO+L._AC_UL300_SR300,200_.jpg",
+                "asin": "B07K98LLVV",
+                "name": "McAfee Total Protection 2024 | 5 Device | Cybersecurity Software Includes Antivirus, Secure VPN, Password Manager, Dark Web MonitoringMcAfeeWindows 8.1 / 8 / 10 / 11, Mac OS X, Mac OS Catalina 10.15",
+                "ratings_count": 1216,
+                "rating": "4.1",
+                "sale_price": "$119.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71FVm3ki6NL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/ChuckIt-Ultra-Ball-Medium-Inch/dp/B000F4AVPA/ref=zg_bs_g_pet-supplies_d_sccl_22/144-8260952-4971240?psc=1"
+                "product_url": "https://www.amazon.com/McAfee-Total-Protection-Devices-Subscription/dp/B07K98LLVV/ref=zg_bs_g_software_d_sccl_22/130-4180459-9701019?psc=1"
             },
             {
                 "rank": 23,
-                "asin": "B000FEF10A",
-                "name": "PetSafe ScoopFree Crystal Cat Litter Tray Refills – Fresh Scent, 3-Pack – Disposable Tray – Includes Leak Protection & Low Tracking Litter – Absorbs Odors On Contact",
-                "ratings_count": 39614,
-                "rating": "4.6",
-                "sale_price": "$69.95",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81bOn7u3kGL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0BB2N2YQ9",
+                "name": "McAfee AntiVirus Protection 2024 | 1 PC (Windows)| Cybersecurity software includes Antivirus Protection, Internet Security Software | 1 Year Subscription | DownloadMcAfeeWindows 8.1 / 8 / 10 / 11",
+                "ratings_count": 780,
+                "rating": "4.1",
+                "sale_price": "$12.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61Iy7n2u-jL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/PetSafe-ScoopFree-Self-Cleaning-Refills-Non-Clumping/dp/B000FEF10A/ref=zg_bs_g_pet-supplies_d_sccl_23/144-8260952-4971240?psc=1"
+                "product_url": "https://www.amazon.com/McAfee-AntiVirus-Protection-Antivirus-Subscription/dp/B0BB2N2YQ9/ref=zg_bs_g_software_d_sccl_23/130-4180459-9701019?psc=1"
             },
             {
                 "rank": 24,
-                "asin": "B00CKFL93K",
-                "name": "Rocco & Roxie Supply Co. Stain & Odor Eliminator for Strong Odor, 32oz Enzyme Pet Odor Eliminator for Home, Carpet Stain Remover for Cats & Dog Pee, Enzymatic Cat Urine Destroyer, Carpet Cleaner Spray",
-                "ratings_count": 115572,
-                "rating": "4.4",
-                "sale_price": "$19.31",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61pzPQSDW4L._AC_UL300_SR300,200_.jpg",
+                "asin": "B09H7F77JR",
+                "name": "Microsoft Office Home & Business 2021 | Word, Excel, PowerPoint, Outlook | One-time purchase for 1 PC or Mac | Instant DownloadMicrosoftiOS, Windows, Android",
+                "ratings_count": 865,
+                "rating": "4.2",
+                "sale_price": "$229.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61hSSVPvT3L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Rocco-Roxie-Supply-Co-Professional/dp/B00CKFL93K/ref=zg_bs_g_pet-supplies_d_sccl_24/144-8260952-4971240?psc=1"
+                "product_url": "https://www.amazon.com/Microsoft-Business-One-time-purchase-Download/dp/B09H7F77JR/ref=zg_bs_g_software_d_sccl_24/130-4180459-9701019?psc=1"
             },
             {
                 "rank": 25,
-                "asin": "B009IOCCD2",
-                "name": "Purina ONE Dry Dog Food Lamb and Rice Formula - 31.1 lb. Bag",
-                "ratings_count": 7409,
-                "rating": "4.7",
-                "sale_price": "$48.98",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71Azp-504uL._AC_UL300_SR300,200_.jpg",
+                "asin": "B09WCTTXQ6",
+                "name": "Windows 11 Pro Upgrade, from Windows 11 Home (Digital Download)MicrosoftWindows 11",
+                "ratings_count": 520,
+                "rating": "3.8",
+                "sale_price": "$99.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61R6ivLSfrL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Purina-ONE-Food-Lamb-Formula/dp/B009IOCCD2/ref=zg_bs_g_pet-supplies_d_sccl_25/144-8260952-4971240?psc=1"
+                "product_url": "https://www.amazon.com/Windows-Upgrade-Home-Digital-Download/dp/B09WCTTXQ6/ref=zg_bs_g_software_d_sccl_25/130-4180459-9701019?psc=1"
             },
             {
                 "rank": 26,
-                "asin": "B01J5GE3MA",
-                "name": "PetSafe ScoopFree Premium Crystal Cat Litter (Two 4.3 Lb Bags of Litter - 8.6 Lb Total) Kitten Litter Quickly Absorbs Urine, Dries Solid Waste, Eliminates Odors 5 Times Faster, Fresh Scent",
-                "ratings_count": 46487,
-                "rating": "4.4",
-                "sale_price": "$24.95",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71KrEq+MpZL._AC_UL300_SR300,200_.jpg",
+                "asin": "B076VQ4Y4J",
+                "name": "Laplink PCmover Ultimate 11 - Easily Transfer Files to New Computer - Efficient Migration of Applications from Old PC to a New PC - Data Transfer Software - Includes Optional Ethernet Cable - 1 UseLAPLINKWindows Vista / 8.1 / 8 / 10 / 11 / XP / 7",
+                "ratings_count": 5125,
+                "rating": "4.1",
+                "sale_price": "$39.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51MC+P+rEpL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/PetSafe-ScoopFree-Premium-Clumping-Crystal/dp/B01J5GE3MA/ref=zg_bs_g_pet-supplies_d_sccl_26/144-8260952-4971240?psc=1"
+                "product_url": "https://www.amazon.com/Laplink-PCmover-Ultimate-Ethernet-Cable/dp/B076VQ4Y4J/ref=zg_bs_g_software_d_sccl_26/130-4180459-9701019?psc=1"
             },
             {
                 "rank": 27,
-                "asin": "B00ZJ5BJ74",
-                "name": "Glandex Anal Gland Soft Chew Treats with Pumpkin for Dogs Digestive Enzymes, Probiotics Fiber Supplement for Dogs Boot The Scoot (Peanut Butter Chews, 60ct)",
-                "ratings_count": 40606,
+                "asin": "B07VGCN1K2",
+                "name": "Norton 360 Platinum 2024, Antivirus software for 20 Devices with Auto Renewal - 3 Months FREE - Includes VPN, PC Cloud Backup & Dark Web Monitoring [Download]NortonWindows 8.1 / 10 / 11 / 7, Mac OS Sierra 10.12, Mac OS X El Capitan 10.11",
+                "ratings_count": 2090,
                 "rating": "4.4",
-                "sale_price": "$29.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71AO0HjkIDL._AC_UL300_SR300,200_.jpg",
+                "sale_price": "$49.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71eJpfjaDLL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Glandex-Pumpkin-Digestive-Probiotics-Supplement/dp/B00ZJ5BJ74/ref=zg_bs_g_pet-supplies_d_sccl_27/144-8260952-4971240?psc=1"
+                "product_url": "https://www.amazon.com/EXCLUSIVE-Norton-360-Platinum-Subscription/dp/B07VGCN1K2/ref=zg_bs_g_software_d_sccl_27/130-4180459-9701019?psc=1"
             },
             {
                 "rank": 28,
-                "asin": "B089XVJHFK",
-                "name": "PetLab Co. Probiotics for Dogs, Support Gut Health, Diarrhea, Digestive Health & Seasonal Allergies - Pork Flavor - 30 Soft Chews - Packaging May Vary",
-                "ratings_count": 45691,
-                "rating": "4.1",
-                "sale_price": "$35.95",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71qgLWaA5EL._AC_UL300_SR300,200_.jpg",
+                "asin": "B084L8X5VV",
+                "name": "Malwarebytes | Amazon Exclusive | 18 Months, 2 Devices | PC, Mac, Android [Online Code]MalwarebytesWindows, Mac OS X, Android",
+                "ratings_count": 726,
+                "rating": "4.5",
+                "sale_price": "$39.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51ar4vgTBCL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Petlab-Co-Probiotics-Dogs-Allergies/dp/B089XVJHFK/ref=zg_bs_g_pet-supplies_d_sccl_28/144-8260952-4971240?psc=1"
+                "product_url": "https://www.amazon.com/Malwarebytes-Amazon-Exclusive-Devices-Android/dp/B084L8X5VV/ref=zg_bs_g_software_d_sccl_28/130-4180459-9701019?psc=1"
             },
             {
                 "rank": 29,
-                "asin": "B006HKA6II",
-                "name": "Milk-Bone Soft & Chewy Dog Treats, Beef & Filet Mignon Recipe, 25 Ounce Made with Real Chuck Roast",
-                "ratings_count": 52473,
-                "rating": "4.7",
-                "sale_price": "$14.48",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81424BjzYrL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07Q6ZPC1Q",
+                "name": "Acrobat Pro | 1-Month Subscription | PDF Software |Convert, Edit, E-Sign, Protect |Activation Required [PC/Mac Online Code]AdobeWindows 8.1 / 10, Mac OS X",
+                "ratings_count": 1444,
+                "rating": "3.9",
+                "sale_price": "$29.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/517ul+lt2GL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Milk-Bone-Mignon-Recipe-Treats-25-Ounce/dp/B006HKA6II/ref=zg_bs_g_pet-supplies_d_sccl_29/144-8260952-4971240?psc=1"
+                "product_url": "https://www.amazon.com/12-Month-Subscription-Software-Activation-Required/dp/B07Q6ZPC1Q/ref=zg_bs_g_software_d_sccl_29/130-4180459-9701019?psc=1"
             },
             {
                 "rank": 30,
-                "asin": "B01EY9KQ2Y",
-                "name": "Purina Pro Plan Sensitive Skin and Stomach Dog Food Salmon and Rice Formula - 30 lb. Bag",
-                "ratings_count": 24357,
-                "rating": "4.6",
-                "sale_price": "$71.98",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81cnlh1S7aL._AC_UL300_SR300,200_.jpg",
+                "asin": "B09MYBD79G",
+                "name": "Microsoft OEM System Builder | Windоws 11 Pro | Intended use for new systems | Authorized by MicrosoftMicrosoftWindows 11",
+                "ratings_count": 1430,
+                "rating": "4.3",
+                "sale_price": "$142.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61p-Ylv5vtL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Purina-Pro-Plan-Sensitive-Stomach/dp/B01EY9KQ2Y/ref=zg_bs_g_pet-supplies_d_sccl_30/144-8260952-4971240?psc=1"
+                "product_url": "https://www.amazon.com/Microsoft-Wind%D0%BEws-Pro-OEM-DVD/dp/B09MYBD79G/ref=zg_bs_g_software_d_sccl_30/130-4180459-9701019?psc=1"
             },
             {
                 "rank": 31,
-                "asin": "B0114BNXQ6",
-                "name": "Milk-Bone Mini's Flavor Snacks Dog Treats, 36 Ounce Crunchy Texture Helps Reduce Tartar",
-                "ratings_count": 38919,
-                "rating": "4.8",
-                "sale_price": "$11.48",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81tU7UkyxZL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0CLCC3GSN",
+                "name": "TurboTax Deluxe 2023 Tax Software, Federal Tax Return [Amazon Exclusive] [PC/Mac Download]IntuitWindows 10 / 11, Mac OS Monterey 12",
+                "ratings_count": 1751,
+                "rating": "4.3",
+                "sale_price": "$59.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61LncjXdK2L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Milk-Bone-Flavor-Snacks-Biscuits-36-Ounce/dp/B0114BNXQ6/ref=zg_bs_g_pet-supplies_d_sccl_31/147-0306543-1157515?psc=1"
+                "product_url": "https://www.amazon.com/TurboTax-Software-Federal-Exclusive-Download/dp/B0CLCC3GSN/ref=zg_bs_g_software_d_sccl_31/146-3873623-7314555?psc=1"
             },
             {
                 "rank": 32,
-                "asin": "B071WCV19B",
-                "name": "Zesty Paws Dog Allergy Relief - Anti Itch Supplement - Omega 3 Probiotics for Dogs - Digestive Health - Soft Chews for Skin & Seasonal Allergies - with Epicor Pets - Lamb - 90 Count",
-                "ratings_count": 94772,
-                "rating": "4.2",
-                "sale_price": null,
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81qOJsdRCnL._AC_UL300_SR300,200_.jpg",
+                "asin": "B00MEO1G08",
+                "name": "Sony Movie Studio 13- 30 Day Free Trial [Download]SonyWindows 8 / 10 / 7, Windows",
+                "ratings_count": 92,
+                "rating": "3.0",
+                "sale_price": "$0.01",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/813NgbhuOdL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Zesty-Paws-Dog-Allergy-Relief/dp/B071WCV19B/ref=zg_bs_g_pet-supplies_d_sccl_32/147-0306543-1157515?psc=1"
+                "product_url": "https://www.amazon.com/Sony-Movie-Studio-Trial-Download/dp/B00MEO1G08/ref=zg_bs_g_software_d_sccl_32/146-3873623-7314555?psc=1"
             },
             {
                 "rank": 33,
-                "asin": "B006W6YHHI",
-                "name": "Greenies Original Regular Natural Dog Dental Care Chews Oral Health Dog Treats, 36 count (Pack of 1)",
-                "ratings_count": 48953,
-                "rating": "4.8",
-                "sale_price": "$36.98",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81L067gIDLL._AC_UL300_SR300,200_.jpg",
+                "asin": "B09VLYKW94",
+                "name": "Norton Utilities Ultimate – cleans and speeds up your PC, Windows PCs only [Download]NortonWindows 8.1 / 8 / 10 / 7, Windows",
+                "ratings_count": 628,
+                "rating": "4.1",
+                "sale_price": "$39.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61zuLMONS9L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/GREENIES-Original-Regular-Natural-Dental/dp/B006W6YHHI/ref=zg_bs_g_pet-supplies_d_sccl_33/147-0306543-1157515?psc=1"
+                "product_url": "https://www.amazon.com/Norton-Utilities-Ultimate-Windows-Download/dp/B09VLYKW94/ref=zg_bs_g_software_d_sccl_33/146-3873623-7314555?psc=1"
             },
             {
                 "rank": 34,
-                "asin": "B003PMQMK2",
-                "name": "Milk-Bone, Marosnacks, 40 Ounce",
-                "ratings_count": 79572,
-                "rating": "4.7",
-                "sale_price": "$11.48",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81P6Z2vH2-L._AC_UL300_SR300,200_.jpg",
+                "asin": "B0BH5MZ7VT",
+                "name": "[Old Version] TurboTax Deluxe 2022 Tax Software, Federal and State Tax Return, [Amazon Exclusive] [PC/MAC Download]IntuitWindows 10 / 11, Mac OS Big Sur 11, Mac OS Monterey 12",
+                "ratings_count": 10845,
+                "rating": "4.3",
+                "sale_price": "$69.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71IgMkror-L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Milk-Bone-Marosnacks-Treats-Sizes-40-Ounce/dp/B003PMQMK2/ref=zg_bs_g_pet-supplies_d_sccl_34/147-0306543-1157515?psc=1"
+                "product_url": "https://www.amazon.com/TurboTax-Software-Federal-Exclusive-Download/dp/B0BH5MZ7VT/ref=zg_bs_g_software_d_sccl_34/146-3873623-7314555?psc=1"
             },
             {
                 "rank": 35,
-                "asin": "B0BNP527D2",
-                "name": "ARM & HAMMER Clump & Seal Platinum Multi-Cat Complete Odor Sealing Clumping Cat Litter with 14 Days of Odor Control, 37 lbs, Online Exclusive Formula",
-                "ratings_count": 45217,
-                "rating": "4.6",
-                "sale_price": "$32.20",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71bufMjTCTL._AC_UL300_SR300,200_.jpg",
+                "asin": "B092M5G1G7",
+                "name": "Mullvad VPN | 12 Months for 5 Devices | Protect Your Privacy with Easy-To-Use Security VPN ServiceMullvad VPNLinux, Windows, Android",
+                "ratings_count": 803,
+                "rating": "4.8",
+                "sale_price": "$57.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/31QJJ68ENgL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Platinum-Multi-Cat-Complete-Clumping-Exclusive/dp/B0BNP527D2/ref=zg_bs_g_pet-supplies_d_sccl_35/147-0306543-1157515?psc=1"
+                "product_url": "https://www.amazon.com/Mullvad-VPN-Windows-Android-SCRATCH/dp/B092M5G1G7/ref=zg_bs_g_software_d_sccl_35/146-3873623-7314555?psc=1"
             },
             {
                 "rank": 36,
-                "asin": "B00CU2CMOI",
-                "name": "PEDIGREE DENTASTIX Large Dog Dental Care Treats Original, Beef & Fresh Variety Pack, 2.73 lb.Pack (51 Treats)",
-                "ratings_count": 41167,
-                "rating": "4.8",
-                "sale_price": "$23.98",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81A6av3VWdL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0CJCVFLSZ",
+                "name": "H&R Block Tax Software Premium & Business 2023 with Refund Bonus Offer (Amazon Exclusive) (PC Download)H&R BlockWindows 10 / 11",
+                "ratings_count": 481,
+                "rating": "3.7",
+                "sale_price": "$76.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/512B6Ew347L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/PEDIGREE-DENTASTIX-Original-Variety-lb-Pack/dp/B00CU2CMOI/ref=zg_bs_g_pet-supplies_d_sccl_36/147-0306543-1157515?psc=1"
+                "product_url": "https://www.amazon.com/Block-Software-Business-Exclusive-Download/dp/B0CJCVFLSZ/ref=zg_bs_g_software_d_sccl_36/146-3873623-7314555?psc=1"
             },
             {
                 "rank": 37,
-                "asin": "B089PM6FRC",
-                "name": "Fresh Step Advanced Clumping Litter With Febreze Freshness With Febreze Gain Scent, Fights Odor on Contact, 37 lbs. (2 x 18.5 lb. Box)",
-                "ratings_count": 27764,
-                "rating": "4.7",
-                "sale_price": "$31.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81lfNdQfF5L._AC_UL300_SR300,200_.jpg",
+                "asin": "B0B9VY13PM",
+                "name": "McAfee Total Protection 2024 | 3 Device | Cybersecurity Software Includes Antivirus, Secure VPN, Password Manager, Dark Web Monitoring | Key CardMcAfeeWindows 8.1 / 10 / 11, iOS, Mac OS Catalina 10.15",
+                "ratings_count": 348,
+                "rating": "4.0",
+                "sale_price": "$46.64",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71xhk2FWwNL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Fresh-Step-Advanced-Clumping-Litter/dp/B089PM6FRC/ref=zg_bs_g_pet-supplies_d_sccl_37/147-0306543-1157515?psc=1"
+                "product_url": "https://www.amazon.com/McAfee-Protection-Exclusive-Monitoring-Subscription/dp/B0B9VY13PM/ref=zg_bs_g_software_d_sccl_37/146-3873623-7314555?psc=1"
             },
             {
                 "rank": 38,
-                "asin": "B0CXKNLKMX",
-                "name": "Wild Alaskan Salmon Oil Formula for Dogs & Cats - Omega 3 Skin & Coat Support - Liquid Food Supplement for Pets - Natural EPA + DHA Fatty Acids for Joint Function, Immune & Heart Health 8.5oz",
-                "ratings_count": 61325,
-                "rating": "4.5",
-                "sale_price": "$16.97",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61oELRcWptL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07QFXSQFP",
+                "name": "Norton 360 Deluxe 2024, Antivirus software for 3 Devices with Auto Renewal - Includes VPN, PC Cloud Backup & Dark Web Monitoring [Key Card]NortonWindows 8.1 / 10 / 11 / 7, Mac OS Sierra 10.12, Mac OS X El Capitan 10.11",
+                "ratings_count": 2842,
+                "rating": "4.1",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71wzSyueOpL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Wild-Alaskan-Salmon-Oil-Formula/dp/B0CXKNLKMX/ref=zg_bs_g_pet-supplies_d_sccl_38/147-0306543-1157515?psc=1"
+                "product_url": "https://www.amazon.com/NEW-Norton-360-Deluxe-Monitoring/dp/B07QFXSQFP/ref=zg_bs_g_software_d_sccl_38/146-3873623-7314555?psc=1"
             },
             {
                 "rank": 39,
-                "asin": "B005OB3E30",
-                "name": "Purina Fancy Feast Gravy Lovers Poultry and Beef Grilled Gourmet Wet Cat Food Variety Pack - (Pack of 24) 3 oz. Cans",
-                "ratings_count": 38636,
-                "rating": "4.7",
-                "sale_price": "$19.92",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81moxJT5azL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07QCVZW81",
+                "name": "Norton 360 Premium 2024, Antivirus software for 10 Devices with Auto Renewal - Includes VPN, PC Cloud Backup & Dark Web Monitoring [Key card]NortonWindows 8.1 / 10 / 11 / 7, Mac OS Sierra 10.12, Mac OS X El Capitan 10.11",
+                "ratings_count": 6514,
+                "rating": "4.4",
+                "sale_price": "$29.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71+0sewCxOL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Purina-Fancy-Feast-Poultry-Collection/dp/B005OB3E30/ref=zg_bs_g_pet-supplies_d_sccl_39/147-0306543-1157515?psc=1"
+                "product_url": "https://www.amazon.com/NEW-Norton-360-Premium-Monitoring/dp/B07QCVZW81/ref=zg_bs_g_software_d_sccl_39/146-3873623-7314555?psc=1"
             },
             {
                 "rank": 40,
-                "asin": "B00HQM0UMS",
-                "name": "Greenies Pill Pockets for Dogs Capsule Size Natural Soft Dog Treats Chicken Flavor, 15.8 oz. Pack (60 Treats)",
-                "ratings_count": 49720,
-                "rating": "4.7",
-                "sale_price": "$17.98",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81M3aEXmq4L._AC_UL300_SR300,200_.jpg",
+                "asin": "B082DZBFP7",
+                "name": "Rosetta Stone Learn UNLIMITED Languages | Lifetime Access - Learn 24 Languages | PC/Mac/iOS/Android Online CodeRosetta StoneWindows 8 / 10 / 11 / 7, Mac OS X, Android, Mac OS Catalina 10.15, Mac OS X 10.9 Mavericks",
+                "ratings_count": 1476,
+                "rating": "4.3",
+                "sale_price": "$189.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51nheJ4PQAL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/GREENIES-POCKETS-Capsule-Natural-Chicken/dp/B00HQM0UMS/ref=zg_bs_g_pet-supplies_d_sccl_40/147-0306543-1157515?psc=1"
+                "product_url": "https://www.amazon.com/Rosetta-Stone-UNLIMITED-Languages-Activation/dp/B082DZBFP7/ref=zg_bs_g_software_d_sccl_40/146-3873623-7314555?psc=1"
             },
             {
                 "rank": 41,
-                "asin": "B007JXVR76",
-                "name": "Meow Mix Original Choice Dry Cat Food, 6.3 Pound, Complete & Balanced Nutrition",
-                "ratings_count": 43079,
-                "rating": "4.7",
-                "sale_price": "$8.45",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81vWMgATvTL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0BH5P7142",
+                "name": "[Old Version] TurboTax Home & Business 2022 Tax Software, Federal and State Tax Return, [Amazon Exclusive] [PC/MAC Download]IntuitWindows 10 / 11, Mac OS Big Sur 11, Mac OS Monterey 12",
+                "ratings_count": 3405,
+                "rating": "4.4",
+                "sale_price": "$119.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71SKL1biC-L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Meow-Mix-Original-Dry-Food/dp/B007JXVR76/ref=zg_bs_g_pet-supplies_d_sccl_41/147-0306543-1157515?psc=1"
+                "product_url": "https://www.amazon.com/TurboTax-Business-Software-Exclusive-Download/dp/B0BH5P7142/ref=zg_bs_g_software_d_sccl_41/146-3873623-7314555?psc=1"
             },
             {
                 "rank": 42,
-                "asin": "B083MN4LGT",
-                "name": "Minties Dental Chews for Dogs, 40 Count, Vet-Recommended Mint-Flavored Dental Treats for Medium Dogs 25-50 lbs, Dental Bones Clean Teeth, Fight Bad Breath, and Removes Plaque and Tartar",
-                "ratings_count": 28945,
+                "asin": "B07DDL3N69",
+                "name": "Webroot Internet Security Complete | Antivirus Software 2024 | 5 Device | 1 Year Download for PC/Mac/Chromebook/Android/IOS + Password Manager, Performance Optimizer and Cloud BackupWebrootWindows 8.1 / 8 / 10 / 11 / 7, Mac OS X",
+                "ratings_count": 1777,
                 "rating": "4.5",
-                "sale_price": "$16.94",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71-tWbxDZoL._AC_UL300_SR300,200_.jpg",
+                "sale_price": "$29.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71dSKXXc54L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Mintes-Dental-Vet-Recommended-Mint-Flavored-Removes/dp/B083MN4LGT/ref=zg_bs_g_pet-supplies_d_sccl_42/147-0306543-1157515?psc=1"
+                "product_url": "https://www.amazon.com/Webroot-Internet-Antivirus-Protection-Subscription/dp/B07DDL3N69/ref=zg_bs_g_software_d_sccl_42/146-3873623-7314555?psc=1"
             },
             {
                 "rank": 43,
-                "asin": "B000I82DTU",
-                "name": "Milk-Bone Original Dog Treats for Medium Dogs, 10 Pound, Crunchy Biscuit Helps Clean Teeth",
-                "ratings_count": 36457,
+                "asin": "B092M55HJ2",
+                "name": "Mullvad VPN | 5 Devices for 6 Months | Protect Your Privacy with Easy-To-Use Security VPN ServiceMullvad VPN",
+                "ratings_count": 803,
                 "rating": "4.8",
-                "sale_price": "$14.98",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81FAGudnFfL._AC_UL300_SR300,200_.jpg",
+                "sale_price": "$29.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61+MBtXYA1L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Milk-Bone-Original-Treats-Medium-10-Pound/dp/B000I82DTU/ref=zg_bs_g_pet-supplies_d_sccl_43/147-0306543-1157515?psc=1"
+                "product_url": "https://www.amazon.com/Mullvad-VPN-Devices-Protect-Security/dp/B092M55HJ2/ref=zg_bs_g_software_d_sccl_43/146-3873623-7314555?psc=1"
             },
             {
                 "rank": 44,
-                "asin": "B097S7LP8T",
-                "name": "Pup-Peroni Dog Treats, Prime Rib Flavor, 22.5 Ounce, Made with Real Steak",
-                "ratings_count": 27012,
-                "rating": "4.8",
-                "sale_price": null,
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81JomtlCLdL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07G8RQGHL",
+                "name": "Bitdefender Total Security 2024 – Complete Antivirus and Internet Security Suite – 5 Devices | 2 year Subscription | PC/Mac | Activation Code by MailBitdefenderWindows 8, Mac, Windows, Android",
+                "ratings_count": 3485,
+                "rating": "4.4",
+                "sale_price": "$74.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71ClkhVTSbL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Pup-Peroni-Original-Prime-Flavor-Snacks/dp/B097S7LP8T/ref=zg_bs_g_pet-supplies_d_sccl_44/147-0306543-1157515?psc=1"
+                "product_url": "https://www.amazon.com/Bitdefender-Total-Security-Device-license/dp/B07G8RQGHL/ref=zg_bs_g_software_d_sccl_44/146-3873623-7314555?psc=1"
             },
             {
                 "rank": 45,
-                "asin": "B08CCG96FR",
-                "name": "Voyager Step-in Air Dog Harness - All Weather Mesh, Reflective, No Pull Harness for Small, Medium Dogs, Cats - Secure with Hook & Loop Fastener, Buckle, Double D-Rings - Fuchsia, S",
-                "ratings_count": 57152,
-                "rating": "4.6",
-                "sale_price": "$8.91",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81vE3wSyceL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07F3SNQT5",
+                "name": "Microsoft 365 Family | 12-Month Subscription, Up to 6 People | Word, Excel, PowerPoint | 1TB OneDrive Cloud Storage | PC/MAC Instant Download | Activation RequiredMicrosoftiOS, Windows, Android",
+                "ratings_count": 2761,
+                "rating": "4.4",
+                "sale_price": "$99.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61qISsi8rAL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Best-Pet-Supplies-Voyager-Harness/dp/B08CCG96FR/ref=zg_bs_g_pet-supplies_d_sccl_45/147-0306543-1157515?psc=1"
+                "product_url": "https://www.amazon.com/MICROSOFT-12-MONTH-SUBSCRIPTION-PowerPoint-ACTIVATION/dp/B07F3SNQT5/ref=zg_bs_g_software_d_sccl_45/146-3873623-7314555?psc=1"
             },
             {
                 "rank": 46,
-                "asin": "B0037Z6VJE",
-                "name": "Veterinary Formula Clinical Care Hot Spot & Itch Relief Medicated Spray, 8oz – Easy to Use Spray for Dogs & Cats – Helps Alleviate Sensitive Skin, Scratching, and Licking of Coat",
-                "ratings_count": 34612,
+                "asin": "B0CJYL7JYV",
+                "name": "TurboTax Deluxe 2023 [Disc]IntuitWindows 10 / 11, Mac OS Monterey 12",
+                "ratings_count": 15086,
                 "rating": "4.4",
-                "sale_price": "$9.98",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61leBnEZLYL._AC_UL300_SR300,200_.jpg",
+                "sale_price": null,
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71Eulvi6neL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/SynergyLabs-Veterinary-Formula-Clinical-Medicated/dp/B0037Z6VJE/ref=zg_bs_g_pet-supplies_d_sccl_46/147-0306543-1157515?psc=1"
+                "product_url": "https://www.amazon.com/TurboTax-Deluxe-Software-Federal-Exclusive/dp/B0CJYL7JYV/ref=zg_bs_g_software_d_sccl_46/146-3873623-7314555?psc=1"
             },
             {
                 "rank": 47,
-                "asin": "B00283MYSI",
-                "name": "Purina Friskies Gravy Wet Cat Food Variety Pack, Poultry Shreds, Meaty Bits & Prime Filets - (Pack of 32) 5.5 oz. Cans",
-                "ratings_count": 31866,
-                "rating": "4.7",
-                "sale_price": "$22.49",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81iIQO3FF2L._AC_UL300_SR300,200_.jpg",
+                "asin": "B07DDJRKWV",
+                "name": "Webroot Internet Security Plus | Antivirus Software 2024 | 3 Device | 1 Year Download for PC/Mac/Chromebook/Android/IOS + Password ManagerWebrootWindows 8.1 / 8 / 10 / 11 / 7, Mac OS X",
+                "ratings_count": 1131,
+                "rating": "4.2",
+                "sale_price": "$23.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71KhybsqehL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Purina-Friskies-Poultry-Adult-Variety/dp/B00283MYSI/ref=zg_bs_g_pet-supplies_d_sccl_47/147-0306543-1157515?psc=1"
+                "product_url": "https://www.amazon.com/Webroot-Internet-Antivirus-Protection-Subscription/dp/B07DDJRKWV/ref=zg_bs_g_software_d_sccl_47/146-3873623-7314555?psc=1"
             },
             {
                 "rank": 48,
-                "asin": "B0C1HG6XC8",
-                "name": "Wuffes Chewable Dog Hip and Joint Supplement for Small & Medium Breeds - Glucosamine & Chondroitin Chews - Dog Joint Supplements & Vitamins - Extended Joint Care - 60 Ct",
-                "ratings_count": 5703,
-                "rating": "4.2",
-                "sale_price": "$38.95",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71s361LXv3L._AC_UL300_SR300,200_.jpg",
+                "asin": "B0BZ2K72LD",
+                "name": "McAfee Total Protection 2024 Ready | 3 Devices | 15 Month Subscription | Cybersecurity software includes Antivirus, Secure VPN, Password Manager, Dark Web Monitoring | Amazon Exclusive | DownloadMcAfeeiOS, Windows, Android, Mac OS Catalina 10.15",
+                "ratings_count": 306,
+                "rating": "4.4",
+                "sale_price": "$21.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61E+VTq9d9L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Wuffes-Chewable-Supplement-Medium-Breeds/dp/B0C1HG6XC8/ref=zg_bs_g_pet-supplies_d_sccl_48/147-0306543-1157515?psc=1"
+                "product_url": "https://www.amazon.com/McAfee-Protection-Subscription-Antivirus-Monitoring/dp/B0BZ2K72LD/ref=zg_bs_g_software_d_sccl_48/146-3873623-7314555?psc=1"
             },
             {
                 "rank": 49,
-                "asin": "B07C22NTL4",
-                "name": "All-Absorb A26 Male Dog Wrap, 50 Count, Small",
-                "ratings_count": 24888,
-                "rating": "4.7",
-                "sale_price": "$14.38",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71gYlXY6i-L._AC_UL300_SR300,200_.jpg",
+                "asin": "B0CLBPM8HZ",
+                "name": "TurboTax Basic 2023 Tax Software, Federal Tax Return [PC/Mac Download]IntuitWindows 10 / 11, Mac OS Monterey 12",
+                "ratings_count": 329,
+                "rating": "4.1",
+                "sale_price": "$39.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61dNj+m5PXL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/All-Absorb-Male-Dog-Wrap-Count/dp/B07C22NTL4/ref=zg_bs_g_pet-supplies_d_sccl_49/147-0306543-1157515?psc=1"
+                "product_url": "https://www.amazon.com/TurboTax-Software-Federal-Return-Download/dp/B0CLBPM8HZ/ref=zg_bs_g_software_d_sccl_49/146-3873623-7314555?psc=1"
             },
             {
                 "rank": 50,
-                "asin": "B00RZDXA7K",
-                "name": "Virbac CET Enzymatic Toothpaste| Eliminates Bad Breath by Removing Plaque & Tartar Buildup | Best Pet Dental Care Toothpaste | Poultry Flavor, 2.5 oz tube",
-                "ratings_count": 33952,
-                "rating": "4.6",
-                "sale_price": "$11.52",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71KfByVA16L._AC_UL300_SR300,200_.jpg",
+                "asin": "B0CJDF53FT",
+                "name": "H&R Block Tax Software Deluxe 2023 with Refund Bonus Offer (Amazon Exclusive) (PC/MAC Download)H&R BlockWindows 10 / 11, Mac OS Catalina 10.15",
+                "ratings_count": 829,
+                "rating": "4.2",
+                "sale_price": "$30.93",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51QHSXb9alL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Virbac-Control-Enzymatic-Toothpaste-Poultry/dp/B00RZDXA7K/ref=zg_bs_g_pet-supplies_d_sccl_50/147-0306543-1157515?psc=1"
+                "product_url": "https://www.amazon.com/Block-Software-Deluxe-Exclusive-Download/dp/B0CJDF53FT/ref=zg_bs_g_software_d_sccl_50/146-3873623-7314555?psc=1"
             }
         ]
     }

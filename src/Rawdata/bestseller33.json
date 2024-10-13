@@ -1,602 +1,686 @@
 {
     "200": {
-        "category": "Amazon Best SellersSports & Outdoors",
+        "category": "Amazon Best SellersSports Collectibles",
         "category_hierarchy": [
             {
                 "name": "Any Department",
-                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_sporting-goods_0_1"
+                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_sports-collectibles_0_1"
             },
             {
-                "name": "Sports & Outdoors",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Outdoors/zgbs/sporting-goods/ref=zg_bs_nav_sporting-goods_0?pg=1"
+                "name": "Sports Collectibles",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles/zgbs/sports-collectibles/ref=zg_bs_nav_sports-collectibles_0?pg=1"
             }
         ],
         "child_categories": [
             {
-                "category": "Accessories",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Outdoors-Sports-Outdoor-Recreation-Accessories/zgbs/sporting-goods/3394801/ref=zg_bs_nav_sporting-goods_1"
+                "category": "Balls",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Balls/zgbs/sports-collectibles/3311044011/ref=zg_bs_nav_sports-collectibles_1"
             },
             {
-                "category": "Exercise & Fitness",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Outdoors-Exercise-Fitness-Equipment/zgbs/sporting-goods/3407731/ref=zg_bs_nav_sporting-goods_1"
+                "category": "Baseball Bases",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Baseball-Bases/zgbs/sports-collectibles/5395827011/ref=zg_bs_nav_sports-collectibles_1"
             },
             {
-                "category": "Fan Shop",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Outdoors-Sports-Fan-Shop/zgbs/sporting-goods/3386071/ref=zg_bs_nav_sporting-goods_1"
+                "category": "Bats",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Bats/zgbs/sports-collectibles/3311045011/ref=zg_bs_nav_sports-collectibles_1"
             },
             {
-                "category": "Hunting & Fishing",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Outdoors-Hunting-Fishing-Products/zgbs/sporting-goods/706813011/ref=zg_bs_nav_sporting-goods_1"
+                "category": "Bobbleheads",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Bobbleheads/zgbs/sports-collectibles/3311046011/ref=zg_bs_nav_sports-collectibles_1"
             },
             {
-                "category": "Memorabilia Display & Storage",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Outdoors-Memorabilia-Display-Storage/zgbs/sporting-goods/2358921011/ref=zg_bs_nav_sporting-goods_1"
+                "category": "Books",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Books/zgbs/sports-collectibles/3311047011/ref=zg_bs_nav_sports-collectibles_1"
             },
             {
-                "category": "Outdoor Recreation",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Outdoors-Outdoor-Recreation/zgbs/sporting-goods/706814011/ref=zg_bs_nav_sporting-goods_1"
+                "category": "Clothing & Uniforms",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Clothing-Uniforms/zgbs/sports-collectibles/7702506011/ref=zg_bs_nav_sports-collectibles_1"
             },
             {
-                "category": "Sports",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Outdoors-Sports-Apparel-Equipment/zgbs/sporting-goods/10971181011/ref=zg_bs_nav_sporting-goods_1"
+                "category": "Cut Signatures",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Memorabilia-Cut-Signatures/zgbs/sports-collectibles/5931158011/ref=zg_bs_nav_sports-collectibles_1"
             },
             {
-                "category": "Sports Medicine",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Outdoors-Sports-Medicine-Products/zgbs/sporting-goods/3422351/ref=zg_bs_nav_sporting-goods_1"
+                "category": "Diecast Cars",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Diecast-Cars/zgbs/sports-collectibles/7702514011/ref=zg_bs_nav_sports-collectibles_1"
+            },
+            {
+                "category": "Figurines",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Figurines/zgbs/sports-collectibles/7702516011/ref=zg_bs_nav_sports-collectibles_1"
+            },
+            {
+                "category": "Flags & Banners",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Flags-Banners/zgbs/sports-collectibles/3311048011/ref=zg_bs_nav_sports-collectibles_1"
+            },
+            {
+                "category": "Gloves",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Gloves/zgbs/sports-collectibles/3311051011/ref=zg_bs_nav_sports-collectibles_1"
+            },
+            {
+                "category": "Golf Clubs",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Golf-Clubs/zgbs/sports-collectibles/3311052011/ref=zg_bs_nav_sports-collectibles_1"
+            },
+            {
+                "category": "Hats",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Hats/zgbs/sports-collectibles/3311053011/ref=zg_bs_nav_sports-collectibles_1"
+            },
+            {
+                "category": "Helmets",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Helmets/zgbs/sports-collectibles/3311054011/ref=zg_bs_nav_sports-collectibles_1"
+            },
+            {
+                "category": "Hockey Pucks",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Hockey-Pucks/zgbs/sports-collectibles/3311057011/ref=zg_bs_nav_sports-collectibles_1"
+            },
+            {
+                "category": "Hockey Sticks & Blades",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Hockey-Sticks-Blades/zgbs/sports-collectibles/3311058011/ref=zg_bs_nav_sports-collectibles_1"
+            },
+            {
+                "category": "Jerseys",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Jerseys/zgbs/sports-collectibles/3311061011/ref=zg_bs_nav_sports-collectibles_1"
+            },
+            {
+                "category": "Lineup Cards",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Lineup-Cards/zgbs/sports-collectibles/5395826011/ref=zg_bs_nav_sports-collectibles_1"
+            },
+            {
+                "category": "Magazines",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Magazines/zgbs/sports-collectibles/3311062011/ref=zg_bs_nav_sports-collectibles_1"
+            },
+            {
+                "category": "Personal Checks",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Personal-Checks/zgbs/sports-collectibles/5395829011/ref=zg_bs_nav_sports-collectibles_1"
+            },
+            {
+                "category": "Photographs",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Photographs/zgbs/sports-collectibles/3311063011/ref=zg_bs_nav_sports-collectibles_1"
+            },
+            {
+                "category": "Postcards & Index Cards",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Postcards-Index-Cards/zgbs/sports-collectibles/3311064011/ref=zg_bs_nav_sports-collectibles_1"
+            },
+            {
+                "category": "Prints & Posters",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Prints-Posters/zgbs/sports-collectibles/3311067011/ref=zg_bs_nav_sports-collectibles_1"
+            },
+            {
+                "category": "Publications & Media",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Publications-Media/zgbs/sports-collectibles/7702507011/ref=zg_bs_nav_sports-collectibles_1"
+            },
+            {
+                "category": "Shoes",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Shoes/zgbs/sports-collectibles/3311068011/ref=zg_bs_nav_sports-collectibles_1"
+            },
+            {
+                "category": "Stadium Components",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Stadium-Components/zgbs/sports-collectibles/5395825011/ref=zg_bs_nav_sports-collectibles_1"
+            },
+            {
+                "category": "Ticket Stubs",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Ticket-Stubs/zgbs/sports-collectibles/3311069011/ref=zg_bs_nav_sports-collectibles_1"
+            },
+            {
+                "category": "Trading Cards",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Collectible-Sports-Trading-Cards/zgbs/sports-collectibles/3311070011/ref=zg_bs_nav_sports-collectibles_1"
+            },
+            {
+                "category": "Trophies",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Trophies/zgbs/sports-collectibles/5395823011/ref=zg_bs_nav_sports-collectibles_1"
             }
         ],
-        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/Best-Sellers-Sports-Outdoors/zgbs/sporting-goods/ref%3Dzg_bs_pg_2_sporting-goods%3F_encoding%3DUTF8%26pg%3D2",
-        "url": "https://www.amazon.com/Best-Sellers-Sports-Outdoors/zgbs/sporting-goods/ref=zg_bs_nav_sporting-goods_0?pg=1",
+        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/Best-Sellers-Sports-Collectibles/zgbs/sports-collectibles/ref%3Dzg_bs_pg_2_sports-collectibles%3F_encoding%3DUTF8%26pg%3D2",
+        "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles/zgbs/sports-collectibles/ref=zg_bs_nav_sports-collectibles_0?pg=1",
         "product_listings": [
             {
                 "rank": 1,
-                "asin": "B01LR5S6HK",
-                "name": "Amazon Basics Neoprene Dumbbell Hand Weights",
-                "ratings_count": 104748,
-                "rating": "4.8",
-                "sale_price": "$21.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81Y26toqdTL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0DHDD6X8R",
+                "name": "2024 Panini Score Football NFL Trading Card Blaster Box",
+                "ratings_count": 5,
+                "rating": "4.1",
+                "sale_price": "$33.50",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71lGFzE7xgL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/AmazonBasics-Pound-Neoprene-Dumbbells-Weights/dp/B01LR5S6HK/ref=zg_bs_g_sporting-goods_d_sccl_1/146-9711317-9917558?psc=1"
+                "product_url": "https://www.amazon.com/Panini-Score-Football-Trading-Blaster/dp/B0DHDD6X8R/ref=zg_bs_g_sports-collectibles_d_sccl_1/135-4766424-6544615?psc=1"
             },
             {
                 "rank": 2,
-                "asin": "B006QF3TW4",
-                "name": "LifeStraw Personal Water Filter for Hiking, Camping, Travel, and Emergency Preparedness",
-                "ratings_count": 117427,
-                "rating": "4.8",
-                "sale_price": "$17.47",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61IM+k4lmQL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0D98TP9PQ",
+                "name": "2024 Topps Baseball Complete Set Factory Sealed Box Set - Baseball Complete Sets",
+                "ratings_count": 10,
+                "rating": "5.0",
+                "sale_price": "$59.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71jVkkMCIiL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/LifeStraw-Personal-Camping-Emergency-Preparedness/dp/B006QF3TW4/ref=zg_bs_g_sporting-goods_d_sccl_2/146-9711317-9917558?psc=1"
+                "product_url": "https://www.amazon.com/Topps-Baseball-Complete-Factory-Sealed/dp/B0D98TP9PQ/ref=zg_bs_g_sports-collectibles_d_sccl_2/135-4766424-6544615?psc=1"
             },
             {
                 "rank": 3,
-                "asin": "B0BHFC9QCQ",
-                "name": "Franklin Sports Pressureless Tennis Balls - Official Size Low Pressure Tennis Balls - Great for Training + Practice - Low Bounce Tennis Balls - All Court Surface Tennis Balls - Carry Bag Included",
-                "ratings_count": 2551,
-                "rating": "4.7",
-                "sale_price": "$1.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/7140AFB7YoL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0DD5KSQ6Z",
+                "name": "2024 Panini NFL Score-A-Treat Football Halloween Bundle 40 Packs",
+                "ratings_count": 9,
+                "rating": "3.9",
+                "sale_price": "$27.01",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71A6CU5B6zL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Franklin-Sports-Practice-Tennis-Balls/dp/B0BHFC9QCQ/ref=zg_bs_g_sporting-goods_d_sccl_3/146-9711317-9917558?psc=1"
+                "product_url": "https://www.amazon.com/Panini-Score-Treat-Football-Halloween/dp/B0DD5KSQ6Z/ref=zg_bs_g_sports-collectibles_d_sccl_3/135-4766424-6544615?psc=1"
             },
             {
                 "rank": 4,
-                "asin": "B07518RBH2",
-                "name": "ZELUS Weighted Vest, 6lb/8lb/12lb/16lb/20lb/25lb/30lb Weight Vest with Reflective Stripe for Workout, Strength Training, Running, Fitness, Muscle Building, Weight Loss, Weightlifting",
-                "ratings_count": 5551,
-                "rating": "4.5",
-                "sale_price": "$36.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/710yBz6hfUL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0DDZC6H5G",
+                "name": "2023-24 Panini Mosaic Basketball NBA Blaster Box",
+                "ratings_count": 4,
+                "rating": "5.0",
+                "sale_price": "$34.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71BxA+4cKoL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/ZELUS-Weighted-Reflective-Strength-Weightlifting/dp/B07518RBH2/ref=zg_bs_g_sporting-goods_d_sccl_4/146-9711317-9917558?psc=1"
+                "product_url": "https://www.amazon.com/2023-24-Panini-Mosaic-Basketball-Blaster/dp/B0DDZC6H5G/ref=zg_bs_g_sports-collectibles_d_sccl_4/135-4766424-6544615?psc=1"
             },
             {
                 "rank": 5,
-                "asin": "B0CT4BB651",
-                "name": "Stanley IceFlow Stainless Steel Tumbler - Vacuum Insulated Water Bottle for Home, Office or Car Reusable Cup with Straw Leak Resistant Flip Cold for 12 Hours or Iced for 2 Days, Lilac, 30 OZ / 0.89 L",
-                "ratings_count": 36588,
-                "rating": "4.6",
-                "sale_price": "$35.00",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/51SxIyLWwUL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0D7TXZ7DY",
+                "name": "2024 Topps Chrome Baseball Factory Sealed Value Box - Sports Memorabilia",
+                "ratings_count": 63,
+                "rating": "4.2",
+                "sale_price": "$38.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/818BrjlcpLL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Stanley-IceFlow-Stainless-Steel-Tumbler/dp/B0CT4BB651/ref=zg_bs_g_sporting-goods_d_sccl_5/146-9711317-9917558?psc=1"
+                "product_url": "https://www.amazon.com/Topps-Chrome-Baseball-Factory-Sealed/dp/B0D7TXZ7DY/ref=zg_bs_g_sports-collectibles_d_sccl_5/135-4766424-6544615?psc=1"
             },
             {
                 "rank": 6,
-                "asin": "B01AVDVHTI",
-                "name": "Fit Simplify Resistance Loop Exercise Bands with Instruction Guide and Carry Bag, Set of 5",
-                "ratings_count": 126389,
-                "rating": "4.5",
-                "sale_price": "$9.98",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71S4-NjoTDL._AC_UL300_SR300,200_.jpg",
+                "asin": "B00CFXUAIW",
+                "name": "100 Vintage Football Cards in Old Sealed Wax Packs - Perfect for New Collectors",
+                "ratings_count": 4931,
+                "rating": "4.3",
+                "sale_price": "$14.22",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61ix1lvC6WL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Fit-Simplify-Resistance-Exercise-Instruction/dp/B01AVDVHTI/ref=zg_bs_g_sporting-goods_d_sccl_6/146-9711317-9917558?psc=1"
+                "product_url": "https://www.amazon.com/Vintage-Football-Cards-Sealed-Packs/dp/B00CFXUAIW/ref=zg_bs_g_sports-collectibles_d_sccl_6/135-4766424-6544615?psc=1"
             },
             {
                 "rank": 7,
-                "asin": "B08D66HCXW",
-                "name": "LHKNL Headlamp Flashlight, 1200 Lumen Ultra-Light Bright LED Rechargeable Headlight with White Red Light,2-Pack Waterproof Motion Sensor Head Lamp,8 Mode for Outdoor Camping Running Hiking Fishing",
-                "ratings_count": 20827,
-                "rating": "4.5",
-                "sale_price": "$19.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71DxWxvCwlL._AC_UL300_SR300,200_.jpg",
+                "asin": "B00BX8PO6I",
+                "name": "100 Vintage Baseball Cards in Old Sealed Wax Packs - Perfect for New Collectors",
+                "ratings_count": 2768,
+                "rating": "4.3",
+                "sale_price": "$12.45",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/A1uiIPYkt0L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Flashlight-LHKNL-Ultra-Light-Rechargeable-Waterproof/dp/B08D66HCXW/ref=zg_bs_g_sporting-goods_d_sccl_7/146-9711317-9917558?psc=1"
+                "product_url": "https://www.amazon.com/Vintage-Baseball-Cards-Sealed-Packs/dp/B00BX8PO6I/ref=zg_bs_g_sports-collectibles_d_sccl_7/135-4766424-6544615?psc=1"
             },
             {
                 "rank": 8,
-                "asin": "B0869HGSVL",
-                "name": "INTEX 64417ED Dura-Beam Deluxe Comfort-Plush High-Rise Air Mattress: Fiber-Tech – Queen Size – Built-in Electric Pump – 22in Bed Height – 600lb Weight Capacity,Grey",
-                "ratings_count": 21996,
-                "rating": "4.4",
-                "sale_price": "$60.29",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71WGsXRgQrL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0DGQVTJPH",
+                "name": "2024 2025 Upper Deck M V P Hockey Series Unopened Blaster Box of 15 Packs with Chance for Rookies Plus #1 Draft Picks Cards and Blaster Exclusive Gold Scripts",
+                "ratings_count": 2,
+                "rating": "5.0",
+                "sale_price": "$29.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81ls1TrMPKL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Intex-Elevated-Dura-Beam-Internal-Electric/dp/B0869HGSVL/ref=zg_bs_g_sporting-goods_d_sccl_8/146-9711317-9917558?psc=1"
+                "product_url": "https://www.amazon.com/Upper-Deck-Unopened-Blaster-Exclusive/dp/B0DGQVTJPH/ref=zg_bs_g_sports-collectibles_d_sccl_8/135-4766424-6544615?psc=1"
             },
             {
                 "rank": 9,
-                "asin": "B071P2MQ5D",
-                "name": "Amazon Basics High Density Foam Roller for Exercise and Recovery",
-                "ratings_count": 110518,
-                "rating": "4.6",
-                "sale_price": "$13.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/91yuQpw++mL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0DJ2CK81J",
+                "name": "2024 Panini Score Football Series Blaster Box of Packs with 33 Rookies and 22 Insert Cards Per Box Possible Green Rookie Signatures Jayden Daniels, Xavier Worthy, Caleb Williams, Marvin Harrison Plus",
+                "ratings_count": null,
+                "rating": null,
+                "sale_price": "$36.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71zAaCpaAAL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Amazon-Basics-Density-Exercise-Recovery/dp/B071P2MQ5D/ref=zg_bs_g_sporting-goods_d_sccl_9/146-9711317-9917558?psc=1"
+                "product_url": "https://www.amazon.com/Football-Possible-Signatures-Williams-Harrison/dp/B0DJ2CK81J/ref=zg_bs_g_sports-collectibles_d_sccl_9/135-4766424-6544615?psc=1"
             },
             {
                 "rank": 10,
-                "asin": "B01LP0U5X0",
-                "name": "Amazon Basics 1/2 Inch Extra Thick Exercise Yoga Mat with Carrying Strap",
-                "ratings_count": 97358,
-                "rating": "4.6",
-                "sale_price": "$21.96",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71I2r88GXhL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0D5JKXGSK",
+                "name": "2024 Topps Series 2 Baseball Retail Value Box",
+                "ratings_count": 65,
+                "rating": "4.4",
+                "sale_price": "$36.88",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81JJaIvpYvL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/AmazonBasics-Extra-Thick-Exercise-Carrying/dp/B01LP0U5X0/ref=zg_bs_g_sporting-goods_d_sccl_10/146-9711317-9917558?psc=1"
+                "product_url": "https://www.amazon.com/2024-Topps-Baseball-Retail-Value/dp/B0D5JKXGSK/ref=zg_bs_g_sports-collectibles_d_sccl_10/135-4766424-6544615?psc=1"
             },
             {
                 "rank": 11,
-                "asin": "B09FFQN924",
-                "name": "Aquatabs 397mg Water Purification Tablets (100 Pack). Water Filtration System for, Camping, Emergencies, Survival, and RVs. Easy to Use Water Treatment and Disinfection.",
-                "ratings_count": 3189,
-                "rating": "4.7",
-                "sale_price": "$29.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61lwQiF0RmL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0D9SNM3H1",
+                "name": "2023 Panini Donruss Optic Football NFL Trading Card Fat Pack",
+                "ratings_count": 3,
+                "rating": "4.6",
+                "sale_price": "$15.96",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81dEdV-ummL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Aquatabs-Gallon-Water-Purification-Tablet/dp/B09FFQN924/ref=zg_bs_g_sporting-goods_d_sccl_11/146-9711317-9917558?psc=1"
+                "product_url": "https://www.amazon.com/Panini-Donruss-Optic-Football-Trading/dp/B0D9SNM3H1/ref=zg_bs_g_sports-collectibles_d_sccl_11/135-4766424-6544615?psc=1"
             },
             {
                 "rank": 12,
-                "asin": "B06XTW1BND",
-                "name": "Franklin Sports Outdoor Pickleballs - X-40 Pickleball Balls - USA Pickleball (USAPA) Approved - Official US Open Ball",
-                "ratings_count": 20666,
-                "rating": "4.7",
-                "sale_price": "$7.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61HjNVWCVqL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0CBG3YNRP",
+                "name": "PSA Football Graded Card Mystery Pack + | PSA Graded Football Card + 1 Sealed Pack of Football Cards | Grade 8+ Guaranteed | Contains One Graded Vintage, Rookie, Legend or Current Star | by Zoo Packs",
+                "ratings_count": 84,
+                "rating": "3.3",
+                "sale_price": "$39.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81WYNjfyauL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Franklin-Sports-X-40-Pickleballs-Approved/dp/B06XTW1BND/ref=zg_bs_g_sporting-goods_d_sccl_12/146-9711317-9917558?psc=1"
+                "product_url": "https://www.amazon.com/Football-Mystery-Guaranteed-Contains-Vintage/dp/B0CBG3YNRP/ref=zg_bs_g_sports-collectibles_d_sccl_12/135-4766424-6544615?psc=1"
             },
             {
                 "rank": 13,
-                "asin": "B0CLD7RNM8",
-                "name": "Zak Designs Sage Barbie Water Bottle For School or Travel, 16oz Durable Plastic Water Bottle With Straw, Handle, and Leak-Proof, Pop-Up Spout Cover (Barbie)",
-                "ratings_count": 19090,
+                "asin": "B0CVCHKRRT",
+                "name": "2024 Topps Series 1 Retail Value Box",
+                "ratings_count": 284,
                 "rating": "4.6",
-                "sale_price": "$8.89",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71FDgCINUaL._AC_UL300_SR300,200_.jpg",
+                "sale_price": "$27.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/818fxs+4fUL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Zak-Designs-Durable-Plastic-Leak-Proof/dp/B0CLD7RNM8/ref=zg_bs_g_sporting-goods_d_sccl_13/146-9711317-9917558?psc=1"
+                "product_url": "https://www.amazon.com/2024-Topps-Retail-Value-Box/dp/B0CVCHKRRT/ref=zg_bs_g_sports-collectibles_d_sccl_13/135-4766424-6544615?psc=1"
             },
             {
                 "rank": 14,
-                "asin": "B093R5F5PF",
-                "name": "CAP Barbell Coated Hex Dumbbell Weight | Multiple Options",
-                "ratings_count": 7126,
-                "rating": "4.7",
-                "sale_price": "$17.97",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71+KDPrgeDL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0D7TMD793",
+                "name": "2023-24 Panini Donruss Optic Basketball Mega Box (56 Cards/Box) Hyper Parallels Sealed",
+                "ratings_count": 8,
+                "rating": "4.3",
+                "sale_price": "$55.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61k5-7sr3wL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Cap-Coated-Hex-Dumbbell-Weight/dp/B093R5F5PF/ref=zg_bs_g_sporting-goods_d_sccl_14/146-9711317-9917558?psc=1"
+                "product_url": "https://www.amazon.com/2023-24-Panini-Donruss-Basketball-Parallels/dp/B0D7TMD793/ref=zg_bs_g_sports-collectibles_d_sccl_14/135-4766424-6544615?psc=1"
             },
             {
                 "rank": 15,
-                "asin": "B08WC2VYMS",
-                "name": "Energizer Universal Plus LED Headlamp, Lightweight Bright Headlamp for Outdoors, Camping and Emergency Light for Adults and Kids, includes Batteries, Pack of 2",
-                "ratings_count": 6733,
-                "rating": "4.4",
-                "sale_price": "$9.18",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61CSF0ZXqKL._AC_UL300_SR300,200_.jpg",
+                "asin": "B000SJONZQ",
+                "name": "Topps, Upper deck, Donruss, Fleer, Score, Upperdeck 600 Baseball Cards Including Babe Ruth, Unopened Packs, Many Stars, and Hall-of-Famers. Ships in White Box Perfect for Gift Giving.",
+                "ratings_count": 2406,
+                "rating": "4.0",
+                "sale_price": "$18.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91DcnUTilZL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Energizer-Universal-Lightweight-Emergency-Batteries/dp/B08WC2VYMS/ref=zg_bs_g_sporting-goods_d_sccl_15/146-9711317-9917558?psc=1"
+                "product_url": "https://www.amazon.com/Baseball-Including-Unopened-famers-Topps/dp/B000SJONZQ/ref=zg_bs_g_sports-collectibles_d_sccl_15/135-4766424-6544615?psc=1"
             },
             {
                 "rank": 16,
-                "asin": "B0C48GQJNC",
-                "name": "Sperax Walking Pad,Under Desk Treadmills for Home,320 Lbs Capacity,3 in 1 Portable Walking Treadmill",
-                "ratings_count": 6515,
-                "rating": "4.3",
-                "sale_price": "$179.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61E-t1xEXFL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0CDNL5W3K",
+                "name": "2023 Score Football Trading Card Cello Fat Pack (30 Cards)",
+                "ratings_count": 431,
+                "rating": "4.7",
+                "sale_price": "$14.48",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/614nL-aaJPL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Sperax-Walking-Treadmill-Treadmills-Capacity/dp/B0C48GQJNC/ref=zg_bs_g_sporting-goods_d_sccl_16/146-9711317-9917558?psc=1"
+                "product_url": "https://www.amazon.com/Score-Football-Trading-Cello-Cards/dp/B0CDNL5W3K/ref=zg_bs_g_sports-collectibles_d_sccl_16/135-4766424-6544615?psc=1"
             },
             {
                 "rank": 17,
-                "asin": "B08QDWMMW5",
-                "name": "Cool Coolers by Fit & Fresh 4 Pack XL Slim Ice Packs, Quick Freeze Space Saving Reusable Ice Packs for Lunch Boxes or Coolers, Multi",
-                "ratings_count": 42222,
-                "rating": "4.6",
-                "sale_price": "$11.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/8197ZnzLxJL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0B7FFH1XH",
+                "name": "NHL Upper Deck 2020-21 SP Hockey Trading Card HANGER Box [3 Packs]",
+                "ratings_count": 64,
+                "rating": "4.4",
+                "sale_price": "$6.11",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/713YxHNuQ0L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Fit-Fresh-Coolers-Freezer-Multi-Colored/dp/B08QDWMMW5/ref=zg_bs_g_sporting-goods_d_sccl_17/146-9711317-9917558?psc=1"
+                "product_url": "https://www.amazon.com/Upper-Deck-2020-21-Hockey-Trading/dp/B0B7FFH1XH/ref=zg_bs_g_sports-collectibles_d_sccl_17/135-4766424-6544615?psc=1"
             },
             {
                 "rank": 18,
-                "asin": "B0BMGYT38K",
-                "name": "Callaway Golf Supersoft 2023 Golf Balls",
-                "ratings_count": 7629,
-                "rating": "4.8",
-                "sale_price": "$24.97",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71hYbAifNoL._AC_UL300_SR300,200_.jpg",
+                "asin": "B089DJXWNX",
+                "name": "DREAM LOT OF OLD UNOPENED BASKETBALL CARDS IN PACKS 60 Cards in Packs from the Late 80s and Early 90s",
+                "ratings_count": 462,
+                "rating": "3.8",
+                "sale_price": "$19.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/5197Q2Odp2L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Callaway-Supersoft-Balls-Version-White/dp/B0BMGYT38K/ref=zg_bs_g_sporting-goods_d_sccl_18/146-9711317-9917558?psc=1"
+                "product_url": "https://www.amazon.com/DREAM-UNOPENED-BASKETBALL-CARDS-Cards/dp/B089DJXWNX/ref=zg_bs_g_sports-collectibles_d_sccl_18/135-4766424-6544615?psc=1"
             },
             {
                 "rank": 19,
-                "asin": "B07N71DDXC",
-                "name": "GCI Outdoor Rocker Camping Chair",
-                "ratings_count": 86965,
-                "rating": "4.7",
-                "sale_price": "$52.00",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/8175sWOHL4L._AC_UL300_SR300,200_.jpg",
+                "asin": "B0BPZ2D85K",
+                "name": "2022 Topps MLB Chrome Updates Baseball Trading Card Mega Box",
+                "ratings_count": 51,
+                "rating": "4.1",
+                "sale_price": "$39.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71ltKrSnMyL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/GCI-Outdoor-Collapsible-Rocking-Sunshade/dp/B07N71DDXC/ref=zg_bs_g_sporting-goods_d_sccl_19/146-9711317-9917558?psc=1"
+                "product_url": "https://www.amazon.com/Topps-Chrome-Updates-Baseball-Trading/dp/B0BPZ2D85K/ref=zg_bs_g_sports-collectibles_d_sccl_19/135-4766424-6544615?psc=1"
             },
             {
                 "rank": 20,
-                "asin": "B000UVTDLG",
-                "name": "SABRE Pepper Spray, Quick Release Keychain for Easy Carry and Fast Access, Finger Grip for More Accurate and Faster Aim, Maximum Police Strength OC Spray, 0.54 fl oz, Secure and Easy to Use Safety",
-                "ratings_count": 104627,
-                "rating": "4.7",
-                "sale_price": "$9.98",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71VI9p+uylL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0C9PN5DZM",
+                "name": "Topps 2023 Baseball Factory Sealed Hobby Complete Set - Baseball Complete Sets",
+                "ratings_count": 29,
+                "rating": "4.5",
+                "sale_price": "$44.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61wT+NAPSdL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/SABRE-Pepper-Spray-Quick-Release/dp/B000UVTDLG/ref=zg_bs_g_sporting-goods_d_sccl_20/146-9711317-9917558?psc=1"
+                "product_url": "https://www.amazon.com/Topps-Baseball-Factory-Sealed-Complete/dp/B0C9PN5DZM/ref=zg_bs_g_sports-collectibles_d_sccl_20/135-4766424-6544615?psc=1"
             },
             {
                 "rank": 21,
-                "asin": "B00CWL3M96",
-                "name": "Igloo Ice Blocks, Reusable Ice Packs for Coolers, Long Lasting Cold Freezer Packs, Cold Packs for Coolers, Lunch Bags, Lunch Boxes, Camping, Fishing, Road Trips",
-                "ratings_count": 20785,
-                "rating": "4.7",
-                "sale_price": "$0.98",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/618XZ40wBmL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0D79S8MCN",
+                "name": "Shohei Ohtani 2024 Topps Base #500 NM-MT MLB Baseball Series 2 Dodgers",
+                "ratings_count": 7,
+                "rating": "5.0",
+                "sale_price": "$6.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61n3I3ZuMgL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Igloo-Corporation-25197-Maxcold-Small/dp/B00CWL3M96/ref=zg_bs_g_sporting-goods_d_sccl_21/146-9711317-9917558?psc=1"
+                "product_url": "https://www.amazon.com/Shohei-Ohtani-Topps-Baseball-Dodgers/dp/B0D79S8MCN/ref=zg_bs_g_sports-collectibles_d_sccl_21/135-4766424-6544615?psc=1"
             },
             {
                 "rank": 22,
-                "asin": "B003L9GRD6",
-                "name": "Franklin Sports NFL Youth Football Uniform Set for Boys & Girls - Includes Helmet, Jersey & Pants with Chinstrap + Numbers",
-                "ratings_count": 14055,
-                "rating": "4.6",
-                "sale_price": "$59.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/91K4vr3mUDL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0CPTQCBXP",
+                "name": "2023/24 Panini Hoops NBA Basketball BLASTER box",
+                "ratings_count": 50,
+                "rating": "4.8",
+                "sale_price": "$44.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71Djlh29AyL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Franklin-Sports-Kansas-Chiefs-Uniform/dp/B003L9GRD6/ref=zg_bs_g_sporting-goods_d_sccl_22/146-9711317-9917558?psc=1"
+                "product_url": "https://www.amazon.com/2023-Panini-Hoops-Basketball-BLASTER/dp/B0CPTQCBXP/ref=zg_bs_g_sports-collectibles_d_sccl_22/135-4766424-6544615?psc=1"
             },
             {
                 "rank": 23,
-                "asin": "B000AAYBHI",
-                "name": "Bell Standard and Self Sealing Bike Tubes",
-                "ratings_count": 60322,
-                "rating": "4.6",
-                "sale_price": "$5.79",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/810bh-IO8zL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0CLWJ1423",
+                "name": "2023 Bowman Chrome Baseball Mega Box",
+                "ratings_count": 40,
+                "rating": "3.7",
+                "sale_price": "$57.28",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71GLeQD758L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Bell-STANDARD-Tube-26-1-75-2-25/dp/B000AAYBHI/ref=zg_bs_g_sporting-goods_d_sccl_23/146-9711317-9917558?psc=1"
+                "product_url": "https://www.amazon.com/2023-Bowman-Chrome-Baseball-Mega/dp/B0CLWJ1423/ref=zg_bs_g_sports-collectibles_d_sccl_23/135-4766424-6544615?psc=1"
             },
             {
                 "rank": 24,
-                "asin": "B092RHC2FY",
-                "name": "Energizer LED Headlamp PRO (2-Pack), IPX4 Water Resistant Headlamps, High-Performance Head Light for Outdoors, Camping, Running, Storm, Survival LED Light for Emergencies (Batteries Included)",
-                "ratings_count": 5161,
-                "rating": "4.7",
-                "sale_price": "$11.57",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71R6M2P3r1S._AC_UL300_SR300,200_.jpg",
+                "asin": "B0D1SCQDSC",
+                "name": "Topps 2024 Bowman Baseball Retail Value Box",
+                "ratings_count": 40,
+                "rating": "4.2",
+                "sale_price": "$37.70",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81-aRYyRVpL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Energizer-Flashlight-Two-Handed-Activities-Emergencies/dp/B092RHC2FY/ref=zg_bs_g_sporting-goods_d_sccl_24/146-9711317-9917558?psc=1"
+                "product_url": "https://www.amazon.com/Topps-Bowman-Baseball-Retail-Value/dp/B0D1SCQDSC/ref=zg_bs_g_sports-collectibles_d_sccl_24/135-4766424-6544615?psc=1"
             },
             {
                 "rank": 25,
-                "asin": "B0C5M773VW",
-                "name": "SecuCaptain Emergency Fire Blanket for Home and Kitchen - 2 Pack 40\"x40\" Flame Suppression Fiberglass Fire Blankets for House Camping Car Office Warehouse Emergency Survival Safety",
-                "ratings_count": 4087,
-                "rating": "4.8",
-                "sale_price": "$16.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81EUyYcaxFL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0DGHM3YRQ",
+                "name": "2023/24 Topps Chrome Basketball Trading Card Blaster Box (Pink Refractors)",
+                "ratings_count": null,
+                "rating": null,
+                "sale_price": "$39.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71-IYEXa5VL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/SecuCaptain-Emergency-Fire-Blanket-Kitchen/dp/B0C5M773VW/ref=zg_bs_g_sporting-goods_d_sccl_25/146-9711317-9917558?psc=1"
+                "product_url": "https://www.amazon.com/Topps-Basketball-Trading-Blaster-Refractors/dp/B0DGHM3YRQ/ref=zg_bs_g_sports-collectibles_d_sccl_25/135-4766424-6544615?psc=1"
             },
             {
                 "rank": 26,
-                "asin": "B0CRCJY6YH",
-                "name": "Owala Kids FreeSip Insulated Stainless Steel Water Bottle with Straw, BPA-Free Sports Water Bottle, Great for Travel, 16 oz, All the Berries",
-                "ratings_count": 58198,
-                "rating": "4.7",
-                "sale_price": "$31.08",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61TTjjUGYKL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0B675HY7Y",
+                "name": "Zoo Packs MLB Baseball PSA Graded Card Mystery Power Pack - Amazon Exclusive",
+                "ratings_count": 127,
+                "rating": "3.0",
+                "sale_price": "$29.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71VuXSiKH4L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Owala-FreeSip-Insulated-Stainless-BPA-Free/dp/B0CRCJY6YH/ref=zg_bs_g_sporting-goods_d_sccl_26/146-9711317-9917558?psc=1"
+                "product_url": "https://www.amazon.com/Packs-Baseball-Graded-Mystery-Power/dp/B0B675HY7Y/ref=zg_bs_g_sports-collectibles_d_sccl_26/135-4766424-6544615?psc=1"
             },
             {
                 "rank": 27,
-                "asin": "B0007ZF4OA",
-                "name": "HotHands Hand Warmers - Long Lasting Safe Natural Odorless Air Activated Warmers - Up to 10 Hours of Heat - 40 Pair",
-                "ratings_count": 48919,
-                "rating": "4.8",
-                "sale_price": "$27.43",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81LIVrFpRqL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0B9W168H2",
+                "name": "2022 Panini Prestige NFL Football Blaster Box (66 cards/bx) Look for Blaster Exclusive Diamond Parallel and Rookie Cards and Autos Superior Sports Investments Exclusive !",
+                "ratings_count": 371,
+                "rating": "4.4",
+                "sale_price": "$28.44",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81Kl3Qur3kL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/HotHands-Hand-Warmers-Odorless-Activated/dp/B0007ZF4OA/ref=zg_bs_g_sporting-goods_d_sccl_27/146-9711317-9917558?psc=1"
+                "product_url": "https://www.amazon.com/Panini-Prestige-Football-Exclusive-Investments/dp/B0B9W168H2/ref=zg_bs_g_sports-collectibles_d_sccl_27/135-4766424-6544615?psc=1"
             },
             {
                 "rank": 28,
-                "asin": "B09DF9NWC7",
-                "name": "Jump Rope, Tangle-Free Rapid Speed Jumping Rope Cable with Ball Bearings for Women, Men, and Kids, Adjustable Steel Jump Rope Workout with Foam Handles for Fitness, Home Exercise & Slim Body",
-                "ratings_count": 18266,
-                "rating": "4.5",
-                "sale_price": "$8.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71wm42EtoNL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0CCX2PCDR",
+                "name": "2023 Panini Score Football Trading Card Blaster Box (132 Cards)",
+                "ratings_count": 334,
+                "rating": "4.6",
+                "sale_price": "$43.50",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71mwdYOWF2L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Tangle-Free-Jumping-Bearings-Adjustable-Handles/dp/B09DF9NWC7/ref=zg_bs_g_sporting-goods_d_sccl_28/146-9711317-9917558?psc=1"
+                "product_url": "https://www.amazon.com/Panini-Score-Football-Trading-Blaster/dp/B0CCX2PCDR/ref=zg_bs_g_sports-collectibles_d_sccl_28/135-4766424-6544615?psc=1"
             },
             {
                 "rank": 29,
-                "asin": "B017AGGBTU",
-                "name": "Sweet Sweat Waist Trimmer for Women and Men - Sweat Band Waist Trainer for High-Intensity Training & Workouts",
-                "ratings_count": 188865,
-                "rating": "4.6",
-                "sale_price": "$27.95",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71cSLFE39zL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0CDN3VMJM",
+                "name": "2023 Prizm Baseball Blaster",
+                "ratings_count": 42,
+                "rating": "4.3",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61xTebKP-6L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Sports-Research-Sweet-Sweat-Trimmer/dp/B017AGGBTU/ref=zg_bs_g_sporting-goods_d_sccl_29/146-9711317-9917558?psc=1"
+                "product_url": "https://www.amazon.com/Panini-746134155000-Prizm-Baseball-Blaster/dp/B0CDN3VMJM/ref=zg_bs_g_sports-collectibles_d_sccl_29/135-4766424-6544615?psc=1"
             },
             {
                 "rank": 30,
-                "asin": "B0BG6M961C",
-                "name": "Hydro Flask Wide Mouth vacuum insulated stainless steel water bottle with leakproof closeable straw lid for cold water drinks, sports, travel, car and school",
-                "ratings_count": 6410,
-                "rating": "4.7",
-                "sale_price": "$31.95",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/610P7TO60CL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0CQRXZBR8",
+                "name": "Topps 2024 Baseball Series 1 Hanger Pack",
+                "ratings_count": 5,
+                "rating": "4.1",
+                "sale_price": "$21.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71nHgezPRvL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Hydro-Flask-Wide-Straw-Black/dp/B0BG6M961C/ref=zg_bs_g_sporting-goods_d_sccl_30/146-9711317-9917558?psc=1"
+                "product_url": "https://www.amazon.com/Topps-2024-Baseball-Hanger-Pack/dp/B0CQRXZBR8/ref=zg_bs_g_sports-collectibles_d_sccl_30/135-4766424-6544615?psc=1"
             },
             {
                 "rank": 31,
-                "asin": "B0CHFDWF3L",
-                "name": "2 Pack Hand Warmers Rechargeable, Portable Electric Hand Warmers Reusable, USB 2 in 1 Handwarmers, Outdoor/Indoor/Warm Gifts for Men Women Kids",
-                "ratings_count": 2711,
-                "rating": "4.4",
-                "sale_price": "$17.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61sTgTCuOiL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0D8BZYJPT",
+                "name": "2023 Leaf Trinity Football Trading Card Mega Box 1 Memorbalia Card Per Box",
+                "ratings_count": 3,
+                "rating": "5.0",
+                "sale_price": "$30.44",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/717lF9KW+HL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Rechargeable-Portable-Electric-Reusable-Handwarmers/dp/B0CHFDWF3L/ref=zg_bs_g_sporting-goods_d_sccl_31/130-0955186-8905056?psc=1"
+                "product_url": "https://www.amazon.com/Leaf-Trinity-Football-Trading-Memorbalia/dp/B0D8BZYJPT/ref=zg_bs_g_sports-collectibles_d_sccl_31/136-8770153-5600701?psc=1"
             },
             {
                 "rank": 32,
-                "asin": "B07YXM6XTF",
-                "name": "Hydro Flask Wide Mouth vacuum insulated stainless steel water bottle with leakproof closeable lid for cold water drinks, sports, travel, car and school",
-                "ratings_count": 29478,
-                "rating": "4.8",
-                "sale_price": "$28.97",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/6176qXxgtIL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0BSRH9YXV",
+                "name": "2022 2023 Panini HOOPS Basketball Blaster Box of Packs (90 Cards) with Possible Exclusive Inserts including Rise and Shine Memorabilia Cards",
+                "ratings_count": 214,
+                "rating": "4.6",
+                "sale_price": "$33.33",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71g-aqIg67L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Hydro-Flask-Water-Bottle-Stainless/dp/B07YXM6XTF/ref=zg_bs_g_sporting-goods_d_sccl_32/130-0955186-8905056?psc=1"
+                "product_url": "https://www.amazon.com/Basketball-Possible-Exclusive-including-Memorabilia/dp/B0BSRH9YXV/ref=zg_bs_g_sports-collectibles_d_sccl_32/136-8770153-5600701?psc=1"
             },
             {
                 "rank": 33,
-                "asin": "B00B4IHXRU",
-                "name": "ProsourceFit Puzzle Exercise Mat ½ in, EVA Interlocking Foam Floor Tiles for Home Gym, Mat for Home Workout Equipment, Floor Padding for Kids, Grey, 24 in x 24 in x ½ in, 144 Sq Ft - 36 Tiles",
-                "ratings_count": 54198,
-                "rating": "4.6",
-                "sale_price": "$25.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81MfOTcByXL._AC_UL300_SR300,200_.jpg",
+                "asin": "B088XVMWNR",
+                "name": "NBA Superstar- (50) Card Pack NBA Basketball Superstars Starter Kit all Different cards. Comes in Custom Souvenir Case! Perfect for the Ultimate NBA Fan! by 3bros",
+                "ratings_count": 374,
+                "rating": "4.3",
+                "sale_price": "$14.25",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/A1DfoEeY6KS._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/ProSource-fs-1908-pzzl-Puzzle-Exercise-Interlocking/dp/B00B4IHXRU/ref=zg_bs_g_sporting-goods_d_sccl_33/130-0955186-8905056?psc=1"
+                "product_url": "https://www.amazon.com/Football-Superstar-Different-Souvenir-Ultimate/dp/B088XVMWNR/ref=zg_bs_g_sports-collectibles_d_sccl_33/136-8770153-5600701?psc=1"
             },
             {
                 "rank": 34,
-                "asin": "B07BB3VQ42",
-                "name": "Gymreapers Lifting Wrist Straps for Weightlifting, Bodybuilding, Powerlifting, Strength Training, & Deadlifts - Padded Neoprene with 18 inch Cotton",
-                "ratings_count": 21264,
-                "rating": "4.7",
-                "sale_price": "$14.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61+UlXddzxL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0DG71JHYY",
+                "name": "2024 Topps Bowman Chrome Baseball Factory Sealed Mega Box - Baseball Complete Sets",
+                "ratings_count": null,
+                "rating": null,
+                "sale_price": "$66.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91nrhiDQwdL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Gymreapers-Weightlifting-Bodybuilding-Powerlifting-Deadlifts/dp/B07BB3VQ42/ref=zg_bs_g_sporting-goods_d_sccl_34/130-0955186-8905056?psc=1"
+                "product_url": "https://www.amazon.com/Topps-Bowman-Chrome-Baseball-Factory/dp/B0DG71JHYY/ref=zg_bs_g_sports-collectibles_d_sccl_34/136-8770153-5600701?psc=1"
             },
             {
                 "rank": 35,
-                "asin": "B0B1VYSF8T",
-                "name": "Owala Silicone Water Bottle Boot, Anti-Slip Protective Sleeve for Water Bottle, Protects FreeSip and Flip Stainless Steel Water Bottles, 32 Oz, Blue",
-                "ratings_count": 6322,
-                "rating": "4.8",
-                "sale_price": "$7.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/41c+ROMdgcL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0D7QQR7J6",
+                "name": "2023 Panini Contenders Football Trading Card Blaster Box with 5 Packs, 1 Autograph OR Memorabilia Card",
+                "ratings_count": 5,
+                "rating": "3.0",
+                "sale_price": "$38.94",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41fmxuLhJOL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Owala-Silicone-Anti-Slip-Protective-Stainless/dp/B0B1VYSF8T/ref=zg_bs_g_sporting-goods_d_sccl_35/130-0955186-8905056?psc=1"
+                "product_url": "https://www.amazon.com/Contenders-Football-Trading-Autograph-Memorabilia/dp/B0D7QQR7J6/ref=zg_bs_g_sports-collectibles_d_sccl_35/136-8770153-5600701?psc=1"
             },
             {
                 "rank": 36,
-                "asin": "B08KZPHDPY",
-                "name": "Clear Fishing Wire, Acejoz 656FT Fishing Line Clear Invisible Hanging Wire Strong Nylon String Supports 40 Pounds for Balloon Garland Hanging Decorations",
-                "ratings_count": 9057,
-                "rating": "4.7",
-                "sale_price": "$5.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/714ge3eepCL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0CQRWST5M",
+                "name": "Topps 2024 Series 1 Baseball Factory Sealed Monster Box - Baseball Complete Sets",
+                "ratings_count": 114,
+                "rating": "4.6",
+                "sale_price": "$74.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81feKxP-pvL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Fishing-Acejoz-Invisible-Hanging-Supports/dp/B08KZPHDPY/ref=zg_bs_g_sporting-goods_d_sccl_36/130-0955186-8905056?psc=1"
+                "product_url": "https://www.amazon.com/Topps-Baseball-Factory-Sealed-Monster/dp/B0CQRWST5M/ref=zg_bs_g_sports-collectibles_d_sccl_36/136-8770153-5600701?psc=1"
             },
             {
                 "rank": 37,
-                "asin": "B0C3QY37Y8",
-                "name": "Yagud Under Desk Treadmill, Walking Pad for Home and Office, 2.5 HP Portable Walking Jogging Running Machine with Remote Control and LED Display, Sliver",
-                "ratings_count": 2764,
-                "rating": "4.2",
-                "sale_price": "$99.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61A8Iq0O4ZL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0CLMYGB21",
+                "name": "2023 Bowman Platinum Major League Baseball 4 exclusive Ice Foil Parallel Cards inside, 32 cards total Blaster box.",
+                "ratings_count": 46,
+                "rating": "4.3",
+                "sale_price": "$32.44",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81PfEOetk-L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Yagud-Treadmill-Walking-Portable-Jogging/dp/B0C3QY37Y8/ref=zg_bs_g_sporting-goods_d_sccl_37/130-0955186-8905056?psc=1"
+                "product_url": "https://www.amazon.com/Platinum-Baseball-exclusive-Parallel-Blaster/dp/B0CLMYGB21/ref=zg_bs_g_sports-collectibles_d_sccl_37/136-8770153-5600701?psc=1"
             },
             {
                 "rank": 38,
-                "asin": "B07KQR9VXG",
-                "name": "ATERCEL Workout Gloves for Men and Women, Exercise Gloves for Weight Lifting, Cycling, Gym, Training, Breathable and Snug fit",
-                "ratings_count": 36232,
-                "rating": "4.5",
-                "sale_price": "$13.95",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61HAw2w69hL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0D3CZRKFC",
+                "name": "2024 Topps Heritage #371 Shohei Ohtani Los Angeles Dodgers Official MLB Baseball Card in Raw (NM or Better) Condition",
+                "ratings_count": 1,
+                "rating": "5.0",
+                "sale_price": "$5.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61LV2V5FneL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Atercel-Exercise-Crossfit-Training-Breathable/dp/B07KQR9VXG/ref=zg_bs_g_sporting-goods_d_sccl_38/130-0955186-8905056?psc=1"
+                "product_url": "https://www.amazon.com/Topps-Heritage-Official-Card-Condition/dp/B0D3CZRKFC/ref=zg_bs_g_sports-collectibles_d_sccl_38/136-8770153-5600701?psc=1"
             },
             {
                 "rank": 39,
-                "asin": "B0794BXVY4",
-                "name": "LifePro Waver Vibration Plate Exercise Machine - Whole Body Workout Vibration Fitness Platform w/ Loop Bands - Home Training Equipment for Weight Loss & Toning",
-                "ratings_count": 24668,
-                "rating": "4.6",
-                "sale_price": "$127.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81u65S3QwTL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0C1L1648Z",
+                "name": "2022 Contenders NFL Football Blaster Value Box 8 Cards Per Pack 5 Packs Per Box 1 Autograph or Rookie Ticket Swatch Per Box on Average",
+                "ratings_count": 64,
+                "rating": "4.3",
+                "sale_price": null,
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51tlMQnyOHL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/LifePro-Vibration-Plate-Exercise-Machine-Weight-Loss/dp/B0794BXVY4/ref=zg_bs_g_sporting-goods_d_sccl_39/130-0955186-8905056?psc=1"
+                "product_url": "https://www.amazon.com/Contenders-Football-Blaster-Autograph-Average/dp/B0C1L1648Z/ref=zg_bs_g_sports-collectibles_d_sccl_39/136-8770153-5600701?psc=1"
             },
             {
                 "rank": 40,
-                "asin": "B00D7H9LIA",
-                "name": "HotHands Hand Warmer Value Pack(10 Count)",
-                "ratings_count": 13636,
-                "rating": "4.8",
-                "sale_price": "$7.48",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/610GhgA90CL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0DG71YVVY",
+                "name": "2023-24 Topps UEFA Club Competitons Merlin Value Box",
+                "ratings_count": null,
+                "rating": null,
+                "sale_price": "$29.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71l+F7t8vwL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/HotHands-Hand-Warmers-Odorless-Activated/dp/B00D7H9LIA/ref=zg_bs_g_sporting-goods_d_sccl_40/130-0955186-8905056?psc=1"
+                "product_url": "https://www.amazon.com/2023-24-Topps-Competitons-Merlin-Value/dp/B0DG71YVVY/ref=zg_bs_g_sports-collectibles_d_sccl_40/136-8770153-5600701?psc=1"
             },
             {
                 "rank": 41,
-                "asin": "B0B5F9SZW7",
-                "name": "Fitbit Inspire 3 Health &-Fitness-Tracker with Stress Management, Workout Intensity, Sleep Tracking, 24/7 Heart Rate and more, Midnight Zen/Black One Size (S & L Bands Included)",
-                "ratings_count": 14725,
-                "rating": "4.3",
-                "sale_price": "$99.95",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/51CtR+quteL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0CP2VZ37C",
+                "name": "Kobe Bryant Gold & Michael Jordan Decade Fleer Rookie Cards Set - Gem-Mint 10 Condition (Set of 2)",
+                "ratings_count": 18,
+                "rating": "4.8",
+                "sale_price": "$39.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81Ix4oQRS-L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Fitbit-Management-Intensity-Tracking-Midnight/dp/B0B5F9SZW7/ref=zg_bs_g_sporting-goods_d_sccl_41/130-0955186-8905056?psc=1"
+                "product_url": "https://www.amazon.com/Bryant-Michael-Jordan-Decade-Rookie/dp/B0CP2VZ37C/ref=zg_bs_g_sports-collectibles_d_sccl_41/136-8770153-5600701?psc=1"
             },
             {
                 "rank": 42,
-                "asin": "B012A7R7I8",
-                "name": "IDAODAN Electric Balloon Pump, Portable Electric Balloon Blower Machine Balloon Air Pump Dual Nozzle Rose Red 110V 600W Balloon Inflator for Party Decorations",
-                "ratings_count": 59354,
-                "rating": "4.7",
-                "sale_price": "$15.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71+zOwxb15L._AC_UL300_SR300,200_.jpg",
+                "asin": "B07WDT4MMV",
+                "name": "NFL Superstar- (50) Card Pack NFL Football Superstars Starter Kit all Different cards. Comes in Custom Souvenir Case! Perfect for the Ultimate Football Fan! by 3bros",
+                "ratings_count": 389,
+                "rating": "4.4",
+                "sale_price": "$14.25",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/A1BKCsJAZiL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/IDAODAN-Portable-Electric-Inflator-Decoration/dp/B012A7R7I8/ref=zg_bs_g_sporting-goods_d_sccl_42/130-0955186-8905056?psc=1"
+                "product_url": "https://www.amazon.com/Football-Guaranteed-Superstars-Souvenir-collectors/dp/B07WDT4MMV/ref=zg_bs_g_sports-collectibles_d_sccl_42/136-8770153-5600701?psc=1"
             },
             {
                 "rank": 43,
-                "asin": "B0BFWNGCL2",
-                "name": "APEXUP Weighted Vest Men 5lbs/10lbs/15lbs/20lbs/25lbs/30lbs Weights with Reflective Stripe, Weighted vest for Women Workout Equipment for Strength Training Running",
-                "ratings_count": 1782,
-                "rating": "4.6",
-                "sale_price": "$44.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/719wrHvyyDL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0D4Q5M5QW",
+                "name": "ONLY MINT Ultimate Quarterback Guaranteed NFL Card All-Time Legend or Superstar Graded 8-10 Mint Football Card | Top QB in Each Mystery Pack | Grades by PSA BGS SGC CGC | Blind Bag Contains 1 NFL Card",
+                "ratings_count": 13,
+                "rating": "3.9",
+                "sale_price": "$29.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81O4+BHuP7L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/APEXUP-Weighted-Vest-Black-15lbs/dp/B0BFWNGCL2/ref=zg_bs_g_sporting-goods_d_sccl_43/130-0955186-8905056?psc=1"
+                "product_url": "https://www.amazon.com/ONLY-MINT-Quarterback-Guaranteed-Superstar/dp/B0D4Q5M5QW/ref=zg_bs_g_sports-collectibles_d_sccl_43/136-8770153-5600701?psc=1"
             },
             {
                 "rank": 44,
-                "asin": "B094DJRMCS",
-                "name": "TECEUM Paracord Rope 1000 – 1000ft / 200ft / 120ft / 100ft / 50ft – Tactical Parachute Cord – 45+ Colors – Ideal Nylon String for Survival & Camping Gear – Stripe Cord for Survival – Utility Rope",
-                "ratings_count": 4643,
-                "rating": "4.7",
-                "sale_price": "$6.80",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71GnXeaNhqL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0C3WQC454",
+                "name": "2022-23 Topps UEFA Club Competitions Soccer (Football) Blaster Box - 42 Trading Cards - Look for Lionel Messi Cards & Randomly Inserted Autographs",
+                "ratings_count": 100,
+                "rating": "4.6",
+                "sale_price": "$35.70",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71VMcCK6K0L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Teceum-Paracord-Type-III-Black/dp/B094DJRMCS/ref=zg_bs_g_sporting-goods_d_sccl_44/130-0955186-8905056?psc=1"
+                "product_url": "https://www.amazon.com/2022-23-Topps-Competitions-Football-Blaster/dp/B0C3WQC454/ref=zg_bs_g_sports-collectibles_d_sccl_44/136-8770153-5600701?psc=1"
             },
             {
                 "rank": 45,
-                "asin": "B082HD5JDH",
-                "name": "LED Camping Lantern, Consciot Battery Powered Camping Lights, 1000LM, 4 Light Modes, IPX4 Waterproof Tent Lights, Portable Flashlight for Power Outages, Emergency, Hurricane, Hiking, 2-Pack",
-                "ratings_count": 3821,
-                "rating": "4.7",
-                "sale_price": "$21.29",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71MkWLsBUGL._AC_UL300_SR300,200_.jpg",
+                "asin": "B08W1CG811",
+                "name": "Topps 2021 Heritage Baseball Blaster Box 8 Packs Per Box",
+                "ratings_count": 449,
+                "rating": "4.3",
+                "sale_price": "$19.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71d3jatg0IL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Consciot-Dimmable-Water-Resistant-Flashlight-Emergency/dp/B082HD5JDH/ref=zg_bs_g_sporting-goods_d_sccl_45/130-0955186-8905056?psc=1"
+                "product_url": "https://www.amazon.com/Topps-Heritage-Baseball-Blaster-Packs/dp/B08W1CG811/ref=zg_bs_g_sports-collectibles_d_sccl_45/136-8770153-5600701?psc=1"
             },
             {
                 "rank": 46,
-                "asin": "B074DZ5YL9",
-                "name": "Amazon Basics Rubber Encased Exercise & Fitness Hex Dumbbell, Single, Hand Weight For Strength Training",
-                "ratings_count": 47254,
-                "rating": "4.7",
-                "sale_price": "$17.97",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61T7+l4TdwL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0DH1FSY6N",
+                "name": "New York Mets 2024 Topps Complete Mint 24 Card Hand Collated Team Set Featuring Francisco Lindor and Pete Alonso with Rookie Cards of Ronny Mauricio and Grant Hartwig Plus",
+                "ratings_count": null,
+                "rating": null,
+                "sale_price": "$14.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81NyPbAY5fL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/AmazonBasics-Rubber-Encased-Dumbbell-Weight/dp/B074DZ5YL9/ref=zg_bs_g_sporting-goods_d_sccl_46/130-0955186-8905056?psc=1"
+                "product_url": "https://www.amazon.com/Topps-Complete-Collated-Featuring-Francisco/dp/B0DH1FSY6N/ref=zg_bs_g_sports-collectibles_d_sccl_46/136-8770153-5600701?psc=1"
             },
             {
                 "rank": 47,
-                "asin": "B0DCDS4D5L",
-                "name": "Stanley Quencher H2.0 FlowState Stainless Steel Vacuum Insulated Tumbler with Lid and Straw for Water, Iced Tea or Coffee, Smoothie and More, Glacier, 30 oz",
-                "ratings_count": 42947,
+                "asin": "B0BS1WCFCN",
+                "name": "2022-23 Upper Deck Series 1 Hockey Retail Box",
+                "ratings_count": 48,
                 "rating": "4.7",
-                "sale_price": "$35.00",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/51BeMW7lU6L._AC_UL300_SR300,200_.jpg",
+                "sale_price": "$39.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/616Rebw+qlL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Quencher-FlowState-Stainless-Insulated-Smoothie/dp/B0DCDS4D5L/ref=zg_bs_g_sporting-goods_d_sccl_47/130-0955186-8905056?psc=1"
+                "product_url": "https://www.amazon.com/2022-23-Upper-Deck-Hockey-Retail/dp/B0BS1WCFCN/ref=zg_bs_g_sports-collectibles_d_sccl_47/136-8770153-5600701?psc=1"
             },
             {
                 "rank": 48,
-                "asin": "B0000DZSUX",
-                "name": "Penn Championship Tennis Balls - Regular Duty Felt Pressurized Tennis Balls",
-                "ratings_count": 8492,
-                "rating": "4.7",
-                "sale_price": "$3.94",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/713ybkIUp9L._AC_UL300_SR300,200_.jpg",
+                "asin": "B0DGZ5SMLX",
+                "name": "Los Angeles Dodgers 2024 Topps Complete Mint 29 Card Hand Collated Team Set Shohei Ohtani Card #500, Freddie Freeman and Mookie Betts with Rookie Cards of Jonny Deluca and Yoshinobu Yamamoto Plus",
+                "ratings_count": null,
+                "rating": null,
+                "sale_price": "$24.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81ufO1OLrIL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Penn-Championship-Regular-Tennis-Single/dp/B0000DZSUX/ref=zg_bs_g_sporting-goods_d_sccl_48/130-0955186-8905056?psc=1"
+                "product_url": "https://www.amazon.com/Topps-Complete-Collated-Yoshinobu-Yamamoto/dp/B0DGZ5SMLX/ref=zg_bs_g_sports-collectibles_d_sccl_48/136-8770153-5600701?psc=1"
             },
             {
                 "rank": 49,
-                "asin": "B07WYKJXXY",
-                "name": "MAXTOP Large Crossbody Fanny Pack Belt Bag with 4-Zipper Pockets,Gifts for Enjoy Sports Festival Workout Traveling Running Casual Hands-Free Wallets Waist Pack Phone Bag Fits All Phones",
-                "ratings_count": 50841,
-                "rating": "4.6",
-                "sale_price": "$14.97",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61yp4ryRMVL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07L8CDHH8",
+                "name": "1990 Hoops Basketball Card (1990-91) #205 Mark Jackson Near Mint/Mint Menendez Brothers",
+                "ratings_count": 61,
+                "rating": "4.7",
+                "sale_price": "$39.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51JwDfc6W7L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Headphone-4-Zipper-Pockets-Traveling-Outdoors/dp/B07WYKJXXY/ref=zg_bs_g_sporting-goods_d_sccl_49/130-0955186-8905056?psc=1"
+                "product_url": "https://www.amazon.com/Hoops-Basketball-1990-91-Menendez-Brothers/dp/B07L8CDHH8/ref=zg_bs_g_sports-collectibles_d_sccl_49/136-8770153-5600701?psc=1"
             },
             {
                 "rank": 50,
-                "asin": "B07N2F3JXP",
-                "name": "IRON °FLASK Camping & Hiking Hydration Flask, Wide Mouth, 3 Straw Lids, Stainless Steel Outdoor Water Bottle, Double Walled, Insulated Thermos, Metal Canteen - Midnight Black, 40 Oz",
-                "ratings_count": 91752,
-                "rating": "4.8",
-                "sale_price": "$24.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71QGGb+wa9L._AC_UL300_SR300,200_.jpg",
+                "asin": "B0CBD4G6XH",
+                "name": "2022/23 Panini Select NBA Basketball BLASTER box (6 pks/bx)",
+                "ratings_count": 32,
+                "rating": "4.1",
+                "sale_price": "$36.19",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61BUOIpdF-L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/IRON-%C2%B0FLASK-Hydration-Stainless-Insulated/dp/B07N2F3JXP/ref=zg_bs_g_sporting-goods_d_sccl_50/130-0955186-8905056?psc=1"
+                "product_url": "https://www.amazon.com/2022-Panini-Select-Basketball-BLASTER/dp/B0CBD4G6XH/ref=zg_bs_g_sports-collectibles_d_sccl_50/136-8770153-5600701?psc=1"
             }
         ]
     }

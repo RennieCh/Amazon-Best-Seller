@@ -1,618 +1,582 @@
 {
     "200": {
-        "category": "Amazon Best SellersKitchen & Dining",
+        "category": "Amazon Best SellersMovies & TV",
         "category_hierarchy": [
             {
                 "name": "Any Department",
-                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_kitchen_0_1"
+                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_movies-tv_0_1"
             },
             {
-                "name": "Kitchen & Dining",
-                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining/zgbs/kitchen/ref=zg_bs_nav_kitchen_0?pg=1"
+                "name": "Movies & TV",
+                "url": "https://www.amazon.com/best-sellers-movies-TV-DVD-Blu-ray/zgbs/movies-tv/ref=zg_bs_nav_movies-tv_0?pg=1"
             }
         ],
         "child_categories": [
             {
-                "category": "Bakeware",
-                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Bakeware/zgbs/kitchen/289668/ref=zg_bs_nav_kitchen_1"
+                "category": "Blu-ray",
+                "url": "https://www.amazon.com/Best-Sellers-Movies-TV-Blu-ray/zgbs/movies-tv/2958935011/ref=zg_bs_nav_movies-tv_1"
             },
             {
-                "category": "Bar Tools & Drinkware",
-                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Bar-Tools-Drinkware/zgbs/kitchen/289728/ref=zg_bs_nav_kitchen_1"
+                "category": "DVD",
+                "url": "https://www.amazon.com/Best-Sellers-Movies-TV-DVD/zgbs/movies-tv/2958934011/ref=zg_bs_nav_movies-tv_1"
             },
             {
-                "category": "Coffee, Tea & Espresso Appliances",
-                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Coffee-Tea-Espresso-Appliances/zgbs/kitchen/289742/ref=zg_bs_nav_kitchen_1"
-            },
-            {
-                "category": "Cookware",
-                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Kitchen-Cookware/zgbs/kitchen/289814/ref=zg_bs_nav_kitchen_1"
-            },
-            {
-                "category": "Dining & Entertaining",
-                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Dining-Entertaining/zgbs/kitchen/13162311/ref=zg_bs_nav_kitchen_1"
-            },
-            {
-                "category": "Glassware & Drinkware",
-                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Glassware-Drinkware/zgbs/kitchen/13217501/ref=zg_bs_nav_kitchen_1"
-            },
-            {
-                "category": "Home Brewing & Wine Making",
-                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Home-Brewing-Wine-Making/zgbs/kitchen/979832011/ref=zg_bs_nav_kitchen_1"
-            },
-            {
-                "category": "Kitchen & Table Linens",
-                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Kitchen-Table-Linens/zgbs/kitchen/1063916/ref=zg_bs_nav_kitchen_1"
-            },
-            {
-                "category": "Kitchen Utensils & Gadgets",
-                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Kitchen-Utensils-Gadgets/zgbs/kitchen/289754/ref=zg_bs_nav_kitchen_1"
-            },
-            {
-                "category": "Small Appliances",
-                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Kitchen-Small-Appliances/zgbs/kitchen/289913/ref=zg_bs_nav_kitchen_1"
-            },
-            {
-                "category": "Storage & Organization",
-                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Kitchen-Storage-Organization/zgbs/kitchen/510136/ref=zg_bs_nav_kitchen_1"
-            },
-            {
-                "category": "Wine Accessories",
-                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Wine-Accessories/zgbs/kitchen/13299291/ref=zg_bs_nav_kitchen_1"
+                "category": "Prime Video",
+                "url": "https://www.amazon.com/Best-Sellers-Movies-TV-Prime-Video/zgbs/movies-tv/2958933011/ref=zg_bs_nav_movies-tv_1"
             }
         ],
-        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/Best-Sellers-Kitchen-Dining/zgbs/kitchen/ref%3Dzg_bs_pg_2_kitchen%3F_encoding%3DUTF8%26pg%3D2",
-        "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining/zgbs/kitchen/ref=zg_bs_nav_kitchen_0?pg=1",
+        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/best-sellers-movies-TV-DVD-Blu-ray/zgbs/movies-tv/ref%3Dzg_bs_pg_2_movies-tv%3F_encoding%3DUTF8%26pg%3D2",
+        "url": "https://www.amazon.com/best-sellers-movies-TV-DVD-Blu-ray/zgbs/movies-tv/ref=zg_bs_nav_movies-tv_0?pg=1",
         "product_listings": [
             {
                 "rank": 1,
-                "asin": "B0CJZMP7L1",
-                "name": "Stanley Quencher H2.0 FlowState Stainless Steel Vacuum Insulated Tumbler with Lid and Straw for Water, Iced Tea or Coffee, Smoothie and More, Lilac, 30oz",
-                "ratings_count": 42947,
-                "rating": "4.7",
-                "sale_price": "$35.00",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/51zaCVh6SIL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0DHH8ZTGS",
+                "name": "Deadpool & Wolverine - UHD/BD Combo + DigitalRyan Reynolds",
+                "ratings_count": 26,
+                "rating": "3.1",
+                "sale_price": "$29.96",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81augjJBSVL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Quencher-FlowState-Stainless-Insulated-Smoothie/dp/B0CJZMP7L1/ref=zg_bs_g_kitchen_d_sccl_1/132-0910105-0920347?psc=1"
+                "product_url": "https://www.amazon.com/Deadpool-Wolverine-Combo-Digital-Blu-ray/dp/B0DHH8ZTGS/ref=zg_bs_g_movies-tv_d_sccl_1/130-8130773-9447164?psc=1"
             },
             {
                 "rank": 2,
-                "asin": "B085DTZQNZ",
-                "name": "Owala FreeSip Insulated Stainless Steel Water Bottle with Straw for Sports and Travel, BPA-Free, 24-oz, Very, Very Dark",
-                "ratings_count": 58198,
-                "rating": "4.7",
-                "sale_price": "$27.94",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/718RbhzhVbL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0DHH7JQRF",
+                "name": "Deadpool & Wolverine - Blu-ray + DigitalRyan Reynolds",
+                "ratings_count": 26,
+                "rating": "3.1",
+                "sale_price": "$26.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91zGP84MoGL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Owala-Insulated-Stainless-Steel-Push-Button-24-Ounce/dp/B085DTZQNZ/ref=zg_bs_g_kitchen_d_sccl_2/132-0910105-0920347?psc=1"
+                "product_url": "https://www.amazon.com/Deadpool-Wolverine-Blu-ray-Ryan-Reynolds/dp/B0DHH7JQRF/ref=zg_bs_g_movies-tv_d_sccl_2/130-8130773-9447164?psc=1"
             },
             {
                 "rank": 3,
-                "asin": "B003OAJGJO",
-                "name": "Crock-Pot 7 Quart Oval Manual Slow Cooker, Stainless Steel (SCV700-S-BR), Versatile Cookware for Large Families or Entertaining",
-                "ratings_count": 32997,
-                "rating": "4.7",
-                "sale_price": "$29.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81s15a8-lGL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0DHH78K1P",
+                "name": "Deadpool & Wolverine - UHD/BD Combo + Digital + Wolverine SteelbookRyan Reynolds",
+                "ratings_count": 26,
+                "rating": "3.1",
+                "sale_price": null,
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71nNJEzBpkL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Crock-Pot-SCV700SS-Stainless-7-Quart-Manual/dp/B003OAJGJO/ref=zg_bs_g_kitchen_d_sccl_3/132-0910105-0920347?psc=1"
+                "product_url": "https://www.amazon.com/Deadpool-Wolverine-Digital-Steelbook-Blu-ray/dp/B0DHH78K1P/ref=zg_bs_g_movies-tv_d_sccl_3/130-8130773-9447164?psc=1"
             },
             {
                 "rank": 4,
-                "asin": "B0764HS4SL",
-                "name": "Fullstar Vegetable Chopper - Food Chopper - Onion Chopper - Vegetable Slicer & Spiralizer - Veggie Chopper with Container - Kitchen Gadgets - Home Essentials - Kitchen Accessories (4 in 1, White)",
-                "ratings_count": 110821,
-                "rating": "4.5",
-                "sale_price": "$29.97",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81Lv7sV-6-L._AC_UL300_SR300,200_.jpg",
+                "asin": "B01I048O8W",
+                "name": "Hammer Horror 8-Film Collection [Blu-ray]Peter Cushing",
+                "ratings_count": 1503,
+                "rating": "4.7",
+                "sale_price": "$12.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91g01lutfoL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Vegetable-Chopper-Spiralizer-Slicer-Choppers/dp/B0764HS4SL/ref=zg_bs_g_kitchen_d_sccl_4/132-0910105-0920347?psc=1"
+                "product_url": "https://www.amazon.com/Hammer-Horror-8-Film-Collection-Blu-ray/dp/B01I048O8W/ref=zg_bs_g_movies-tv_d_sccl_4/130-8130773-9447164?psc=1"
             },
             {
                 "rank": 5,
-                "asin": "B0CGRGRXPY",
-                "name": "SURETIVIAN Chicken Shredder Large Chicken Breast Shredder Tool Twist with Brush&Fork, Visible Meat Shredder Machine, Strong Anti-Slip Strip, Ergonomic Handle, BPA Free, Suitable for Pork Beef Chicken",
-                "ratings_count": 5600,
-                "rating": "4.7",
-                "sale_price": "$22.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71d6vBNDknL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0DJ1NQJ4Z",
+                "name": "Interstellar 10th Anniversary Collector's Edition [4K UHD + Blu-Ray + Digital Copy]Matthew McConaughey",
+                "ratings_count": 9570,
+                "rating": "4.8",
+                "sale_price": "$67.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61JWETJfRcL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/SURETIVIAN-Shredder-Anti-Slip-Ergonomic-Suitable/dp/B0CGRGRXPY/ref=zg_bs_g_kitchen_d_sccl_5/132-0910105-0920347?psc=1"
+                "product_url": "https://www.amazon.com/Interstellar-Anniversary-Collectors-Blu-Ray-Digital/dp/B0DJ1NQJ4Z/ref=zg_bs_g_movies-tv_d_sccl_5/130-8130773-9447164?psc=1"
             },
             {
                 "rank": 6,
-                "asin": "B0BHBP1X1B",
-                "name": "Simple Modern 40 oz Tumbler with Handle and Straw Lid | Insulated Cup Reusable Stainless Steel Water Bottle Travel Mug Cupholder Friendly | Gifts for Women Men Him Her | Trek Collection | Almond Birch",
-                "ratings_count": 36389,
-                "rating": "4.8",
-                "sale_price": "$29.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71nhPE7vxHL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0DHH7MX3R",
+                "name": "Deadpool & Wolverine - UHD/BD Combo + Digital + Deadpool SteelbookRyan Reynolds",
+                "ratings_count": 26,
+                "rating": "3.1",
+                "sale_price": "$54.96",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71wkTtcU2tL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Simple-Modern-Tumbler-Handle-Insulated/dp/B0BHBP1X1B/ref=zg_bs_g_kitchen_d_sccl_6/132-0910105-0920347?psc=1"
+                "product_url": "https://www.amazon.com/Deadpool-Wolverine-Digital-Steelbook-Blu-ray/dp/B0DHH7MX3R/ref=zg_bs_g_movies-tv_d_sccl_6/130-8130773-9447164?psc=1"
             },
             {
                 "rank": 7,
-                "asin": "B0113UZJE2",
-                "name": "Etekcity Food Kitchen Scale, Digital Grams and Ounces for Weight Loss, Baking, Cooking, Keto and Meal Prep, LCD Display, Medium, 304 Stainless Steel",
-                "ratings_count": 160952,
-                "rating": "4.6",
-                "sale_price": "$13.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/91YrLTBnMcL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0D8LH17QL",
+                "name": "Alien: Romulus [4K UHD]Isabela Merced",
+                "ratings_count": 18,
+                "rating": "2.9",
+                "sale_price": "$54.96",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81cbb8XewlL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Etekcity-Multifunction-Stainless-Batteries-Included/dp/B0113UZJE2/ref=zg_bs_g_kitchen_d_sccl_7/132-0910105-0920347?psc=1"
+                "product_url": "https://www.amazon.com/Alien-Romulus-UHD-Isabela-Merced/dp/B0D8LH17QL/ref=zg_bs_g_movies-tv_d_sccl_7/130-8130773-9447164?psc=1"
             },
             {
                 "rank": 8,
-                "asin": "B00S93EQUK",
-                "name": "Alpha Grillers Instant Read Meat Thermometer for Cooking Grill and BBQ Griddle - Waterproof w/Backlight & Calibration for Food, Oven, Air Fryer Accessories, Kitchen Essentials, Stocking Stuffer Gifts",
-                "ratings_count": 69290,
-                "rating": "4.7",
-                "sale_price": "$15.98",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81bpKKv68-L._AC_UL300_SR300,200_.jpg",
+                "asin": "B0DH763FDX",
+                "name": "Kickboxer 4K Digital Amazon SteelbookJean-Claude Van Damme",
+                "ratings_count": 1498,
+                "rating": "4.4",
+                "sale_price": "$34.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/812kDqfnreL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Thermometer-Cooking-BACKLIGHT-WATERPROOF-Temperature/dp/B00S93EQUK/ref=zg_bs_g_kitchen_d_sccl_8/132-0910105-0920347?psc=1"
+                "product_url": "https://www.amazon.com/Kickboxer-Bluray-Digital-Steelbook-Blu-ray/dp/B0DH763FDX/ref=zg_bs_g_movies-tv_d_sccl_8/130-8130773-9447164?psc=1"
             },
             {
                 "rank": 9,
-                "asin": "B07FDJMC9Q",
-                "name": "Ninja Air Fryer, Roast, Bake, Air Fry, Roast, Broil, Reheats, & Dehydrates, 4-in-1, Fries, Frozen Food, Veggies, and Juicy Meat, Less Oil, Easy Meals, Healthy Meals, Compact, 4 QT, Grey, AF101",
-                "ratings_count": 81935,
-                "rating": "4.7",
-                "sale_price": "$89.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71+8uTMDRFL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0DGYC9RBD",
+                "name": "Transformers One [4K UHD Steelbook + Blu-Ray+ Digital Copy]Chris Hemsworth",
+                "ratings_count": 9,
+                "rating": "4.8",
+                "sale_price": "$34.96",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81go-DlsEoL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Ninja-AF101-Fryer-Black-gray/dp/B07FDJMC9Q/ref=zg_bs_g_kitchen_d_sccl_9/132-0910105-0920347?psc=1"
+                "product_url": "https://www.amazon.com/Transformers-Steelbook-Blu-Ray-Digital-Copy/dp/B0DGYC9RBD/ref=zg_bs_g_movies-tv_d_sccl_9/130-8130773-9447164?psc=1"
             },
             {
                 "rank": 10,
-                "asin": "B0C9ZQ434J",
-                "name": "YARRAMATE Oil Sprayer for Cooking, 2 in 1 Olive Oil Dispenser Bottle for Kitchen, 16oz/470ml Premium Glass Oil Bottle, Food-grade Oil Mister for Air Fryer, Salad, Frying, BBQ (Creamy White)",
-                "ratings_count": 11097,
-                "rating": "4.4",
-                "sale_price": "$8.77",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71FxPbViEyL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0D8WK77VG",
+                "name": "Twisters [4K UHD]Daisy Edgar-Jones",
+                "ratings_count": 49,
+                "rating": "3.9",
+                "sale_price": "$29.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71xNbXXrwHL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/YARRAMATE-Sprayer-Cooking-Dispenser-Food-grade/dp/B0C9ZQ434J/ref=zg_bs_g_kitchen_d_sccl_10/132-0910105-0920347?psc=1"
+                "product_url": "https://www.amazon.com/Twisters-4K-UHD-Daisy-Edgar-Jones/dp/B0D8WK77VG/ref=zg_bs_g_movies-tv_d_sccl_10/130-8130773-9447164?psc=1"
             },
             {
                 "rank": 11,
-                "asin": "B06X9NQ8GX",
-                "name": "Amazon Basics Digital Kitchen Scale with LCD Display, Batteries Included, Weighs up to 11 pounds, Black and Stainless Steel",
-                "ratings_count": 94698,
-                "rating": "4.7",
-                "sale_price": "$11.49",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71mcRfq5GsL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0CW3DTWNG",
+                "name": "Dune: Part Two (4K Ultra HD + Digital) [4K UHD]Timothée Chalamet",
+                "ratings_count": 14803,
+                "rating": "4.6",
+                "sale_price": "$22.96",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71ZNyTPaV1L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/AmazonBasics-Stainless-Digital-Batteries-Included/dp/B06X9NQ8GX/ref=zg_bs_g_kitchen_d_sccl_11/132-0910105-0920347?psc=1"
+                "product_url": "https://www.amazon.com/Dune-Part-Two-Ultra-Digital/dp/B0CW3DTWNG/ref=zg_bs_g_movies-tv_d_sccl_11/130-8130773-9447164?psc=1"
             },
             {
                 "rank": 12,
-                "asin": "B07XXSYLL8",
-                "name": "ThermoPro TP19H Digital Meat Thermometer for Cooking with Ambidextrous Backlit and Motion Sensing Kitchen Cooking Food Thermometer for BBQ Grill Smoker Oil Fry Candy Instant Read Thermometer",
-                "ratings_count": 42060,
-                "rating": "4.7",
-                "sale_price": "$16.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61Qs4ZJXsXL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0DJL9SZDM",
+                "name": "Looney Tunes Collectors Choice: V4 (BD)Tex Avery",
+                "ratings_count": 2,
+                "rating": "4.0",
+                "sale_price": "$21.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61ZD3mqts-L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/ThermoPro-Thermometer-Grilling-Waterproof-Ambidextrous/dp/B07XXSYLL8/ref=zg_bs_g_kitchen_d_sccl_12/132-0910105-0920347?psc=1"
+                "product_url": "https://www.amazon.com/Looney-Tunes-Collectors-Choice-Blu-ray/dp/B0DJL9SZDM/ref=zg_bs_g_movies-tv_d_sccl_12/130-8130773-9447164?psc=1"
             },
             {
                 "rank": 13,
-                "asin": "B07YP2VH4B",
-                "name": "KitchenAid Classic Multifunction Can Opener / Bottle Opener",
-                "ratings_count": 86389,
-                "rating": "4.6",
-                "sale_price": "$11.94",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/51yO+bt+mqL._AC_UL300_SR300,200_.jpg",
+                "asin": "B08KQBYM1Y",
+                "name": "The Lord of the Rings: The Motion Picture Trilogy (Extended & Theatrical)(4K Ultra HD)Mark Ordesky",
+                "ratings_count": 14165,
+                "rating": "4.7",
+                "sale_price": "$66.54",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71h7HHb9lIL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/KitchenAid-KE199OHOBA-Classic-Multifunction-Opener/dp/B07YP2VH4B/ref=zg_bs_g_kitchen_d_sccl_13/132-0910105-0920347?psc=1"
+                "product_url": "https://www.amazon.com/Lord-Rings-Picture-Extended-Theatrical/dp/B08KQBYM1Y/ref=zg_bs_g_movies-tv_d_sccl_13/130-8130773-9447164?psc=1"
             },
             {
                 "rank": 14,
-                "asin": "B0CJF94M8J",
-                "name": "TrendPlain 16oz Oil Dispenser Bottle for Kitchen - 2 in 1 Olive Oil Dispenser and Oil Sprayer - BPA-Free - 470ml Olive Oil Bottle - Oil Sprayer for Cooking, Kitchen, Salad, Barbecue Black",
-                "ratings_count": 7342,
-                "rating": "4.5",
-                "sale_price": "$8.77",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/717UVXCru6L._AC_UL300_SR300,200_.jpg",
+                "asin": "B0DB8RCLB3",
+                "name": "Nightmare On Elm Street, A (Theatrical & Uncut) (4K Ultra HD + Digital) [4K UHD]John Saxon",
+                "ratings_count": 14156,
+                "rating": "4.6",
+                "sale_price": "$23.79",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81GVp+vv4uL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/TrendPlain-16oz-Dispenser-Bottle-Kitchen/dp/B0CJF94M8J/ref=zg_bs_g_kitchen_d_sccl_14/132-0910105-0920347?psc=1"
+                "product_url": "https://www.amazon.com/Nightmare-Street-Theatrical-Uncut-Digital/dp/B0DB8RCLB3/ref=zg_bs_g_movies-tv_d_sccl_14/130-8130773-9447164?psc=1"
             },
             {
                 "rank": 15,
-                "asin": "B0CYC9RKSV",
-                "name": "Egg Topper Cutter Tool Egg Cracker Tool Egg Shell OpenerHard Boiled Egg Peeler Egg Cracker Tool For Eggs Kitchen Gadgets Egg Cracking Tool Handheld Egg Slicer Egg Peeler Tool For Hard Boiled Eggs (3)",
-                "ratings_count": 4,
-                "rating": "5.0",
-                "sale_price": "$8.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71PMudWL4xL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0D8LG1W31",
+                "name": "Alien: Romulus [4K UHD]Isabela Merced",
+                "ratings_count": 18,
+                "rating": "2.9",
+                "sale_price": "$37.49",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81fBb0Z1egL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Cracker-Kitchen-Gadgets-Cracking-Handheld/dp/B0CYC9RKSV/ref=zg_bs_g_kitchen_d_sccl_15/132-0910105-0920347?psc=1"
+                "product_url": "https://www.amazon.com/Alien-Romulus-UHD-Isabela-Merced/dp/B0D8LG1W31/ref=zg_bs_g_movies-tv_d_sccl_15/130-8130773-9447164?psc=1"
             },
             {
                 "rank": 16,
-                "asin": "B08Z6QSWVQ",
-                "name": "THERMOS FUNTAINER Water Bottle with Straw - 12 Ounce, Pokémon - Kids Stainless Steel Vacuum Insulated Water Bottle with Lid",
-                "ratings_count": 68218,
-                "rating": "4.7",
-                "sale_price": "$12.93",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61qBGuZfyiL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0D8WJ2ZHK",
+                "name": "Twisters [Blu-ray]Daisy Edgar-Jones",
+                "ratings_count": 49,
+                "rating": "3.9",
+                "sale_price": "$24.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71LXlYMccGL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/THERMOS-FUNTAINER-Stainless-Insulated-Pokemon/dp/B08Z6QSWVQ/ref=zg_bs_g_kitchen_d_sccl_16/132-0910105-0920347?psc=1"
+                "product_url": "https://www.amazon.com/Twisters-Blu-ray-Daisy-Edgar-Jones/dp/B0D8WJ2ZHK/ref=zg_bs_g_movies-tv_d_sccl_16/130-8130773-9447164?psc=1"
             },
             {
                 "rank": 17,
-                "asin": "B0CRLHDKS1",
-                "name": "BrüMate Era 40 oz Tumbler with Handle and Straw | 100% Leakproof Insulated Tumbler with Lid and Straw | Made of Stainless Steel | Cup Holder Friendly Base | 40oz (Lilac Dusk)",
-                "ratings_count": 346,
+                "asin": "B09X7D8YYT",
+                "name": "Conjuring 7-Film Collection, The (Blu-ray)Various",
+                "ratings_count": 1144,
                 "rating": "4.7",
-                "sale_price": "$44.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/51lVmYVNYhL._AC_UL300_SR300,200_.jpg",
+                "sale_price": "$15.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71MM+duiVzL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Br%C3%BCMate-Leakproof-Insulated-Stainless-Friendly/dp/B0CRLHDKS1/ref=zg_bs_g_kitchen_d_sccl_17/132-0910105-0920347?psc=1"
+                "product_url": "https://www.amazon.com/Conjuring-Universe-7-Film-Collection/dp/B09X7D8YYT/ref=zg_bs_g_movies-tv_d_sccl_17/130-8130773-9447164?psc=1"
             },
             {
                 "rank": 18,
-                "asin": "B079M8FPTW",
-                "name": "Rubbermaid Brilliance Food Storage Containers, BPA Free, Airtight Lids, Ideal for Lunch, Meal Prep & Leftovers, Set of 5 (3.2 Cup)",
-                "ratings_count": 103117,
-                "rating": "4.7",
-                "sale_price": "$30.16",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/818i3AJdNdL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0DHH83BC1",
+                "name": "Deadpool & Wolverine - DVDRyan Reynolds",
+                "ratings_count": 26,
+                "rating": "3.1",
+                "sale_price": "$26.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81UY5eG49DL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Rubbermaid-Brilliance-Storage-Container-BPA-free/dp/B079M8FPTW/ref=zg_bs_g_kitchen_d_sccl_18/132-0910105-0920347?psc=1"
+                "product_url": "https://www.amazon.com/Deadpool-Wolverine-DVD-Ryan-Reynolds/dp/B0DHH83BC1/ref=zg_bs_g_movies-tv_d_sccl_18/130-8130773-9447164?psc=1"
             },
             {
                 "rank": 19,
-                "asin": "B0B6PLG6G2",
-                "name": "Air Fryer Paper Liners,125Pcs Parchment Paper, Air Fryer Disposable Paper Liner for Microwave, Non-Stick Air Fryer Liners Square Free of Bleach (8IN)",
-                "ratings_count": 22835,
-                "rating": "4.6",
-                "sale_price": "$12.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81esmIBZIJL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0D8WHMP8R",
+                "name": "Twisters [DVD]Daisy Edgar-Jones",
+                "ratings_count": 49,
+                "rating": "3.9",
+                "sale_price": "$19.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/714L9tWzEVL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Air-Fryer-Paper-Liners-Disposable/dp/B0B6PLG6G2/ref=zg_bs_g_kitchen_d_sccl_19/132-0910105-0920347?psc=1"
+                "product_url": "https://www.amazon.com/Twisters-DVD-Daisy-Edgar-Jones/dp/B0D8WHMP8R/ref=zg_bs_g_movies-tv_d_sccl_19/130-8130773-9447164?psc=1"
             },
             {
                 "rank": 20,
-                "asin": "B0BNYR7MQV",
-                "name": "Stanley IceFlow Stainless Steel Tumbler with Straw - Vacuum Insulated Water Bottle for Home, Office or Car Reusable Cup with Straw Leak Resistant Flip Cold for 12 Hrs or Iced for 2 Days (Rose Quartz)",
-                "ratings_count": 36588,
-                "rating": "4.6",
-                "sale_price": "$35.00",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/41Ai-GLQzQL._AC_UL300_SR300,200_.jpg",
+                "asin": "B073CY8HYG",
+                "name": "Night Gallery: The Complete Series [DVD]Vincent Price",
+                "ratings_count": 2626,
+                "rating": "4.7",
+                "sale_price": "$14.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81DhCER77kL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Stanley-IceFlow-Stainless-Steel-Tumbler/dp/B0BNYR7MQV/ref=zg_bs_g_kitchen_d_sccl_20/132-0910105-0920347?psc=1"
+                "product_url": "https://www.amazon.com/Night-Gallery-Complete-Rod-Serling/dp/B073CY8HYG/ref=zg_bs_g_movies-tv_d_sccl_20/130-8130773-9447164?psc=1"
             },
             {
                 "rank": 21,
-                "asin": "B0CQVWW5QK",
-                "name": "HydroJug Traveler - 40 oz Water Bottle with Handle & Flip Straw - Fits in Cup Holder, Leak Resistant Tumbler-Reusable Insulated Stainless Steel & Rubber Base - Gifts for Women & Men, Cream",
-                "ratings_count": 4118,
-                "rating": "4.4",
-                "sale_price": "$39.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/31y1VC+JsML._AC_UL300_SR300,200_.jpg",
+                "asin": "B0CL7JD41F",
+                "name": "Oppenheimer - 4K Ultra HD + Blu-ray + Digital [4K UHD]Cillian Murphy",
+                "ratings_count": 4143,
+                "rating": "4.6",
+                "sale_price": "$21.85",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81QXIa9fFvL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/HydroJug-Traveler-Resistant-Bottle-Reusable-Insulated/dp/B0CQVWW5QK/ref=zg_bs_g_kitchen_d_sccl_21/132-0910105-0920347?psc=1"
+                "product_url": "https://www.amazon.com/Oppenheimer-Ultra-Blu-ray-Digital-UHD/dp/B0CL7JD41F/ref=zg_bs_g_movies-tv_d_sccl_21/130-8130773-9447164?psc=1"
             },
             {
                 "rank": 22,
-                "asin": "B07PZF3QS3",
-                "name": "KitchenAid All Purpose Kitchen Shears with Protective Sheath for Everyday use, Dishwasher Safe Stainless Steel Scissors with Comfort Grip, 8.72-Inch, Black",
-                "ratings_count": 77439,
+                "asin": "B07CPJYR3G",
+                "name": "HOCUS POCUS 25TH US/SDBette Midler",
+                "ratings_count": 88210,
                 "rating": "4.8",
-                "sale_price": "$8.44",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/41E7ALk+uXL._AC_UL300_SR300,200_.jpg",
+                "sale_price": "$10.21",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81jh4R-eihL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/KitchenAid-Protective-Dishwasher-Stainless-8-72-Inch/dp/B07PZF3QS3/ref=zg_bs_g_kitchen_d_sccl_22/132-0910105-0920347?psc=1"
+                "product_url": "https://www.amazon.com/HOCUS-POCUS-Bette-Midler/dp/B07CPJYR3G/ref=zg_bs_g_movies-tv_d_sccl_22/130-8130773-9447164?psc=1"
             },
             {
                 "rank": 23,
-                "asin": "B08N9Q24M9",
-                "name": "Mueller Pro-Series 10-in-1, 8 Blade Vegetable Chopper, Onion Mincer, Cutter, Dicer, Egg Slicer with Container, French Fry Cutter, Potato Slicer, Home Essentials & Kitchen Gadgets, Salad Chopper",
-                "ratings_count": 30464,
-                "rating": "4.5",
-                "sale_price": "$29.97",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/91Ulir9wKXL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0B29JSPV8",
+                "name": "Bluey: Complete Seasons One and Two (DVD)Various",
+                "ratings_count": 3453,
+                "rating": "4.9",
+                "sale_price": "$19.96",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71bFA1QbZkL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Mueller-Austria-Chopper-Vegetable-Container/dp/B08N9Q24M9/ref=zg_bs_g_kitchen_d_sccl_23/132-0910105-0920347?psc=1"
+                "product_url": "https://www.amazon.com/Bluey-Complete-Seasons-One-Two/dp/B0B29JSPV8/ref=zg_bs_g_movies-tv_d_sccl_23/130-8130773-9447164?psc=1"
             },
             {
                 "rank": 24,
-                "asin": "B012T634SM",
-                "name": "Magic Bullet Blender, Small, Silver, 11 Piece Set",
-                "ratings_count": 109902,
-                "rating": "4.4",
-                "sale_price": "$39.88",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61w2Tj7r0BL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0019KAQEU",
+                "name": "It's the Great Pumpkin, Charlie Brown (Remastered Deluxe Edition)Various",
+                "ratings_count": 7613,
+                "rating": "4.9",
+                "sale_price": "$9.96",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/713BgYQSkKL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Magic-Bullet-Blender-Small-Silver/dp/B012T634SM/ref=zg_bs_g_kitchen_d_sccl_24/132-0910105-0920347?psc=1"
+                "product_url": "https://www.amazon.com/Great-Pumpkin-Charlie-Remastered-Deluxe/dp/B0019KAQEU/ref=zg_bs_g_movies-tv_d_sccl_24/130-8130773-9447164?psc=1"
             },
             {
                 "rank": 25,
-                "asin": "B0D8VH4MKS",
-                "name": "40 oz Tumbler Flip Straw Lid Compatible with Stanley Cup 40oz Tumbler Tumbler Cover Compatible with Stanley Cup Quencher (Cream White, 2 Pack)",
-                "ratings_count": 77,
-                "rating": "3.9",
-                "sale_price": "$17.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61jGGllPckL._AC_UL300_SR300,200_.jpg",
+                "asin": "B084WQXLMW",
+                "name": "Goonies, The (4K Ultra HD + Blu-ray) [4K UHD]Chris Columbus",
+                "ratings_count": 2521,
+                "rating": "4.8",
+                "sale_price": "$15.59",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81v9kAgiOaL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Tumbler-Straw-Compatible-Stanley-Quencher/dp/B0D8VH4MKS/ref=zg_bs_g_kitchen_d_sccl_25/132-0910105-0920347?psc=1"
+                "product_url": "https://www.amazon.com/Goonies-4K-Ultra-Blu-ray-Digital/dp/B084WQXLMW/ref=zg_bs_g_movies-tv_d_sccl_25/130-8130773-9447164?psc=1"
             },
             {
                 "rank": 26,
-                "asin": "B08J8GZXKZ",
-                "name": "KitchenAid Ribbed Soft Silicone Oven Mitt Set, 7\"x13\", Milkshake 2 Count",
-                "ratings_count": 6621,
+                "asin": "B0DJ3N5M43",
+                "name": "Demolition Man 4K UHDVarious",
+                "ratings_count": 14733,
                 "rating": "4.7",
-                "sale_price": "$20.00",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/617z6N3l59L._AC_UL300_SR300,200_.jpg",
+                "sale_price": "$45.77",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81IuY4K2FnL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/KitchenAid-Ribbed-Soft-Silicone-Milkshake/dp/B08J8GZXKZ/ref=zg_bs_g_kitchen_d_sccl_26/132-0910105-0920347?psc=1"
+                "product_url": "https://www.amazon.com/Demolition-Man-Limited-4K-UHD/dp/B0DJ3N5M43/ref=zg_bs_g_movies-tv_d_sccl_26/130-8130773-9447164?psc=1"
             },
             {
                 "rank": 27,
-                "asin": "B086PHS2V8",
-                "name": "SENSARTE Nonstick Frying Pan Skillet, Swiss Granite Coating Omelette Pan, Healthy Stone Cookware Chef's Pan, PFOA Free (8/9.5/10/11/12.5 Inch) (9.5 Inch)",
-                "ratings_count": 22672,
-                "rating": "4.6",
-                "sale_price": "$23.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61b-tqU2xoL._AC_UL300_SR300,200_.jpg",
+                "asin": "B098Z28MSY",
+                "name": "The Thing [4K UHD]Kurt Russell",
+                "ratings_count": 9424,
+                "rating": "4.7",
+                "sale_price": "$17.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81Bv9OlDqzL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/SENSARTE-Nonstick-Frying-Pan-Skillet/dp/B086PHS2V8/ref=zg_bs_g_kitchen_d_sccl_27/132-0910105-0920347?psc=1"
+                "product_url": "https://www.amazon.com/Thing-Blu-ray-4K-UHD/dp/B098Z28MSY/ref=zg_bs_g_movies-tv_d_sccl_27/130-8130773-9447164?psc=1"
             },
             {
                 "rank": 28,
-                "asin": "B0C5DBMYZF",
-                "name": "REALINN Under Sink Organizer and Storage, 2 Pack Pull Out Cabinet Organizer Slide Out Sink Shelf Cabinet Storage Shelves, Under Sink Storage for Kitchen Bathroom Cabinet",
-                "ratings_count": 8330,
-                "rating": "4.4",
-                "sale_price": "$45.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71WSQb57yRL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0DJL8NYC9",
+                "name": "Looney Tunes Collectors Choice Coll: V1-4 BDTex Avery",
+                "ratings_count": 2,
+                "rating": "4.0",
+                "sale_price": "$39.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61jkx-TvtcL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Organizer-Storage-Cabinet-Shelves-Bathroom/dp/B0C5DBMYZF/ref=zg_bs_g_kitchen_d_sccl_28/132-0910105-0920347?psc=1"
+                "product_url": "https://www.amazon.com/Looney-Tunes-Collectors-Choice-Coll/dp/B0DJL8NYC9/ref=zg_bs_g_movies-tv_d_sccl_28/130-8130773-9447164?psc=1"
             },
             {
                 "rank": 29,
-                "asin": "B07FVQLBL3",
-                "name": "Kitchen Mama Auto Electric Can Opener: Open Your Cans with A Simple Press of Button - Automatic, Hands Free, Smooth Edge, Food-Safe, Battery Operated, YES YOU CAN (Red)",
-                "ratings_count": 105460,
-                "rating": "4.2",
-                "sale_price": "$29.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61eqNRPW8mL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0DDV292KH",
+                "name": "Beetlejuice Beetlejuice (Blu-ray + Digital)Michael Keaton",
+                "ratings_count": 9,
+                "rating": "3.8",
+                "sale_price": "$26.78",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81Uu0YstzyL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Kitchen-Mama-Automatic-Electric-Opener/dp/B07FVQLBL3/ref=zg_bs_g_kitchen_d_sccl_29/132-0910105-0920347?psc=1"
+                "product_url": "https://www.amazon.com/Beetlejuice-Blu-ray-Digital-Michael-Keaton/dp/B0DDV292KH/ref=zg_bs_g_movies-tv_d_sccl_29/130-8130773-9447164?psc=1"
             },
             {
                 "rank": 30,
-                "asin": "B09NXMDPS1",
-                "name": "The Original Gorilla Grip Heavy Duty Stainless Steel Smooth Edge Manual Can Opener and Bottle Openers, Soft Handle, Rust Proof Oversized Handheld Easy Turn Knob, Multifunctional Kitchen Tool, Black",
-                "ratings_count": 21253,
-                "rating": "4.4",
-                "sale_price": "$9.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/51Hy3m8JdgL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0DDV427S2",
+                "name": "Beetlejuice Beetlejuice (DVD)Michael Keaton",
+                "ratings_count": 9,
+                "rating": "3.8",
+                "sale_price": "$16.57",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81Uu0YstzyL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Gorilla-Grip-Handheld-Comfortable-Oversized/dp/B09NXMDPS1/ref=zg_bs_g_kitchen_d_sccl_30/132-0910105-0920347?psc=1"
+                "product_url": "https://www.amazon.com/Beetlejuice-DVD-Michael-Keaton/dp/B0DDV427S2/ref=zg_bs_g_movies-tv_d_sccl_30/130-8130773-9447164?psc=1"
             },
             {
                 "rank": 31,
-                "asin": "B07WMQP4SF",
-                "name": "Homaxy 100% Cotton Waffle Weave Kitchen Dish Cloths, Ultra Soft Absorbent Quick Drying Dish Towels, 12x12 Inches, 6-Pack, Dark Grey",
-                "ratings_count": 29972,
-                "rating": "4.5",
-                "sale_price": "$9.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81YlKeBDwML._AC_UL300_SR300,200_.jpg",
+                "asin": "B0DJPPTNRG",
+                "name": "Forge, The - DVD + DigitalCameron Arnett",
+                "ratings_count": 1,
+                "rating": "2.0",
+                "sale_price": "$26.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91uWkSwVQcL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Homaxy-Cotton-Waffle-Kitchen-Absorbent/dp/B07WMQP4SF/ref=zg_bs_g_kitchen_d_sccl_31/132-0522728-8629165?psc=1"
+                "product_url": "https://www.amazon.com/Forge-DVD-Digital-Cameron-Arnett/dp/B0DJPPTNRG/ref=zg_bs_g_movies-tv_d_sccl_31/139-6917365-7863849?psc=1"
             },
             {
                 "rank": 32,
-                "asin": "B00006JSUA",
-                "name": "Lodge 10.25 Inch Cast Iron Pre-Seasoned Skillet – Signature Teardrop Handle - Use in the Oven, on the Stove, on the Grill, or Over a Campfire, Black",
-                "ratings_count": 121312,
-                "rating": "4.7",
-                "sale_price": "$19.90",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/51hSkgFqVqL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0058477ZE",
+                "name": "Peanuts Holiday Collection [DVD]Various",
+                "ratings_count": 6374,
+                "rating": "4.8",
+                "sale_price": "$19.96",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91b3ZFdzaiL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Lodge-Skillet-Pre-Seasoned-Ready-Stove/dp/B00006JSUA/ref=zg_bs_g_kitchen_d_sccl_32/132-0522728-8629165?psc=1"
+                "product_url": "https://www.amazon.com/Peanuts-Holiday-Collection-Various/dp/B0058477ZE/ref=zg_bs_g_movies-tv_d_sccl_32/139-6917365-7863849?psc=1"
             },
             {
                 "rank": 33,
-                "asin": "B00DDXWFY0",
-                "name": "DASH Rapid Egg Cooker: 6 Egg Capacity Electric Egg Cooker for Hard Boiled Eggs, Poached Eggs, Scrambled Eggs, or Omelets with Auto Shut Off Feature - Black",
-                "ratings_count": 124939,
+                "asin": "B075DQGW92",
+                "name": "Blade Runner 2049 (4K Ultra HD + Blu-ray) (4K Ultra) [4K UHD]Hampton Francher",
+                "ratings_count": 5903,
                 "rating": "4.7",
-                "sale_price": "$18.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61pF6D-ulVL._AC_UL300_SR300,200_.jpg",
+                "sale_price": "$20.67",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81vzm+Q9+aL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Dash-Rapid-Egg-Cooker-Scrambled/dp/B00DDXWFY0/ref=zg_bs_g_kitchen_d_sccl_33/132-0522728-8629165?psc=1"
+                "product_url": "https://www.amazon.com/Blade-Runner-2049-UHD-Blu-ray/dp/B075DQGW92/ref=zg_bs_g_movies-tv_d_sccl_33/139-6917365-7863849?psc=1"
             },
             {
                 "rank": 34,
-                "asin": "B0C8VXLW37",
-                "name": "YETI Rambler 20 oz Stainless Steel Vacuum Insulated Tumbler w/MagSlider Lid",
-                "ratings_count": 1381,
-                "rating": "4.8",
-                "sale_price": "$35.00",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61xFTk0T7fL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0D8N45WF8",
+                "name": "Maxxxine Bluray + DVD + DigitalMia Goth",
+                "ratings_count": 111,
+                "rating": "3.9",
+                "sale_price": "$23.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71ZNBrErThL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/YETI-Rambler-Stainless-Insulated-MagSlider/dp/B0C8VXLW37/ref=zg_bs_g_kitchen_d_sccl_34/132-0522728-8629165?psc=1"
+                "product_url": "https://www.amazon.com/Maxxxine-Bluray-DVD-Digital-Goth/dp/B0D8N45WF8/ref=zg_bs_g_movies-tv_d_sccl_34/139-6917365-7863849?psc=1"
             },
             {
                 "rank": 35,
-                "asin": "B01M9I779L",
-                "name": "DASH Mini Waffle Maker - 4” Waffle Mold, Nonstick Waffle Iron with Quick Heat-Up, PTFE Nonstick Surface - Perfect Mini Waffle Maker for Kids and Families, Just Add Batter (Aqua)",
-                "ratings_count": 241216,
-                "rating": "4.6",
-                "sale_price": "$9.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71Ejqyr1fQL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0D5RDF5RX",
+                "name": "Sweeney Todd: The Demon Barber Of Fleet Street [4K UHD + Blu-Ray + Digitial Copy]Johnny Depp",
+                "ratings_count": 11002,
+                "rating": "4.7",
+                "sale_price": "$17.39",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61rD2n1GctL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/DASH-Mini-Waffle-Maker-Nonstick/dp/B01M9I779L/ref=zg_bs_g_kitchen_d_sccl_35/132-0522728-8629165?psc=1"
+                "product_url": "https://www.amazon.com/Sweeney-Todd-Barber-Blu-Ray-Digitial/dp/B0D5RDF5RX/ref=zg_bs_g_movies-tv_d_sccl_35/139-6917365-7863849?psc=1"
             },
             {
                 "rank": 36,
-                "asin": "B07D15V7T3",
-                "name": "Farberware 5211438 Professional Heat Resistant Nylon Meat and Potato Masher, Safe for Non-Stick Cookware, 10-Inch, Black",
-                "ratings_count": 54213,
-                "rating": "4.7",
-                "sale_price": "$6.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/518Siu2n+AL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0D3VHPLW1",
+                "name": "Furiosa: A Mad Max Saga (4K Ultra HD + Digital)Anya Taylor-Joy",
+                "ratings_count": 4412,
+                "rating": "4.4",
+                "sale_price": "$29.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81cqVE2vwvL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Farberware-5211438-Professional-Resistant-Masher-Safe/dp/B07D15V7T3/ref=zg_bs_g_kitchen_d_sccl_36/132-0522728-8629165?psc=1"
+                "product_url": "https://www.amazon.com/Furiosa-Mad-Saga-Ultra-Digital/dp/B0D3VHPLW1/ref=zg_bs_g_movies-tv_d_sccl_36/139-6917365-7863849?psc=1"
             },
             {
                 "rank": 37,
-                "asin": "B085NDYY1P",
-                "name": "Sweet Alice Gravity Electric Pepper and Salt Grinder Set, Adjustable Coarseness, Battery Powered with LED Light, One Hand Automatic Operation, Stainless Steel Black, 2 Pack",
-                "ratings_count": 33811,
-                "rating": "4.2",
-                "sale_price": "$19.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71Ozh8r6hOL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0DDV4Z8S4",
+                "name": "Beetlejuice Beetlejuice (4K Ultra HD + Digital) [4K UHD]Michael Keaton",
+                "ratings_count": 9,
+                "rating": "3.8",
+                "sale_price": "$29.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81Uu0YstzyL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Adjustable-Coarseness-Automatic-Operation-Stainless/dp/B085NDYY1P/ref=zg_bs_g_kitchen_d_sccl_37/132-0522728-8629165?psc=1"
+                "product_url": "https://www.amazon.com/Beetlejuice-4K-Ultra-Digital-UHD/dp/B0DDV4Z8S4/ref=zg_bs_g_movies-tv_d_sccl_37/139-6917365-7863849?psc=1"
             },
             {
                 "rank": 38,
-                "asin": "B08FLKHG8J",
-                "name": "iBayam Kitchen Scissors All Purpose Heavy Duty Meat Poultry Shears, Dishwasher Safe Food Cooking Scissors Stainless Steel Utility Scissors, 2-Pack (Black Red, Black Gray)",
-                "ratings_count": 50889,
+                "asin": "B09C3KK9NL",
+                "name": "Universal Classic Monsters: Icons of Horror Collection (Dracula / Frankenstein / The Invisible Man / The Wolf Man) - 4K Ultra HD + Blu-ray + Digital [4K UHD]Various",
+                "ratings_count": 682,
                 "rating": "4.8",
-                "sale_price": "$9.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/612eZSoIGeL._AC_UL300_SR300,200_.jpg",
+                "sale_price": "$32.49",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81l-UfEa6XL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/iBayam-Scissors-Dishwasher-Multipurpose-Stainless/dp/B08FLKHG8J/ref=zg_bs_g_kitchen_d_sccl_38/132-0522728-8629165?psc=1"
+                "product_url": "https://www.amazon.com/Universal-Classic-Monsters-Horror-Collection/dp/B09C3KK9NL/ref=zg_bs_g_movies-tv_d_sccl_38/139-6917365-7863849?psc=1"
             },
             {
                 "rank": 39,
-                "asin": "B0CSZ7WBYW",
-                "name": "Ninja Air Fryer Pro 4-in-1 with 5 QT Capacity, Air Fry, Roast, Reheat, Dehydrate, Air Crisp Technology with 400F for hot, crispy results in just minutes, Nonstick Basket & Crisper Plate, Grey, AF141",
-                "ratings_count": 1449,
+                "asin": "B00ZR3W3YQ",
+                "name": "Universal Classic Monsters CollectionBela Lugosi",
+                "ratings_count": 2169,
                 "rating": "4.7",
-                "sale_price": "$89.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71QwoGmcfUL._AC_UL300_SR300,200_.jpg",
+                "sale_price": "$13.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91HMsT5JqfL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Ninja-Capacity-Dehydrate-Technology-AF141/dp/B0CSZ7WBYW/ref=zg_bs_g_kitchen_d_sccl_39/132-0522728-8629165?psc=1"
+                "product_url": "https://www.amazon.com/Universal-Classic-Monsters-Collection-Lugosi/dp/B00ZR3W3YQ/ref=zg_bs_g_movies-tv_d_sccl_39/139-6917365-7863849?psc=1"
             },
             {
                 "rank": 40,
-                "asin": "B07RPRVXNX",
-                "name": "Simple Modern Kids Water Bottle with Straw Lid | Insulated Stainless Steel Reusable Tumbler for Toddlers, School | Summit Collection | 14oz, Under Construction",
-                "ratings_count": 13926,
-                "rating": "4.7",
-                "sale_price": "$17.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61JjZJtA7jL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07NN37WHT",
+                "name": "How To Train Your Dragon: 3-Movie Collection - Blu-ray + DigitalJay Baruchel",
+                "ratings_count": 9544,
+                "rating": "4.8",
+                "sale_price": "$10.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81KE1dWFqNL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Simple-Modern-Summit-Water-Bottles/dp/B07RPRVXNX/ref=zg_bs_g_kitchen_d_sccl_40/132-0522728-8629165?psc=1"
+                "product_url": "https://www.amazon.com/How-Train-Your-Dragon-Collection/dp/B07NN37WHT/ref=zg_bs_g_movies-tv_d_sccl_40/139-6917365-7863849?psc=1"
             },
             {
                 "rank": 41,
-                "asin": "B072P11H8L",
-                "name": "Amazon Basics 2 Slice Extra Wide Slot Toaster with Bagel Function, Removable Crumb Tray, 6 Browning Settings, Frozen Food Setting, Cancel Button, 900W, Black & Silver.",
-                "ratings_count": 33578,
-                "rating": "4.3",
-                "sale_price": "$19.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71ZauD8ClBL._AC_UL300_SR300,200_.jpg",
+                "asin": "B09CGMTF6R",
+                "name": "Lord of the Rings Motion Picture Trilogy, The (Extended Edition)(BD Remaster) [Blu-ray]Various",
+                "ratings_count": 14165,
+                "rating": "4.7",
+                "sale_price": "$39.96",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71mF6v2uGQL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Amazon-Basics-Extra-Wide-Toaster-Settings/dp/B072P11H8L/ref=zg_bs_g_kitchen_d_sccl_41/132-0522728-8629165?psc=1"
+                "product_url": "https://www.amazon.com/Picture-Trilogy-Extended-Blu-ray-Remaster/dp/B09CGMTF6R/ref=zg_bs_g_movies-tv_d_sccl_41/139-6917365-7863849?psc=1"
             },
             {
                 "rank": 42,
-                "asin": "B007WQ9YNO",
-                "name": "AROMA Digital Rice Cooker, 4-Cup (Uncooked) / 8-Cup (Cooked), Steamer, Grain Cooker, Multicooker, 2 Qt, Stainless Steel Exterior, ARC-914SBD",
-                "ratings_count": 60594,
-                "rating": "4.5",
-                "sale_price": "$29.92",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71-U1rX30iL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0CLQQN1NV",
+                "name": "Five Nights at Freddy's - Night Shift Edition 4K Ultra HD + Blu-ray + Digital [4K UHD]Josh Hutcherson",
+                "ratings_count": 198,
+                "rating": "4.7",
+                "sale_price": "$11.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71XkBHHt5PL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Aroma-Housewares-ARC-914SBD-Cool-Touch-Stainless/dp/B007WQ9YNO/ref=zg_bs_g_kitchen_d_sccl_42/132-0522728-8629165?psc=1"
+                "product_url": "https://www.amazon.com/Five-Nights-Freddys-Blu-ray-Digital/dp/B0CLQQN1NV/ref=zg_bs_g_movies-tv_d_sccl_42/139-6917365-7863849?psc=1"
             },
             {
                 "rank": 43,
-                "asin": "B09WF796VW",
-                "name": "Powerful Immersion Blender, Electric Hand Blender 500 Watt with Turbo Mode, Detachable Base. Handheld Kitchen Gadget Blender Stick for Soup, Smoothie, Puree, Baby Food, 304 Stainless Steel Blades",
-                "ratings_count": 8741,
-                "rating": "4.5",
-                "sale_price": "$19.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81A6emwYQGL._AC_UL300_SR300,200_.jpg",
+                "asin": "B08BW41PTV",
+                "name": "Beetlejuice [4K UHD]Tim Burton",
+                "ratings_count": 2392,
+                "rating": "4.7",
+                "sale_price": "$20.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81BWtAWUqSL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Powerful-Immersion-Electric-Detachable-Stainless/dp/B09WF796VW/ref=zg_bs_g_kitchen_d_sccl_43/132-0522728-8629165?psc=1"
+                "product_url": "https://www.amazon.com/Beetlejuice-4K-Ultra-Blu-ray-Digital/dp/B08BW41PTV/ref=zg_bs_g_movies-tv_d_sccl_43/139-6917365-7863849?psc=1"
             },
             {
                 "rank": 44,
-                "asin": "B0B6N7CR8C",
-                "name": "Lifewit Silverware Drawer Organizer, Expandable Utensil Tray for Kitchen, BPA Free Flatware and Cutlery Holder, Adjustable Plastic Storage for Spoons Forks Knives, Large, Black",
-                "ratings_count": 12679,
-                "rating": "4.7",
-                "sale_price": "$18.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/710k5CCqHhL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07RP4T8KZ",
+                "name": "The Shining (4K Ultra HD) [4K UHD]Jack Nicholson",
+                "ratings_count": 3875,
+                "rating": "4.8",
+                "sale_price": "$20.74",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/811pZvPNKKL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Lifewit-Silverware-Organizer-Expandable-Adjustable/dp/B0B6N7CR8C/ref=zg_bs_g_kitchen_d_sccl_44/132-0522728-8629165?psc=1"
+                "product_url": "https://www.amazon.com/Shining-4K-Ultra-Blu-Ray-Digital/dp/B07RP4T8KZ/ref=zg_bs_g_movies-tv_d_sccl_44/139-6917365-7863849?psc=1"
             },
             {
                 "rank": 45,
-                "asin": "B0BDDX27WT",
-                "name": "LOVE MOMENT Electric Mason Jar Vacuum Sealer Kit for Wide Mouth and Regular Mouth Mason Jars",
-                "ratings_count": 8590,
-                "rating": "4.5",
-                "sale_price": "$28.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61yY35w8IhL._AC_UL300_SR300,200_.jpg",
+                "asin": "B073LYMWKF",
+                "name": "Peanuts Holiday Collection (4K Ultra HD + Blu-ray) [4K UHD]Various",
+                "ratings_count": 6374,
+                "rating": "4.8",
+                "sale_price": "$25.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81MOMYCNG+L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Electric-Mason-Vacuum-Sealer-Regular/dp/B0BDDX27WT/ref=zg_bs_g_kitchen_d_sccl_45/132-0522728-8629165?psc=1"
+                "product_url": "https://www.amazon.com/Peanuts-Holiday-Collection-Ultra-Blu-ray/dp/B073LYMWKF/ref=zg_bs_g_movies-tv_d_sccl_45/139-6917365-7863849?psc=1"
             },
             {
                 "rank": 46,
-                "asin": "B0C3J421WK",
-                "name": "Zulay Rotary Cheese Grater 5 Blade Cheese Shredder - Manual Hand Crank Cheese Grater With Reinforced Suction & 5 Interchangeable Drums - Easy to Use, Vegetable Chopper Round Mandoline Slicer - Black",
-                "ratings_count": 3096,
-                "rating": "4.4",
-                "sale_price": "$19.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81UjQY9wypL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0D7NNTKTV",
+                "name": "A Quiet Place: Day One [4K UHD + Digital Copy]Lupita Nyong'o",
+                "ratings_count": 30,
+                "rating": "4.0",
+                "sale_price": "$25.79",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61QtcK-eZFL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Rotary-Cheese-Grater-Upgraded-Suction/dp/B0C3J421WK/ref=zg_bs_g_kitchen_d_sccl_46/132-0522728-8629165?psc=1"
+                "product_url": "https://www.amazon.com/Quiet-Place-Day-Digital-Copy/dp/B0D7NNTKTV/ref=zg_bs_g_movies-tv_d_sccl_46/139-6917365-7863849?psc=1"
             },
             {
                 "rank": 47,
-                "asin": "B09BDGQYW5",
-                "name": "Crock-Pot 20-Ounce Electric Lunch Box, Portable Food Warmer, Blush Pink | Perfect for Travel, Car, On-the-Go | Spill-Free, Dishwasher-Safe",
-                "ratings_count": 7888,
-                "rating": "4.6",
-                "sale_price": "$34.98",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71JqPgwUuIL._AC_UL300_SR300,200_.jpg",
+                "asin": "B08F6TVTHF",
+                "name": "Parks and Recreation: The Complete Series [DVD]Amy Poehler",
+                "ratings_count": 8414,
+                "rating": "4.8",
+                "sale_price": "$24.96",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81yHqYTk4zL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Crockpot-Electric-Portable-Warmer-20-Ounce/dp/B09BDGQYW5/ref=zg_bs_g_kitchen_d_sccl_47/132-0522728-8629165?psc=1"
+                "product_url": "https://www.amazon.com/Parks-Recreation-Complete-Amy-Poehler/dp/B08F6TVTHF/ref=zg_bs_g_movies-tv_d_sccl_47/139-6917365-7863849?psc=1"
             },
             {
                 "rank": 48,
-                "asin": "B0CGMFGX87",
-                "name": "Chefman 12-Quart 6-in-1 Air Fryer Oven with Digital Timer, Touchscreen, and 12 Presets - Family Size Countertop Convection Oven, Dishwasher-Safe Parts",
-                "ratings_count": 40188,
-                "rating": "4.3",
-                "sale_price": "$89.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/51UxNtqlxYL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0DCK6XSGF",
+                "name": "Inside Out 2 - DVDAmy Poehler",
+                "ratings_count": 184,
+                "rating": "4.4",
+                "sale_price": "$19.96",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81FW0n2BenL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Chefman-12-Quart-Digital-Touchscreen-Presets/dp/B0CGMFGX87/ref=zg_bs_g_kitchen_d_sccl_48/132-0522728-8629165?psc=1"
+                "product_url": "https://www.amazon.com/Inside-Out-2-Amy-Poehler/dp/B0DCK6XSGF/ref=zg_bs_g_movies-tv_d_sccl_48/139-6917365-7863849?psc=1"
             },
             {
                 "rank": 49,
-                "asin": "B08L37BPBN",
-                "name": "Paper Towel Holders for Kitchen,Paper Towels Bulk- Self-Adhesive Under Cabinet,Both Available in Adhesive and Screws,Stainless Steel",
-                "ratings_count": 28559,
+                "asin": "B0DCK89635",
+                "name": "Inside Out 2 - BD/DVD Combo + Digital [Blu-ray]Amy Poehler",
+                "ratings_count": 184,
                 "rating": "4.4",
-                "sale_price": "$9.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/51C1-nOf1nL._AC_UL300_SR300,200_.jpg",
+                "sale_price": "$28.69",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91tKJkUPPvL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Holders-Self-Adhesive-Available-Adhesive-Stainless/dp/B08L37BPBN/ref=zg_bs_g_kitchen_d_sccl_49/132-0522728-8629165?psc=1"
+                "product_url": "https://www.amazon.com/Inside-Out-Combo-Digital-Blu-ray/dp/B0DCK89635/ref=zg_bs_g_movies-tv_d_sccl_49/139-6917365-7863849?psc=1"
             },
             {
                 "rank": 50,
-                "asin": "B08B115T54",
-                "name": "Bentgo Kids Prints Leak-Proof, 5-Compartment Bento-Style Kids Lunch Box - Ideal Portion Sizes for Ages 3-7, Durable, Drop-Proof, Dishwasher Safe, & Made with BPA-Free Materials (Dinosaur)",
-                "ratings_count": 60764,
-                "rating": "4.7",
-                "sale_price": "$29.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81GkPhNVhHL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0C25X1883",
+                "name": "The Mummy Trilogy - 4K Ultra HD + Blu-ray + Digital [4K UHD]Brendan Fraser",
+                "ratings_count": 5556,
+                "rating": "4.8",
+                "sale_price": "$26.49",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/814UpftAnLL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Bentgo-Leak-Proof-5-Compartment-Bento-Style-Lunch/dp/B08B115T54/ref=zg_bs_g_kitchen_d_sccl_50/132-0522728-8629165?psc=1"
+                "product_url": "https://www.amazon.com/Mummy-Trilogy-Ultra-Blu-ray-Digital/dp/B0C25X1883/ref=zg_bs_g_movies-tv_d_sccl_50/139-6917365-7863849?psc=1"
             }
         ]
     }
