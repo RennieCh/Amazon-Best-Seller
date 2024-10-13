@@ -1,0 +1,643 @@
+{
+    "200": {
+        "category": "Amazon Best SellersElectronics",
+        "category_hierarchy": [
+            {
+                "name": "Any Department",
+                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_electronics_0_1"
+            },
+            {
+                "name": "Electronics",
+                "url": "https://www.amazon.com/Best-Sellers-Electronics/zgbs/electronics/ref=zg_bs_nav_electronics_0?pg=1"
+            }
+        ],
+        "child_categories": [
+            {
+                "category": "Accessories & Supplies",
+                "url": "https://www.amazon.com/Best-Sellers-Electronics-Electronics-Accessories-Supplies/zgbs/electronics/281407/ref=zg_bs_nav_electronics_1"
+            },
+            {
+                "category": "Camera & Photo",
+                "url": "https://www.amazon.com/Best-Sellers-Electronics-Camera-Photo-Products/zgbs/electronics/502394/ref=zg_bs_nav_electronics_1"
+            },
+            {
+                "category": "Car Electronics",
+                "url": "https://www.amazon.com/Best-Sellers-Electronics-Car-Electronics/zgbs/electronics/1077068/ref=zg_bs_nav_electronics_1"
+            },
+            {
+                "category": "Cell Phones & Accessories",
+                "url": "https://www.amazon.com/Best-Sellers-Electronics-Cell-Phones-Accessories/zgbs/electronics/2811119011/ref=zg_bs_nav_electronics_1"
+            },
+            {
+                "category": "Computers & Accessories",
+                "url": "https://www.amazon.com/Best-Sellers-Electronics-Computers-Accessories/zgbs/electronics/541966/ref=zg_bs_nav_electronics_1"
+            },
+            {
+                "category": "GPS & Navigation",
+                "url": "https://www.amazon.com/Best-Sellers-Electronics-GPS-Finders-Accessories/zgbs/electronics/172526/ref=zg_bs_nav_electronics_1"
+            },
+            {
+                "category": "Headphones",
+                "url": "https://www.amazon.com/Best-Sellers-Electronics-Headphones-Earbuds/zgbs/electronics/172541/ref=zg_bs_nav_electronics_1"
+            },
+            {
+                "category": "Home Audio & Theater",
+                "url": "https://www.amazon.com/Best-Sellers-Electronics-Home-Audio-Theater-Products/zgbs/electronics/667846011/ref=zg_bs_nav_electronics_1"
+            },
+            {
+                "category": "Marine Electronics",
+                "url": "https://www.amazon.com/Best-Sellers-Electronics-Marine-Electronics/zgbs/electronics/319574011/ref=zg_bs_nav_electronics_1"
+            },
+            {
+                "category": "Office Electronics",
+                "url": "https://www.amazon.com/Best-Sellers-Electronics-Office-Electronics-Products/zgbs/electronics/172574/ref=zg_bs_nav_electronics_1"
+            },
+            {
+                "category": "Portable Audio & Video",
+                "url": "https://www.amazon.com/Best-Sellers-Electronics-Portable-Audio-Video/zgbs/electronics/172623/ref=zg_bs_nav_electronics_1"
+            },
+            {
+                "category": "Security & Surveillance",
+                "url": "https://www.amazon.com/Best-Sellers-Electronics-Security-Surveillance-Equipment/zgbs/electronics/524136/ref=zg_bs_nav_electronics_1"
+            },
+            {
+                "category": "Service & Replacement Plans",
+                "url": "https://www.amazon.com/Best-Sellers-Electronics-Computers-Electronics-Service-Plans/zgbs/electronics/16285901/ref=zg_bs_nav_electronics_1"
+            },
+            {
+                "category": "Televisions & Video",
+                "url": "https://www.amazon.com/Best-Sellers-Electronics-Televisions-Video-Products/zgbs/electronics/1266092011/ref=zg_bs_nav_electronics_1"
+            },
+            {
+                "category": "Video Game Consoles & Accessories",
+                "url": "https://www.amazon.com/Best-Sellers-Electronics-Video-Game-Consoles-Accessories/zgbs/electronics/7926841011/ref=zg_bs_nav_electronics_1"
+            },
+            {
+                "category": "Video Projectors",
+                "url": "https://www.amazon.com/Best-Sellers-Electronics-Video-Projectors/zgbs/electronics/300334/ref=zg_bs_nav_electronics_1"
+            },
+            {
+                "category": "Wearable Technology",
+                "url": "https://www.amazon.com/Best-Sellers-Electronics-Wearable-Technology/zgbs/electronics/10048700011/ref=zg_bs_nav_electronics_1"
+            },
+            {
+                "category": "eBook Readers & Accessories",
+                "url": "https://www.amazon.com/Best-Sellers-Electronics-eBook-Readers-Accessories/zgbs/electronics/2642125011/ref=zg_bs_nav_electronics_1"
+            }
+        ],
+        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/Best-Sellers-Electronics/zgbs/electronics/ref%3Dzg_bs_pg_2_electronics%3F_encoding%3DUTF8%26pg%3D2",
+        "url": "https://www.amazon.com/Best-Sellers-Electronics/zgbs/electronics/ref=zg_bs_nav_electronics_0?pg=1",
+        "product_listings": [
+            {
+                "rank": 1,
+                "asin": "B0D1XD1ZV3",
+                "name": "Apple AirPods Pro 2 Wireless Earbuds, Bluetooth Headphones, Active Noise Cancellation, Hearing Aid Feature, Transparency, Personalized Spatial Audio, High-Fidelity Sound, H2 Chip, USB-C Charging",
+                "ratings_count": 8256,
+                "rating": "4.6",
+                "sale_price": "$189.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61SUj2aKoEL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-Cancellation-Transparency-Personalized-High-Fidelity/dp/B0D1XD1ZV3/ref=zg_bs_g_electronics_d_sccl_1/144-3123150-0317127?psc=1"
+            },
+            {
+                "rank": 2,
+                "asin": "B0CJM1GNFQ",
+                "name": "Amazon Fire TV Stick 4K with AI-powered Fire TV Search, Wi-Fi 6, stream over 1.5 million movies and shows, free & live TV",
+                "ratings_count": 41456,
+                "rating": "4.7",
+                "sale_price": "$49.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/417H5BZf2LL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-Fire-TV-Stick-4K-streaming-device/dp/B0CJM1GNFQ/ref=zg_bs_g_electronics_d_sccl_2/144-3123150-0317127?psc=1"
+            },
+            {
+                "rank": 3,
+                "asin": "B0D54JZTHY",
+                "name": "Apple AirTag 4 Pack",
+                "ratings_count": 4417,
+                "rating": "4.7",
+                "sale_price": "$79.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61bMNCeAUAL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-MX542LL-A-AirTag-Pack/dp/B0D54JZTHY/ref=zg_bs_g_electronics_d_sccl_3/144-3123150-0317127?psc=1"
+            },
+            {
+                "rank": 4,
+                "asin": "B0CWXNS552",
+                "name": "Apple AirTag",
+                "ratings_count": 11103,
+                "rating": "4.6",
+                "sale_price": "$24.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71rP7f78eFL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-MX532LL-A-AirTag/dp/B0CWXNS552/ref=zg_bs_g_electronics_d_sccl_4/144-3123150-0317127?psc=1"
+            },
+            {
+                "rank": 5,
+                "asin": "B08C1W5N87",
+                "name": "Amazon Fire TV Stick, HD, sharp picture quality, fast streaming, free & live TV, Alexa Voice Remote with TV controls",
+                "ratings_count": 498544,
+                "rating": "4.7",
+                "sale_price": "$39.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51TjJOTfslL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/fire-tv-stick-with-3rd-gen-alexa-voice-remote/dp/B08C1W5N87/ref=zg_bs_g_electronics_d_sccl_5/144-3123150-0317127?psc=1"
+            },
+            {
+                "rank": 6,
+                "asin": "B0BP9SNVH9",
+                "name": "Amazon Fire TV Stick 4K Max, our most powerful 4K streaming stick with Wi-Fi 6E support, 16GB Storage, Quad-Core Processor.",
+                "ratings_count": 35231,
+                "rating": "4.6",
+                "sale_price": "$59.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41P0qtzxWSL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/all-new-amazon-fire-tv-stick-4k-max/dp/B0BP9SNVH9/ref=zg_bs_g_electronics_d_sccl_6/144-3123150-0317127?psc=1"
+            },
+            {
+                "rank": 7,
+                "asin": "B092J8LPWR",
+                "name": "Surge Protector Power Strip - 8 Outlets with 4 USB (2 USB C) Charging Ports, Multi Plug Outlet Extender, 5Ft Braided Extension Cord, Flat Plug Wall Mount Desk USB Charging Station for Home Office ETL",
+                "ratings_count": 44747,
+                "rating": "4.8",
+                "sale_price": "$12.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61q9hmplGFL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Surge-Protector-Power-Strip-Extension/dp/B092J8LPWR/ref=zg_bs_g_electronics_d_sccl_7/144-3123150-0317127?psc=1"
+            },
+            {
+                "rank": 8,
+                "asin": "B09G9FPHY6",
+                "name": "Apple iPad (9th Generation): with A13 Bionic chip, 10.2-inch Retina Display, 64GB, Wi-Fi, 12MP front/8MP Back Camera, Touch ID, All-Day Battery Life – Space Gray",
+                "ratings_count": 69179,
+                "rating": "4.8",
+                "sale_price": "$224.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61NGnpjoRDL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/2021-Apple-10-2-inch-iPad-Wi-Fi/dp/B09G9FPHY6/ref=zg_bs_g_electronics_d_sccl_8/144-3123150-0317127?psc=1"
+            },
+            {
+                "rank": 9,
+                "asin": "B08SG2MS3V",
+                "name": "Blink Video Doorbell | Two-way audio, HD video, motion and chime app alerts and Alexa enabled — wired or wire-free (Black)",
+                "ratings_count": 150355,
+                "rating": "4.2",
+                "sale_price": "$59.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41te-uzWxDL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Blink-Video-Doorbell/dp/B08SG2MS3V/ref=zg_bs_g_electronics_d_sccl_9/144-3123150-0317127?psc=1"
+            },
+            {
+                "rank": 10,
+                "asin": "B09BKCDXZC",
+                "name": "Roku Streaming Stick 4K | Portable Roku Streaming Device 4K/HDR/Dolby Vision, Roku Voice Remote, Free & Live TV",
+                "ratings_count": 82027,
+                "rating": "4.7",
+                "sale_price": "$34.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71nulLJ9VmL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Roku-Streaming-Device-Vision-Controls/dp/B09BKCDXZC/ref=zg_bs_g_electronics_d_sccl_10/144-3123150-0317127?psc=1"
+            },
+            {
+                "rank": 11,
+                "asin": "B09TMN58KL",
+                "name": "Amazon Kindle Paperwhite (16 GB) – Now with a larger display, adjustable warm light, increased battery life, and faster page turns – Black",
+                "ratings_count": 61321,
+                "rating": "4.7",
+                "sale_price": null,
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51QCk82iGcL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Kindle-Paperwhite-16-GB-adjustable/dp/B09TMN58KL/ref=zg_bs_g_electronics_d_sccl_11/144-3123150-0317127?psc=1"
+            },
+            {
+                "rank": 12,
+                "asin": "B08R6S1M1K",
+                "name": "Wall Charger, Surge Protector, QINLIANF 5 Outlet Extender with 4 USB Charging Ports (4.8A Total) 3-Sided 1680J Power Strip Multi Plug Adapter Spaced for Home Travel Office (3U1C)",
+                "ratings_count": 83459,
+                "rating": "4.7",
+                "sale_price": "$12.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61Hh-YlfJOL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Charger-Protector-QINLIANF-Extender-Charging/dp/B08R6S1M1K/ref=zg_bs_g_electronics_d_sccl_12/144-3123150-0317127?psc=1"
+            },
+            {
+                "rank": 13,
+                "asin": "B09B8V1LZ3",
+                "name": "Amazon Echo Dot (5th Gen, 2022 release) | With bigger vibrant sound, helpful routines and Alexa | Charcoal",
+                "ratings_count": 127639,
+                "rating": "4.6",
+                "sale_price": "$49.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/518cRYanpbL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/All-New-release-Smart-speaker-Charcoal/dp/B09B8V1LZ3/ref=zg_bs_g_electronics_d_sccl_13/144-3123150-0317127?psc=1"
+            },
+            {
+                "rank": 14,
+                "asin": "B0CZPGX972",
+                "name": "Beats Solo 4 - Wireless Bluetooth On-Ear Headphones, Apple & Android Compatible, Up to 50 Hours of Battery Life - Cloud Pink",
+                "ratings_count": 1786,
+                "rating": "4.5",
+                "sale_price": "$129.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51QskGMw40L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Beats-Solo-Ear-Headphones-Compatible/dp/B0CZPGX972/ref=zg_bs_g_electronics_d_sccl_14/144-3123150-0317127?psc=1"
+            },
+            {
+                "rank": 15,
+                "asin": "B0BCH5H2R3",
+                "name": "Roku Express | HD Roku Streaming Device with Standard Remote (no TV controls), Free & Live TV",
+                "ratings_count": 43696,
+                "rating": "4.7",
+                "sale_price": "$24.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71bHZpw548L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Roku-Express-Streaming-High-Speed-controls/dp/B0BCH5H2R3/ref=zg_bs_g_electronics_d_sccl_15/144-3123150-0317127?psc=1"
+            },
+            {
+                "rank": 16,
+                "asin": "B096SV8SJG",
+                "name": "Beats Studio Buds - True Wireless Noise Cancelling Earbuds - Compatible with Apple & Android, Built-in Microphone, IPX4 Rating, Sweat Resistant Earphones, Class 1 Bluetooth Headphones - Black",
+                "ratings_count": 78558,
+                "rating": "4.3",
+                "sale_price": "$99.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51bRSWrEc7S._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Beats-Studio-Cancelling-Earbuds-Built-Bluetooth-Headphones/dp/B096SV8SJG/ref=zg_bs_g_electronics_d_sccl_16/144-3123150-0317127?psc=1"
+            },
+            {
+                "rank": 17,
+                "asin": "B0916TKFF2",
+                "name": "Roku Express 4K+ | Roku Streaming Device 4K/HDR, Roku Voice Remote, Free & Live TV",
+                "ratings_count": 85214,
+                "rating": "4.7",
+                "sale_price": "$27.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/7108AbztVsL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Roku-Express-Streaming-Wireless-Controls/dp/B0916TKFF2/ref=zg_bs_g_electronics_d_sccl_17/144-3123150-0317127?psc=1"
+            },
+            {
+                "rank": 18,
+                "asin": "B0CZPLV566",
+                "name": "Beats Solo 4 Wireless Headphones - Matte Black",
+                "ratings_count": 1786,
+                "rating": "4.5",
+                "sale_price": "$129.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51sZFm7L2BL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Beats-Solo-Wireless-Headphones-Matte/dp/B0CZPLV566/ref=zg_bs_g_electronics_d_sccl_18/144-3123150-0317127?psc=1"
+            },
+            {
+                "rank": 19,
+                "asin": "B0BRKPVZB4",
+                "name": "Bluetooth Speaker with HD Sound, Portable Wireless, IPX5 Waterproof, Up to 20H Playtime, TWS Pairing, BT5.3, for Home/Party/Outdoor/Beach, Electronic Gadgets, Birthday Gift (Black)",
+                "ratings_count": 15659,
+                "rating": "4.5",
+                "sale_price": "$26.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81djh1gfUwL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Bluetooth-Waterproof-Playtime-Portable-Electronic/dp/B0BRKPVZB4/ref=zg_bs_g_electronics_d_sccl_19/144-3123150-0317127?psc=1"
+            },
+            {
+                "rank": 20,
+                "asin": "B091G4YP57",
+                "name": "Amazon Fire TV Stick Lite, free and live TV, Alexa Voice Remote Lite, smart home controls, HD streaming",
+                "ratings_count": 71582,
+                "rating": "4.6",
+                "sale_price": "$29.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41DTzx56EWL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/fire-tv-stick-lite-latest-alexa-voice-remote-lite/dp/B091G4YP57/ref=zg_bs_g_electronics_d_sccl_20/144-3123150-0317127?psc=1"
+            },
+            {
+                "rank": 21,
+                "asin": "B0C8PR4W22",
+                "name": "Beats Studio Pro - Wireless Bluetooth Noise Cancelling Headphones - Personalized Spatial Audio, USB-C Lossless Audio, Apple & Android Compatibility, Up to 40 Hours Battery Life - Black",
+                "ratings_count": 12293,
+                "rating": "4.5",
+                "sale_price": "$249.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61u-OaDSfQL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Beats-Studio-Pro-Personalized-Compatibility/dp/B0C8PR4W22/ref=zg_bs_g_electronics_d_sccl_21/144-3123150-0317127?psc=1"
+            },
+            {
+                "rank": 22,
+                "asin": "B09G9CJM1Z",
+                "name": "Apple iPad (9th Generation): with A13 Bionic chip, 10.2-inch Retina Display, 64GB, Wi-Fi, 12MP front/8MP Back Camera, Touch ID, All-Day Battery Life – Silver",
+                "ratings_count": 69179,
+                "rating": "4.8",
+                "sale_price": "$224.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61PnHlc0HCL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/2021-Apple-10-2-inch-iPad-Wi-Fi/dp/B09G9CJM1Z/ref=zg_bs_g_electronics_d_sccl_22/144-3123150-0317127?psc=1"
+            },
+            {
+                "rank": 23,
+                "asin": "B0CZPHPJLN",
+                "name": "Beats Solo 4 - Wireless Bluetooth On-Ear Headphones, Apple & Android Compatible, Up to 50 Hours of Battery Life - Slate Blue",
+                "ratings_count": 1786,
+                "rating": "4.5",
+                "sale_price": "$129.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/510fGxoTsTL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Beats-Solo-Ear-Headphones-Compatible/dp/B0CZPHPJLN/ref=zg_bs_g_electronics_d_sccl_23/144-3123150-0317127?psc=1"
+            },
+            {
+                "rank": 24,
+                "asin": "B0BFC7WQ6R",
+                "name": "All-new Amazon Echo Spot (2024 release), Smart alarm clock with vibrant sound + Alexa, no visual ads, Black",
+                "ratings_count": 11009,
+                "rating": "4.6",
+                "sale_price": "$79.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61TuF2ElKgL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/All-new-Amazon-Echo-Spot-2024-release-Smart-alarm-clock-with-vibrant-sound-Alexa-Black/dp/B0BFC7WQ6R/ref=zg_bs_g_electronics_d_sccl_24/144-3123150-0317127?psc=1"
+            },
+            {
+                "rank": 25,
+                "asin": "B09Z6Q2MLC",
+                "name": "(Pack of 2) Replacement Remote Control Only for Roku TV, Compatible for TCL Roku/Hisense Roku/Onn Roku/Philips Roku Smart TVs(Not for Stick and Box)",
+                "ratings_count": 34860,
+                "rating": "4.5",
+                "sale_price": "$9.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71Z6Vs6+hDL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Replaced-Control-Compatible-Westinghouse-Insignia/dp/B09Z6Q2MLC/ref=zg_bs_g_electronics_d_sccl_25/144-3123150-0317127?psc=1"
+            },
+            {
+                "rank": 26,
+                "asin": "B0CQF6T2K1",
+                "name": "Roku Remote (Official Manufacturer Product) | TV Remote Control with TV Controls, Simple Setup, & Pre-Set App Shortcuts - Replacement Remote Compatible with Roku TV Models ONLY (Not Roku Players)",
+                "ratings_count": 822,
+                "rating": "4.3",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61efOsVtPXL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Roku-Official-Manufacturer-Controls-Shortcuts/dp/B0CQF6T2K1/ref=zg_bs_g_electronics_d_sccl_26/144-3123150-0317127?psc=1"
+            },
+            {
+                "rank": 27,
+                "asin": "B09WNK39JN",
+                "name": "Amazon Echo Pop | Alexa fits in anywhere: bedroom, living room, bathroom, office, and small spaces | Charcoal",
+                "ratings_count": 65937,
+                "rating": "4.7",
+                "sale_price": "$39.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61V5FRUgX8L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-Echo-Alexa-fits-anywhere/dp/B09WNK39JN/ref=zg_bs_g_electronics_d_sccl_27/144-3123150-0317127?psc=1"
+            },
+            {
+                "rank": 28,
+                "asin": "B0BTTVRWPR",
+                "name": "INSIGNIA 50-inch Class F30 Series LED 4K UHD Smart Fire TV with Alexa Voice Remote (NS-50F301NA24)",
+                "ratings_count": 13342,
+                "rating": "4.4",
+                "sale_price": "$189.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81DM+ZzL8rL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/INSIGNIA-All-New-50-inch-Class-NS-50F301NA24/dp/B0BTTVRWPR/ref=zg_bs_g_electronics_d_sccl_28/144-3123150-0317127?psc=1"
+            },
+            {
+                "rank": 29,
+                "asin": "B09B94RL1R",
+                "name": "Amazon Echo Dot (5th Gen, 2022 release) | With bigger vibrant sound, helpful routines and Alexa | Glacier White",
+                "ratings_count": 127639,
+                "rating": "4.6",
+                "sale_price": "$49.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41F4LmKQeoL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-release-vibrant-helpful-routines/dp/B09B94RL1R/ref=zg_bs_g_electronics_d_sccl_29/144-3123150-0317127?psc=1"
+            },
+            {
+                "rank": 30,
+                "asin": "B09B93ZDG4",
+                "name": "Amazon Echo Dot (5th Gen, 2022 release) | With bigger vibrant sound, helpful routines and Alexa | Deep Sea Blue",
+                "ratings_count": 127639,
+                "rating": "4.6",
+                "sale_price": "$49.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41U7UzQyiJL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/release-bigger-vibrant-helpful-routines/dp/B09B93ZDG4/ref=zg_bs_g_electronics_d_sccl_30/144-3123150-0317127?psc=1"
+            },
+            {
+                "rank": 31,
+                "asin": "B08TVLYB3Q",
+                "name": "Cable Zip Ties,400 Pack Black Assorted Sizes 12+8+6+4 Inch,Multi-Purpose Self-Locking Nylon Cable Cord Management ,Plastic Wire Ties for Home,Office,Garden,Workshop. By HAVE ME TD",
+                "ratings_count": 16783,
+                "rating": "4.4",
+                "sale_price": "$5.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71+0M5K+jgL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/HAVE-ME-TD-Cable-Ties/dp/B08TVLYB3Q/ref=zg_bs_g_electronics_d_sccl_31/147-2112218-1637312?psc=1"
+            },
+            {
+                "rank": 32,
+                "asin": "B07SHFPD8S",
+                "name": "Full Motion TV Monitor Wall Mount Bracket Articulating Arms Swivel Tilt Extension Rotation for Most 13-42 Inch LED LCD Flat Curved Screen TVs & Monitors, Max VESA 200x200mm up to 44lbs by Pipishell",
+                "ratings_count": 125667,
+                "rating": "4.6",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61EBlj11AbL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Articulating-Extension-Rotation-200x200mm-Pipishell/dp/B07SHFPD8S/ref=zg_bs_g_electronics_d_sccl_32/147-2112218-1637312?psc=1"
+            },
+            {
+                "rank": 33,
+                "asin": "B09ZLTMWWH",
+                "name": "INSIGNIA 32-inch Class F20 Series Smart HD 720p Fire TV with Alexa Voice Remote (NS-32F201NA23)",
+                "ratings_count": 22990,
+                "rating": "4.5",
+                "sale_price": "$73.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/815E5aShTqL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/All-New-Insignia-32-inch-Class-NS-32F201NA23/dp/B09ZLTMWWH/ref=zg_bs_g_electronics_d_sccl_33/147-2112218-1637312?psc=1"
+            },
+            {
+                "rank": 34,
+                "asin": "B09B2SBHQK",
+                "name": "Amazon Echo Show 5 (3rd Gen, 2023 release) | Smart display with 2x the bass and clearer sound | Charcoal",
+                "ratings_count": 35031,
+                "rating": "4.4",
+                "sale_price": "$89.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51CYzU8PL4L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/All-new-Echo-Show-5/dp/B09B2SBHQK/ref=zg_bs_g_electronics_d_sccl_34/147-2112218-1637312?psc=1"
+            },
+            {
+                "rank": 35,
+                "asin": "B087RKKXM5",
+                "name": "Addtam USB Wall Charger Surge Protector 5 Outlet Extender with 4 USB Charging Ports (1 USB C Outlet) 3 Sided 1800J Power Strip Multi Plug Outlets Wall Adapter Spaced for Home Travel Office ETL Listed",
+                "ratings_count": 49575,
+                "rating": "4.7",
+                "sale_price": "$9.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51q27AdELqL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Charger-Protector-Extender-Charging-3-Sided/dp/B087RKKXM5/ref=zg_bs_g_electronics_d_sccl_35/147-2112218-1637312?psc=1"
+            },
+            {
+                "rank": 36,
+                "asin": "B0DDQLGDY3",
+                "name": "Beats Solo 4 - Wireless Bluetooth On-Ear Headphones, Apple & Android Compatible, Up to 50 Hours of Battery Life - Black & Gold",
+                "ratings_count": 1786,
+                "rating": "4.5",
+                "sale_price": "$199.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51lI3NHA7-L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Beats-Solo-Ear-Headphones-Compatible/dp/B0DDQLGDY3/ref=zg_bs_g_electronics_d_sccl_36/147-2112218-1637312?psc=1"
+            },
+            {
+                "rank": 37,
+                "asin": "B0DGJ73CFS",
+                "name": "Apple Watch SE (2nd Gen) [GPS 40mm] Smartwatch with Starlight Aluminium Case with Starlight Sport Band S/M. Fitness and Sleep Trackers, Crash Detection, Heart Rate Monitor, Retina Display",
+                "ratings_count": 3,
+                "rating": "4.3",
+                "sale_price": "$189.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61umEhyV-UL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-Smartwatch-Starlight-Aluminium-Detection/dp/B0DGJ73CFS/ref=zg_bs_g_electronics_d_sccl_37/147-2112218-1637312?psc=1"
+            },
+            {
+                "rank": 38,
+                "asin": "B01KBEOL5E",
+                "name": "Amazon Basics Full Motion Articulating TV Monitor Wall Mount for 26\" to 55\" TVs and Flat Panels up to 80 Lbs, Black",
+                "ratings_count": 49538,
+                "rating": "4.6",
+                "sale_price": "$26.89",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71SUOnx1hAL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-Basics-Motion-Articulating-Mount/dp/B01KBEOL5E/ref=zg_bs_g_electronics_d_sccl_38/147-2112218-1637312?psc=1"
+            },
+            {
+                "rank": 39,
+                "asin": "B08CZ1FYBD",
+                "name": "Newest Universal Remote Control for All Samsung TV Remote Compatible All Samsung LCD LED HDTV 3D Smart TVs Models",
+                "ratings_count": 19206,
+                "rating": "4.4",
+                "sale_price": "$9.96",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61TTDKvKG+L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Newest-Universal-Control-Samsung-Compatible/dp/B08CZ1FYBD/ref=zg_bs_g_electronics_d_sccl_39/147-2112218-1637312?psc=1"
+            },
+            {
+                "rank": 40,
+                "asin": "B0BTYCRJSS",
+                "name": "Soundcore by Anker P20i True Wireless Earbuds, 10mm Drivers with Big Bass, Bluetooth 5.3, 30H Long Playtime, Water-Resistant, 2 Mics for AI Clear Calls, 22 Preset EQs, Customization via App",
+                "ratings_count": 34666,
+                "rating": "4.4",
+                "sale_price": "$24.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/5181ILcyQJL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Soundcore-Wireless-Bluetooth-Water-Resistant-Customization/dp/B0BTYCRJSS/ref=zg_bs_g_electronics_d_sccl_40/147-2112218-1637312?psc=1"
+            },
+            {
+                "rank": 41,
+                "asin": "B0BLS3Y632",
+                "name": "Amazon Echo Show 8 (3rd Gen, 2023 release) | With Spatial Audio, Smart Home Hub, and Alexa | Charcoal",
+                "ratings_count": 13425,
+                "rating": "4.5",
+                "sale_price": "$149.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51B0KzSAh2L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/All-New-Echo-Show-8/dp/B0BLS3Y632/ref=zg_bs_g_electronics_d_sccl_41/147-2112218-1637312?psc=1"
+            },
+            {
+                "rank": 42,
+                "asin": "B0C8PSMPTH",
+                "name": "Beats Studio Pro - Wireless Bluetooth Noise Cancelling Headphones - Personalized Spatial Audio, USB-C Lossless Audio, Apple & Android Compatibility, Up to 40 Hours Battery Life - Sandstone",
+                "ratings_count": 12293,
+                "rating": "4.5",
+                "sale_price": "$249.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51t0IE0zjaL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Beats-Studio-Pro-Personalized-Compatibility/dp/B0C8PSMPTH/ref=zg_bs_g_electronics_d_sccl_42/147-2112218-1637312?psc=1"
+            },
+            {
+                "rank": 43,
+                "asin": "B09PDLBFKY",
+                "name": "6 Ft Surge Protector Power Strip - 8 Widely Outlets with 4 USB Ports, 3 Side Outlet Extender with 6 Feet Extension Cord, Flat Plug, Wall Mount, Desk USB Charging Station, ETL,White",
+                "ratings_count": 27940,
+                "rating": "4.6",
+                "sale_price": "$12.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/612M3pGndDL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Surge-Protector-Power-Strip-Extension/dp/B09PDLBFKY/ref=zg_bs_g_electronics_d_sccl_43/147-2112218-1637312?psc=1"
+            },
+            {
+                "rank": 44,
+                "asin": "B09BKHHL5H",
+                "name": "5-Outlet Surge Protector Wall Charger with 4 USB Ports - 1680J Multi Plug for Home, Office, Travel",
+                "ratings_count": 29090,
+                "rating": "4.7",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51hUUjfardL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/5-Outlet-Surge-Protector-Charger-Ports/dp/B09BKHHL5H/ref=zg_bs_g_electronics_d_sccl_44/147-2112218-1637312?psc=1"
+            },
+            {
+                "rank": 45,
+                "asin": "B0BQS9Y69G",
+                "name": "Roku Voice Remote | TV Remote Control with Voice Control, TV Controls, Simple Setup, & Pre-Set App Shortcuts - Replacement Remote Compatible with Roku TV, Roku Players, & Roku Audio",
+                "ratings_count": 10892,
+                "rating": "4.5",
+                "sale_price": "$19.88",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71QC9lXewTL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Roku-Voice-Remote-Controls-RCA1R/dp/B0BQS9Y69G/ref=zg_bs_g_electronics_d_sccl_45/147-2112218-1637312?psc=1"
+            },
+            {
+                "rank": 46,
+                "asin": "B096SRYXMP",
+                "name": "Beats Studio Buds - True Wireless Noise Cancelling Earbuds - Compatible with Apple & Android, Built-in Microphone, IPX4 Rating, Sweat Resistant Earphones, Class 1 Bluetooth Headphones - White",
+                "ratings_count": 78558,
+                "rating": "4.3",
+                "sale_price": null,
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41ijQEHFicS._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Beats-Studio-Cancelling-Earbuds-Built-Bluetooth-Headphones/dp/B096SRYXMP/ref=zg_bs_g_electronics_d_sccl_46/147-2112218-1637312?psc=1"
+            },
+            {
+                "rank": 47,
+                "asin": "B00NKYYMAW",
+                "name": "Mounting Dream UL Listed TV Mount for Most 37-75 Inch TV, Universal Tilt TV Wall Mount Fit 16\", 18\", 24\" Stud with Loading Capacity 132lbs, Max Vesa 600 x 400mm, Low Profile Flat Wall Mount Bracket",
+                "ratings_count": 108955,
+                "rating": "4.7",
+                "sale_price": "$29.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61Hy8TJdu3L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Mounting-Dream-600x400mm-Capacity-MD2268-LK/dp/B00NKYYMAW/ref=zg_bs_g_electronics_d_sccl_47/147-2112218-1637312?psc=1"
+            },
+            {
+                "rank": 48,
+                "asin": "B09SG2Q23M",
+                "name": "Surge Protector Power Strip (2100J), Anker 12 Outlets with 1 USB C and 2 USB Ports foriPhone 15/15 Plus/15 Pro/15 Pro Max, 5ft Extension Cord, Flat Plug, 20W USB C Charging for Home, Office,TUV Listed",
+                "ratings_count": 10900,
+                "rating": "4.8",
+                "sale_price": "$29.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71FtSiqsK3L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Anker-Protector-Multiple-Extension-Essential/dp/B09SG2Q23M/ref=zg_bs_g_electronics_d_sccl_48/147-2112218-1637312?psc=1"
+            },
+            {
+                "rank": 49,
+                "asin": "B0BCMND272",
+                "name": "INSIGNIA 42-inch Class F20 Series Smart Full HD 1080p Fire TV with Alexa Voice Remote (NS-42F201NA23)",
+                "ratings_count": 8927,
+                "rating": "4.5",
+                "sale_price": "$129.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81-WrIFjNiL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/INSIGNIA-42-inch-Class-Smart-NS-42F201NA23/dp/B0BCMND272/ref=zg_bs_g_electronics_d_sccl_49/147-2112218-1637312?psc=1"
+            },
+            {
+                "rank": 50,
+                "asin": "B0BJLXMVMV",
+                "name": "Apple iPad (10th Generation): with A14 Bionic chip, 10.9-inch Liquid Retina Display, 64GB, Wi-Fi 6, 12MP front/12MP Back Camera, Touch ID, All-Day Battery Life – Blue",
+                "ratings_count": 18741,
+                "rating": "4.8",
+                "sale_price": "$299.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61uA2UVnYWL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-2022-10-9-inch-iPad-Wi-Fi/dp/B0BJLXMVMV/ref=zg_bs_g_electronics_d_sccl_50/147-2112218-1637312?psc=1"
+            }
+        ]
+    }
+}

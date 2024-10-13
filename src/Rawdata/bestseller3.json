@@ -1,0 +1,619 @@
+{
+    "200": {
+        "category": "Amazon Best SellersAppliances",
+        "category_hierarchy": [
+            {
+                "name": "Any Department",
+                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_appliances_0_1"
+            },
+            {
+                "name": "Appliances",
+                "url": "https://www.amazon.com/Best-Sellers-Appliances/zgbs/appliances/ref=zg_bs_nav_appliances_0?pg=1"
+            }
+        ],
+        "child_categories": [
+            {
+                "category": "Appliance Warranties",
+                "url": "https://www.amazon.com/Best-Sellers-Appliances-Home-Appliance-Warranties/zgbs/appliances/2242350011/ref=zg_bs_nav_appliances_1"
+            },
+            {
+                "category": "Cooktops",
+                "url": "https://www.amazon.com/Best-Sellers-Appliances-Cooktops/zgbs/appliances/3741261/ref=zg_bs_nav_appliances_1"
+            },
+            {
+                "category": "Dishwashers",
+                "url": "https://www.amazon.com/Best-Sellers-Appliances-Dishwashers/zgbs/appliances/3741271/ref=zg_bs_nav_appliances_1"
+            },
+            {
+                "category": "Freezers",
+                "url": "https://www.amazon.com/Best-Sellers-Appliances-Freezers/zgbs/appliances/3741331/ref=zg_bs_nav_appliances_1"
+            },
+            {
+                "category": "Ice Makers",
+                "url": "https://www.amazon.com/Best-Sellers-Appliances-Ice-Makers/zgbs/appliances/2399939011/ref=zg_bs_nav_appliances_1"
+            },
+            {
+                "category": "Range Hoods",
+                "url": "https://www.amazon.com/Best-Sellers-Appliances-Range-Hoods/zgbs/appliances/3741441/ref=zg_bs_nav_appliances_1"
+            },
+            {
+                "category": "Ranges",
+                "url": "https://www.amazon.com/Best-Sellers-Appliances-Ranges/zgbs/appliances/3741411/ref=zg_bs_nav_appliances_1"
+            },
+            {
+                "category": "Refrigerators",
+                "url": "https://www.amazon.com/Best-Sellers-Appliances-Refrigerators/zgbs/appliances/3741361/ref=zg_bs_nav_appliances_1"
+            },
+            {
+                "category": "Wall Ovens",
+                "url": "https://www.amazon.com/Best-Sellers-Appliances-Wall-Ovens/zgbs/appliances/3741481/ref=zg_bs_nav_appliances_1"
+            },
+            {
+                "category": "Warming Drawers",
+                "url": "https://www.amazon.com/Best-Sellers-Appliances-Warming-Drawers/zgbs/appliances/2399955011/ref=zg_bs_nav_appliances_1"
+            },
+            {
+                "category": "Washers & Dryers",
+                "url": "https://www.amazon.com/Best-Sellers-Appliances-Washers-Dryers/zgbs/appliances/2383576011/ref=zg_bs_nav_appliances_1"
+            },
+            {
+                "category": "Wine Cellars",
+                "url": "https://www.amazon.com/Best-Sellers-Appliances-Wine-Cellars/zgbs/appliances/3741521/ref=zg_bs_nav_appliances_1"
+            }
+        ],
+        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/Best-Sellers-Appliances/zgbs/appliances/ref%3Dzg_bs_pg_2_appliances%3F_encoding%3DUTF8%26pg%3D2",
+        "url": "https://www.amazon.com/Best-Sellers-Appliances/zgbs/appliances/ref=zg_bs_nav_appliances_0?pg=1",
+        "product_listings": [
+            {
+                "rank": 1,
+                "asin": "B0BV9Z8ZFV",
+                "name": "EUHOMY Countertop Ice Maker Machine with Handle, 26lbs Per Day, 9 Ice Cubes Ready in 6 Mins, Auto-Cleaning Portable Ice Maker with Basket and Scoop, for Home/Kitchen/Camping/RV (Silver)",
+                "ratings_count": 6705,
+                "rating": "4.4",
+                "sale_price": "$61.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81w1jO5VOFL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/EUHOMY-Countertop-Machine-Auto-Cleaning-Portable/dp/B0BV9Z8ZFV/ref=zg_bs_g_appliances_d_sccl_1/136-8350431-3126854?psc=1"
+            },
+            {
+                "rank": 2,
+                "asin": "B0BXXKFJK2",
+                "name": "Silonn Ice Maker Countertop, Portable Ice Machine with Carry Handle, Self-Cleaning Ice Makers with Basket and Scoop, 9 Cubes in 6 Mins, 26 lbs per Day, Ideal for Home, Kitchen, Camping, RV",
+                "ratings_count": 3378,
+                "rating": "4.4",
+                "sale_price": "$104.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61AURME4oOL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Silonn-Countertop-Portable-Machine-Self-Cleaning/dp/B0BXXKFJK2/ref=zg_bs_g_appliances_d_sccl_2/136-8350431-3126854?psc=1"
+            },
+            {
+                "rank": 3,
+                "asin": "B0BPSW1K11",
+                "name": "Countertop Ice Maker, Ice Maker Machine 6 Mins 9 Ice, 26.5lbs/24Hrs, Portable Ice Maker Machine with Self-Cleaning, Ice Scoop, and Basket, Compact Ice Maker for Home/Kitchen/Office/Party",
+                "ratings_count": 5279,
+                "rating": "4.3",
+                "sale_price": "$89.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61Qf8Ztg1FL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Countertop-Ice-Maker-Ice-Maker-Machine-26-5lbs-Portable-Self-Cleaning/dp/B0BPSW1K11/ref=zg_bs_g_appliances_d_sccl_3/136-8350431-3126854?psc=1"
+            },
+            {
+                "rank": 4,
+                "asin": "B08ZYJ8CRX",
+                "name": "Silonn Ice Maker Countertop, 9 Cubes Ready in 6 Mins, 26lbs in 24Hrs, Self-Cleaning Ice Machine with Ice Scoop and Basket, 2 Sizes of Bullet Ice for Home Kitchen Office Bar Party",
+                "ratings_count": 28729,
+                "rating": "4.3",
+                "sale_price": "$89.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61eMsTk4w0L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Silonn-Countertop-Portable-Self-cleaning-Bullet-shaped/dp/B08ZYJ8CRX/ref=zg_bs_g_appliances_d_sccl_4/136-8350431-3126854?psc=1"
+            },
+            {
+                "rank": 5,
+                "asin": "B07JBJWP2W",
+                "name": "Frigidaire Countertop Ice Maker, Compact Machine, 26 lbs per day, Stainless",
+                "ratings_count": 8266,
+                "rating": "4.4",
+                "sale_price": "$106.68",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71FAIRY9cWL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Frigidaire-Countertop-Compact-Machine-Stainless/dp/B07JBJWP2W/ref=zg_bs_g_appliances_d_sccl_5/136-8350431-3126854?psc=1"
+            },
+            {
+                "rank": 6,
+                "asin": "B0B6BXYVVQ",
+                "name": "COWSAR Ice Maker Countertop, Portable Ice Machine with Self-Cleaning, 26.5lbs/24Hrs, 9 Bullet Ice Cubes in 6 Mins, Ice Basket and Scoop, Ideal for Home, Kitchen, Bar, Camping",
+                "ratings_count": 3775,
+                "rating": "4.4",
+                "sale_price": "$79.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/718S8qkSWWL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/COWSAR-Countertop-Portable-Self-Cleaning-Handheld/dp/B0B6BXYVVQ/ref=zg_bs_g_appliances_d_sccl_6/136-8350431-3126854?psc=1"
+            },
+            {
+                "rank": 7,
+                "asin": "B09RWFZTWW",
+                "name": "Upstreman 3.2 Cu.Ft Mini Fridge with Freezer, Single Door Mini Fridge, Dorm Fridge, Adjustable Thermostat, Mini Refrigerator for Bedroom, Office, Dorm, Black-BR321",
+                "ratings_count": 3474,
+                "rating": "4.4",
+                "sale_price": "$139.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81If+KcnIkL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Upstreman-Adjustable-Thermostat-Refrigerator-Black-BR321/dp/B09RWFZTWW/ref=zg_bs_g_appliances_d_sccl_7/136-8350431-3126854?psc=1"
+            },
+            {
+                "rank": 8,
+                "asin": "B07PWLNZDN",
+                "name": "Midea MRC070S0AWW Chest Freezer, 7.0 Cubic Feet, White",
+                "ratings_count": 9918,
+                "rating": "4.5",
+                "sale_price": "$269.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51tUkt7w9lL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/midea-MRC070S0AWW-Chest-Freezer-Cubic/dp/B07PWLNZDN/ref=zg_bs_g_appliances_d_sccl_8/136-8350431-3126854?psc=1"
+            },
+            {
+                "rank": 9,
+                "asin": "B0002YTLZY",
+                "name": "Broan-NuTone 413001 Non-Ducted Ductless Range Hood with Lights Exhaust Fan for Under Cabinet, 30-Inch, White",
+                "ratings_count": 19205,
+                "rating": "4.6",
+                "sale_price": "$65.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/417thSEZsjL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Broan-413001-Capable-Non-Ducted-Under-Cabinet/dp/B0002YTLZY/ref=zg_bs_g_appliances_d_sccl_9/136-8350431-3126854?psc=1"
+            },
+            {
+                "rank": 10,
+                "asin": "B0BRYTP75X",
+                "name": "GE Profile Opal 2.0 XL with 1 Gallon Tank, Chewable Crunchable Countertop Nugget Ice Maker, Scoop included, 38 lbs in 24 hours, Pellet Ice Machine with WiFi & Smart Connected, Stainless Steel",
+                "ratings_count": 1990,
+                "rating": "4.0",
+                "sale_price": "$679.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51YKgIyb8TL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/GE-Countertop-sidetank-Connectivity-Stainless/dp/B0BRYTP75X/ref=zg_bs_g_appliances_d_sccl_10/136-8350431-3126854?psc=1"
+            },
+            {
+                "rank": 11,
+                "asin": "B0C32SGKMJ",
+                "name": "EUHOMY Nugget Ice Maker Countertop with Handle, Ready in 6 Mins, 34lbs Per Day, Removable Top Cover, Auto-Cleaning, Portable Sonic Ice Maker with Basket and Scoop, for Home/Party/RV/Camping (Black)",
+                "ratings_count": 2433,
+                "rating": "4.2",
+                "sale_price": "$189.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71TphKkVERL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/EUHOMY-Countertop-Removable-Auto-Cleaning-Portable/dp/B0C32SGKMJ/ref=zg_bs_g_appliances_d_sccl_11/136-8350431-3126854?psc=1"
+            },
+            {
+                "rank": 12,
+                "asin": "B0C3R14HHC",
+                "name": "EASYERA Nugget Ice Maker Countertop,Chewable Pellet Ice, 33 LBS/24 H,Compact Self-Cleaning Ice Machine with Ice Bags，Pebble Ice Maker for Home, Kitchen, RV, Camping",
+                "ratings_count": 853,
+                "rating": "4.3",
+                "sale_price": "$239.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71gXIKkBdhL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/EASYERA-Countertop-Crushed-Chewble-Self-Cleaning/dp/B0C3R14HHC/ref=zg_bs_g_appliances_d_sccl_12/136-8350431-3126854?psc=1"
+            },
+            {
+                "rank": 13,
+                "asin": "B0B498C643",
+                "name": "ecozy Portable Countertop Ice Maker - 9 Ice Cubes in 6 Minutes, 26 lbs Daily Output, Self-Cleaning with Ice Bags, Scoop, and Basket for Kitchen, Office, Bar, Party - Black",
+                "ratings_count": 3632,
+                "rating": "4.4",
+                "sale_price": "$79.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/710I6vJ4zTL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/ecozy-Portable-Countertop-Self-Cleaning-Standing/dp/B0B498C643/ref=zg_bs_g_appliances_d_sccl_13/136-8350431-3126854?psc=1"
+            },
+            {
+                "rank": 14,
+                "asin": "B09YLKMHLH",
+                "name": "Auertech Portable Washing Machine, 28lbs Twin Tub Washer Mini Compact Laundry Machine with Drain Pump, Semi-automatic 18lbs Washer 10lbs Spinner Combo for Dorms, Apartments, RVs",
+                "ratings_count": 2309,
+                "rating": "4.3",
+                "sale_price": "$179.96",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61CoDohL3wL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Auertech-Portable-Washing-Semi-automatic-Apartments/dp/B09YLKMHLH/ref=zg_bs_g_appliances_d_sccl_14/136-8350431-3126854?psc=1"
+            },
+            {
+                "rank": 15,
+                "asin": "B0CD2C8M4D",
+                "name": "Silonn Nugget Ice Maker Countertop, Pebble Ice Maker with Soft Chewable Ice, One-Click Operation Ice Machine with Self-Cleaning, 33lbs/24H for Home,Kitchen,Office",
+                "ratings_count": 2770,
+                "rating": "4.3",
+                "sale_price": "$229.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71fw9r9rc6L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Silonn-Countertop-One-Click-Operation-Self-Cleaning/dp/B0CD2C8M4D/ref=zg_bs_g_appliances_d_sccl_15/136-8350431-3126854?psc=1"
+            },
+            {
+                "rank": 16,
+                "asin": "B09W9KSQBL",
+                "name": "Upstreman 1.7 Cu.ft Mini Fridge with Freezer, Dorm Essentials, Adjustable Thermostat, Energy Saving, Low Noise, Single Door Compact Refrigerator for Dorm, Office, Bedroom, Black-FR17",
+                "ratings_count": 1671,
+                "rating": "4.5",
+                "sale_price": "$129.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61Y4tbAP8zL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Upstreman-Adjustable-Thermostat-Refrigerator-Black-FR17/dp/B09W9KSQBL/ref=zg_bs_g_appliances_d_sccl_16/136-8350431-3126854?psc=1"
+            },
+            {
+                "rank": 17,
+                "asin": "B0CWP2SY75",
+                "name": "ecozy Smart Nugget Ice Maker Countertop, Pebble Ice Maker with 35lbs/24H Soft Chewable Ice, Self-Cleaning Ice Machine with Voice Control for Home Kitchen Party Bar Office, Stainless Steel",
+                "ratings_count": 550,
+                "rating": "4.0",
+                "sale_price": "$159.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81EQnn+Hl8L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/ecozy-Countertop-Chewable-Self-Cleaning-Stainless/dp/B0CWP2SY75/ref=zg_bs_g_appliances_d_sccl_17/136-8350431-3126854?psc=1"
+            },
+            {
+                "rank": 18,
+                "asin": "B0799Q45TT",
+                "name": "BLACK+DECKER 0.9 Cu. Ft. Portable Washer, 6.6 lb. Capacity Washing Machine for Homes & Apartments, 5 Wash Cycles, Quick Connect Sink Adapter and Drain Hose Included, Transparent Lid & LED Display, BPWM09W, White",
+                "ratings_count": 7201,
+                "rating": "4.4",
+                "sale_price": "$235.19",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61tNdgVDSLL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Black-Decker-BPWM09W-Portable-Washer/dp/B0799Q45TT/ref=zg_bs_g_appliances_d_sccl_18/136-8350431-3126854?psc=1"
+            },
+            {
+                "rank": 19,
+                "asin": "B0CQJ82KX5",
+                "name": "ZAFRO Countertop Ice Maker,Portable Ice Machine with Carry Handle,Self-Cleaning,Basket and Scoop,9 Cubes in 6 Mins,26lbs/24Hrs,2 Sizes of Bullet Ice,for Home,Kitchen,Party,Black",
+                "ratings_count": 393,
+                "rating": "4.4",
+                "sale_price": "$69.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61XGTfmpLcL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/ZAFRO-Countertop-Portable-Machine-Self-Cleaning/dp/B0CQJ82KX5/ref=zg_bs_g_appliances_d_sccl_19/136-8350431-3126854?psc=1"
+            },
+            {
+                "rank": 20,
+                "asin": "B09HJGB2PJ",
+                "name": "Igloo Automatic Self-Cleaning Portable Electric Countertop Ice Maker Machine With Handle, 26 Pounds in 24 Hours, 9 Ice Cubes Ready in 7 minutes, With Ice Scoop and Basket",
+                "ratings_count": 10790,
+                "rating": "4.1",
+                "sale_price": "$91.84",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61iUP7+mbiL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Igloo-Automatic-Self-Cleaning-Portable-Countertop/dp/B09HJGB2PJ/ref=zg_bs_g_appliances_d_sccl_20/136-8350431-3126854?psc=1"
+            },
+            {
+                "rank": 21,
+                "asin": "B0BWQR1YBP",
+                "name": "ecozy Nugget Ice Maker Countertop - Chewable Pellet Ice Cubes, 33 lbs Daily Output, Stainless Steel Housing, Self-Cleaning Ice Machine with Ice Bags for Parties, Kitchen, Bar, Office, Silver",
+                "ratings_count": 3084,
+                "rating": "4.1",
+                "sale_price": "$229.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71V9D5hfe9L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/ecozy-Nugget-Maker-Countertop-Self-Cleaning/dp/B0BWQR1YBP/ref=zg_bs_g_appliances_d_sccl_21/136-8350431-3126854?psc=1"
+            },
+            {
+                "rank": 22,
+                "asin": "B0C9SWH3RC",
+                "name": "Nugget Ice Maker Countertop, Silonn Chewable Pellet Ice Machine with Self-Cleanin Function, 33lbs/24H Portable Ice Makers for Home Kitchen Officce, Black",
+                "ratings_count": 1363,
+                "rating": "4.3",
+                "sale_price": "$239.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/718a7VbShXL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Countertop-Silonn-Chewable-Self-Cleaning-Function/dp/B0C9SWH3RC/ref=zg_bs_g_appliances_d_sccl_22/136-8350431-3126854?psc=1"
+            },
+            {
+                "rank": 23,
+                "asin": "B0BL7DCJBH",
+                "name": "Portable Countertop Ice Maker Machine with Handle, 9 Bullet-Shaped Ice Cubes Ready in 6 Mins, 26Lbs/24H, Self-Cleaning Function with Ice Scoop and Basket for Home/Kitchen/Party (Grey)",
+                "ratings_count": 2123,
+                "rating": "4.5",
+                "sale_price": "$39.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81x+FBJu5jL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Countertop-Self-Cleaning-Portable-Machine-Bullet-Shaped/dp/B0BL7DCJBH/ref=zg_bs_g_appliances_d_sccl_23/136-8350431-3126854?psc=1"
+            },
+            {
+                "rank": 24,
+                "asin": "B0CTCD3GGL",
+                "name": "EUHOMY Nugget Ice Makers Countertop, Pebble Ice Maker Machine with 35lbs/24H Soft Ice, Self-Cleaning Sonic Ice Maker with Ice Scoop&Basket, Pellet Ice Maker for Home/Kitchen/Office(Stainless Steels)",
+                "ratings_count": 676,
+                "rating": "4.1",
+                "sale_price": "$189.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81af7UY1YvL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/EUHOMY-Countertop-Machine-Self-Cleaning-Stainless/dp/B0CTCD3GGL/ref=zg_bs_g_appliances_d_sccl_24/136-8350431-3126854?psc=1"
+            },
+            {
+                "rank": 25,
+                "asin": "B09ST4M8VF",
+                "name": "COMFEE’ Countertop Dishwasher, Energy Star Portable Dishwasher, 6 Place Settings & 8 Washing Programs, Speed, Baby-Care, ECO& Glass, Dish Washer for Dorm, RV& Apartment, Black",
+                "ratings_count": 2099,
+                "rating": "4.3",
+                "sale_price": "$289.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61uktgglkfL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/COMFEE-Countertop-Dishwasher-Baby-Care-Apartment/dp/B09ST4M8VF/ref=zg_bs_g_appliances_d_sccl_25/136-8350431-3126854?psc=1"
+            },
+            {
+                "rank": 26,
+                "asin": "B0BCXJQ5YN",
+                "name": "Frigidaire Nugget Ice Maker, Countertop Ice Machine with Transparent Window, Sonic Ice Maker with 44 lbs. Capacity, Auto Self Cleaning Ice Maker Machine, 2.0 Gen, Cream - 16.75D x 11.75W x 20.25H",
+                "ratings_count": 4207,
+                "rating": "4.2",
+                "sale_price": "$299.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71p3dXGiTmL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/FRIGIDAIRE-Gallery-Countertop-Chewable-Cleaning/dp/B0BCXJQ5YN/ref=zg_bs_g_appliances_d_sccl_26/136-8350431-3126854?psc=1"
+            },
+            {
+                "rank": 27,
+                "asin": "B01ECZVWAU",
+                "name": "Frigidaire EFIC108-SILVER Counter top Portable, 26 lb per Day Ice Maker Machine, Silver",
+                "ratings_count": 5763,
+                "rating": "4.4",
+                "sale_price": "$79.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71lRw3I2HfL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Frigidaire-EFIC108-SILVER-Ice-Maker-Silver/dp/B01ECZVWAU/ref=zg_bs_g_appliances_d_sccl_27/136-8350431-3126854?psc=1"
+            },
+            {
+                "rank": 28,
+                "asin": "B0D6G6QNH8",
+                "name": "Nugget Ice Makers Countertop, Pebble Ice Machine with Chewable Pellet Ice, 34Lbs/24H, Self-Cleaning, Sonic Ice, One-Click Operation, for Kitchen,Office Stainless Steel Black",
+                "ratings_count": 55,
+                "rating": "4.3",
+                "sale_price": "$162.05",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71w1FIdmjIL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Countertop-Self-Cleaning-One-Click-Operation-Stainless/dp/B0D6G6QNH8/ref=zg_bs_g_appliances_d_sccl_28/136-8350431-3126854?psc=1"
+            },
+            {
+                "rank": 29,
+                "asin": "B0C84L96D2",
+                "name": "Euhomy 110V Portable Clothes Dryer 850W Compact Laundry Dryers 1.5 cu.ft Front Load Stainless Steel Electric Dryers Machine with Stainless Steel Tub for Apartment,RVs,Dorms,White Easy Control",
+                "ratings_count": 2739,
+                "rating": "4.3",
+                "sale_price": "$229.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71JWKUm4SQL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Portable-Clothes-Stainless-Electric-Apartment/dp/B0C84L96D2/ref=zg_bs_g_appliances_d_sccl_29/136-8350431-3126854?psc=1"
+            },
+            {
+                "rank": 30,
+                "asin": "B0CNVL19YJ",
+                "name": "AGLUCKY Ice Makers Countertop with Handle,26.5Lbs/24H,9 Cubes in 6 Mins,2 Sizes of Bullet Ice,Portable Ice Maker Machine with Self-Cleaning,Perfect for Home Kitchen(Black)",
+                "ratings_count": 2731,
+                "rating": "4.4",
+                "sale_price": "$79.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71BFpUMS5zL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/AGLUCKY-Countertop-26-5Lbs-Portable-Self-Cleaning/dp/B0CNVL19YJ/ref=zg_bs_g_appliances_d_sccl_30/136-8350431-3126854?psc=1"
+            },
+            {
+                "rank": 31,
+                "asin": "B07YT3HQND",
+                "name": "Frigidaire EFIC123-SSBLACK Compact Countertop Ice Maker, 26lbs of Ice per day, Black Stainless",
+                "ratings_count": 3048,
+                "rating": "4.3",
+                "sale_price": "$89.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71pgz1zjWxL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Frigidaire-EFIC123-SSBLACK-Maker-Black-Stainless/dp/B07YT3HQND/ref=zg_bs_g_appliances_d_sccl_31/132-4526197-3958645?psc=1"
+            },
+            {
+                "rank": 32,
+                "asin": "B0D4LN2QZ6",
+                "name": "Aeitto Nugget Ice Maker Countertop, 55 lbs/Day, Chewable Ice Maker, Rapid Ice Release in 5 Mins, Auto Water Refill, Self-Cleaning, Stainless Steel Housing Ice Machine, Black",
+                "ratings_count": 16,
+                "rating": "5.0",
+                "sale_price": "$289.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71Z3DHD49kL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Aeitto-Countertop-Chewable-Self-Cleaning-Stainless/dp/B0D4LN2QZ6/ref=zg_bs_g_appliances_d_sccl_32/132-4526197-3958645?psc=1"
+            },
+            {
+                "rank": 33,
+                "asin": "B0BYJ3WWTX",
+                "name": "Nugget Countertop Ice Maker with Soft Chewable Ice, 34Lbs/24H, Pebble Portable Ice Machine with Ice Scoop, Self-Cleaning, One-Click Operation, for Kitchen,Office Stainless Steel Silver",
+                "ratings_count": 4501,
+                "rating": "4.1",
+                "sale_price": "$199.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81WQdDu1A6L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Countertop-Self-Cleaning-One-Click-Operation-Stainless/dp/B0BYJ3WWTX/ref=zg_bs_g_appliances_d_sccl_33/132-4526197-3958645?psc=1"
+            },
+            {
+                "rank": 34,
+                "asin": "B0CWQ5B71R",
+                "name": "Electactic Ice Maker Countertop, Efficient Easy Carry Ice Machine, Self-Cleaning Ice Maker with Ice Scoop & Basket, 9pcs/ 8mins 26.6Lbs Per Day for Home/Office/Kitchen,Black",
+                "ratings_count": 2233,
+                "rating": "4.3",
+                "sale_price": "$62.33",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71hwujhBHZL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Electactic-Countertop-Efficient-Machine-Self-Cleaning/dp/B0CWQ5B71R/ref=zg_bs_g_appliances_d_sccl_34/132-4526197-3958645?psc=1"
+            },
+            {
+                "rank": 35,
+                "asin": "B000IJV8ZY",
+                "name": "Broan-NuTone F403023 Exhaust Fan for Under Cabinet Two-Speed Four-Way Range Hood, 30-Inch, Black",
+                "ratings_count": 8237,
+                "rating": "4.5",
+                "sale_price": "$57.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41sGoZzvYTL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Broan-NuTone-F403023-Two-Speed-Four-Way-Convertible/dp/B000IJV8ZY/ref=zg_bs_g_appliances_d_sccl_35/132-4526197-3958645?psc=1"
+            },
+            {
+                "rank": 36,
+                "asin": "B0B5D97F23",
+                "name": "Silonn Countertop Ice Maker, 9 Cubes Ready in 6 Mins, 26lbs in 24Hrs, Self-Cleaning Ice Machine with Ice Scoop and Basket, 2 Sizes of Bullet Ice for Home Kitchen Office Bar Party, Black",
+                "ratings_count": 3062,
+                "rating": "4.4",
+                "sale_price": "$79.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/610-zPApG9L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Silonn-Countertop-Self-Cleaning-Machine-SLIM09/dp/B0B5D97F23/ref=zg_bs_g_appliances_d_sccl_36/132-4526197-3958645?psc=1"
+            },
+            {
+                "rank": 37,
+                "asin": "B0964BF4N7",
+                "name": "GE Profile Opal 2.0 with 0.75 Gallon Tank, Chewable Crunchable Countertop Nugget Ice Maker, Scoop included, 38 lbs in 24 hours, Pellet Ice Machine with WiFi & Smart Connected, Stainless Steel",
+                "ratings_count": 2679,
+                "rating": "3.9",
+                "sale_price": "$549.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71nOg6w4K6L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/GE-Profile-XPIO13SCSS-Stainless-Nugget/dp/B0964BF4N7/ref=zg_bs_g_appliances_d_sccl_37/132-4526197-3958645?psc=1"
+            },
+            {
+                "rank": 38,
+                "asin": "B0924J3XJ5",
+                "name": "Comfee' CVU30W2AST 30 Inch Ducted Ductless Vent Durable Stainless Steel Kitchen Reusable Filter, 200 CFM, 2 Speed Exhaust Fan Under Cabinet Range Hood",
+                "ratings_count": 1404,
+                "rating": "4.2",
+                "sale_price": "$89.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/517WWSm8NRL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Comfee-F13-Ductless-Reusable-Stainless/dp/B0924J3XJ5/ref=zg_bs_g_appliances_d_sccl_38/132-4526197-3958645?psc=1"
+            },
+            {
+                "rank": 39,
+                "asin": "B0C4DN4C4V",
+                "name": "BANGSON Small Refrigerator with Freezer, 4.0 Cu.Ft, Samll Fridge with Freezer, 5 Settings Temperature Adjustable, 2 Doors, Compact Refrigerator for Apartment Bedroom Dorm and Office, Silver",
+                "ratings_count": 786,
+                "rating": "4.2",
+                "sale_price": "$295.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51llsc7MClL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/BANGSON-Refrigerator-Temperature-Adjustable-Apartment/dp/B0C4DN4C4V/ref=zg_bs_g_appliances_d_sccl_39/132-4526197-3958645?psc=1"
+            },
+            {
+                "rank": 40,
+                "asin": "B0BQBR9X5Q",
+                "name": "GoveeLife Smart Ice Makers Countertop, Portable Ice Machine with Voice Remote, 9 Ice Cubes in 6 Minutes 3 Sizes, 26lbs/Day, Self Cleaning, Quiet Ice Maker for Home Kitchen Office, Stainless Silver",
+                "ratings_count": 1582,
+                "rating": "4.4",
+                "sale_price": "$159.88",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71jINQGoQvL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Govee-Life-Countertop-Self-Cleaning-Stainless/dp/B0BQBR9X5Q/ref=zg_bs_g_appliances_d_sccl_40/132-4526197-3958645?psc=1"
+            },
+            {
+                "rank": 41,
+                "asin": "B0CCR7NFMQ",
+                "name": "COWSAR Nugget Ice Makers Countertop, Soft Chewable Crushed Ice Maker Machine, Portable Pebble Ice Maker Countertop, 34Lbs/Day, Self-Cleaning, One-Button Operation Ice Machine for Home Kitchen Party",
+                "ratings_count": 788,
+                "rating": "4.1",
+                "sale_price": "$199.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/7140Q3v6cbL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/COWSAR-Countertop-One-Button-Self-Cleaning-Stainless/dp/B0CCR7NFMQ/ref=zg_bs_g_appliances_d_sccl_41/132-4526197-3958645?psc=1"
+            },
+            {
+                "rank": 42,
+                "asin": "B08FZYMWJT",
+                "name": "AGLUCKY Ice Makers Countertop with Self-Cleaning, 26lbs/24hrs, 9 Cubes Ready in 6 Mins, Portable Ice Machine with 2 Sizes Bullet Ice/Ice Scoop/Basket for Home/Kitchen/Office/Bar/Party, Black",
+                "ratings_count": 24861,
+                "rating": "4.3",
+                "sale_price": "$79.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71J3NMKpGgL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/AGLUCKY-Machine-Countertop-Portable-Makers/dp/B08FZYMWJT/ref=zg_bs_g_appliances_d_sccl_42/132-4526197-3958645?psc=1"
+            },
+            {
+                "rank": 43,
+                "asin": "B075QP7SCP",
+                "name": "Frigidaire Ice Maker EFIC189, Countertop Ice Maker with Transparent Window, Bullet Ice Maker, 26 lbs. Capacity per day, Small Ice Maker Machine – 11.6D x 8.7W x 11.4H, Silver (Packaging May Vary)",
+                "ratings_count": 16091,
+                "rating": "4.4",
+                "sale_price": "$89.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61A1oMrThJL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Frigidaire-EFIC189-Countertop-Transparent-Capacity/dp/B075QP7SCP/ref=zg_bs_g_appliances_d_sccl_43/132-4526197-3958645?psc=1"
+            },
+            {
+                "rank": 44,
+                "asin": "B089YSKJY6",
+                "name": "COMFEE’ 1.6 Cu.ft Portable Washing Machine, 11lbs Capacity Fully Automatic Compact Washer with Wheels, 6 Wash Programs Laundry Drain Pump, Ideal for Apartments, RV, Camping, Magnetic Gray",
+                "ratings_count": 7585,
+                "rating": "4.4",
+                "sale_price": "$289.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61m2cCUhdbL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/COMFEE-Portable-Capacity-Automatic-Apartments/dp/B089YSKJY6/ref=zg_bs_g_appliances_d_sccl_44/132-4526197-3958645?psc=1"
+            },
+            {
+                "rank": 45,
+                "asin": "B0D3LGT8M3",
+                "name": "GoveeLife Smart Ice Maker Countertop, Portable Ice Machine with Voice Control, 9 Ice Cubes in 6 Minutes 3 Sizes, 26lbs/24Hrs, Self Cleaning RGB Lights, Quiet Ice Maker with Scoop for Kitchen Silver",
+                "ratings_count": 20,
+                "rating": "4.6",
+                "sale_price": "$179.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71RbKtI9taL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/GoveeLife-Countertop-Portable-Machine-Cleaning/dp/B0D3LGT8M3/ref=zg_bs_g_appliances_d_sccl_45/132-4526197-3958645?psc=1"
+            },
+            {
+                "rank": 46,
+                "asin": "B07F3FFFRC",
+                "name": "GE Profile Opal | Cleaning Supplies Kit for Opal Nugget Ice Maker | Ice Machine Cleaner Kit Includes (1) 5 oz Bottles of Cleaning Solution, (1) Cleaning Cloth",
+                "ratings_count": 1145,
+                "rating": "4.1",
+                "sale_price": "$30.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41p0xXVIlWL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/GE-Profile-Supplies-Opal-Solution/dp/B07F3FFFRC/ref=zg_bs_g_appliances_d_sccl_46/132-4526197-3958645?psc=1"
+            },
+            {
+                "rank": 47,
+                "asin": "B0B7BYJ25J",
+                "name": "Iceman Dual-Size Countertop Ice Maker Machine, Portable, Creates 2 Cube Sizes in 6 Mins, Holds 1.3 lb. of Ice, Makes up to 26 lb in 24 Hours, Self-Cleaning Scoop Included, Stainless-Steel",
+                "ratings_count": 1015,
+                "rating": "4.3",
+                "sale_price": "$94.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71KWWE00QNL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Iceman-Dual-Size-Ice-Machine-Stainless-Steel/dp/B0B7BYJ25J/ref=zg_bs_g_appliances_d_sccl_47/132-4526197-3958645?psc=1"
+            },
+            {
+                "rank": 48,
+                "asin": "B0BVH5ZS47",
+                "name": "FIREGAS 30 inch Range Hood Under Cabinet, Ducted/Ductless Convertible Stainless Steel Kitchen Range Hood with Rocker Button Control, 2 Speed Exhaust Fan, 300 CFM Aluminum Filter Included",
+                "ratings_count": 1026,
+                "rating": "4.4",
+                "sale_price": "$69.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51+RxKPca+L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/FIREGAS-Ductless-Convertible-Stainless-Aluminum/dp/B0BVH5ZS47/ref=zg_bs_g_appliances_d_sccl_48/132-4526197-3958645?psc=1"
+            },
+            {
+                "rank": 49,
+                "asin": "B09S19QGC9",
+                "name": "Honeywell Mini Compact Freezer Countertop, 1.1 Cubic Feet, Single Door Upright Freezer with Reversible Door, Removable Shelves, for Home, Dorms, Apartment, Office- Black",
+                "ratings_count": 214,
+                "rating": "4.5",
+                "sale_price": "$115.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51C3W7nA+3L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Honeywell-Countertop-Reversible-Removable-Apartment/dp/B09S19QGC9/ref=zg_bs_g_appliances_d_sccl_49/132-4526197-3958645?psc=1"
+            },
+            {
+                "rank": 50,
+                "asin": "B09QCJ6TDZ",
+                "name": "COMFEE' Portable Mini Dishwasher Countertop with 5L Built-in Water Tank for Apartments& RVs, No Hookup Needed, 6 Programs, 360° Dual Spray, 162℉ High-Temp& Air-Dry Function",
+                "ratings_count": 2475,
+                "rating": "4.2",
+                "sale_price": "$302.41",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61i2tsiCaGL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/COMFEE-Dishwasher-Countertop-High-Temp-Apartments/dp/B09QCJ6TDZ/ref=zg_bs_g_appliances_d_sccl_50/132-4526197-3958645?psc=1"
+            }
+        ]
+    }
+}

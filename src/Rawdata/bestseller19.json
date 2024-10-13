@@ -1,0 +1,635 @@
+{
+    "200": {
+        "category": "Amazon Best SellersGift Cards",
+        "category_hierarchy": [
+            {
+                "name": "Any Department",
+                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_gift-cards_0_1"
+            },
+            {
+                "name": "Gift Cards",
+                "url": "https://www.amazon.com/Best-Sellers-Gift-Cards/zgbs/gift-cards/ref=zg_bs_nav_gift-cards_0?pg=1"
+            }
+        ],
+        "child_categories": [
+            {
+                "category": "Baby & Expecting",
+                "url": "https://www.amazon.com/Best-Sellers-Gift-Cards-Baby-Expecting/zgbs/gift-cards/120225710011/ref=zg_bs_nav_gift-cards_1"
+            },
+            {
+                "category": "Birthday",
+                "url": "https://www.amazon.com/Best-Sellers-Gift-Cards-Birthday/zgbs/gift-cards/120225714011/ref=zg_bs_nav_gift-cards_1"
+            },
+            {
+                "category": "Christmas",
+                "url": "https://www.amazon.com/Best-Sellers-Gift-Cards-Christmas/zgbs/gift-cards/120225703011/ref=zg_bs_nav_gift-cards_1"
+            },
+            {
+                "category": "Departments",
+                "url": "https://www.amazon.com/Best-Sellers-Gift-Cards-Gift-Cards-Store/zgbs/gift-cards/2864120011/ref=zg_bs_nav_gift-cards_1"
+            },
+            {
+                "category": "Father's Day",
+                "url": "https://www.amazon.com/Best-Sellers-Gift-Cards-Fathers-Day/zgbs/gift-cards/120225713011/ref=zg_bs_nav_gift-cards_1"
+            },
+            {
+                "category": "For Her",
+                "url": "https://www.amazon.com/Best-Sellers-Gift-Cards-For-Her/zgbs/gift-cards/120225711011/ref=zg_bs_nav_gift-cards_1"
+            },
+            {
+                "category": "For Him",
+                "url": "https://www.amazon.com/Best-Sellers-Gift-Cards-For-Him/zgbs/gift-cards/120225704011/ref=zg_bs_nav_gift-cards_1"
+            },
+            {
+                "category": "Graduation",
+                "url": "https://www.amazon.com/Best-Sellers-Gift-Cards-Graduation/zgbs/gift-cards/120225709011/ref=zg_bs_nav_gift-cards_1"
+            },
+            {
+                "category": "Kids",
+                "url": "https://www.amazon.com/Best-Sellers-Gift-Cards-Kids/zgbs/gift-cards/120225706011/ref=zg_bs_nav_gift-cards_1"
+            },
+            {
+                "category": "Mother's Day",
+                "url": "https://www.amazon.com/Best-Sellers-Gift-Cards-Mothers-Day/zgbs/gift-cards/120225708011/ref=zg_bs_nav_gift-cards_1"
+            },
+            {
+                "category": "New Year's",
+                "url": "https://www.amazon.com/Best-Sellers-Gift-Cards-New-Years/zgbs/gift-cards/120225705011/ref=zg_bs_nav_gift-cards_1"
+            },
+            {
+                "category": "Restaurants",
+                "url": "https://www.amazon.com/Best-Sellers-Gift-Cards-Restaurants/zgbs/gift-cards/120225715011/ref=zg_bs_nav_gift-cards_1"
+            },
+            {
+                "category": "Teens",
+                "url": "https://www.amazon.com/Best-Sellers-Gift-Cards-Teens/zgbs/gift-cards/120225712011/ref=zg_bs_nav_gift-cards_1"
+            },
+            {
+                "category": "Thank You & Appreciation",
+                "url": "https://www.amazon.com/Best-Sellers-Gift-Cards-Thank-You-Appreciation/zgbs/gift-cards/120225707011/ref=zg_bs_nav_gift-cards_1"
+            },
+            {
+                "category": "Wedding & Engagement",
+                "url": "https://www.amazon.com/Best-Sellers-Gift-Cards-Wedding-Engagement/zgbs/gift-cards/120225717011/ref=zg_bs_nav_gift-cards_1"
+            },
+            {
+                "category": "Winter Holidays",
+                "url": "https://www.amazon.com/Best-Sellers-Gift-Cards-Winter-Holidays/zgbs/gift-cards/120225716011/ref=zg_bs_nav_gift-cards_1"
+            }
+        ],
+        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/Best-Sellers-Gift-Cards/zgbs/gift-cards/ref%3Dzg_bs_pg_2_gift-cards%3F_encoding%3DUTF8%26pg%3D2",
+        "url": "https://www.amazon.com/Best-Sellers-Gift-Cards/zgbs/gift-cards/ref=zg_bs_nav_gift-cards_0?pg=1",
+        "product_listings": [
+            {
+                "rank": 1,
+                "asin": "B07PCMWTSG",
+                "name": "Amazon.com eGift Card (Instant Email or Text Delivery)",
+                "ratings_count": 765405,
+                "rating": "4.8",
+                "sale_price": "$50.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41CMZ4XoAJL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-eGift-Card-Logo/dp/B07PCMWTSG/ref=zg_bs_g_gift-cards_d_sccl_1/144-9399692-0296452?psc=1"
+            },
+            {
+                "rank": 2,
+                "asin": "B09LQTPHSG",
+                "name": "Amazon.com eGift Card (Instant Email or Text Delivery)",
+                "ratings_count": 765405,
+                "rating": "4.8",
+                "sale_price": "$50.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/413ygIfgtkL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-eGift-Card-Birthday-Animated/dp/B09LQTPHSG/ref=zg_bs_g_gift-cards_d_sccl_2/144-9399692-0296452?psc=1"
+            },
+            {
+                "rank": 3,
+                "asin": "B0D1TK5XVL",
+                "name": "Amazon.com eGift Card (Instant Email or Text Delivery)",
+                "ratings_count": 765405,
+                "rating": "4.8",
+                "sale_price": "$50.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51dvOZsRD1L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-eGift-Card-Birthday-Animated/dp/B0D1TK5XVL/ref=zg_bs_g_gift-cards_d_sccl_3/144-9399692-0296452?psc=1"
+            },
+            {
+                "rank": 4,
+                "asin": "B08F3C99KN",
+                "name": "Apple Gift Card - App Store, iTunes, iPhone, iPad, AirPods, MacBook, accessories and more (eGift)",
+                "ratings_count": 65802,
+                "rating": "4.7",
+                "sale_price": "$15.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/410UGalmiIL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-Gift-Card-accessories-Delivery/dp/B08F3C99KN/ref=zg_bs_g_gift-cards_d_sccl_4/144-9399692-0296452?psc=1"
+            },
+            {
+                "rank": 5,
+                "asin": "B0BXD2TYS8",
+                "name": "Amazon.com eGift Card (Instant Email or Text Delivery)",
+                "ratings_count": 765405,
+                "rating": "4.8",
+                "sale_price": "$50.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51DnSfdl5mL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-eGift-Card-Galactic-Birthday/dp/B0BXD2TYS8/ref=zg_bs_g_gift-cards_d_sccl_5/144-9399692-0296452?psc=1"
+            },
+            {
+                "rank": 6,
+                "asin": "B0B9SJL23F",
+                "name": "Amazon.com Gift Card in a Birthday Pop-Up Box",
+                "ratings_count": 56721,
+                "rating": "4.9",
+                "sale_price": "$50.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81I--eZ9rYL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-com-Gift-Card-amount-Birthday/dp/B0B9SJL23F/ref=zg_bs_g_gift-cards_d_sccl_6/144-9399692-0296452?psc=1"
+            },
+            {
+                "rank": 7,
+                "asin": "B01C9MW8Z6",
+                "name": "Amazon.com Gift Card in a Birthday Gift Box (Various Designs)",
+                "ratings_count": 67175,
+                "rating": "4.9",
+                "sale_price": "$25.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/812v4i0vRdL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-com-Gift-Card-Birthday-Cupcake/dp/B01C9MW8Z6/ref=zg_bs_g_gift-cards_d_sccl_7/144-9399692-0296452?psc=1"
+            },
+            {
+                "rank": 8,
+                "asin": "B0CTR1SQLR",
+                "name": "Amazon.com Download and Print at Home Gift Card",
+                "ratings_count": 67707,
+                "rating": "4.8",
+                "sale_price": "$50.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41OJzqjawgL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-Gift-Card-Birthday-Candles/dp/B0CTR1SQLR/ref=zg_bs_g_gift-cards_d_sccl_8/144-9399692-0296452?psc=1"
+            },
+            {
+                "rank": 9,
+                "asin": "B0B6BG2PB4",
+                "name": "Amazon.com Gift Card in Various Gift Boxes",
+                "ratings_count": 113944,
+                "rating": "4.9",
+                "sale_price": "$25.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61A8dCw7h2L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-com-Gift-amount-Classic-Black/dp/B0B6BG2PB4/ref=zg_bs_g_gift-cards_d_sccl_9/144-9399692-0296452?psc=1"
+            },
+            {
+                "rank": 10,
+                "asin": "B0CW1RB5YW",
+                "name": "Amazon.com eGift Card (Instant Email or Text Delivery)",
+                "ratings_count": 765405,
+                "rating": "4.8",
+                "sale_price": "$50.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41GMVEBsBuL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-eGift-Card-Slices-Animated/dp/B0CW1RB5YW/ref=zg_bs_g_gift-cards_d_sccl_10/144-9399692-0296452?psc=1"
+            },
+            {
+                "rank": 11,
+                "asin": "B004LLIKVU",
+                "name": "Amazon.com eGift Card (Instant Email or Text Delivery)",
+                "ratings_count": 765405,
+                "rating": "4.8",
+                "sale_price": "$50.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/31bcCVEIlzL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-1_US_Email-eGift-Card/dp/B004LLIKVU/ref=zg_bs_g_gift-cards_d_sccl_11/144-9399692-0296452?psc=1"
+            },
+            {
+                "rank": 12,
+                "asin": "B06WVJBLBQ",
+                "name": "Amazon.com Gift Card in a Mini Envelope (General)",
+                "ratings_count": 82619,
+                "rating": "4.8",
+                "sale_price": "$10.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81sJe21t0JL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-com-Gift-Card-Envelope-Black/dp/B06WVJBLBQ/ref=zg_bs_g_gift-cards_d_sccl_12/144-9399692-0296452?psc=1"
+            },
+            {
+                "rank": 13,
+                "asin": "B09KXT1HLH",
+                "name": "Amazon.com eGift Card (Instant Email or Text Delivery)",
+                "ratings_count": 765405,
+                "rating": "4.8",
+                "sale_price": "$50.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/512WK7RkCeL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-eGift-Card-Milestone-Birthday/dp/B09KXT1HLH/ref=zg_bs_g_gift-cards_d_sccl_13/144-9399692-0296452?psc=1"
+            },
+            {
+                "rank": 14,
+                "asin": "B0BXCZWT5B",
+                "name": "Amazon.com Download and Print at Home Gift Card",
+                "ratings_count": 67707,
+                "rating": "4.8",
+                "sale_price": "$50.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41kL7f2W1xL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-Gift-Card-Galactic-Birthday/dp/B0BXCZWT5B/ref=zg_bs_g_gift-cards_d_sccl_14/144-9399692-0296452?psc=1"
+            },
+            {
+                "rank": 15,
+                "asin": "B01MSBQB1P",
+                "name": "Visa $100 Gift Card (plus $5.95 Purchase Fee)",
+                "ratings_count": 38789,
+                "rating": "4.6",
+                "sale_price": "$105.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/6144hWOeivL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Visa-Gift-Card-plus-Purchase/dp/B01MSBQB1P/ref=zg_bs_g_gift-cards_d_sccl_15/144-9399692-0296452?psc=1"
+            },
+            {
+                "rank": 16,
+                "asin": "B09KXRPW9G",
+                "name": "Amazon.com eGift Card (Instant Email or Text Delivery)",
+                "ratings_count": 765405,
+                "rating": "4.8",
+                "sale_price": "$50.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/4116p7ZxpIL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-eGift-Card-Slices-Cake/dp/B09KXRPW9G/ref=zg_bs_g_gift-cards_d_sccl_16/144-9399692-0296452?psc=1"
+            },
+            {
+                "rank": 17,
+                "asin": "B0D1TRQ9L2",
+                "name": "Amazon.com eGift Card (Instant Email or Text Delivery)",
+                "ratings_count": 765405,
+                "rating": "4.8",
+                "sale_price": "$50.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41AYIqfEbkL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-eGift-Card-Confetti-Animated/dp/B0D1TRQ9L2/ref=zg_bs_g_gift-cards_d_sccl_17/144-9399692-0296452?psc=1"
+            },
+            {
+                "rank": 18,
+                "asin": "B09ZJ4GNKS",
+                "name": "Amazon.com Gift Card for any amount in a Reveal",
+                "ratings_count": 1479,
+                "rating": "4.8",
+                "sale_price": "$15.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/713BBP1l5HL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-com-amount-Birthday-Candles-Reveal/dp/B09ZJ4GNKS/ref=zg_bs_g_gift-cards_d_sccl_18/144-9399692-0296452?psc=1"
+            },
+            {
+                "rank": 19,
+                "asin": "B01N5TMK8I",
+                "name": "Visa $50 Gift Card (plus $4.95 Purchase Fee)",
+                "ratings_count": 38856,
+                "rating": "4.7",
+                "sale_price": "$54.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71iBGHUxEwL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Visa-Gift-Card-plus-Purchase/dp/B01N5TMK8I/ref=zg_bs_g_gift-cards_d_sccl_19/144-9399692-0296452?psc=1"
+            },
+            {
+                "rank": 20,
+                "asin": "B074T91QTZ",
+                "name": "Google Play gift code - give the gift of games, apps and more (Email or Text Message Delivery - US Only)",
+                "ratings_count": 48334,
+                "rating": "4.4",
+                "sale_price": "$25.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41Xd-qv+PrL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Google-Play-Gift-Code-mail/dp/B074T91QTZ/ref=zg_bs_g_gift-cards_d_sccl_20/144-9399692-0296452?psc=1"
+            },
+            {
+                "rank": 21,
+                "asin": "B0CW1SK686",
+                "name": "Amazon.com eGift Card (Instant Email or Text Delivery)",
+                "ratings_count": 765405,
+                "rating": "4.8",
+                "sale_price": "$50.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51SXbLXG+ML._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-eGift-Card-Congrats-Balloons/dp/B0CW1SK686/ref=zg_bs_g_gift-cards_d_sccl_21/144-9399692-0296452?psc=1"
+            },
+            {
+                "rank": 22,
+                "asin": "B08F3BV69X",
+                "name": "Apple Gift Card - App Store, iTunes, iPhone, iPad, AirPods, MacBook, accessories and more (eGift)",
+                "ratings_count": 65802,
+                "rating": "4.7",
+                "sale_price": "$15.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41bKLn+wMUL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-Gift-Card-accessories-Delivery/dp/B08F3BV69X/ref=zg_bs_g_gift-cards_d_sccl_22/144-9399692-0296452?psc=1"
+            },
+            {
+                "rank": 23,
+                "asin": "B07HJD9FVV",
+                "name": "Visa $200 Gift Card (plus $6.95 Purchase Fee)",
+                "ratings_count": 18133,
+                "rating": "4.4",
+                "sale_price": "$206.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71TPthFhMWL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Visa-Gift-Card-plus-Purchase/dp/B07HJD9FVV/ref=zg_bs_g_gift-cards_d_sccl_23/144-9399692-0296452?psc=1"
+            },
+            {
+                "rank": 24,
+                "asin": "B0B9SDKZG4",
+                "name": "Amazon.com Gift Card for any amount in various designs",
+                "ratings_count": 23149,
+                "rating": "4.9",
+                "sale_price": "$15.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71ghqFV-HwL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-com-Gift-amount-Floral-Reveal/dp/B0B9SDKZG4/ref=zg_bs_g_gift-cards_d_sccl_24/144-9399692-0296452?psc=1"
+            },
+            {
+                "rank": 25,
+                "asin": "B07ZDX292M",
+                "name": "DoorDash eGift Card",
+                "ratings_count": 22095,
+                "rating": "4.7",
+                "sale_price": "$25.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/31hNZcG5keL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/DoorDash-Gift-Cards-Email-Delivery/dp/B07ZDX292M/ref=zg_bs_g_gift-cards_d_sccl_25/144-9399692-0296452?psc=1"
+            },
+            {
+                "rank": 26,
+                "asin": "B0CXPV6JN2",
+                "name": "Amazon.com eGift Card (Instant Email or Text Delivery)",
+                "ratings_count": 765405,
+                "rating": "4.8",
+                "sale_price": "$50.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/512GLnAX5PL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-eGift-Card-Thanks-Animated/dp/B0CXPV6JN2/ref=zg_bs_g_gift-cards_d_sccl_26/144-9399692-0296452?psc=1"
+            },
+            {
+                "rank": 27,
+                "asin": "B01FIS88SY",
+                "name": "Amazon.com eGift Card (Instant Email or Text Delivery)",
+                "ratings_count": 765405,
+                "rating": "4.8",
+                "sale_price": "$50.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41uj0Zh2K-L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-eGift-Card-Birthday-Balloons/dp/B01FIS88SY/ref=zg_bs_g_gift-cards_d_sccl_27/144-9399692-0296452?psc=1"
+            },
+            {
+                "rank": 28,
+                "asin": "B0B6BDN1F5",
+                "name": "Amazon.com Gift Card in Various Gift Boxes",
+                "ratings_count": 113944,
+                "rating": "4.9",
+                "sale_price": "$25.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71i2nqY1IoL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-com-Gift-amount-White-Floral/dp/B0B6BDN1F5/ref=zg_bs_g_gift-cards_d_sccl_28/144-9399692-0296452?psc=1"
+            },
+            {
+                "rank": 29,
+                "asin": "B01F2P9Q16",
+                "name": "Amazon.com Gift Card in Various Gift Boxes",
+                "ratings_count": 113944,
+                "rating": "4.9",
+                "sale_price": "$25.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81oJ65CgGQL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-com-Amazon-Shipping-Icons-Design/dp/B01F2P9Q16/ref=zg_bs_g_gift-cards_d_sccl_29/144-9399692-0296452?psc=1"
+            },
+            {
+                "rank": 30,
+                "asin": "B07HJHK8Y5",
+                "name": "Visa $25 Gift Card (plus $3.95 Purchase Fee)",
+                "ratings_count": 25382,
+                "rating": "4.7",
+                "sale_price": "$28.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81QspOPwKCL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Visa-Gift-Card-plus-Purchase/dp/B07HJHK8Y5/ref=zg_bs_g_gift-cards_d_sccl_30/144-9399692-0296452?psc=1"
+            },
+            {
+                "rank": 31,
+                "asin": "B0B13Q912B",
+                "name": "Amazon.com eGift Card (Instant Email or Text Delivery)",
+                "ratings_count": 765405,
+                "rating": "4.8",
+                "sale_price": "$50.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51Tl2RbtMeL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-eGift-Card-Happy-Birthday/dp/B0B13Q912B/ref=zg_bs_g_gift-cards_d_sccl_31/147-8888111-9119337?psc=1"
+            },
+            {
+                "rank": 32,
+                "asin": "B0CXPV5Q6N",
+                "name": "Amazon.com eGift Card (Instant Email or Text Delivery)",
+                "ratings_count": 765405,
+                "rating": "4.8",
+                "sale_price": "$50.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51avIrt9j8L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-eGift-Card-Thanks-Flowers/dp/B0CXPV5Q6N/ref=zg_bs_g_gift-cards_d_sccl_32/147-8888111-9119337?psc=1"
+            },
+            {
+                "rank": 33,
+                "asin": "B0BXD4Z8CX",
+                "name": "Amazon.com eGift Card (Instant Email or Text Delivery)",
+                "ratings_count": 765405,
+                "rating": "4.8",
+                "sale_price": "$50.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51n7Hkr0N7L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-eGift-Card-Galactic-Birthday/dp/B0BXD4Z8CX/ref=zg_bs_g_gift-cards_d_sccl_33/147-8888111-9119337?psc=1"
+            },
+            {
+                "rank": 34,
+                "asin": "B0CTQZTJ19",
+                "name": "Amazon.com eGift Card (Instant Email or Text Delivery)",
+                "ratings_count": 765405,
+                "rating": "4.8",
+                "sale_price": "$50.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51pl-QDegAL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-eGift-Card-Birthday-Candles/dp/B0CTQZTJ19/ref=zg_bs_g_gift-cards_d_sccl_34/147-8888111-9119337?psc=1"
+            },
+            {
+                "rank": 35,
+                "asin": "B09DCN61K4",
+                "name": "Amazon.com eGift Card (Instant Email or Text Delivery)",
+                "ratings_count": 765405,
+                "rating": "4.8",
+                "sale_price": "$50.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41biSXgjOFL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-eGift-Card-Welcome-Rainbow/dp/B09DCN61K4/ref=zg_bs_g_gift-cards_d_sccl_35/147-8888111-9119337?psc=1"
+            },
+            {
+                "rank": 36,
+                "asin": "B0B6BD8CPM",
+                "name": "Amazon.com Gift Card in Various Gift Boxes",
+                "ratings_count": 113944,
+                "rating": "4.9",
+                "sale_price": "$25.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61b5PugKIgL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-com-Gift-Card-amount-Classic/dp/B0B6BD8CPM/ref=zg_bs_g_gift-cards_d_sccl_36/147-8888111-9119337?psc=1"
+            },
+            {
+                "rank": 37,
+                "asin": "B0B9SKCDN2",
+                "name": "Amazon.com Gift Card in a Reveal (Various Designs)",
+                "ratings_count": 17743,
+                "rating": "4.9",
+                "sale_price": "$15.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61XLb8eFhGL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-com-Gift-amount-Elephant-Reveal/dp/B0B9SKCDN2/ref=zg_bs_g_gift-cards_d_sccl_37/147-8888111-9119337?psc=1"
+            },
+            {
+                "rank": 38,
+                "asin": "B0CTR35TPN",
+                "name": "Amazon.com eGift Card (Instant Email or Text Delivery)",
+                "ratings_count": 765405,
+                "rating": "4.8",
+                "sale_price": "$50.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41RCCOBrbFL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-eGift-Card-HBD-Icons/dp/B0CTR35TPN/ref=zg_bs_g_gift-cards_d_sccl_38/147-8888111-9119337?psc=1"
+            },
+            {
+                "rank": 39,
+                "asin": "B079YMX2J6",
+                "name": "Uber eGift Card",
+                "ratings_count": 23453,
+                "rating": "4.7",
+                "sale_price": "$15.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41mLCiaKRPL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Uber-Gift-Card-Email-Delivery/dp/B079YMX2J6/ref=zg_bs_g_gift-cards_d_sccl_39/147-8888111-9119337?psc=1"
+            },
+            {
+                "rank": 40,
+                "asin": "B0866T7KRX",
+                "name": "Amazon.com Gift Card in a Holiday Gift Box (Various Designs)",
+                "ratings_count": 186554,
+                "rating": "4.9",
+                "sale_price": null,
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81WZGlG74kL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-com-Gift-Card-Tartan-Plaid/dp/B0866T7KRX/ref=zg_bs_g_gift-cards_d_sccl_40/147-8888111-9119337?psc=1"
+            },
+            {
+                "rank": 41,
+                "asin": "B09KXSDHYP",
+                "name": "Amazon.com Download and Print at Home Gift Card",
+                "ratings_count": 67707,
+                "rating": "4.8",
+                "sale_price": "$50.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/4124cMm19rL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-Gift-Card-Milestone-Balloon/dp/B09KXSDHYP/ref=zg_bs_g_gift-cards_d_sccl_41/147-8888111-9119337?psc=1"
+            },
+            {
+                "rank": 42,
+                "asin": "B0BXCWXCJ5",
+                "name": "Amazon.com eGift Card (Instant Email or Text Delivery)",
+                "ratings_count": 765405,
+                "rating": "4.8",
+                "sale_price": "$50.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51RecTFLrRL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-eGift-Card-Congratulations-Carraige/dp/B0BXCWXCJ5/ref=zg_bs_g_gift-cards_d_sccl_42/147-8888111-9119337?psc=1"
+            },
+            {
+                "rank": 43,
+                "asin": "B09RX1DBJP",
+                "name": "Amazon.com eGift Card (Instant Email or Text Delivery)",
+                "ratings_count": 765405,
+                "rating": "4.8",
+                "sale_price": "$50.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/515EtaSE5zL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-eGift-Card-Thanks-Much/dp/B09RX1DBJP/ref=zg_bs_g_gift-cards_d_sccl_43/147-8888111-9119337?psc=1"
+            },
+            {
+                "rank": 44,
+                "asin": "B08LP1CTR2",
+                "name": "Visa $50 Balloons Gift Card (plus $4.95 Purchase Fee)",
+                "ratings_count": 2770,
+                "rating": "4.8",
+                "sale_price": "$54.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61ExzRDmLgL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Visa-Balloons-Gift-Card-Purchase/dp/B08LP1CTR2/ref=zg_bs_g_gift-cards_d_sccl_44/147-8888111-9119337?psc=1"
+            },
+            {
+                "rank": 45,
+                "asin": "B0CTR37B5G",
+                "name": "Amazon.com eGift Card (Instant Email or Text Delivery)",
+                "ratings_count": 765405,
+                "rating": "4.8",
+                "sale_price": "$50.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51uvWbA-tSL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-eGift-Card-Smile-Spring/dp/B0CTR37B5G/ref=zg_bs_g_gift-cards_d_sccl_45/147-8888111-9119337?psc=1"
+            },
+            {
+                "rank": 46,
+                "asin": "B0B9SQ5H7X",
+                "name": "Amazon.com Gift Card in a Premium Gift Box",
+                "ratings_count": 20548,
+                "rating": "4.9",
+                "sale_price": "$50.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/716p0235QnL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-com-Gift-amount-Heart-Shaped/dp/B0B9SQ5H7X/ref=zg_bs_g_gift-cards_d_sccl_46/147-8888111-9119337?psc=1"
+            },
+            {
+                "rank": 47,
+                "asin": "B07ZSB9QYL",
+                "name": "Starbucks eGift Card",
+                "ratings_count": 29821,
+                "rating": "4.9",
+                "sale_price": "$15.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/416HtvwUc9L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Starbucks-Braile-Siren-Card-Delivery/dp/B07ZSB9QYL/ref=zg_bs_g_gift-cards_d_sccl_47/147-8888111-9119337?psc=1"
+            },
+            {
+                "rank": 48,
+                "asin": "B07MRNVRRX",
+                "name": "Amazon.com eGift Card (Instant Email or Text Delivery)",
+                "ratings_count": 765405,
+                "rating": "4.8",
+                "sale_price": "$50.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/414-Qg5u09L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-eGift-Card-Old-Animated/dp/B07MRNVRRX/ref=zg_bs_g_gift-cards_d_sccl_48/147-8888111-9119337?psc=1"
+            },
+            {
+                "rank": 49,
+                "asin": "B08F7GTP2R",
+                "name": "Apple Gift Card - App Store, iTunes, iPhone, iPad, AirPods, MacBook, accessories and more (eGift)",
+                "ratings_count": 65802,
+                "rating": "4.7",
+                "sale_price": "$15.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41tFlNo8w8L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-Gift-Card-accessories-Delivery/dp/B08F7GTP2R/ref=zg_bs_g_gift-cards_d_sccl_49/147-8888111-9119337?psc=1"
+            },
+            {
+                "rank": 50,
+                "asin": "B08QDXC6T4",
+                "name": "Razer Gold eGift Card",
+                "ratings_count": 5010,
+                "rating": "3.5",
+                "sale_price": "$15.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/4104lFz4lHL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Razer-Gold-Card-mail-Delivery/dp/B08QDXC6T4/ref=zg_bs_g_gift-cards_d_sccl_50/147-8888111-9119337?psc=1"
+            }
+        ]
+    }
+}

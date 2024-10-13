@@ -1,0 +1,611 @@
+{
+    "200": {
+        "category": "Amazon Best SellersBeauty & Personal Care",
+        "category_hierarchy": [
+            {
+                "name": "Any Department",
+                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_beauty_0_1"
+            },
+            {
+                "name": "Beauty & Personal Care",
+                "url": "https://www.amazon.com/Best-Sellers-Beauty-Personal-Care/zgbs/beauty/ref=zg_bs_nav_beauty_0?pg=1"
+            }
+        ],
+        "child_categories": [
+            {
+                "category": "Foot, Hand & Nail Care",
+                "url": "https://www.amazon.com/Best-Sellers-Beauty-Personal-Care-Foot-Hand-Nail-Care-Products/zgbs/beauty/17242866011/ref=zg_bs_nav_beauty_1"
+            },
+            {
+                "category": "Fragrance",
+                "url": "https://www.amazon.com/Best-Sellers-Beauty-Personal-Care-Perfumes-Fragrances/zgbs/beauty/11056591/ref=zg_bs_nav_beauty_1"
+            },
+            {
+                "category": "Gift Sets",
+                "url": "https://www.amazon.com/Best-Sellers-Beauty-Personal-Care-Beauty-Gift-Sets/zgbs/beauty/120225719011/ref=zg_bs_nav_beauty_1"
+            },
+            {
+                "category": "Hair Care",
+                "url": "https://www.amazon.com/Best-Sellers-Beauty-Personal-Care-Hair-Care-Products/zgbs/beauty/11057241/ref=zg_bs_nav_beauty_1"
+            },
+            {
+                "category": "Makeup",
+                "url": "https://www.amazon.com/Best-Sellers-Beauty-Personal-Care-Makeup/zgbs/beauty/11058281/ref=zg_bs_nav_beauty_1"
+            },
+            {
+                "category": "Personal Care",
+                "url": "https://www.amazon.com/Best-Sellers-Beauty-Personal-Care-Personal-Care-Products/zgbs/beauty/3777891/ref=zg_bs_nav_beauty_1"
+            },
+            {
+                "category": "Salon & Spa Equipment",
+                "url": "https://www.amazon.com/Best-Sellers-Beauty-Personal-Care-Salon-Spa-Equipment/zgbs/beauty/15144566011/ref=zg_bs_nav_beauty_1"
+            },
+            {
+                "category": "Shave & Hair Removal",
+                "url": "https://www.amazon.com/Best-Sellers-Beauty-Personal-Care-Shaving-Hair-Removal-Products/zgbs/beauty/3778591/ref=zg_bs_nav_beauty_1"
+            },
+            {
+                "category": "Skin Care",
+                "url": "https://www.amazon.com/Best-Sellers-Beauty-Personal-Care-Skin-Care-Products/zgbs/beauty/11060451/ref=zg_bs_nav_beauty_1"
+            },
+            {
+                "category": "Tools & Accessories",
+                "url": "https://www.amazon.com/Best-Sellers-Beauty-Personal-Care-Beauty-Tools-Accessories/zgbs/beauty/11062741/ref=zg_bs_nav_beauty_1"
+            }
+        ],
+        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/Best-Sellers-Beauty-Personal-Care/zgbs/beauty/ref%3Dzg_bs_pg_2_beauty%3F_encoding%3DUTF8%26pg%3D2",
+        "url": "https://www.amazon.com/Best-Sellers-Beauty-Personal-Care/zgbs/beauty/ref=zg_bs_nav_beauty_0?pg=1",
+        "product_listings": [
+            {
+                "rank": 1,
+                "asin": "B074PVTPBW",
+                "name": "Mighty Patch™ Original patch from Hero Cosmetics - Hydrocolloid Acne Pimple Patch for Covering Zits and Blemishes in Face and Skin, Vegan-friendly and Not Tested on Animals (36 Count)",
+                "ratings_count": 167938,
+                "rating": "4.6",
+                "sale_price": null,
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41JILztxbDL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Mighty-Patch-Hydrocolloid-Absorbing-count/dp/B074PVTPBW/ref=zg_bs_g_beauty_d_sccl_1/133-3292049-1183904?psc=1"
+            },
+            {
+                "rank": 2,
+                "asin": "B07DY2QRF6",
+                "name": "LANEIGE Lip Glowy Balm Hydrate, Glossy, Lightweight, Moisturize & Tint with Shea Butter",
+                "ratings_count": 26518,
+                "rating": "4.7",
+                "sale_price": "$19.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61ER6HJuk5L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Laneige-Lip-Glowy-Balm-Berry/dp/B07DY2QRF6/ref=zg_bs_g_beauty_d_sccl_2/133-3292049-1183904?psc=1"
+            },
+            {
+                "rank": 3,
+                "asin": "B0B2RM68G2",
+                "name": "BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Mask, Pore Minimizing, Elasticity Improvement, 34g x4ea",
+                "ratings_count": 6429,
+                "rating": "4.3",
+                "sale_price": "$19.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51299uVd3YL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Biodance-Bio-Collagen-Tightening-Hydrating-Molecular/dp/B0B2RM68G2/ref=zg_bs_g_beauty_d_sccl_3/133-3292049-1183904?psc=1"
+            },
+            {
+                "rank": 4,
+                "asin": "B00Q26VWZI",
+                "name": "Rimmel Stay Glossy Lip Gloss - Non-Sticky and Lightweight Formula for Lip Color and Shine - 130 Blushing Belgraves, .18oz",
+                "ratings_count": 34743,
+                "rating": "4.4",
+                "sale_price": null,
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51le20Xsh0L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Rimmel-Glossy-Lipgloss-Blushing-Belgraves/dp/B00Q26VWZI/ref=zg_bs_g_beauty_d_sccl_4/133-3292049-1183904?psc=1"
+            },
+            {
+                "rank": 5,
+                "asin": "B07PBXXNCY",
+                "name": "Clean Skin Club Clean Towels XL™, 100% USDA Biobased Face Towel, Disposable Face Towelette, Makeup Remover Dry Wipes, Ultra Soft, 50 Ct, 1 Pack",
+                "ratings_count": 27293,
+                "rating": "4.7",
+                "sale_price": "$17.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51bryY47IFL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Clean-Skin-Club-Disposable-Sensitive/dp/B07PBXXNCY/ref=zg_bs_g_beauty_d_sccl_5/133-3292049-1183904?psc=1"
+            },
+            {
+                "rank": 6,
+                "asin": "B00PBX3L7K",
+                "name": "COSRX Snail Mucin 96% Power Repairing Essence 3.38 fl.oz 100ml, Hydrating Serum for Face with Snail Secretion Filtrate for Dull Skin & Fine Lines, Korean Skin Care",
+                "ratings_count": 72608,
+                "rating": "4.6",
+                "sale_price": "$17.50",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61p-wtpDraL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/COSRX-Repairing-Hydrating-Secretion-Phthalates/dp/B00PBX3L7K/ref=zg_bs_g_beauty_d_sccl_6/133-3292049-1183904?psc=1"
+            },
+            {
+                "rank": 7,
+                "asin": "B00T0C9XRK",
+                "name": "essence | Lash Princess False Lash Effect Mascara | Volumizing & Lengthening | Cruelty Free & Paraben Free",
+                "ratings_count": 377275,
+                "rating": "4.3",
+                "sale_price": "$4.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61K6cQhw4EL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/essence-Princess-Effect-Mascara-Cruelty/dp/B00T0C9XRK/ref=zg_bs_g_beauty_d_sccl_7/133-3292049-1183904?psc=1"
+            },
+            {
+                "rank": 8,
+                "asin": "B07XXPHQZK",
+                "name": "LANEIGE Lip Sleeping Mask: Nourish, Hydrate, Vitamin C, Murumuru & Shea Butter, Antioxidants, Flaky, Dry Lips",
+                "ratings_count": 45905,
+                "rating": "4.6",
+                "sale_price": "$24.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71vornnrsqL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Laneige-Sleeping-Berry/dp/B07XXPHQZK/ref=zg_bs_g_beauty_d_sccl_8/133-3292049-1183904?psc=1"
+            },
+            {
+                "rank": 9,
+                "asin": "B00U2VQZDS",
+                "name": "Neutrogena Makeup Remover Wipes, Ultra-Soft Cleansing Facial Towelettes for Waterproof Makeup, Alcohol-Free, Plant-Based, Twin Pack, 25 Count (Pack of 2)",
+                "ratings_count": 111544,
+                "rating": "4.8",
+                "sale_price": "$9.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71PXjjbQCzL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Neutrogena-Cleansing-Towelettes-Waterproof-Alcohol-Free/dp/B00U2VQZDS/ref=zg_bs_g_beauty_d_sccl_9/133-3292049-1183904?psc=1"
+            },
+            {
+                "rank": 10,
+                "asin": "B09542G9ZN",
+                "name": "Amazon Basics Hypoallergenic 100% Cotton Rounds, 100 Count",
+                "ratings_count": 37534,
+                "rating": "4.7",
+                "sale_price": "$2.76",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41roS4Ps5RL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-Basics-Cotton-Rounds-Count/dp/B09542G9ZN/ref=zg_bs_g_beauty_d_sccl_10/133-3292049-1183904?psc=1"
+            },
+            {
+                "rank": 11,
+                "asin": "B081KL2QYJ",
+                "name": "PanOxyl Acne Foaming Wash Benzoyl Peroxide 10% Maximum Strength Antimicrobial, 5.5 Oz",
+                "ratings_count": 64775,
+                "rating": "4.6",
+                "sale_price": "$9.77",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/719hqT1t0KL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/PanOxyl-Foaming-Peroxide-Strength-Antimicrobial/dp/B081KL2QYJ/ref=zg_bs_g_beauty_d_sccl_11/133-3292049-1183904?psc=1"
+            },
+            {
+                "rank": 12,
+                "asin": "B08KT2Z93D",
+                "name": "eos Shea Better Body Lotion- Vanilla Cashmere, 24-Hour Moisture Skin Care, Lightweight & Non-Greasy, Made with Natural Shea, Vegan, 16 fl oz",
+                "ratings_count": 23693,
+                "rating": "4.7",
+                "sale_price": "$8.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61pp+20Oo0L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/eos-Cashmere-Moisture-Lightweight-Non-Greasy/dp/B08KT2Z93D/ref=zg_bs_g_beauty_d_sccl_12/133-3292049-1183904?psc=1"
+            },
+            {
+                "rank": 13,
+                "asin": "B0787GLBMV",
+                "name": "Schick Hydro Silk Touch-Up Dermaplaning Tool with Precision Cover, 3ct | Dermaplane Razor, Face Razors for Women, Eyebrow Razor, Facial Razor, Dermaplaning Razor, Womens Face Razor Peach Fuzz Remover",
+                "ratings_count": 192749,
+                "rating": "4.6",
+                "sale_price": "$5.84",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71x8eJYN4JL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Schick-Multipurpose-Exfoliating-Dermaplaning-Precision/dp/B0787GLBMV/ref=zg_bs_g_beauty_d_sccl_13/133-3292049-1183904?psc=1"
+            },
+            {
+                "rank": 14,
+                "asin": "B014E2D6BY",
+                "name": "grace & stella Under Eye Mask (Gold, 24 Pairs) Reduce Dark Circles, Puffy Eyes, Undereye Bags, Wrinkles - Gel Under Eye Patches - Gifts for Women - Birthday Gifts for Women - Vegan Cruelty Free",
+                "ratings_count": 25649,
+                "rating": "4.3",
+                "sale_price": "$21.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/716aAlijGdL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Under-Eye-Patches-Gold-24-Pairs/dp/B014E2D6BY/ref=zg_bs_g_beauty_d_sccl_14/133-3292049-1183904?psc=1"
+            },
+            {
+                "rank": 15,
+                "asin": "B00AINMFAC",
+                "name": "Nizoral Anti-Dandruff Shampoo with 1% Ketoconazole, Fresh Scent, 7 Fl Oz",
+                "ratings_count": 96407,
+                "rating": "4.6",
+                "sale_price": "$15.88",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71+CaUj9EtL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Nizoral-Anti-Dandruff-Shampoo-Ketoconazole-Dandruff/dp/B00AINMFAC/ref=zg_bs_g_beauty_d_sccl_15/133-3292049-1183904?psc=1"
+            },
+            {
+                "rank": 16,
+                "asin": "B09541P9WH",
+                "name": "Amazon Basics Cotton Swabs, 500 Count",
+                "ratings_count": 46662,
+                "rating": "4.7",
+                "sale_price": "$2.65",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/612HeyYXOnL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-Basics-Cotton-Swabs-500ct/dp/B09541P9WH/ref=zg_bs_g_beauty_d_sccl_16/133-3292049-1183904?psc=1"
+            },
+            {
+                "rank": 17,
+                "asin": "B000IEMGGE",
+                "name": "LAURA GELLER NEW YORK Award-Winning Baked Balance-n-Brighten Color Correcting Powder Foundation - Fair - Buildable Light to Medium Coverage - Demi-Matte Natural Finish",
+                "ratings_count": 39730,
+                "rating": "4.1",
+                "sale_price": "$21.60",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/716f5ea4zaL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Laura-Geller-York-Baked-Balance-N-Brighten/dp/B000IEMGGE/ref=zg_bs_g_beauty_d_sccl_17/133-3292049-1183904?psc=1"
+            },
+            {
+                "rank": 18,
+                "asin": "B00949CTQQ",
+                "name": "Paula's Choice SKIN PERFECTING 2% BHA Liquid Salicylic Acid Exfoliant-Facial Exfoliant for Blackheads, Enlarged Pores, Wrinkles & Fine Lines",
+                "ratings_count": 102829,
+                "rating": "4.5",
+                "sale_price": "$35.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61bLRVPWH7L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Paulas-Choice-SKIN-PERFECTING-Exfoliant-Facial-Blackheads/dp/B00949CTQQ/ref=zg_bs_g_beauty_d_sccl_18/133-3292049-1183904?psc=1"
+            },
+            {
+                "rank": 19,
+                "asin": "B01N9SPQHQ",
+                "name": "La Roche-Posay Toleriane Double Repair Face Moisturizer | Daily Moisturizer Face Cream with Ceramide and Niacinamide for All Skin Types | Oil Free | Fragrance Free",
+                "ratings_count": 60450,
+                "rating": "4.6",
+                "sale_price": "$23.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51+IHPKXFIL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Roche-Posay-Toleriane-Double-Repair-Moisturizer/dp/B01N9SPQHQ/ref=zg_bs_g_beauty_d_sccl_19/133-3292049-1183904?psc=1"
+            },
+            {
+                "rank": 20,
+                "asin": "B01AXQP6AE",
+                "name": "Q-tips Cotton Swabs For Hygiene and Beauty Care Original Cotton Swab Made With 100% Cotton 625 Count",
+                "ratings_count": 11609,
+                "rating": "4.8",
+                "sale_price": "$4.47",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71xMIZgC-TL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Q-tips-Cotton-Swabs-625-ct/dp/B01AXQP6AE/ref=zg_bs_g_beauty_d_sccl_20/133-3292049-1183904?psc=1"
+            },
+            {
+                "rank": 21,
+                "asin": "B01N34XW93",
+                "name": "La Roche-Posay Toleriane Purifying Foaming Facial Cleanser, Oil Free Face Wash for Oily Skin and for Sensitive Skin with Niacinamide, Pore Cleanser Won’t Dry Out Skin, Unscented",
+                "ratings_count": 36562,
+                "rating": "4.7",
+                "sale_price": "$17.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/717F3ObzIeL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Roche-Posay-Toleriane-Purifying-Sensitive-Niacinamide/dp/B01N34XW93/ref=zg_bs_g_beauty_d_sccl_21/133-3292049-1183904?psc=1"
+            },
+            {
+                "rank": 22,
+                "asin": "B00MEDOY2G",
+                "name": "Dove Body Wash with Pump Deep Moisture For Dry Skin Moisturizing Skin Cleanser with 24hr Renewing MicroMoisture Nourishes The Driest Skin 30.6 oz",
+                "ratings_count": 116843,
+                "rating": "4.8",
+                "sale_price": "$9.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71fizOWwhFL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Dove-Body-Wash-Pump-Moisture/dp/B00MEDOY2G/ref=zg_bs_g_beauty_d_sccl_22/133-3292049-1183904?psc=1"
+            },
+            {
+                "rank": 23,
+                "asin": "B01EKUBU5Y",
+                "name": "TruSkin Vitamin C Serum – Anti Aging Facial Serum with Vitamin C, Hyaluronic Acid, Vitamin E & More – Brightening Serum for Dark Spots, Even Skin Tone, Eye Area, Fine Lines & Wrinkles, 2 Fl Oz",
+                "ratings_count": 145693,
+                "rating": "4.3",
+                "sale_price": "$37.36",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51w9I4M03tL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/TruSkin-Naturals-Vitamin-Topical-Hyaluronic/dp/B01EKUBU5Y/ref=zg_bs_g_beauty_d_sccl_23/133-3292049-1183904?psc=1"
+            },
+            {
+                "rank": 24,
+                "asin": "B00TTD9BRC",
+                "name": "CeraVe Moisturizing Cream | Body and Face Moisturizer for Dry Skin | Body Cream with Hyaluronic Acid and Ceramides | Daily Moisturizer | Oil-Free | Fragrance Free | Non-Comedogenic | 19 Ounce",
+                "ratings_count": 142456,
+                "rating": "4.7",
+                "sale_price": "$17.78",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61EidjXUBrL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/CeraVe-Moisturizing-Cream-Daily-Moisturizer/dp/B00TTD9BRC/ref=zg_bs_g_beauty_d_sccl_24/133-3292049-1183904?psc=1"
+            },
+            {
+                "rank": 25,
+                "asin": "B01LW1983J",
+                "name": "Julep Eyeshadow 101 Crème-to-Powder Waterproof Eyeshadow Stick – Champagne Shimmer – Long-Lasting, Crease-Proof, Medium Golden-Beige Shimmer Eyeshadow with Built-in Smudger",
+                "ratings_count": 48592,
+                "rating": "4.2",
+                "sale_price": "$18.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/818B-inh8EL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Julep-Eyeshadow-Hypoallergenic-Waterproof-Available/dp/B01LW1983J/ref=zg_bs_g_beauty_d_sccl_25/133-3292049-1183904?psc=1"
+            },
+            {
+                "rank": 26,
+                "asin": "B005A3FFPM",
+                "name": "Rimmel London Natural - 021 Sun Light - Bronzer, Matte Finish, 0.49oz",
+                "ratings_count": 25359,
+                "rating": "4.3",
+                "sale_price": "$3.59",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81hpO-k2EfL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Rimmel-Natural-Bronzer-Light-Ounce/dp/B005A3FFPM/ref=zg_bs_g_beauty_d_sccl_26/133-3292049-1183904?psc=1"
+            },
+            {
+                "rank": 27,
+                "asin": "B0CMJXGCFQ",
+                "name": "e.l.f. Glow Reviver Lip Oil, Nourishing Tinted Lip Oil For A High-shine Finish, Infused With Jojoba Oil, Vegan & Cruelty-free, Jam Session",
+                "ratings_count": 6640,
+                "rating": "4.6",
+                "sale_price": "$7.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61Z34yXlSQL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/l-f-Reviver-Nourishing-High-shine-Cruelty-free/dp/B0CMJXGCFQ/ref=zg_bs_g_beauty_d_sccl_27/133-3292049-1183904?psc=1"
+            },
+            {
+                "rank": 28,
+                "asin": "B0D1D9YTS1",
+                "name": "Fazit Makeup Patches - Gold - Face Glitter Makeup Speckles - Glow Up Makeup Patches - Face Glitter Speckles Patches - Cute Glitter Makeup Accessories for Women - Cosmetic Glitter for Face - 6 Count",
+                "ratings_count": 199,
+                "rating": "4.5",
+                "sale_price": "$15.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71R2qY4IC3L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Fazit-Makeup-Patches-Speckles-Accessories/dp/B0D1D9YTS1/ref=zg_bs_g_beauty_d_sccl_28/133-3292049-1183904?psc=1"
+            },
+            {
+                "rank": 29,
+                "asin": "B08H3JPH74",
+                "name": "Maybelline Lash Sensational Sky High Washable Mascara Makeup, Volumizing, Lengthening, Defining, Curling, Multiplying, Buildable Formula, Blackest Black, 1 Count",
+                "ratings_count": 103918,
+                "rating": "4.5",
+                "sale_price": "$9.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71MQo8pHmBL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Maybelline-Volumizing-Buildable-Lengthening-Multiplying/dp/B08H3JPH74/ref=zg_bs_g_beauty_d_sccl_29/133-3292049-1183904?psc=1"
+            },
+            {
+                "rank": 30,
+                "asin": "B07BMYD4NX",
+                "name": "L'Oreal Paris Makeup Voluminous Original Mascara, Deep Burgundy, 0.26 Fl Oz",
+                "ratings_count": 110723,
+                "rating": "4.4",
+                "sale_price": "$8.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61EiqAkDlcL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/LOreal-Paris-Voluminous-Original-Building/dp/B07BMYD4NX/ref=zg_bs_g_beauty_d_sccl_30/133-3292049-1183904?psc=1"
+            },
+            {
+                "rank": 31,
+                "asin": "B07QZ5CTTF",
+                "name": "Nutrafol Women's Balance Hair Growth Supplements, Ages 45 and Up, Clinically Proven for Visibly Thicker Hair and Scalp Coverage, Dermatologist Recommended - 1 Month Supply",
+                "ratings_count": 12308,
+                "rating": "4.2",
+                "sale_price": "$88.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/511AXXJcyEL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Nutrafol-Supplements-Clinically-Dermatologist-Recommended/dp/B07QZ5CTTF/ref=zg_bs_g_beauty_d_sccl_31/132-6490055-7537536?psc=1"
+            },
+            {
+                "rank": 32,
+                "asin": "B0BT1WN3ZD",
+                "name": "Method Body Wash, Sea + Surf, Paraben and Phthalate Free, Biodegradable Formula, 28 oz, (Pack of 1)",
+                "ratings_count": 7731,
+                "rating": "4.7",
+                "sale_price": "$11.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51zmdH8O9IL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Method-Body-Wash-Surf-28oz/dp/B0BT1WN3ZD/ref=zg_bs_g_beauty_d_sccl_32/132-6490055-7537536?psc=1"
+            },
+            {
+                "rank": 33,
+                "asin": "B01LEJ5MSK",
+                "name": "COSRX Snail Mucin 92% Repair Cream, Daily Face Gel Moisturizer for Dry Skin, Acne-prone, Sensitive Skin, Not Tested on Animals, No Parabens, Korean Skincare (3.52 Fl Oz (Pack of 1))",
+                "ratings_count": 44298,
+                "rating": "4.5",
+                "sale_price": "$15.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71AerT+iWPL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/COSRX-Moisturizer-Acne-prone-Sensitive-Parabens/dp/B01LEJ5MSK/ref=zg_bs_g_beauty_d_sccl_33/132-6490055-7537536?psc=1"
+            },
+            {
+                "rank": 34,
+                "asin": "B09LCH86FM",
+                "name": "TIRTIR Mask Fit Red Cushion Foundation | Full coverage, Weighless, Skin fit, Satin Glow Finish, Korean cushion foundation (#23N Sand, 0.63 Fl Oz (Pack of 1))",
+                "ratings_count": 19063,
+                "rating": "4.0",
+                "sale_price": "$24.70",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/716UHH5O6wL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/TIRTIR-Foundation-coverage-Weighless-foundation/dp/B09LCH86FM/ref=zg_bs_g_beauty_d_sccl_34/132-6490055-7537536?psc=1"
+            },
+            {
+                "rank": 35,
+                "asin": "B09MFMCTRK",
+                "name": "VALITIC Kojic Acid Dark Spot Remover Soap Bars with Vitamin C, Retinol, Collagen, Turmeric - Original Japanese Complex Infused with Hyaluronic Acid, Vitamin E, Shea Butter, Castile Olive Oil (2 Pack)",
+                "ratings_count": 37666,
+                "rating": "4.1",
+                "sale_price": "$14.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51iMh82b5UL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Valitic-Remover-Vitamin-Collagen-Turmeric/dp/B09MFMCTRK/ref=zg_bs_g_beauty_d_sccl_35/132-6490055-7537536?psc=1"
+            },
+            {
+                "rank": 36,
+                "asin": "B07RK4HST7",
+                "name": "CeraVe Daily Moisturizing Lotion for Dry Skin | Body Lotion & Face Moisturizer with Hyaluronic Acid and Ceramides | Daily Moisturizer | Fragrance Free | Oil-Free | 19 Ounce",
+                "ratings_count": 117895,
+                "rating": "4.7",
+                "sale_price": "$18.50",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71etIFqlwCL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/CeraVe-Moisturizing-Lotion-Hyaluronic-Fragrance/dp/B07RK4HST7/ref=zg_bs_g_beauty_d_sccl_36/132-6490055-7537536?psc=1"
+            },
+            {
+                "rank": 37,
+                "asin": "B09V7Z4TJG",
+                "name": "Medicube Zero Pore Pads 2.0, Dual-Textured Facial Toner Pads for Exfoliation and Pore Care with 4.5% AHA Lactic Acid & 0.45% BHA Salicylic Acid, Ideal for All Skin Types, Korean Skin Care (70 Pads)",
+                "ratings_count": 1998,
+                "rating": "4.4",
+                "sale_price": "$17.90",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71Mcspt-6AL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Medicube-Zero-Pore-Pads-Dual-Textured/dp/B09V7Z4TJG/ref=zg_bs_g_beauty_d_sccl_37/132-6490055-7537536?psc=1"
+            },
+            {
+                "rank": 38,
+                "asin": "B0BX2TZZWG",
+                "name": "Tree Hut Vanilla Shea Sugar Exfoliating & Hydrating Body Scrub, 18 oz",
+                "ratings_count": 145520,
+                "rating": "4.7",
+                "sale_price": "$7.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81higV9zmNL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Tree-Hut-Variety-Strawberry-Champaine/dp/B0BX2TZZWG/ref=zg_bs_g_beauty_d_sccl_38/132-6490055-7537536?psc=1"
+            },
+            {
+                "rank": 39,
+                "asin": "B07GKVBQDG",
+                "name": "Neutrogena Makeup Remover Wipes, Individually Wrapped Daily Face Wipes for Waterproof Makeup, Travel & On-the-Go Singles, 20 Count",
+                "ratings_count": 62359,
+                "rating": "4.8",
+                "sale_price": "$6.88",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71i6g3WhoIL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Neutrogena-Cleansing-Towelette-Waterproof-Individually/dp/B07GKVBQDG/ref=zg_bs_g_beauty_d_sccl_39/132-6490055-7537536?psc=1"
+            },
+            {
+                "rank": 40,
+                "asin": "B0BN2PX8V3",
+                "name": "Anua Heartleaf Pore Control Cleansing Oil, Oil Cleanser for Face, Makeup Blackhead Remover, Korean Skin Care 6.76 fl oz(200ml) (original)",
+                "ratings_count": 12475,
+                "rating": "4.3",
+                "sale_price": "$17.69",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41YTYhEzG1L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/ANUA-Heartleaf-Cleansing-Cleanser-Blackheads/dp/B0BN2PX8V3/ref=zg_bs_g_beauty_d_sccl_40/132-6490055-7537536?psc=1"
+            },
+            {
+                "rank": 41,
+                "asin": "B08HYW2MKG",
+                "name": "Beetles Gel Nail Polish, 1 Pcs 15ml Audrey Black Color Soak Off Gel Polish Nail Art Manicure Salon DIY Nail Uv Lamp Gel Nail Design Decoration at Home Gift for Women Fall Gel Nail Polish",
+                "ratings_count": 123518,
+                "rating": "4.4",
+                "sale_price": "$6.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61o+KFiK0yL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Beetles-Gel-Polish-Audrey-Manicure/dp/B08HYW2MKG/ref=zg_bs_g_beauty_d_sccl_41/132-6490055-7537536?psc=1"
+            },
+            {
+                "rank": 42,
+                "asin": "B0CJFFR574",
+                "name": "SUNGBOON EDITOR Deep Collagen Overnight Mask 37gx4ea | The real collagen 2,160,000ppb | Facial Hydrogel Masks with low molecular weight collagen for elasticity, firming, and moisturizing",
+                "ratings_count": 2083,
+                "rating": "4.4",
+                "sale_price": "$19.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71nwHSMQefL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/SUNGBOON-EDITOR-Anti-Wrinkle-molecular-moisturizing/dp/B0CJFFR574/ref=zg_bs_g_beauty_d_sccl_42/132-6490055-7537536?psc=1"
+            },
+            {
+                "rank": 43,
+                "asin": "B088W7L534",
+                "name": "e.l.f. Monochromatic Multi Stick, Luxuriously Creamy & Blendable Color, For Eyes, Lips & Cheeks, Dazzling Peony, 0.155 Oz (4.4g)",
+                "ratings_count": 67343,
+                "rating": "4.3",
+                "sale_price": "$5.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61KedtnoewL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/l-f-Monochromatic-Multi-Cheeks-Dazzling/dp/B088W7L534/ref=zg_bs_g_beauty_d_sccl_43/132-6490055-7537536?psc=1"
+            },
+            {
+                "rank": 44,
+                "asin": "B019F0F31Q",
+                "name": "Rimmel London Provocalips 16hr Kiss-Proof Lip Color - Two-Step Liquid Lipstick to Lock in Color and Shine - 430 Wish Upon A Berry, .14 fl.oz.",
+                "ratings_count": 13414,
+                "rating": "4.4",
+                "sale_price": "$4.49",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71n+cjPUaAL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Rimmel-Provocalips-Colour-Berry-Fluid/dp/B019F0F31Q/ref=zg_bs_g_beauty_d_sccl_44/132-6490055-7537536?psc=1"
+            },
+            {
+                "rank": 45,
+                "asin": "B006XD12K0",
+                "name": "Rimmel London Stay Matte - 011 Creamy Natural - Pressed Powder, Lightweight, High Coverage, Shine Control, 0.49oz",
+                "ratings_count": 47515,
+                "rating": "4.4",
+                "sale_price": "$3.59",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61BP4gO3fZL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Rimmel-Pressed-Powder-Creamy-Natural/dp/B006XD12K0/ref=zg_bs_g_beauty_d_sccl_45/132-6490055-7537536?psc=1"
+            },
+            {
+                "rank": 46,
+                "asin": "B01MSSDEPK",
+                "name": "CeraVe Hydrating Facial Cleanser | Moisturizing Face Wash For Dry Skin | Hyaluronic Acid + Ceramides + Glycerin | Hydrating Cleanser For Normal To Dry Skin | National Eczema Association Certified",
+                "ratings_count": 117078,
+                "rating": "4.7",
+                "sale_price": "$15.48",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51DbQev1thL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/CeraVe-Hydrating-Facial-Cleanser-Fragrance/dp/B01MSSDEPK/ref=zg_bs_g_beauty_d_sccl_46/132-6490055-7537536?psc=1"
+            },
+            {
+                "rank": 47,
+                "asin": "B08N1CWL7S",
+                "name": "BOLDIFY Hairline Powder - Root Touch Up & Hair Loss Cover Up, Instant Gray Coverage 48-Hour Stain-Proof Hair Color Powder for Women & Men, Hair Fibers and Hair Topper Alternative (Dark Brown)",
+                "ratings_count": 25740,
+                "rating": "4.2",
+                "sale_price": "$17.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61jYtrA9LLL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Hairline-Instantly-Conceals-Thinning-Stain-Proof/dp/B08N1CWL7S/ref=zg_bs_g_beauty_d_sccl_47/132-6490055-7537536?psc=1"
+            },
+            {
+                "rank": 48,
+                "asin": "B0B45LL4DD",
+                "name": "Beauty of Joseon Revive Eye Serum with Retinal Niacinamide Correction for Puffy Eye Bags Fine Lines Dark Circles Wrinkles, Korean Skin Care 30ml, 1 fl.oz",
+                "ratings_count": 5640,
+                "rating": "4.3",
+                "sale_price": "$14.45",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61li+q2pbqL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Beauty-Joseon-Revive-eye-serum/dp/B0B45LL4DD/ref=zg_bs_g_beauty_d_sccl_48/132-6490055-7537536?psc=1"
+            },
+            {
+                "rank": 49,
+                "asin": "B0914XZT2W",
+                "name": "Samnyte Hair Wax Stick, Hair-Styling Waxes, Nourishing Accessories - Slick Stick for Women & Kids, Gel Tamer for Flyaways, Bun Maker & Styling Cream, 2.7 Fl Oz",
+                "ratings_count": 52372,
+                "rating": "4.3",
+                "sale_price": "$7.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71ch+4CFALL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Control-Pomade-Non-greasy-Styling-Samnyte/dp/B0914XZT2W/ref=zg_bs_g_beauty_d_sccl_49/132-6490055-7537536?psc=1"
+            },
+            {
+                "rank": 50,
+                "asin": "B09W18N3GT",
+                "name": "Sol de Janeiro Hair & Body Fragrance Mist 90mL/3.0 fl oz.",
+                "ratings_count": 40760,
+                "rating": "4.5",
+                "sale_price": "$25.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61eXe6NOAuL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/SOL-JANEIRO-Cheirosa-Hair-Fragrance/dp/B09W18N3GT/ref=zg_bs_g_beauty_d_sccl_50/132-6490055-7537536?psc=1"
+            }
+        ]
+    }
+}

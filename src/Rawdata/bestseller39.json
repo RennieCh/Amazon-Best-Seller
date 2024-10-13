@@ -1,0 +1,679 @@
+{
+    "200": {
+        "category": "Amazon Best SellersIndustrial & Scientific",
+        "category_hierarchy": [
+            {
+                "name": "Any Department",
+                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_industrial_0_1"
+            },
+            {
+                "name": "Industrial & Scientific",
+                "url": "https://www.amazon.com/Best-Sellers-Industrial-Scientific/zgbs/industrial/ref=zg_bs_nav_industrial_0?pg=1"
+            }
+        ],
+        "child_categories": [
+            {
+                "category": "Abrasive & Finishing Products",
+                "url": "https://www.amazon.com/Best-Sellers-Industrial-Scientific-Abrasive-Finishing-Products/zgbs/industrial/256167011/ref=zg_bs_nav_industrial_1"
+            },
+            {
+                "category": "Additive Manufacturing Products",
+                "url": "https://www.amazon.com/Best-Sellers-Industrial-Scientific-Additive-Manufacturing-Products/zgbs/industrial/6066126011/ref=zg_bs_nav_industrial_1"
+            },
+            {
+                "category": "Adhesives, Sealants & Lubricants",
+                "url": "https://www.amazon.com/Best-Sellers-Industrial-Scientific-Industrial-Adhesives-Sealants-Lubricants/zgbs/industrial/256225011/ref=zg_bs_nav_industrial_1"
+            },
+            {
+                "category": "Commercial Door Products",
+                "url": "https://www.amazon.com/Best-Sellers-Industrial-Scientific-Commercial-Door-Products/zgbs/industrial/10773802011/ref=zg_bs_nav_industrial_1"
+            },
+            {
+                "category": "Commercial Lighting",
+                "url": "https://www.amazon.com/Best-Sellers-Industrial-Scientific-Commercial-Lighting-Products/zgbs/industrial/5772192011/ref=zg_bs_nav_industrial_1"
+            },
+            {
+                "category": "Cutting Tools",
+                "url": "https://www.amazon.com/Best-Sellers-Industrial-Scientific-Cutting-Tools/zgbs/industrial/383598011/ref=zg_bs_nav_industrial_1"
+            },
+            {
+                "category": "Digital Signage",
+                "url": "https://www.amazon.com/Best-Sellers-Industrial-Scientific-Digital-Signage-Equipment/zgbs/industrial/18746931011/ref=zg_bs_nav_industrial_1"
+            },
+            {
+                "category": "Fasteners",
+                "url": "https://www.amazon.com/Best-Sellers-Industrial-Scientific-Fasteners/zgbs/industrial/383599011/ref=zg_bs_nav_industrial_1"
+            },
+            {
+                "category": "Filtration",
+                "url": "https://www.amazon.com/Best-Sellers-Industrial-Scientific-Filtration/zgbs/industrial/3061625011/ref=zg_bs_nav_industrial_1"
+            },
+            {
+                "category": "Food Service Equipment & Supplies",
+                "url": "https://www.amazon.com/Best-Sellers-Industrial-Scientific-Food-Service-Equipment-Supplies/zgbs/industrial/6054382011/ref=zg_bs_nav_industrial_1"
+            },
+            {
+                "category": "Hydraulics, Pneumatics & Plumbing",
+                "url": "https://www.amazon.com/Best-Sellers-Industrial-Scientific-Hydraulics-Pneumatics-Plumbing/zgbs/industrial/3021479011/ref=zg_bs_nav_industrial_1"
+            },
+            {
+                "category": "Industrial Electrical",
+                "url": "https://www.amazon.com/Best-Sellers-Industrial-Scientific-Electronic-Components/zgbs/industrial/306506011/ref=zg_bs_nav_industrial_1"
+            },
+            {
+                "category": "Industrial Hardware",
+                "url": "https://www.amazon.com/Best-Sellers-Industrial-Scientific-Industrial-Hardware/zgbs/industrial/16412251/ref=zg_bs_nav_industrial_1"
+            },
+            {
+                "category": "Janitorial & Sanitation Supplies",
+                "url": "https://www.amazon.com/Best-Sellers-Industrial-Scientific-Janitorial-Sanitation-Supplies/zgbs/industrial/317971011/ref=zg_bs_nav_industrial_1"
+            },
+            {
+                "category": "Lab & Scientific Products",
+                "url": "https://www.amazon.com/Best-Sellers-Industrial-Scientific-Lab-Scientific-Products/zgbs/industrial/317970011/ref=zg_bs_nav_industrial_1"
+            },
+            {
+                "category": "Material Handling Products",
+                "url": "https://www.amazon.com/Best-Sellers-Industrial-Scientific-Material-Handling-Products/zgbs/industrial/256346011/ref=zg_bs_nav_industrial_1"
+            },
+            {
+                "category": "Occupational Health & Safety Products",
+                "url": "https://www.amazon.com/Best-Sellers-Industrial-Scientific-Occupational-Health-Safety-Products/zgbs/industrial/318135011/ref=zg_bs_nav_industrial_1"
+            },
+            {
+                "category": "Packaging & Shipping Supplies",
+                "url": "https://www.amazon.com/Best-Sellers-Industrial-Scientific-Packaging-Shipping-Supplies/zgbs/industrial/8553197011/ref=zg_bs_nav_industrial_1"
+            },
+            {
+                "category": "Power & Hand Tools",
+                "url": "https://www.amazon.com/Best-Sellers-Industrial-Scientific-Industrial-Power-Hand-Tools/zgbs/industrial/3021459011/ref=zg_bs_nav_industrial_1"
+            },
+            {
+                "category": "Power Transmission Products",
+                "url": "https://www.amazon.com/Best-Sellers-Industrial-Scientific-Power-Transmission-Products/zgbs/industrial/16310181/ref=zg_bs_nav_industrial_1"
+            },
+            {
+                "category": "Professional Dental Supplies",
+                "url": "https://www.amazon.com/Best-Sellers-Industrial-Scientific-Professional-Dental-Supplies/zgbs/industrial/8297371011/ref=zg_bs_nav_industrial_1"
+            },
+            {
+                "category": "Professional Medical Supplies",
+                "url": "https://www.amazon.com/Best-Sellers-Industrial-Scientific-Professional-Medical-Supplies/zgbs/industrial/8297370011/ref=zg_bs_nav_industrial_1"
+            },
+            {
+                "category": "Raw Materials",
+                "url": "https://www.amazon.com/Best-Sellers-Industrial-Scientific-Industrial-Materials/zgbs/industrial/16310191/ref=zg_bs_nav_industrial_1"
+            },
+            {
+                "category": "Retail Store Fixtures & Equipment",
+                "url": "https://www.amazon.com/Best-Sellers-Industrial-Scientific-Retail-Store-Fixtures-Equipment/zgbs/industrial/8615538011/ref=zg_bs_nav_industrial_1"
+            },
+            {
+                "category": "Robotics",
+                "url": "https://www.amazon.com/Best-Sellers-Industrial-Scientific-Robotics/zgbs/industrial/8498884011/ref=zg_bs_nav_industrial_1"
+            },
+            {
+                "category": "Science Education",
+                "url": "https://www.amazon.com/Best-Sellers-Industrial-Scientific-Science-Education-Supplies/zgbs/industrial/393459011/ref=zg_bs_nav_industrial_1"
+            },
+            {
+                "category": "Test, Measure & Inspect",
+                "url": "https://www.amazon.com/Best-Sellers-Industrial-Scientific-Test-Measure-Inspect/zgbs/industrial/256409011/ref=zg_bs_nav_industrial_1"
+            }
+        ],
+        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/Best-Sellers-Industrial-Scientific/zgbs/industrial/ref%3Dzg_bs_pg_2_industrial%3F_encoding%3DUTF8%26pg%3D2",
+        "url": "https://www.amazon.com/Best-Sellers-Industrial-Scientific/zgbs/industrial/ref=zg_bs_nav_industrial_0?pg=1",
+        "product_listings": [
+            {
+                "rank": 1,
+                "asin": "B0BS4MRWTT",
+                "name": "Cascade Platinum Plus ActionPacs Dishwasher Detergent Pods, Mountain, 52 Count",
+                "ratings_count": 99224,
+                "rating": "4.8",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81JXnQ5CBzL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Cascade-Platinum-ActionPacs-Dishwasher-Detergent/dp/B0BS4MRWTT/ref=zg_bs_g_industrial_d_sccl_1/132-6274669-3638762?psc=1"
+            },
+            {
+                "rank": 2,
+                "asin": "B00GS8W3T4",
+                "name": "MedPride Powder-Free Nitrile Exam Gloves, Iris Blue, Medium, Box/100",
+                "ratings_count": 93551,
+                "rating": "4.7",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61YO+aQShHL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/MedPride-Powder-Free-Nitrile-Gloves-Medium/dp/B00GS8W3T4/ref=zg_bs_g_industrial_d_sccl_2/132-6274669-3638762?psc=1"
+            },
+            {
+                "rank": 3,
+                "asin": "B0C9S5PMSD",
+                "name": "Supmedic Medical Nitrile Exam Gloves, Latex-Free & Powder-Free Non-Sterile Food Safe Cleaning Disposable Glove, 100 Pcs",
+                "ratings_count": 9383,
+                "rating": "4.6",
+                "sale_price": "$8.47",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/8118Jz4ns-L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Supmedic-Nitrile-Disposable-Powder-Free-Latex-Free/dp/B0C9S5PMSD/ref=zg_bs_g_industrial_d_sccl_3/132-6274669-3638762?psc=1"
+            },
+            {
+                "rank": 4,
+                "asin": "B0CS8T6VPV",
+                "name": "Tapo TP-Link Smart Light Bulbs, 16M Colors RGBW, Dimmable, Alexa Frustration-Free Setup, A19, 60W Equivalent, 800LM CRI>90, 2.4GHz WiFi only L531E",
+                "ratings_count": 13053,
+                "rating": "4.5",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41m5Vryt83L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Tapo-Dimmable-Frustration-Free-Equivalent-L531E/dp/B0CS8T6VPV/ref=zg_bs_g_industrial_d_sccl_4/132-6274669-3638762?psc=1"
+            },
+            {
+                "rank": 5,
+                "asin": "B09QXW1DHK",
+                "name": "DampRid Fresh Scent Hanging Moisture Absorber, 1 Pound (Pack of 3) - Eliminates Musty Odors for Fresher, Cleaner Air, Ideal for Closet, 14% More Moisture Absorbing Power*- Blue",
+                "ratings_count": 17302,
+                "rating": "4.7",
+                "sale_price": "$15.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71Oq+dEOWJL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/DampRid-Fresh-Hanging-Moisture-Absorber/dp/B09QXW1DHK/ref=zg_bs_g_industrial_d_sccl_5/132-6274669-3638762?psc=1"
+            },
+            {
+                "rank": 6,
+                "asin": "B09NY9MMS3",
+                "name": "iHealth COVID-19 Antigen Rapid Test, 1 Pack, 5 Tests Total, FDA EUA Authorized OTC at-Home Self Test, Results in 15 Minutes with Non-invasive Nasal Swab, Easy to Use & No Discomfort",
+                "ratings_count": 31660,
+                "rating": "4.6",
+                "sale_price": "$44.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61AZ0bqSCRL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/iHealth-COVID-19-Authorized-Non-invasive-Discomfort/dp/B09NY9MMS3/ref=zg_bs_g_industrial_d_sccl_6/132-6274669-3638762?psc=1"
+            },
+            {
+                "rank": 7,
+                "asin": "B073XR4X72",
+                "name": "Command 15 lb Large Picture Hanging Strips 14 Pairs (28 Command Strips), Damage Free Hanging Picture Hangers, No Tools Wall Hanging Strips for Christmas Decorations",
+                "ratings_count": 116429,
+                "rating": "4.6",
+                "sale_price": "$12.46",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81Jkqpg6r6L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Command-Picture-Decorate-Damage-Free-PH206-14NA/dp/B073XR4X72/ref=zg_bs_g_industrial_d_sccl_7/132-6274669-3638762?psc=1"
+            },
+            {
+                "rank": 8,
+                "asin": "B0787Q54M1",
+                "name": "Neosmuk Magnetic Hooks,30lb+ Heavy Duty Earth Magnets with Hook for Refrigerator, Extra Strong Cruise Hook for Hanging, Magnetic Hanger for Cabins, Grill (Silver White, Pack of 10)",
+                "ratings_count": 59441,
+                "rating": "4.5",
+                "sale_price": "$7.60",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71j6RSbPOgL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Magnetic-%EF%BC%ADaximum-Neodymium-Corrosion-Protection/dp/B0787Q54M1/ref=zg_bs_g_industrial_d_sccl_8/132-6274669-3638762?psc=1"
+            },
+            {
+                "rank": 9,
+                "asin": "B07NFSFBXQ",
+                "name": "Amazon Basics 99% Isopropyl Alcohol First Aid For Technical Use,16 Fluid Ounces, 1-Pack (Previously Solimo)",
+                "ratings_count": 21074,
+                "rating": "4.8",
+                "sale_price": "$7.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/610bnVxwbXL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-Brand-Isopropyl-Antiseptic-Technical/dp/B07NFSFBXQ/ref=zg_bs_g_industrial_d_sccl_9/132-6274669-3638762?psc=1"
+            },
+            {
+                "rank": 10,
+                "asin": "B07KYWVCP6",
+                "name": "MED PRIDE Medical Vinyl Examination Gloves (Large, 100-Count) Latex & Rubber Free, Ultra-Strong, Clear Disposable Powder-Free Gloves for Healthcare & Food Handling Use",
+                "ratings_count": 88883,
+                "rating": "4.5",
+                "sale_price": "$7.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71tuac3ombL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Examination-100-Count-Disposable-Ultra-Strong-Healthcare/dp/B07KYWVCP6/ref=zg_bs_g_industrial_d_sccl_10/132-6274669-3638762?psc=1"
+            },
+            {
+                "rank": 11,
+                "asin": "B0B4F5PXW1",
+                "name": "Command Medium and Large Picture Hanging Strips, Damage Free Hanging Picture Hangers, No Tools Wall Hanging Strips for Living Spaces, 12 Medium Pairs and 16 Large Pairs (56 Strips)",
+                "ratings_count": 3204,
+                "rating": "4.6",
+                "sale_price": "$12.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/715qRBhOyiL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Command-Picture-Hanging-Christmas-Decorations/dp/B0B4F5PXW1/ref=zg_bs_g_industrial_d_sccl_11/132-6274669-3638762?psc=1"
+            },
+            {
+                "rank": 12,
+                "asin": "B08FRSS4BF",
+                "name": "SYLVANIA ECO LED Light Bulb, A19 60W Equivalent, Efficient 9W, 7 Year, 750 Lumens, 2700K, Non-Dimmable, Frosted, Soft White - 8 Count (Pack of 1) (40821)",
+                "ratings_count": 48305,
+                "rating": "4.7",
+                "sale_price": "$12.36",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81wKhRO66oL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Sylvania-40821-Equivalent-Efficient-Temperature/dp/B08FRSS4BF/ref=zg_bs_g_industrial_d_sccl_12/132-6274669-3638762?psc=1"
+            },
+            {
+                "rank": 13,
+                "asin": "B00030L5HY",
+                "name": "Rubbermaid Commercial Wastebasket Trash Container, 41QT/10.25 GAL, Plastic, Black, Stackable Trash Can for Bedroom/Bathroom/Office, Fits Under Desk/Sink/Cabinet",
+                "ratings_count": 30895,
+                "rating": "4.8",
+                "sale_price": "$12.48",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61yMRvB9s1L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Rubbermaid-Commercial-10-Gallon-Deskside-Rectangular/dp/B00030L5HY/ref=zg_bs_g_industrial_d_sccl_13/132-6274669-3638762?psc=1"
+            },
+            {
+                "rank": 14,
+                "asin": "B01DPYH5KA",
+                "name": "Hibiclens Antiseptic Antimicrobial Skin Cleanser 4oz Foam Pump",
+                "ratings_count": 5941,
+                "rating": "4.6",
+                "sale_price": "$8.06",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51AcFiiPDpL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Hibiclens-Antiseptic-Antimicrobial-Skin-Cleanser/dp/B01DPYH5KA/ref=zg_bs_g_industrial_d_sccl_14/132-6274669-3638762?psc=1"
+            },
+            {
+                "rank": 15,
+                "asin": "B08Y98BVDM",
+                "name": "MED PRIDE NitriPride Nitrile-Vinyl Blend Exam Gloves, Medium 100 - Powder Free, Latex Free & Rubber Free - Single Use Non-Sterile Protective Gloves for Medical Use, Cooking, Cleaning & More",
+                "ratings_count": 43337,
+                "rating": "4.4",
+                "sale_price": "$7.94",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81u0qmX7h8L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/PRIDE-Synthetic-Nitrile-Vinyl-Gloves-Medium/dp/B08Y98BVDM/ref=zg_bs_g_industrial_d_sccl_15/132-6274669-3638762?psc=1"
+            },
+            {
+                "rank": 16,
+                "asin": "B002TOL3ZG",
+                "name": "Duck 1265015 1.88\" x 20 yd Winking Tape, Single Roll, White",
+                "ratings_count": 39449,
+                "rating": "4.7",
+                "sale_price": "$3.50",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61m-MSdmjLL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Duck-Brand-1265015-Inches-Single/dp/B002TOL3ZG/ref=zg_bs_g_industrial_d_sccl_16/132-6274669-3638762?psc=1"
+            },
+            {
+                "rank": 17,
+                "asin": "B008I7TNDW",
+                "name": "Scott Professional 100% Recycled Fiber Standard Roll Toilet Paper (13217), with Elevated Design, 2-Ply, White, Individually wrapped rolls, (473 Sheets/Roll, 80 Rolls/Case, 37,840 Sheets/Case)",
+                "ratings_count": 35802,
+                "rating": "4.6",
+                "sale_price": "$59.35",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81ATKt+rzmL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Essential-Professional-Recycled-Business-Standard/dp/B008I7TNDW/ref=zg_bs_g_industrial_d_sccl_17/132-6274669-3638762?psc=1"
+            },
+            {
+                "rank": 18,
+                "asin": "B09KZ6TBNY",
+                "name": "iHealth COVID-19 Antigen Rapid Test, 1 Pack, 2 Tests Total, FDA EUA Authorized OTC at-Home Self Test, Results in 15 Minutes with Non-invasive Nasal Swab, Easy to Use & No Discomfort",
+                "ratings_count": 212727,
+                "rating": "4.5",
+                "sale_price": "$15.69",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61JseEqj9FL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/iHealth-COVID-19-Authorized-Non-invasive-Discomfort/dp/B09KZ6TBNY/ref=zg_bs_g_industrial_d_sccl_18/132-6274669-3638762?psc=1"
+            },
+            {
+                "rank": 19,
+                "asin": "B08QQZ71CV",
+                "name": "Gorilla Super Glue, Four 3 Gram Tubes, Clear, (Pack of 1)",
+                "ratings_count": 4691,
+                "rating": "4.7",
+                "sale_price": "$8.48",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/811eyZTMI8S._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Gorilla-105795-Super-1-Pack-Clear/dp/B08QQZ71CV/ref=zg_bs_g_industrial_d_sccl_19/132-6274669-3638762?psc=1"
+            },
+            {
+                "rank": 20,
+                "asin": "B08YJQ8V1X",
+                "name": "Hompavo 【Upgraded】 LED Flame Light Bulbs, 4 Modes Flickering Light Bulbs with Upside Down Effect, E26/E27 Flame Bulb for Halloween Christmas Party Patio Porch Home Indoor & Outdoor Decorations - 2",
+                "ratings_count": 7791,
+                "rating": "4.5",
+                "sale_price": "$16.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71uxdlIWBKL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Hompavo-Flickering-Halloween-Christmas-Decoration/dp/B08YJQ8V1X/ref=zg_bs_g_industrial_d_sccl_20/132-6274669-3638762?psc=1"
+            },
+            {
+                "rank": 21,
+                "asin": "B09BNPX3XJ",
+                "name": "VELCRO Brand Heavy Duty Fasteners | 4x2 Inch Strips with Adhesive 8 Sets | Holds 10 lbs | Black Industrial Strength Stick On Tape | Indoor or Outdoor Use (VEL-30703-USA), 8 Count (Pack of 1)",
+                "ratings_count": 30599,
+                "rating": "4.6",
+                "sale_price": "$8.77",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/812eBsOTreL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/VELCRO-Brand-Fasteners-Industrial-VEL-30703-USA/dp/B09BNPX3XJ/ref=zg_bs_g_industrial_d_sccl_21/132-6274669-3638762?psc=1"
+            },
+            {
+                "rank": 22,
+                "asin": "B0CG5VDC8P",
+                "name": "Amazon Basics Smart A19 LED Light Bulb, Color Changing, 9W (60W Equivalent), 800LM, Works with Alexa Only, 2.4 GHz Wi-Fi, No Hub Required, 1-Pack",
+                "ratings_count": 6085,
+                "rating": "4.4",
+                "sale_price": "$13.29",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71InrzITFhL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-Basics-Equivalent-1-Pack-Multicolor/dp/B0CG5VDC8P/ref=zg_bs_g_industrial_d_sccl_22/132-6274669-3638762?psc=1"
+            },
+            {
+                "rank": 23,
+                "asin": "B00007J6CX",
+                "name": "Lysol Pro Kitchen Spray Cleaner and Degreaser, Antibacterial All Purpose Cleaning Spray for Kitchens, Countertops, Ovens, and Appliances, Citrus Scent, 22oz",
+                "ratings_count": 10640,
+                "rating": "4.8",
+                "sale_price": "$3.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71sP8DdfoZL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Lysol-Kitchen-Antibacterial-Cleaner-Chemicals/dp/B00007J6CX/ref=zg_bs_g_industrial_d_sccl_23/132-6274669-3638762?psc=1"
+            },
+            {
+                "rank": 24,
+                "asin": "B0D2RP4B82",
+                "name": "Gorilla Super Glue Ultimate, Fast-Setting Cyanoacrylate Adhesive for Quick Fixes & Repairs, 15g Bottle with Anti-Clog Cap, Clear (Pack of 1)",
+                "ratings_count": 523,
+                "rating": "4.5",
+                "sale_price": "$7.88",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81pDD+OvAsL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Gorilla-Ultimate-Fast-Setting-Cyanoacrylate-Anti-Clog/dp/B0D2RP4B82/ref=zg_bs_g_industrial_d_sccl_24/132-6274669-3638762?psc=1"
+            },
+            {
+                "rank": 25,
+                "asin": "B09B7NQT2K",
+                "name": "Govee Smart Light Bulbs, Color Changing Light Bulb, Work with Alexa and Google Assistant, 16 Million Colors RGBWW, WiFi & Bluetooth LED Light Bulbs, Music Sync, A19, 800 Lumens, 4 Pack",
+                "ratings_count": 12026,
+                "rating": "4.6",
+                "sale_price": "$34.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61G5-oBZmzL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Govee-Changing-Dynamic-Bluetooth-Assistant/dp/B09B7NQT2K/ref=zg_bs_g_industrial_d_sccl_25/132-6274669-3638762?psc=1"
+            },
+            {
+                "rank": 26,
+                "asin": "B0D3HYC8H1",
+                "name": "Dealusy 50 Pack (100-Piece) 24 oz Meal Prep Containers Reusable with Lids, Sturdy Leakproof & Food Safe, Microwave, Freezer, Dishwasher Safe Food Prep Containers, To Go Take Out Plastic Food Storage",
+                "ratings_count": 284,
+                "rating": "4.6",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71oB3+94jBL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Dealusy-100-Piece-Containers-Leakproof-Dishwasher/dp/B0D3HYC8H1/ref=zg_bs_g_industrial_d_sccl_26/132-6274669-3638762?psc=1"
+            },
+            {
+                "rank": 27,
+                "asin": "B0C9VYYCPB",
+                "name": "GE Advanced Silicone Caulk for Kitchen & Bathroom - 100% Waterproof Silicone Sealant, 5X Stronger Adhesion, Shrink & Crack Proof - 2.8 fl oz Tube, White, 1 Pack",
+                "ratings_count": 1390,
+                "rating": "4.6",
+                "sale_price": "$7.78",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61zjCYnVcVL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/GE-Advanced-Silicone-Kitchen-Bathroom/dp/B0C9VYYCPB/ref=zg_bs_g_industrial_d_sccl_27/132-6274669-3638762?psc=1"
+            },
+            {
+                "rank": 28,
+                "asin": "B07XG3RM58",
+                "name": "SUNLU PLA 3D Printer Filament PLA Filament 1.75mm, Neatly Wound PLA 3D Printing Filament 1.75mm, Dimensional Accuracy +/- 0.02 mm, Fit Most FDM 3D Printers, 1kg Spool (2.2lbs), PLA Black",
+                "ratings_count": 18173,
+                "rating": "4.4",
+                "sale_price": "$17.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71Ezx7ZbVAL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Printer-Filament-SUNLU-Dimensional-Accuracy/dp/B07XG3RM58/ref=zg_bs_g_industrial_d_sccl_28/132-6274669-3638762?psc=1"
+            },
+            {
+                "rank": 29,
+                "asin": "B0B58FGF8H",
+                "name": "Art3d 16 Sets Hook and Loop Tape Sticky Back,1 in.x 4 in. Double-Sided Adhesive Strip,Heavy Duty",
+                "ratings_count": 7859,
+                "rating": "4.4",
+                "sale_price": "$6.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71XjZBhX-8L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Art3d-Sticky-Double-Sided-Command-Adhesive/dp/B0B58FGF8H/ref=zg_bs_g_industrial_d_sccl_29/132-6274669-3638762?psc=1"
+            },
+            {
+                "rank": 30,
+                "asin": "B082XGL21J",
+                "name": "Gorilla Super Glue Gel XL, 25 Gram, Clear, (Pack of 1)",
+                "ratings_count": 34799,
+                "rating": "4.6",
+                "sale_price": "$8.51",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/816iMVmiAkL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Gorilla-Super-Glue-gram-Clear/dp/B082XGL21J/ref=zg_bs_g_industrial_d_sccl_30/132-6274669-3638762?psc=1"
+            },
+            {
+                "rank": 31,
+                "asin": "B09S6LHYYQ",
+                "name": "Schneider Nitrile Exam Gloves, Black, Medium, 100-ct Box, 4-mil, Latex-Free, Powder-Free, Food-Safe",
+                "ratings_count": 6408,
+                "rating": "4.7",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71wQDnBUglL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Schneider-Latex-Free-Disposable-Examination-Powder-Free/dp/B09S6LHYYQ/ref=zg_bs_g_industrial_d_sccl_31/132-0717353-8379960?psc=1"
+            },
+            {
+                "rank": 32,
+                "asin": "B08C7HDF1F",
+                "name": "NNPCBT 100PCS 3 Ply Black Disposable Face Mask Filter Protection Face Masks",
+                "ratings_count": 145375,
+                "rating": "4.7",
+                "sale_price": "$9.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81wSxBWACSL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/100PCS-disposable-shield-filter-protection/dp/B08C7HDF1F/ref=zg_bs_g_industrial_d_sccl_32/132-0717353-8379960?psc=1"
+            },
+            {
+                "rank": 33,
+                "asin": "B07FKKP72W",
+                "name": "RESOLVE Ultra Pet Odor and Stain Remover Spray, Carpet Cleaner, 32oz (Pack of 1)",
+                "ratings_count": 19465,
+                "rating": "4.6",
+                "sale_price": "$9.46",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71-jXBfgbcL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Resolve-Ultra-Stain-Remover-Messes/dp/B07FKKP72W/ref=zg_bs_g_industrial_d_sccl_33/132-0717353-8379960?psc=1"
+            },
+            {
+                "rank": 34,
+                "asin": "B08QG5YJGR",
+                "name": "Febreze Unstopables Odor-Fighting Plug Air Freshener, Fresh, (3) .87 fl. oz. Oil Refills",
+                "ratings_count": 19386,
+                "rating": "4.7",
+                "sale_price": "$14.32",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71ot3HXXY-L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Febreze-Fresheners-Unstopables-Eliminator-Scented/dp/B08QG5YJGR/ref=zg_bs_g_industrial_d_sccl_34/132-0717353-8379960?psc=1"
+            },
+            {
+                "rank": 35,
+                "asin": "B086D7SX8K",
+                "name": "Holikme Bottle Brush Tube Cleaning Set, Long Handle Bottle Cleaner for Washing Narrow Neck Beer Bottles Wine Decanter Narrow Cup Pipes Sinks Cup Cover, White",
+                "ratings_count": 28366,
+                "rating": "4.6",
+                "sale_price": "$8.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71JAEr3GRXL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Holikme-Cleaning-Set%EF%BC%8CLong-cup%EF%BC%8CPipes-cover%EF%BC%8CWhite/dp/B086D7SX8K/ref=zg_bs_g_industrial_d_sccl_35/132-0717353-8379960?psc=1"
+            },
+            {
+                "rank": 36,
+                "asin": "B07P32RHQ4",
+                "name": "Command 15 lb & 10 lb Large and Medium Picture Hanging Strips 28 Assorted Pairs (56 Command Strips), Damage Free Hanging Picture Hangers, Wall Hanging Strips for Christmas Decorations",
+                "ratings_count": 21923,
+                "rating": "4.7",
+                "sale_price": "$12.88",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/715X0q9eNtL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Command-Medium-Picture-Hanging-Strips/dp/B07P32RHQ4/ref=zg_bs_g_industrial_d_sccl_36/132-0717353-8379960?psc=1"
+            },
+            {
+                "rank": 37,
+                "asin": "B0C5JVX1WW",
+                "name": "O-Cedar One Sweep Broom with Step-On Dustpan | Remove 99% with One Sweep | Lightweight Quiet Cleaning Tool | Ideal for Pet Owners",
+                "ratings_count": 17969,
+                "rating": "4.6",
+                "sale_price": "$12.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71Jzw4oNJcL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Cedar-PowerCorner-Dustpan-3-Piece-Handle/dp/B0C5JVX1WW/ref=zg_bs_g_industrial_d_sccl_37/132-0717353-8379960?psc=1"
+            },
+            {
+                "rank": 38,
+                "asin": "B08QM81BJV",
+                "name": "JohnBee Empty Spray Bottles (16oz/2Pack) - Adjustable Spray Bottles for Cleaning Solutions - No Leak and Clog - HDPE spray bottle For Plants, Pet, Vinegar, BBQ, and Rubbing Alcohol",
+                "ratings_count": 15335,
+                "rating": "4.2",
+                "sale_price": "$7.76",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51XSJUwpm-S._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Empty-Spray-Bottles-16oz-2Pack/dp/B08QM81BJV/ref=zg_bs_g_industrial_d_sccl_38/132-0717353-8379960?psc=1"
+            },
+            {
+                "rank": 39,
+                "asin": "B0B3SR5M71",
+                "name": "Command 20 lb XL Heavyweight Picture Hanging Strips 16 Pairs (32 Command Strips), Damage Free Hanging Picture Hangers, Heavy Duty Wall Hanging Strips for Christmas Decorations",
+                "ratings_count": 3423,
+                "rating": "4.6",
+                "sale_price": "$16.21",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61-80ITnHJL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Command-Heavyweight-Picture-Organization-Adhesive/dp/B0B3SR5M71/ref=zg_bs_g_industrial_d_sccl_39/132-0717353-8379960?psc=1"
+            },
+            {
+                "rank": 40,
+                "asin": "B0C3SR4BNC",
+                "name": "BinaxNOW COVID-19 Antigen Self Test, 1 Pack, 4 Tests Total, COVID Test With 15-Minute Results Without Sending to a Lab, Easy to Use at Home",
+                "ratings_count": 17711,
+                "rating": "4.5",
+                "sale_price": "$30.32",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/619TRAKbQrL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/BinaxNOW-COVID-19-Antigen-15-Minute-Results/dp/B0C3SR4BNC/ref=zg_bs_g_industrial_d_sccl_40/132-0717353-8379960?psc=1"
+            },
+            {
+                "rank": 41,
+                "asin": "B074MDTWQR",
+                "name": "Homax 10120000 Steel Wool, 12 pad, Grade #0000, Rhodes American, Final Finish",
+                "ratings_count": 29180,
+                "rating": "4.7",
+                "sale_price": "$4.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61HU-WJaaZL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Steel-Super-Rhodes-American-Finish/dp/B074MDTWQR/ref=zg_bs_g_industrial_d_sccl_41/132-0717353-8379960?psc=1"
+            },
+            {
+                "rank": 42,
+                "asin": "B0000DH4ME",
+                "name": "The Original Duck Brand Duct Tape, 1-Pack 1.88 Inch x 60 Yard, Silver (394475)",
+                "ratings_count": 13891,
+                "rating": "4.6",
+                "sale_price": "$7.16",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61t+M6maKyL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Original-Strength-Duck-Silver-394475/dp/B0000DH4ME/ref=zg_bs_g_industrial_d_sccl_42/132-0717353-8379960?psc=1"
+            },
+            {
+                "rank": 43,
+                "asin": "B07PGY2JP1",
+                "name": "OVERTURE PLA Filament 1.75mm PLA 3D Printer Filament, 1kg Cardboard Spool (2.2lbs), Dimensional Accuracy +/- 0.02mm, Fit Most FDM Printer (Black 1-Pack)",
+                "ratings_count": 22538,
+                "rating": "4.5",
+                "sale_price": "$17.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/711WzhY1abL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/OVERTURE-Filament-Consumables-Dimensional-Accuracy/dp/B07PGY2JP1/ref=zg_bs_g_industrial_d_sccl_43/132-0717353-8379960?psc=1"
+            },
+            {
+                "rank": 44,
+                "asin": "B0BM739JRF",
+                "name": "ELEGOO PLA Filament 1.75mm Black 1KG, 3D Printer Filament Dimensional Accuracy +/- 0.02mm, 1kg Cardboard Spool(2.2lbs) 3D Printing Filament Fits for Most FDM 3D Printers",
+                "ratings_count": 5145,
+                "rating": "4.4",
+                "sale_price": "$13.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71K1GjdbxzL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/ELEGOO-Filament-Dimensional-Accuracy-Cardboard/dp/B0BM739JRF/ref=zg_bs_g_industrial_d_sccl_44/132-0717353-8379960?psc=1"
+            },
+            {
+                "rank": 45,
+                "asin": "B001AXD0EY",
+                "name": "Scotch Vinyl 700 Electrical Tape, 1 Roll, Black, 3/4-in x 66-ft, General Purpose, Commercial Grade, Rated for Temperatures Up to 194-Degree, Highly flexible, Stretchy & Conformable (700)",
+                "ratings_count": 8521,
+                "rating": "4.7",
+                "sale_price": "$2.78",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81bdc+xqBCL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Scotch-Heat-Resistant-Listed-Certified-Electrical/dp/B001AXD0EY/ref=zg_bs_g_industrial_d_sccl_45/132-0717353-8379960?psc=1"
+            },
+            {
+                "rank": 46,
+                "asin": "B0BQ2FF8YT",
+                "name": "Portable Nebulizer - Nebulizers, Rechargeable Nebulizer Machine for Adults and Kids, Ultrasonic Nebulizer with Two Modes & Self-Cleaning Function for Breathing Problems, FSA and HSA Eligible",
+                "ratings_count": 2644,
+                "rating": "4.5",
+                "sale_price": "$49.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71lI2ZaoyhL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Portable-Nebulizer-Rechargeable-Ultrasonic-Self-Cleaning/dp/B0BQ2FF8YT/ref=zg_bs_g_industrial_d_sccl_46/132-0717353-8379960?psc=1"
+            },
+            {
+                "rank": 47,
+                "asin": "B077PZLX6M",
+                "name": "DIYMAG Magnetic Hooks, 30lbs+ Heavy Duty Magnetic Hooks Cruise for Hanging, Super Strong Magnet Hooks for Cruise Cabin, Refrigerator, Classroom, Magnetic Metal Hooks for Grill (Sliver, Pack of 20)",
+                "ratings_count": 13062,
+                "rating": "4.5",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81X+hP5S8-L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Magnetic-Strong-Neodymium-Kitchen-Workplace/dp/B077PZLX6M/ref=zg_bs_g_industrial_d_sccl_47/132-0717353-8379960?psc=1"
+            },
+            {
+                "rank": 48,
+                "asin": "B0997VXC6D",
+                "name": "NEENCA Professional Knee Brace for Pain Relief, Medical Knee Support with Patella Pad & Side Stabilizers, Compression Knee Sleeve for Meniscus Tear, ACL, Joint Pain, Runner, Workout - FSA/HSA Eligible",
+                "ratings_count": 60139,
+                "rating": "4.3",
+                "sale_price": "$25.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81AhLtV5WyL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/NEENCA-Professional-Compression-Stabilizers-Arthritis/dp/B0997VXC6D/ref=zg_bs_g_industrial_d_sccl_48/132-0717353-8379960?psc=1"
+            },
+            {
+                "rank": 49,
+                "asin": "B07HJ7YTDH",
+                "name": "Uineko Plastic Spray Bottle (4 Pack, 24 Oz, All-Purpose) Heavy Duty Spraying Bottles Leak Proof Mist Empty Water Bottle for Cleaning Solution Planting Pet with Adjustable Nozzle and Measurements",
+                "ratings_count": 24642,
+                "rating": "4.4",
+                "sale_price": "$13.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/6169URgvNoL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Uineko-All-Purpose-Spraying-Adjustable-Measurements/dp/B07HJ7YTDH/ref=zg_bs_g_industrial_d_sccl_49/132-0717353-8379960?psc=1"
+            },
+            {
+                "rank": 50,
+                "asin": "B07TSN384X",
+                "name": "OuuKoo Salt Lamp Bulbs - 15 Watt Light Bulbs for Scentsy Wax Warmer - C7 Replacement Bulbs for Plug in Wax Diffuser- Warmwhite - Dimmable,15 Packs",
+                "ratings_count": 19362,
+                "rating": "4.6",
+                "sale_price": "$6.88",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71JGRigKVpL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/OuuKoo-Walt-Salt-Lamp-Blubs/dp/B07TSN384X/ref=zg_bs_g_industrial_d_sccl_50/132-0717353-8379960?psc=1"
+            }
+        ]
+    }
+}

@@ -1,0 +1,619 @@
+{
+    "200": {
+        "category": "Amazon Best SellersKitchen & Dining",
+        "category_hierarchy": [
+            {
+                "name": "Any Department",
+                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_kitchen_0_1"
+            },
+            {
+                "name": "Kitchen & Dining",
+                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining/zgbs/kitchen/ref=zg_bs_nav_kitchen_0?pg=1"
+            }
+        ],
+        "child_categories": [
+            {
+                "category": "Bakeware",
+                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Bakeware/zgbs/kitchen/289668/ref=zg_bs_nav_kitchen_1"
+            },
+            {
+                "category": "Bar Tools & Drinkware",
+                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Bar-Tools-Drinkware/zgbs/kitchen/289728/ref=zg_bs_nav_kitchen_1"
+            },
+            {
+                "category": "Coffee, Tea & Espresso Appliances",
+                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Coffee-Tea-Espresso-Appliances/zgbs/kitchen/289742/ref=zg_bs_nav_kitchen_1"
+            },
+            {
+                "category": "Cookware",
+                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Kitchen-Cookware/zgbs/kitchen/289814/ref=zg_bs_nav_kitchen_1"
+            },
+            {
+                "category": "Dining & Entertaining",
+                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Dining-Entertaining/zgbs/kitchen/13162311/ref=zg_bs_nav_kitchen_1"
+            },
+            {
+                "category": "Glassware & Drinkware",
+                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Glassware-Drinkware/zgbs/kitchen/13217501/ref=zg_bs_nav_kitchen_1"
+            },
+            {
+                "category": "Home Brewing & Wine Making",
+                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Home-Brewing-Wine-Making/zgbs/kitchen/979832011/ref=zg_bs_nav_kitchen_1"
+            },
+            {
+                "category": "Kitchen & Table Linens",
+                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Kitchen-Table-Linens/zgbs/kitchen/1063916/ref=zg_bs_nav_kitchen_1"
+            },
+            {
+                "category": "Kitchen Utensils & Gadgets",
+                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Kitchen-Utensils-Gadgets/zgbs/kitchen/289754/ref=zg_bs_nav_kitchen_1"
+            },
+            {
+                "category": "Small Appliances",
+                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Kitchen-Small-Appliances/zgbs/kitchen/289913/ref=zg_bs_nav_kitchen_1"
+            },
+            {
+                "category": "Storage & Organization",
+                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Kitchen-Storage-Organization/zgbs/kitchen/510136/ref=zg_bs_nav_kitchen_1"
+            },
+            {
+                "category": "Wine Accessories",
+                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Wine-Accessories/zgbs/kitchen/13299291/ref=zg_bs_nav_kitchen_1"
+            }
+        ],
+        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/Best-Sellers-Kitchen-Dining/zgbs/kitchen/ref%3Dzg_bs_pg_2_kitchen%3F_encoding%3DUTF8%26pg%3D2",
+        "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining/zgbs/kitchen/ref=zg_bs_nav_kitchen_0?pg=1",
+        "product_listings": [
+            {
+                "rank": 1,
+                "asin": "B0CJZMP7L1",
+                "name": "Stanley Quencher H2.0 FlowState Stainless Steel Vacuum Insulated Tumbler with Lid and Straw for Water, Iced Tea or Coffee, Smoothie and More, Lilac, 30oz",
+                "ratings_count": 42947,
+                "rating": "4.7",
+                "sale_price": "$35.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51zaCVh6SIL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Quencher-FlowState-Stainless-Insulated-Smoothie/dp/B0CJZMP7L1/ref=zg_bs_g_kitchen_d_sccl_1/132-0910105-0920347?psc=1"
+            },
+            {
+                "rank": 2,
+                "asin": "B085DTZQNZ",
+                "name": "Owala FreeSip Insulated Stainless Steel Water Bottle with Straw for Sports and Travel, BPA-Free, 24-oz, Very, Very Dark",
+                "ratings_count": 58198,
+                "rating": "4.7",
+                "sale_price": "$27.94",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/718RbhzhVbL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Owala-Insulated-Stainless-Steel-Push-Button-24-Ounce/dp/B085DTZQNZ/ref=zg_bs_g_kitchen_d_sccl_2/132-0910105-0920347?psc=1"
+            },
+            {
+                "rank": 3,
+                "asin": "B003OAJGJO",
+                "name": "Crock-Pot 7 Quart Oval Manual Slow Cooker, Stainless Steel (SCV700-S-BR), Versatile Cookware for Large Families or Entertaining",
+                "ratings_count": 32997,
+                "rating": "4.7",
+                "sale_price": "$29.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81s15a8-lGL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Crock-Pot-SCV700SS-Stainless-7-Quart-Manual/dp/B003OAJGJO/ref=zg_bs_g_kitchen_d_sccl_3/132-0910105-0920347?psc=1"
+            },
+            {
+                "rank": 4,
+                "asin": "B0764HS4SL",
+                "name": "Fullstar Vegetable Chopper - Food Chopper - Onion Chopper - Vegetable Slicer & Spiralizer - Veggie Chopper with Container - Kitchen Gadgets - Home Essentials - Kitchen Accessories (4 in 1, White)",
+                "ratings_count": 110821,
+                "rating": "4.5",
+                "sale_price": "$29.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81Lv7sV-6-L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Vegetable-Chopper-Spiralizer-Slicer-Choppers/dp/B0764HS4SL/ref=zg_bs_g_kitchen_d_sccl_4/132-0910105-0920347?psc=1"
+            },
+            {
+                "rank": 5,
+                "asin": "B0CGRGRXPY",
+                "name": "SURETIVIAN Chicken Shredder Large Chicken Breast Shredder Tool Twist with Brush&Fork, Visible Meat Shredder Machine, Strong Anti-Slip Strip, Ergonomic Handle, BPA Free, Suitable for Pork Beef Chicken",
+                "ratings_count": 5600,
+                "rating": "4.7",
+                "sale_price": "$22.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71d6vBNDknL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/SURETIVIAN-Shredder-Anti-Slip-Ergonomic-Suitable/dp/B0CGRGRXPY/ref=zg_bs_g_kitchen_d_sccl_5/132-0910105-0920347?psc=1"
+            },
+            {
+                "rank": 6,
+                "asin": "B0BHBP1X1B",
+                "name": "Simple Modern 40 oz Tumbler with Handle and Straw Lid | Insulated Cup Reusable Stainless Steel Water Bottle Travel Mug Cupholder Friendly | Gifts for Women Men Him Her | Trek Collection | Almond Birch",
+                "ratings_count": 36389,
+                "rating": "4.8",
+                "sale_price": "$29.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71nhPE7vxHL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Simple-Modern-Tumbler-Handle-Insulated/dp/B0BHBP1X1B/ref=zg_bs_g_kitchen_d_sccl_6/132-0910105-0920347?psc=1"
+            },
+            {
+                "rank": 7,
+                "asin": "B0113UZJE2",
+                "name": "Etekcity Food Kitchen Scale, Digital Grams and Ounces for Weight Loss, Baking, Cooking, Keto and Meal Prep, LCD Display, Medium, 304 Stainless Steel",
+                "ratings_count": 160952,
+                "rating": "4.6",
+                "sale_price": "$13.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91YrLTBnMcL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Etekcity-Multifunction-Stainless-Batteries-Included/dp/B0113UZJE2/ref=zg_bs_g_kitchen_d_sccl_7/132-0910105-0920347?psc=1"
+            },
+            {
+                "rank": 8,
+                "asin": "B00S93EQUK",
+                "name": "Alpha Grillers Instant Read Meat Thermometer for Cooking Grill and BBQ Griddle - Waterproof w/Backlight & Calibration for Food, Oven, Air Fryer Accessories, Kitchen Essentials, Stocking Stuffer Gifts",
+                "ratings_count": 69290,
+                "rating": "4.7",
+                "sale_price": "$15.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81bpKKv68-L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Thermometer-Cooking-BACKLIGHT-WATERPROOF-Temperature/dp/B00S93EQUK/ref=zg_bs_g_kitchen_d_sccl_8/132-0910105-0920347?psc=1"
+            },
+            {
+                "rank": 9,
+                "asin": "B07FDJMC9Q",
+                "name": "Ninja Air Fryer, Roast, Bake, Air Fry, Roast, Broil, Reheats, & Dehydrates, 4-in-1, Fries, Frozen Food, Veggies, and Juicy Meat, Less Oil, Easy Meals, Healthy Meals, Compact, 4 QT, Grey, AF101",
+                "ratings_count": 81935,
+                "rating": "4.7",
+                "sale_price": "$89.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71+8uTMDRFL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Ninja-AF101-Fryer-Black-gray/dp/B07FDJMC9Q/ref=zg_bs_g_kitchen_d_sccl_9/132-0910105-0920347?psc=1"
+            },
+            {
+                "rank": 10,
+                "asin": "B0C9ZQ434J",
+                "name": "YARRAMATE Oil Sprayer for Cooking, 2 in 1 Olive Oil Dispenser Bottle for Kitchen, 16oz/470ml Premium Glass Oil Bottle, Food-grade Oil Mister for Air Fryer, Salad, Frying, BBQ (Creamy White)",
+                "ratings_count": 11097,
+                "rating": "4.4",
+                "sale_price": "$8.77",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71FxPbViEyL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/YARRAMATE-Sprayer-Cooking-Dispenser-Food-grade/dp/B0C9ZQ434J/ref=zg_bs_g_kitchen_d_sccl_10/132-0910105-0920347?psc=1"
+            },
+            {
+                "rank": 11,
+                "asin": "B06X9NQ8GX",
+                "name": "Amazon Basics Digital Kitchen Scale with LCD Display, Batteries Included, Weighs up to 11 pounds, Black and Stainless Steel",
+                "ratings_count": 94698,
+                "rating": "4.7",
+                "sale_price": "$11.49",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71mcRfq5GsL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/AmazonBasics-Stainless-Digital-Batteries-Included/dp/B06X9NQ8GX/ref=zg_bs_g_kitchen_d_sccl_11/132-0910105-0920347?psc=1"
+            },
+            {
+                "rank": 12,
+                "asin": "B07XXSYLL8",
+                "name": "ThermoPro TP19H Digital Meat Thermometer for Cooking with Ambidextrous Backlit and Motion Sensing Kitchen Cooking Food Thermometer for BBQ Grill Smoker Oil Fry Candy Instant Read Thermometer",
+                "ratings_count": 42060,
+                "rating": "4.7",
+                "sale_price": "$16.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61Qs4ZJXsXL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/ThermoPro-Thermometer-Grilling-Waterproof-Ambidextrous/dp/B07XXSYLL8/ref=zg_bs_g_kitchen_d_sccl_12/132-0910105-0920347?psc=1"
+            },
+            {
+                "rank": 13,
+                "asin": "B07YP2VH4B",
+                "name": "KitchenAid Classic Multifunction Can Opener / Bottle Opener",
+                "ratings_count": 86389,
+                "rating": "4.6",
+                "sale_price": "$11.94",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51yO+bt+mqL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/KitchenAid-KE199OHOBA-Classic-Multifunction-Opener/dp/B07YP2VH4B/ref=zg_bs_g_kitchen_d_sccl_13/132-0910105-0920347?psc=1"
+            },
+            {
+                "rank": 14,
+                "asin": "B0CJF94M8J",
+                "name": "TrendPlain 16oz Oil Dispenser Bottle for Kitchen - 2 in 1 Olive Oil Dispenser and Oil Sprayer - BPA-Free - 470ml Olive Oil Bottle - Oil Sprayer for Cooking, Kitchen, Salad, Barbecue Black",
+                "ratings_count": 7342,
+                "rating": "4.5",
+                "sale_price": "$8.77",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/717UVXCru6L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/TrendPlain-16oz-Dispenser-Bottle-Kitchen/dp/B0CJF94M8J/ref=zg_bs_g_kitchen_d_sccl_14/132-0910105-0920347?psc=1"
+            },
+            {
+                "rank": 15,
+                "asin": "B0CYC9RKSV",
+                "name": "Egg Topper Cutter Tool Egg Cracker Tool Egg Shell OpenerHard Boiled Egg Peeler Egg Cracker Tool For Eggs Kitchen Gadgets Egg Cracking Tool Handheld Egg Slicer Egg Peeler Tool For Hard Boiled Eggs (3)",
+                "ratings_count": 4,
+                "rating": "5.0",
+                "sale_price": "$8.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71PMudWL4xL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Cracker-Kitchen-Gadgets-Cracking-Handheld/dp/B0CYC9RKSV/ref=zg_bs_g_kitchen_d_sccl_15/132-0910105-0920347?psc=1"
+            },
+            {
+                "rank": 16,
+                "asin": "B08Z6QSWVQ",
+                "name": "THERMOS FUNTAINER Water Bottle with Straw - 12 Ounce, Pokémon - Kids Stainless Steel Vacuum Insulated Water Bottle with Lid",
+                "ratings_count": 68218,
+                "rating": "4.7",
+                "sale_price": "$12.93",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61qBGuZfyiL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/THERMOS-FUNTAINER-Stainless-Insulated-Pokemon/dp/B08Z6QSWVQ/ref=zg_bs_g_kitchen_d_sccl_16/132-0910105-0920347?psc=1"
+            },
+            {
+                "rank": 17,
+                "asin": "B0CRLHDKS1",
+                "name": "BrüMate Era 40 oz Tumbler with Handle and Straw | 100% Leakproof Insulated Tumbler with Lid and Straw | Made of Stainless Steel | Cup Holder Friendly Base | 40oz (Lilac Dusk)",
+                "ratings_count": 346,
+                "rating": "4.7",
+                "sale_price": "$44.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51lVmYVNYhL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Br%C3%BCMate-Leakproof-Insulated-Stainless-Friendly/dp/B0CRLHDKS1/ref=zg_bs_g_kitchen_d_sccl_17/132-0910105-0920347?psc=1"
+            },
+            {
+                "rank": 18,
+                "asin": "B079M8FPTW",
+                "name": "Rubbermaid Brilliance Food Storage Containers, BPA Free, Airtight Lids, Ideal for Lunch, Meal Prep & Leftovers, Set of 5 (3.2 Cup)",
+                "ratings_count": 103117,
+                "rating": "4.7",
+                "sale_price": "$30.16",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/818i3AJdNdL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Rubbermaid-Brilliance-Storage-Container-BPA-free/dp/B079M8FPTW/ref=zg_bs_g_kitchen_d_sccl_18/132-0910105-0920347?psc=1"
+            },
+            {
+                "rank": 19,
+                "asin": "B0B6PLG6G2",
+                "name": "Air Fryer Paper Liners,125Pcs Parchment Paper, Air Fryer Disposable Paper Liner for Microwave, Non-Stick Air Fryer Liners Square Free of Bleach (8IN)",
+                "ratings_count": 22835,
+                "rating": "4.6",
+                "sale_price": "$12.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81esmIBZIJL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Air-Fryer-Paper-Liners-Disposable/dp/B0B6PLG6G2/ref=zg_bs_g_kitchen_d_sccl_19/132-0910105-0920347?psc=1"
+            },
+            {
+                "rank": 20,
+                "asin": "B0BNYR7MQV",
+                "name": "Stanley IceFlow Stainless Steel Tumbler with Straw - Vacuum Insulated Water Bottle for Home, Office or Car Reusable Cup with Straw Leak Resistant Flip Cold for 12 Hrs or Iced for 2 Days (Rose Quartz)",
+                "ratings_count": 36588,
+                "rating": "4.6",
+                "sale_price": "$35.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41Ai-GLQzQL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Stanley-IceFlow-Stainless-Steel-Tumbler/dp/B0BNYR7MQV/ref=zg_bs_g_kitchen_d_sccl_20/132-0910105-0920347?psc=1"
+            },
+            {
+                "rank": 21,
+                "asin": "B0CQVWW5QK",
+                "name": "HydroJug Traveler - 40 oz Water Bottle with Handle & Flip Straw - Fits in Cup Holder, Leak Resistant Tumbler-Reusable Insulated Stainless Steel & Rubber Base - Gifts for Women & Men, Cream",
+                "ratings_count": 4118,
+                "rating": "4.4",
+                "sale_price": "$39.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/31y1VC+JsML._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/HydroJug-Traveler-Resistant-Bottle-Reusable-Insulated/dp/B0CQVWW5QK/ref=zg_bs_g_kitchen_d_sccl_21/132-0910105-0920347?psc=1"
+            },
+            {
+                "rank": 22,
+                "asin": "B07PZF3QS3",
+                "name": "KitchenAid All Purpose Kitchen Shears with Protective Sheath for Everyday use, Dishwasher Safe Stainless Steel Scissors with Comfort Grip, 8.72-Inch, Black",
+                "ratings_count": 77439,
+                "rating": "4.8",
+                "sale_price": "$8.44",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41E7ALk+uXL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/KitchenAid-Protective-Dishwasher-Stainless-8-72-Inch/dp/B07PZF3QS3/ref=zg_bs_g_kitchen_d_sccl_22/132-0910105-0920347?psc=1"
+            },
+            {
+                "rank": 23,
+                "asin": "B08N9Q24M9",
+                "name": "Mueller Pro-Series 10-in-1, 8 Blade Vegetable Chopper, Onion Mincer, Cutter, Dicer, Egg Slicer with Container, French Fry Cutter, Potato Slicer, Home Essentials & Kitchen Gadgets, Salad Chopper",
+                "ratings_count": 30464,
+                "rating": "4.5",
+                "sale_price": "$29.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91Ulir9wKXL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Mueller-Austria-Chopper-Vegetable-Container/dp/B08N9Q24M9/ref=zg_bs_g_kitchen_d_sccl_23/132-0910105-0920347?psc=1"
+            },
+            {
+                "rank": 24,
+                "asin": "B012T634SM",
+                "name": "Magic Bullet Blender, Small, Silver, 11 Piece Set",
+                "ratings_count": 109902,
+                "rating": "4.4",
+                "sale_price": "$39.88",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61w2Tj7r0BL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Magic-Bullet-Blender-Small-Silver/dp/B012T634SM/ref=zg_bs_g_kitchen_d_sccl_24/132-0910105-0920347?psc=1"
+            },
+            {
+                "rank": 25,
+                "asin": "B0D8VH4MKS",
+                "name": "40 oz Tumbler Flip Straw Lid Compatible with Stanley Cup 40oz Tumbler Tumbler Cover Compatible with Stanley Cup Quencher (Cream White, 2 Pack)",
+                "ratings_count": 77,
+                "rating": "3.9",
+                "sale_price": "$17.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61jGGllPckL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Tumbler-Straw-Compatible-Stanley-Quencher/dp/B0D8VH4MKS/ref=zg_bs_g_kitchen_d_sccl_25/132-0910105-0920347?psc=1"
+            },
+            {
+                "rank": 26,
+                "asin": "B08J8GZXKZ",
+                "name": "KitchenAid Ribbed Soft Silicone Oven Mitt Set, 7\"x13\", Milkshake 2 Count",
+                "ratings_count": 6621,
+                "rating": "4.7",
+                "sale_price": "$20.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/617z6N3l59L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/KitchenAid-Ribbed-Soft-Silicone-Milkshake/dp/B08J8GZXKZ/ref=zg_bs_g_kitchen_d_sccl_26/132-0910105-0920347?psc=1"
+            },
+            {
+                "rank": 27,
+                "asin": "B086PHS2V8",
+                "name": "SENSARTE Nonstick Frying Pan Skillet, Swiss Granite Coating Omelette Pan, Healthy Stone Cookware Chef's Pan, PFOA Free (8/9.5/10/11/12.5 Inch) (9.5 Inch)",
+                "ratings_count": 22672,
+                "rating": "4.6",
+                "sale_price": "$23.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61b-tqU2xoL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/SENSARTE-Nonstick-Frying-Pan-Skillet/dp/B086PHS2V8/ref=zg_bs_g_kitchen_d_sccl_27/132-0910105-0920347?psc=1"
+            },
+            {
+                "rank": 28,
+                "asin": "B0C5DBMYZF",
+                "name": "REALINN Under Sink Organizer and Storage, 2 Pack Pull Out Cabinet Organizer Slide Out Sink Shelf Cabinet Storage Shelves, Under Sink Storage for Kitchen Bathroom Cabinet",
+                "ratings_count": 8330,
+                "rating": "4.4",
+                "sale_price": "$45.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71WSQb57yRL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Organizer-Storage-Cabinet-Shelves-Bathroom/dp/B0C5DBMYZF/ref=zg_bs_g_kitchen_d_sccl_28/132-0910105-0920347?psc=1"
+            },
+            {
+                "rank": 29,
+                "asin": "B07FVQLBL3",
+                "name": "Kitchen Mama Auto Electric Can Opener: Open Your Cans with A Simple Press of Button - Automatic, Hands Free, Smooth Edge, Food-Safe, Battery Operated, YES YOU CAN (Red)",
+                "ratings_count": 105460,
+                "rating": "4.2",
+                "sale_price": "$29.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61eqNRPW8mL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Kitchen-Mama-Automatic-Electric-Opener/dp/B07FVQLBL3/ref=zg_bs_g_kitchen_d_sccl_29/132-0910105-0920347?psc=1"
+            },
+            {
+                "rank": 30,
+                "asin": "B09NXMDPS1",
+                "name": "The Original Gorilla Grip Heavy Duty Stainless Steel Smooth Edge Manual Can Opener and Bottle Openers, Soft Handle, Rust Proof Oversized Handheld Easy Turn Knob, Multifunctional Kitchen Tool, Black",
+                "ratings_count": 21253,
+                "rating": "4.4",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51Hy3m8JdgL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Gorilla-Grip-Handheld-Comfortable-Oversized/dp/B09NXMDPS1/ref=zg_bs_g_kitchen_d_sccl_30/132-0910105-0920347?psc=1"
+            },
+            {
+                "rank": 31,
+                "asin": "B07WMQP4SF",
+                "name": "Homaxy 100% Cotton Waffle Weave Kitchen Dish Cloths, Ultra Soft Absorbent Quick Drying Dish Towels, 12x12 Inches, 6-Pack, Dark Grey",
+                "ratings_count": 29972,
+                "rating": "4.5",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81YlKeBDwML._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Homaxy-Cotton-Waffle-Kitchen-Absorbent/dp/B07WMQP4SF/ref=zg_bs_g_kitchen_d_sccl_31/132-0522728-8629165?psc=1"
+            },
+            {
+                "rank": 32,
+                "asin": "B00006JSUA",
+                "name": "Lodge 10.25 Inch Cast Iron Pre-Seasoned Skillet – Signature Teardrop Handle - Use in the Oven, on the Stove, on the Grill, or Over a Campfire, Black",
+                "ratings_count": 121312,
+                "rating": "4.7",
+                "sale_price": "$19.90",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51hSkgFqVqL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Lodge-Skillet-Pre-Seasoned-Ready-Stove/dp/B00006JSUA/ref=zg_bs_g_kitchen_d_sccl_32/132-0522728-8629165?psc=1"
+            },
+            {
+                "rank": 33,
+                "asin": "B00DDXWFY0",
+                "name": "DASH Rapid Egg Cooker: 6 Egg Capacity Electric Egg Cooker for Hard Boiled Eggs, Poached Eggs, Scrambled Eggs, or Omelets with Auto Shut Off Feature - Black",
+                "ratings_count": 124939,
+                "rating": "4.7",
+                "sale_price": "$18.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61pF6D-ulVL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Dash-Rapid-Egg-Cooker-Scrambled/dp/B00DDXWFY0/ref=zg_bs_g_kitchen_d_sccl_33/132-0522728-8629165?psc=1"
+            },
+            {
+                "rank": 34,
+                "asin": "B0C8VXLW37",
+                "name": "YETI Rambler 20 oz Stainless Steel Vacuum Insulated Tumbler w/MagSlider Lid",
+                "ratings_count": 1381,
+                "rating": "4.8",
+                "sale_price": "$35.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61xFTk0T7fL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/YETI-Rambler-Stainless-Insulated-MagSlider/dp/B0C8VXLW37/ref=zg_bs_g_kitchen_d_sccl_34/132-0522728-8629165?psc=1"
+            },
+            {
+                "rank": 35,
+                "asin": "B01M9I779L",
+                "name": "DASH Mini Waffle Maker - 4” Waffle Mold, Nonstick Waffle Iron with Quick Heat-Up, PTFE Nonstick Surface - Perfect Mini Waffle Maker for Kids and Families, Just Add Batter (Aqua)",
+                "ratings_count": 241216,
+                "rating": "4.6",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71Ejqyr1fQL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/DASH-Mini-Waffle-Maker-Nonstick/dp/B01M9I779L/ref=zg_bs_g_kitchen_d_sccl_35/132-0522728-8629165?psc=1"
+            },
+            {
+                "rank": 36,
+                "asin": "B07D15V7T3",
+                "name": "Farberware 5211438 Professional Heat Resistant Nylon Meat and Potato Masher, Safe for Non-Stick Cookware, 10-Inch, Black",
+                "ratings_count": 54213,
+                "rating": "4.7",
+                "sale_price": "$6.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/518Siu2n+AL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Farberware-5211438-Professional-Resistant-Masher-Safe/dp/B07D15V7T3/ref=zg_bs_g_kitchen_d_sccl_36/132-0522728-8629165?psc=1"
+            },
+            {
+                "rank": 37,
+                "asin": "B085NDYY1P",
+                "name": "Sweet Alice Gravity Electric Pepper and Salt Grinder Set, Adjustable Coarseness, Battery Powered with LED Light, One Hand Automatic Operation, Stainless Steel Black, 2 Pack",
+                "ratings_count": 33811,
+                "rating": "4.2",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71Ozh8r6hOL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Adjustable-Coarseness-Automatic-Operation-Stainless/dp/B085NDYY1P/ref=zg_bs_g_kitchen_d_sccl_37/132-0522728-8629165?psc=1"
+            },
+            {
+                "rank": 38,
+                "asin": "B08FLKHG8J",
+                "name": "iBayam Kitchen Scissors All Purpose Heavy Duty Meat Poultry Shears, Dishwasher Safe Food Cooking Scissors Stainless Steel Utility Scissors, 2-Pack (Black Red, Black Gray)",
+                "ratings_count": 50889,
+                "rating": "4.8",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/612eZSoIGeL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/iBayam-Scissors-Dishwasher-Multipurpose-Stainless/dp/B08FLKHG8J/ref=zg_bs_g_kitchen_d_sccl_38/132-0522728-8629165?psc=1"
+            },
+            {
+                "rank": 39,
+                "asin": "B0CSZ7WBYW",
+                "name": "Ninja Air Fryer Pro 4-in-1 with 5 QT Capacity, Air Fry, Roast, Reheat, Dehydrate, Air Crisp Technology with 400F for hot, crispy results in just minutes, Nonstick Basket & Crisper Plate, Grey, AF141",
+                "ratings_count": 1449,
+                "rating": "4.7",
+                "sale_price": "$89.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71QwoGmcfUL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Ninja-Capacity-Dehydrate-Technology-AF141/dp/B0CSZ7WBYW/ref=zg_bs_g_kitchen_d_sccl_39/132-0522728-8629165?psc=1"
+            },
+            {
+                "rank": 40,
+                "asin": "B07RPRVXNX",
+                "name": "Simple Modern Kids Water Bottle with Straw Lid | Insulated Stainless Steel Reusable Tumbler for Toddlers, School | Summit Collection | 14oz, Under Construction",
+                "ratings_count": 13926,
+                "rating": "4.7",
+                "sale_price": "$17.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61JjZJtA7jL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Simple-Modern-Summit-Water-Bottles/dp/B07RPRVXNX/ref=zg_bs_g_kitchen_d_sccl_40/132-0522728-8629165?psc=1"
+            },
+            {
+                "rank": 41,
+                "asin": "B072P11H8L",
+                "name": "Amazon Basics 2 Slice Extra Wide Slot Toaster with Bagel Function, Removable Crumb Tray, 6 Browning Settings, Frozen Food Setting, Cancel Button, 900W, Black & Silver.",
+                "ratings_count": 33578,
+                "rating": "4.3",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71ZauD8ClBL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-Basics-Extra-Wide-Toaster-Settings/dp/B072P11H8L/ref=zg_bs_g_kitchen_d_sccl_41/132-0522728-8629165?psc=1"
+            },
+            {
+                "rank": 42,
+                "asin": "B007WQ9YNO",
+                "name": "AROMA Digital Rice Cooker, 4-Cup (Uncooked) / 8-Cup (Cooked), Steamer, Grain Cooker, Multicooker, 2 Qt, Stainless Steel Exterior, ARC-914SBD",
+                "ratings_count": 60594,
+                "rating": "4.5",
+                "sale_price": "$29.92",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71-U1rX30iL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Aroma-Housewares-ARC-914SBD-Cool-Touch-Stainless/dp/B007WQ9YNO/ref=zg_bs_g_kitchen_d_sccl_42/132-0522728-8629165?psc=1"
+            },
+            {
+                "rank": 43,
+                "asin": "B09WF796VW",
+                "name": "Powerful Immersion Blender, Electric Hand Blender 500 Watt with Turbo Mode, Detachable Base. Handheld Kitchen Gadget Blender Stick for Soup, Smoothie, Puree, Baby Food, 304 Stainless Steel Blades",
+                "ratings_count": 8741,
+                "rating": "4.5",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81A6emwYQGL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Powerful-Immersion-Electric-Detachable-Stainless/dp/B09WF796VW/ref=zg_bs_g_kitchen_d_sccl_43/132-0522728-8629165?psc=1"
+            },
+            {
+                "rank": 44,
+                "asin": "B0B6N7CR8C",
+                "name": "Lifewit Silverware Drawer Organizer, Expandable Utensil Tray for Kitchen, BPA Free Flatware and Cutlery Holder, Adjustable Plastic Storage for Spoons Forks Knives, Large, Black",
+                "ratings_count": 12679,
+                "rating": "4.7",
+                "sale_price": "$18.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/710k5CCqHhL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Lifewit-Silverware-Organizer-Expandable-Adjustable/dp/B0B6N7CR8C/ref=zg_bs_g_kitchen_d_sccl_44/132-0522728-8629165?psc=1"
+            },
+            {
+                "rank": 45,
+                "asin": "B0BDDX27WT",
+                "name": "LOVE MOMENT Electric Mason Jar Vacuum Sealer Kit for Wide Mouth and Regular Mouth Mason Jars",
+                "ratings_count": 8590,
+                "rating": "4.5",
+                "sale_price": "$28.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61yY35w8IhL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Electric-Mason-Vacuum-Sealer-Regular/dp/B0BDDX27WT/ref=zg_bs_g_kitchen_d_sccl_45/132-0522728-8629165?psc=1"
+            },
+            {
+                "rank": 46,
+                "asin": "B0C3J421WK",
+                "name": "Zulay Rotary Cheese Grater 5 Blade Cheese Shredder - Manual Hand Crank Cheese Grater With Reinforced Suction & 5 Interchangeable Drums - Easy to Use, Vegetable Chopper Round Mandoline Slicer - Black",
+                "ratings_count": 3096,
+                "rating": "4.4",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81UjQY9wypL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Rotary-Cheese-Grater-Upgraded-Suction/dp/B0C3J421WK/ref=zg_bs_g_kitchen_d_sccl_46/132-0522728-8629165?psc=1"
+            },
+            {
+                "rank": 47,
+                "asin": "B09BDGQYW5",
+                "name": "Crock-Pot 20-Ounce Electric Lunch Box, Portable Food Warmer, Blush Pink | Perfect for Travel, Car, On-the-Go | Spill-Free, Dishwasher-Safe",
+                "ratings_count": 7888,
+                "rating": "4.6",
+                "sale_price": "$34.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71JqPgwUuIL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Crockpot-Electric-Portable-Warmer-20-Ounce/dp/B09BDGQYW5/ref=zg_bs_g_kitchen_d_sccl_47/132-0522728-8629165?psc=1"
+            },
+            {
+                "rank": 48,
+                "asin": "B0CGMFGX87",
+                "name": "Chefman 12-Quart 6-in-1 Air Fryer Oven with Digital Timer, Touchscreen, and 12 Presets - Family Size Countertop Convection Oven, Dishwasher-Safe Parts",
+                "ratings_count": 40188,
+                "rating": "4.3",
+                "sale_price": "$89.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51UxNtqlxYL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Chefman-12-Quart-Digital-Touchscreen-Presets/dp/B0CGMFGX87/ref=zg_bs_g_kitchen_d_sccl_48/132-0522728-8629165?psc=1"
+            },
+            {
+                "rank": 49,
+                "asin": "B08L37BPBN",
+                "name": "Paper Towel Holders for Kitchen,Paper Towels Bulk- Self-Adhesive Under Cabinet,Both Available in Adhesive and Screws,Stainless Steel",
+                "ratings_count": 28559,
+                "rating": "4.4",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51C1-nOf1nL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Holders-Self-Adhesive-Available-Adhesive-Stainless/dp/B08L37BPBN/ref=zg_bs_g_kitchen_d_sccl_49/132-0522728-8629165?psc=1"
+            },
+            {
+                "rank": 50,
+                "asin": "B08B115T54",
+                "name": "Bentgo Kids Prints Leak-Proof, 5-Compartment Bento-Style Kids Lunch Box - Ideal Portion Sizes for Ages 3-7, Durable, Drop-Proof, Dishwasher Safe, & Made with BPA-Free Materials (Dinosaur)",
+                "ratings_count": 60764,
+                "rating": "4.7",
+                "sale_price": "$29.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81GkPhNVhHL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Bentgo-Leak-Proof-5-Compartment-Bento-Style-Lunch/dp/B08B115T54/ref=zg_bs_g_kitchen_d_sccl_50/132-0522728-8629165?psc=1"
+            }
+        ]
+    }
+}

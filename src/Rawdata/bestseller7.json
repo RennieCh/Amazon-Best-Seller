@@ -1,0 +1,619 @@
+{
+    "200": {
+        "category": "Amazon Best SellersAutomotive",
+        "category_hierarchy": [
+            {
+                "name": "Any Department",
+                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_automotive_0_1"
+            },
+            {
+                "name": "Automotive",
+                "url": "https://www.amazon.com/Best-Sellers-Automotive/zgbs/automotive/ref=zg_bs_nav_automotive_0?pg=1"
+            }
+        ],
+        "child_categories": [
+            {
+                "category": "Car Care",
+                "url": "https://www.amazon.com/Best-Sellers-Automotive-Car-Care/zgbs/automotive/15718271/ref=zg_bs_nav_automotive_1"
+            },
+            {
+                "category": "Exterior Accessories",
+                "url": "https://www.amazon.com/Best-Sellers-Automotive-Automotive-Exterior-Accessories/zgbs/automotive/15857511/ref=zg_bs_nav_automotive_1"
+            },
+            {
+                "category": "Interior Accessories",
+                "url": "https://www.amazon.com/Best-Sellers-Automotive-Automotive-Interior-Accessories/zgbs/automotive/15857501/ref=zg_bs_nav_automotive_1"
+            },
+            {
+                "category": "Light & Lighting Accessories",
+                "url": "https://www.amazon.com/Best-Sellers-Automotive-Lights-Bulbs-Indicators/zgbs/automotive/15736321/ref=zg_bs_nav_automotive_1"
+            },
+            {
+                "category": "Motorcycle & ATV",
+                "url": "https://www.amazon.com/Best-Sellers-Automotive-Motorcycle-Powersports/zgbs/automotive/346333011/ref=zg_bs_nav_automotive_1"
+            },
+            {
+                "category": "Oils & Fluids",
+                "url": "https://www.amazon.com/Best-Sellers-Automotive-Oils-Fluids/zgbs/automotive/15718791/ref=zg_bs_nav_automotive_1"
+            },
+            {
+                "category": "Paint & Paint Supplies",
+                "url": "https://www.amazon.com/Best-Sellers-Automotive-Automotive-Paint-Paint-Supplies/zgbs/automotive/13591416011/ref=zg_bs_nav_automotive_1"
+            },
+            {
+                "category": "Performance Parts & Accessories",
+                "url": "https://www.amazon.com/Best-Sellers-Automotive-Automotive-Performance-Parts-Accessories/zgbs/automotive/15710351/ref=zg_bs_nav_automotive_1"
+            },
+            {
+                "category": "RV Parts & Accessories",
+                "url": "https://www.amazon.com/Best-Sellers-Automotive-RV-Parts-Accessories/zgbs/automotive/2258019011/ref=zg_bs_nav_automotive_1"
+            },
+            {
+                "category": "Replacement Parts",
+                "url": "https://www.amazon.com/Best-Sellers-Automotive-Automotive-Replacement-Parts/zgbs/automotive/15719731/ref=zg_bs_nav_automotive_1"
+            },
+            {
+                "category": "Tools & Equipment",
+                "url": "https://www.amazon.com/Best-Sellers-Automotive-Automotive-Tools-Equipment/zgbs/automotive/15706941/ref=zg_bs_nav_automotive_1"
+            },
+            {
+                "category": "Wheels & Tires",
+                "url": "https://www.amazon.com/Best-Sellers-Automotive-Automotive-Tires-Wheels/zgbs/automotive/15706571/ref=zg_bs_nav_automotive_1"
+            }
+        ],
+        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/Best-Sellers-Automotive/zgbs/automotive/ref%3Dzg_bs_pg_2_automotive%3F_encoding%3DUTF8%26pg%3D2",
+        "url": "https://www.amazon.com/Best-Sellers-Automotive/zgbs/automotive/ref=zg_bs_nav_automotive_0?pg=1",
+        "product_listings": [
+            {
+                "rank": 1,
+                "asin": "B0CHS69JW3",
+                "name": "Qifutan Car Phone Holder Mount Phone Mount for Car Windshield Dashboard Air Vent Universal Hands Free Automobile Cell Phone Holder Fit for iPhone Smartphone Carbon Fiber",
+                "ratings_count": 16723,
+                "rating": "4.3",
+                "sale_price": "$11.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71OjC2Gpb4L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Qifutan-Windshield-Dashboard-Automobile-Smartphone/dp/B0CHS69JW3/ref=zg_bs_g_automotive_d_sccl_1/144-6409061-9755339?psc=1"
+            },
+            {
+                "rank": 2,
+                "asin": "B084CT24NM",
+                "name": "Rain-X 810165 Latitude 2-In-1 Water Repellent Wiper Blades, 22 Inch Windshield Wipers (Pack Of 2), Automotive Replacement Windshield Wiper Blades With Patented Rain-X Water Repellency Formula",
+                "ratings_count": 95579,
+                "rating": "4.4",
+                "sale_price": "$29.43",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71ZDqv1L5aL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Rain-X-Latitude-Water-Repellency-Wiper/dp/B084CT24NM/ref=zg_bs_g_automotive_d_sccl_2/144-6409061-9755339?psc=1"
+            },
+            {
+                "rank": 3,
+                "asin": "B0042NWOLY",
+                "name": "CRC Heavy Duty Silicone Lubricant, 11 Wt Oz, Clear Colorless Liquid",
+                "ratings_count": 3999,
+                "rating": "4.7",
+                "sale_price": "$2.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/618NRRNPfdL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/CRC-Heavy-Duty-Silicone-Lubricant/dp/B0042NWOLY/ref=zg_bs_g_automotive_d_sccl_3/144-6409061-9755339?psc=1"
+            },
+            {
+                "rank": 4,
+                "asin": "B07QR4Q42L",
+                "name": "AstroAI Tire Inflator Portable Air Compressor Tire Air Pump for Car Tires - Car Accessories, 12V DC Auto Pump with Digital Pressure Gauge, Emergency LED Light for Bicycle, Balloons, Yellow",
+                "ratings_count": 92058,
+                "rating": "4.5",
+                "sale_price": "$31.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/716tSu7xkqL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/AstroAI-Portable-Compressor-Inflator-Motorcycle/dp/B07QR4Q42L/ref=zg_bs_g_automotive_d_sccl_4/144-6409061-9755339?psc=1"
+            },
+            {
+                "rank": 5,
+                "asin": "B015TKUPIC",
+                "name": "NOCO Boost Plus GB40 1000A UltraSafe Car Battery Jump Starter, 12V Battery Pack, Battery Booster, Jump Box, Portable Charger and Jumper Cables for 6.0L Gasoline and 3.0L Diesel Engines",
+                "ratings_count": 107164,
+                "rating": "4.6",
+                "sale_price": "$99.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71aF7GY0cEL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/NOCO-GB40-UltraSafe-Lithium-Starter/dp/B015TKUPIC/ref=zg_bs_g_automotive_d_sccl_5/144-6409061-9755339?psc=1"
+            },
+            {
+                "rank": 6,
+                "asin": "B08BRJHJF9",
+                "name": "USANOOKS Microfiber Cleaning Cloth Grey - 12 Packs 12.5\"x12.5\" - High Performance - 1200 Washes, Ultra Absorbent Microfiber Towel Weave Grime & Liquid for Streak-Free Mirror Shine - Car Washing Cloth",
+                "ratings_count": 11554,
+                "rating": "4.7",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/A1U4ZA-OJmS._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Microfiber-Cleaning-Cloth-Performance-Washes/dp/B08BRJHJF9/ref=zg_bs_g_automotive_d_sccl_6/144-6409061-9755339?psc=1"
+            },
+            {
+                "rank": 7,
+                "asin": "B081T7N948",
+                "name": "PULIDIKI Car Cleaning Gel Universal Detailing Kit Automotive Dust Car Crevice Cleaner Slime Auto Air Vent Interior Detail Removal for Car Putty Cleaning Keyboard Cleaner Car Accessories Blue",
+                "ratings_count": 89388,
+                "rating": "4.1",
+                "sale_price": "$6.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71YLxhnPUxL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Cleaning-Universal-Detailing-Automotive-Interior/dp/B081T7N948/ref=zg_bs_g_automotive_d_sccl_7/144-6409061-9755339?psc=1"
+            },
+            {
+                "rank": 8,
+                "asin": "B0C1HCCK2T",
+                "name": "Drift Car Air Freshener - Wood Air Freshener - Car Odor Eliminator - Amber Scent Starter Kit",
+                "ratings_count": 1937,
+                "rating": "3.6",
+                "sale_price": "$12.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61It9SZtSQL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Drift-Car-Air-Freshener-Eliminator/dp/B0C1HCCK2T/ref=zg_bs_g_automotive_d_sccl_8/144-6409061-9755339?psc=1"
+            },
+            {
+                "rank": 9,
+                "asin": "B00I4E91GI",
+                "name": "Mobil 1 Advanced Full Synthetic Motor Oil 5W-30, 5 Quart",
+                "ratings_count": 41996,
+                "rating": "4.8",
+                "sale_price": "$24.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61xYEiIn90L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Mobil-120764-Synthetic-Motor-5W-30/dp/B00I4E91GI/ref=zg_bs_g_automotive_d_sccl_9/144-6409061-9755339?psc=1"
+            },
+            {
+                "rank": 10,
+                "asin": "B071ZTPRJL",
+                "name": "Chemical Guys SPI22016 Total Interior Cleaner and Protectant, Safe for Cars, Trucks, SUVs, Jeeps, Motorcycles, RVs & More, 16 fl oz",
+                "ratings_count": 40217,
+                "rating": "4.6",
+                "sale_price": "$11.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71KxIoxGahL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Chemical-Guys-SPI22016-Protectant-Fluid_Ounces/dp/B071ZTPRJL/ref=zg_bs_g_automotive_d_sccl_10/144-6409061-9755339?psc=1"
+            },
+            {
+                "rank": 11,
+                "asin": "B084RQKLV8",
+                "name": "CERAKOTE® Ceramic Headlight Restoration Kit – Guaranteed To Last As Long As You Own Your Vehicle – Brings Headlights back to Like New Condition - 3 Easy Steps - No Power Tools Required",
+                "ratings_count": 45876,
+                "rating": "4.5",
+                "sale_price": "$16.88",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/718rvpMhDzL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/CERAKOTE-Ceramic-Headlight-Restoration-Kit/dp/B084RQKLV8/ref=zg_bs_g_automotive_d_sccl_11/144-6409061-9755339?psc=1"
+            },
+            {
+                "rank": 12,
+                "asin": "B000B68V6I",
+                "name": "STA-BIL Storage Fuel Stabilizer - Keeps Fuel Fresh for 24 Months - Prevents Corrosion - Gasoline Treatment that Protects Fuel System - Fuel Saver - Treats 80 Gallons - 32 Fl. Oz. (22287)",
+                "ratings_count": 30672,
+                "rating": "4.8",
+                "sale_price": "$13.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61vXXA6ZaXS._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/STA-BIL-22214-Fuel-Stabilizer-Fluid_Ounces/dp/B000B68V6I/ref=zg_bs_g_automotive_d_sccl_12/144-6409061-9755339?psc=1"
+            },
+            {
+                "rank": 13,
+                "asin": "B084CZZYB5",
+                "name": "Rain-X 820147 WeatherBeater, 26\" and 16\" Windshield Wiper Blades - All-Season OEM Quality, Conventional, Vehicle Specific Fit, Pack of 2",
+                "ratings_count": 55331,
+                "rating": "4.5",
+                "sale_price": "$22.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71OXINAX6-L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Rain-X-WeatherBeater-Wiper-Blade-Combo/dp/B084CZZYB5/ref=zg_bs_g_automotive_d_sccl_13/144-6409061-9755339?psc=1"
+            },
+            {
+                "rank": 14,
+                "asin": "B0BZZDPPRX",
+                "name": "All-Purpose Stainless Steel Shower Squeegee for Shower Glass Door with 2 Adhesive Hooks, Bathroom Cleaner Tool Household Window Mirror Squeegee , Cleaning Tile Wall, Car, 10 Inch Silver",
+                "ratings_count": 7710,
+                "rating": "4.6",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/5102UAfkhjL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/All-Purpose-Stainless-Squeegee-Adhesive-Household/dp/B0BZZDPPRX/ref=zg_bs_g_automotive_d_sccl_14/144-6409061-9755339?psc=1"
+            },
+            {
+                "rank": 15,
+                "asin": "B009FUF6DM",
+                "name": "Amazon Basics Microfiber Cleaning Cloths, Non-Abrasive, Reusable and Washable, Pack of 24, Blue/White/Yellow, 16\" x 12\"",
+                "ratings_count": 55602,
+                "rating": "4.7",
+                "sale_price": "$9.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81GwKOPUXsL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/AmazonBasics-CW190423-24-Pack-Microfiber-Cleaning/dp/B009FUF6DM/ref=zg_bs_g_automotive_d_sccl_15/144-6409061-9755339?psc=1"
+            },
+            {
+                "rank": 16,
+                "asin": "B07VCVCTHC",
+                "name": "BOSCH 22A22B ICON Beam Wiper Blades - Driver and Passenger Side - Set of 2 Blades (22A & 22B)",
+                "ratings_count": 25839,
+                "rating": "4.6",
+                "sale_price": "$48.59",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71Wm2aTYp5L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Bosch-Wiper-Blades-Chevrolet-Frustration/dp/B07VCVCTHC/ref=zg_bs_g_automotive_d_sccl_16/144-6409061-9755339?psc=1"
+            },
+            {
+                "rank": 17,
+                "asin": "B07W46BX31",
+                "name": "NOCO GENIUS1, 1A Smart Car Battery Charger, 6V and 12V Automotive Charger, Battery Maintainer, Trickle Charger, Float Charger and Desulfator for Motorcycle, ATV, Lithium and Deep Cycle Batteries",
+                "ratings_count": 51937,
+                "rating": "4.5",
+                "sale_price": "$29.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81xccMDEjkL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/NOCO-GENIUS1-Fully-Automatic-Temperature-Compensation/dp/B07W46BX31/ref=zg_bs_g_automotive_d_sccl_17/144-6409061-9755339?psc=1"
+            },
+            {
+                "rank": 18,
+                "asin": "B06X9L4WBQ",
+                "name": "CKAuto Tire Valve Stem Caps, Black, 4 pcs/Pack, Anodized Aluminum Tire Valve Cap Set, Corrosion Resistant, Universal Stem Covers for Cars Trucks Motorcycles SUVs and Bikes",
+                "ratings_count": 24598,
+                "rating": "4.7",
+                "sale_price": "$5.49",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71RRj6kPMbL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Anodized-Corrosion-Resistant-Universal-Motorcycles/dp/B06X9L4WBQ/ref=zg_bs_g_automotive_d_sccl_18/144-6409061-9755339?psc=1"
+            },
+            {
+                "rank": 19,
+                "asin": "B07L6FJGR4",
+                "name": "GOOACC - GRC-33 240PCS Bumper Retainer Clips Car Plastic Rivets Fasteners Push Retainer Kit Most Popular Sizes Auto Push Pin Rivets Set -Door Trim Panel Fender Clips for GM Ford Toyota Honda Chrysler",
+                "ratings_count": 68220,
+                "rating": "4.6",
+                "sale_price": "$12.85",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71rDWpcgQQL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/GOOACC-Retainer-Plastic-Fasteners-Chrysler/dp/B07L6FJGR4/ref=zg_bs_g_automotive_d_sccl_19/144-6409061-9755339?psc=1"
+            },
+            {
+                "rank": 20,
+                "asin": "B01A5TLGJ4",
+                "name": "Motor Trend FlexTough Floor Mats for Cars, Deep Dish All-Weather Mats, Waterproof Trim-To Fit Automotive Floor Mats for Cars Trucks SUV, Universal Floor Liner Car Accessories, Black, Full Set",
+                "ratings_count": 116432,
+                "rating": "4.3",
+                "sale_price": "$25.02",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71tAwSrkwfL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Motor-Trend-MT-923-BK-FlexTough-Contour/dp/B01A5TLGJ4/ref=zg_bs_g_automotive_d_sccl_20/144-6409061-9755339?psc=1"
+            },
+            {
+                "rank": 21,
+                "asin": "B01EBDV9BU",
+                "name": "Everlasting Comfort Doctor Recommended Memory Foam Seat Cushions for Office Chairs - HSA FSA Eligible Tailbone Pain Relief Cushion, Sciatica & Back Support, Office Chair Cushion & Car Seat Cushion",
+                "ratings_count": 135609,
+                "rating": "4.3",
+                "sale_price": "$36.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81BFcFqpZpL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Seat-Cushion-Office-Chair-Desk/dp/B01EBDV9BU/ref=zg_bs_g_automotive_d_sccl_21/144-6409061-9755339?psc=1"
+            },
+            {
+                "rank": 22,
+                "asin": "B01G5EA74I",
+                "name": "Ancel AD310 Classic Enhanced Universal OBD II Scanner Car Engine Fault Code Reader CAN Diagnostic Scan Tool, Read and Clear Error Codes for 1996 or Newer OBD2 Protocol Vehicle (Black)",
+                "ratings_count": 48987,
+                "rating": "4.6",
+                "sale_price": "$26.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61KElcCN4BL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/ANCEL-AD310-Enhanced-Universal-Diagnostic/dp/B01G5EA74I/ref=zg_bs_g_automotive_d_sccl_22/144-6409061-9755339?psc=1"
+            },
+            {
+                "rank": 23,
+                "asin": "B071RKWXKV",
+                "name": "Chemical Guys CWS_402_64 Mr. Pink Foaming Car Wash Soap (Works with Foam Cannons, Foam Guns or Bucket Washes) Safe for Cars, Trucks, Motorcycles, RVs & More, 64 fl oz, Candy Scent",
+                "ratings_count": 50422,
+                "rating": "4.6",
+                "sale_price": "$24.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71RImpfl6+L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Chemical-Guys-CWS_402_64-Car-Wash-Soap/dp/B071RKWXKV/ref=zg_bs_g_automotive_d_sccl_23/144-6409061-9755339?psc=1"
+            },
+            {
+                "rank": 24,
+                "asin": "B00119XYFM",
+                "name": "Weiman Leather Cleaner & Conditioner Wipes With UV Protection, Prevent Cracking Or Fading Of Leather Couches, Car Seats, Shoes, Purses - 30 ct",
+                "ratings_count": 11863,
+                "rating": "4.5",
+                "sale_price": "$4.79",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71tYXR58+BL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Weiman-Leather-Wipes-Condition-Protection/dp/B00119XYFM/ref=zg_bs_g_automotive_d_sccl_24/144-6409061-9755339?psc=1"
+            },
+            {
+                "rank": 25,
+                "asin": "B0BDLC7RVB",
+                "name": "LISEN 48W Car Phone Charger USB C, Cigarette Lighter Adapter, Car Accessories for iPhone, USB C Car Charger Adapter USBC Type C 12v, Fit for iPhone 16, 15, 14, 13 Samsung Google iPad Android",
+                "ratings_count": 7281,
+                "rating": "4.6",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71WuW-IcDLL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Charger-Cigarette-Lighter-LISEN-Compatible/dp/B0BDLC7RVB/ref=zg_bs_g_automotive_d_sccl_25/144-6409061-9755339?psc=1"
+            },
+            {
+                "rank": 26,
+                "asin": "B00AM1Z67O",
+                "name": "Valvoline High Mileage with MaxLife Technology SAE 5W-30 Synthetic Blend Motor Oil 5 QT",
+                "ratings_count": 29705,
+                "rating": "4.8",
+                "sale_price": "$19.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61At-j4kppL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Valvoline-782256-Automotive-Accessories-Fluid_Ounces/dp/B00AM1Z67O/ref=zg_bs_g_automotive_d_sccl_26/144-6409061-9755339?psc=1"
+            },
+            {
+                "rank": 27,
+                "asin": "B0006IX87S",
+                "name": "Camco TastePURE RV Water Filter - New & Advanced RV Inline Water Filter with Flexible Hose Protector - GAC & KDF Water Filter - Made in USA - Camping Essentials for Fresh Drinking Water (40043)",
+                "ratings_count": 51223,
+                "rating": "4.7",
+                "sale_price": "$19.77",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81Y4uxKkskL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Camco-TastePURE-Flexible-Protector-40043/dp/B0006IX87S/ref=zg_bs_g_automotive_d_sccl_27/144-6409061-9755339?psc=1"
+            },
+            {
+                "rank": 28,
+                "asin": "B003IS3HV0",
+                "name": "Leather Honey Leather Conditioner, Non-Toxic & Made in the USA Since 1968. Protect & Restore Leather Couches & Furniture, Car Interiors, Boots, Jackets, Shoes, Bags & Accessories. Safe for Any Color",
+                "ratings_count": 59669,
+                "rating": "4.5",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51IMOMxH1NL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Leather-Honey-Conditioner-Furniture-Accessories/dp/B003IS3HV0/ref=zg_bs_g_automotive_d_sccl_28/144-6409061-9755339?psc=1"
+            },
+            {
+                "rank": 29,
+                "asin": "B002J7VX4Y",
+                "name": "Chemical Guys AIR_101_16 New Car Smell Premium Air Freshener and Odor Eliminator, Long-Lasting Scent, Great for Cars, Trucks, SUVs, RVs & More, 16 fl oz",
+                "ratings_count": 48485,
+                "rating": "4.0",
+                "sale_price": "$10.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61wcus6dlyL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Chemical-Guys-AIR_101_16-Freshener-Eliminator/dp/B002J7VX4Y/ref=zg_bs_g_automotive_d_sccl_29/144-6409061-9755339?psc=1"
+            },
+            {
+                "rank": 30,
+                "asin": "B08C7K99WW",
+                "name": "AstroAI Windshield Cleaner, Car Windshield Cleaning Tool Inside with 4 Reusable and Washable Microfiber Pads and Extendable Handle Auto Glass Wiper Kit, Blue",
+                "ratings_count": 18032,
+                "rating": "4.3",
+                "sale_price": "$15.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/713FOFap4WL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/AstroAI-Microfiber-Windshield-Telescopic-Extendable/dp/B08C7K99WW/ref=zg_bs_g_automotive_d_sccl_30/144-6409061-9755339?psc=1"
+            },
+            {
+                "rank": 31,
+                "asin": "B01FKQVZOS",
+                "name": "BDK PolyPro Car Seat Covers Full Set in Charcoal on Black – Front and Rear Split Bench for Cars, Easy to Install Cover Set, Accessories Auto Trucks Van SUV",
+                "ratings_count": 106303,
+                "rating": "3.7",
+                "sale_price": "$23.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61S7LwAV00L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/BDK-OS309CC-Polypro-Two-Tone-Charcoal/dp/B01FKQVZOS/ref=zg_bs_g_automotive_d_sccl_31/136-8886488-9357069?psc=1"
+            },
+            {
+                "rank": 32,
+                "asin": "B085DMV7XD",
+                "name": "Lamicall Bike Phone Holder, Motorcycle Phone Mount - Motorcycle Handlebar Cell Phone Clamp, Scooter Phone Clip for iPhone 15 Pro Max/Plus, 14 Pro Max, S9, S10 and More 4.7\" to 6.8\" Smartphones",
+                "ratings_count": 54984,
+                "rating": "4.5",
+                "sale_price": "$18.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71kw0RENMVL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Phone-Holder-Mount-Bike-Handlebar/dp/B085DMV7XD/ref=zg_bs_g_automotive_d_sccl_32/136-8886488-9357069?psc=1"
+            },
+            {
+                "rank": 33,
+                "asin": "B0000AXRH5",
+                "name": "FloTool 10701 Spill Saver Multi-Purpose Funnel, Assorted Color",
+                "ratings_count": 6289,
+                "rating": "4.6",
+                "sale_price": "$0.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/31YqTrxUfJL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/FloTool-10701-Spill-Multi-Purpose-Funnel/dp/B0000AXRH5/ref=zg_bs_g_automotive_d_sccl_33/136-8886488-9357069?psc=1"
+            },
+            {
+                "rank": 34,
+                "asin": "B0D7GB76RW",
+                "name": "rimthin H11 Bulbs, H8 H9 Fog Lights Cool White Light Bulbs, IP67 Waterproof, Pack of 2",
+                "ratings_count": 866,
+                "rating": "4.4",
+                "sale_price": "$25.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71C9U++voFL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/rimthin-H11-Bulbs-Lights-Waterproof/dp/B0D7GB76RW/ref=zg_bs_g_automotive_d_sccl_34/136-8886488-9357069?psc=1"
+            },
+            {
+                "rank": 35,
+                "asin": "B016V2B1Z8",
+                "name": "Camco TST MAX Camper / RV Toilet Treatment Drop-INs - Control Unwanted Odors & Break Down Waste and Tissue - Safe Septic Tank Treatment - Orange Scent, 30-Pack (41183)",
+                "ratings_count": 38431,
+                "rating": "4.6",
+                "sale_price": "$17.78",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71KNfFh4TLL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Camco-Treatment-Drop-INs-Unwanted-41183/dp/B016V2B1Z8/ref=zg_bs_g_automotive_d_sccl_35/136-8886488-9357069?psc=1"
+            },
+            {
+                "rank": 36,
+                "asin": "B00ICSWGJ0",
+                "name": "Castrol EDGE 5W-30 Advanced Full Synthetic Motor Oil, 5 Quarts",
+                "ratings_count": 29766,
+                "rating": "4.8",
+                "sale_price": "$24.72",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/6167boJDS7L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Castrol-03084-5W-30-Advanced-Synthetic/dp/B00ICSWGJ0/ref=zg_bs_g_automotive_d_sccl_36/136-8886488-9357069?psc=1"
+            },
+            {
+                "rank": 37,
+                "asin": "B073JCMTW2",
+                "name": "Amazon Basics Emergency Seat Belt Cutter and Window Hammer Tool, Car Accessories, 2 Pack, SW-835",
+                "ratings_count": 25406,
+                "rating": "4.7",
+                "sale_price": "$9.47",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81HrEHlquZL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/AmazonBasics-Emergency-Cutter-Window-Accessories/dp/B073JCMTW2/ref=zg_bs_g_automotive_d_sccl_37/136-8886488-9357069?psc=1"
+            },
+            {
+                "rank": 38,
+                "asin": "B00G49DVGG",
+                "name": "Meguiar's Whole Car Air Re-Fresher Odor Eliminator Mist - New Car Scent, Aerosol - Car Odor Remover & Car Freshener That Leaves a New Car Smell - 2 Oz",
+                "ratings_count": 22451,
+                "rating": "4.3",
+                "sale_price": "$7.88",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71sOYHu9n2L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Meguiars-Whole-Refresher-Odor-Eliminator/dp/B00G49DVGG/ref=zg_bs_g_automotive_d_sccl_38/136-8886488-9357069?psc=1"
+            },
+            {
+                "rank": 39,
+                "asin": "B07VGRVKSN",
+                "name": "HOTOR Car Trash Can with Lid and Storage Pockets - 100% Leak-Proof Organizer, Waterproof Garbage Can, Multipurpose Trash Bin for Car, 2 Gallons, Black",
+                "ratings_count": 46356,
+                "rating": "4.5",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81hrIuixehL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/HOTOR-Car-Trash-Storage-Pockets/dp/B07VGRVKSN/ref=zg_bs_g_automotive_d_sccl_39/136-8886488-9357069?psc=1"
+            },
+            {
+                "rank": 40,
+                "asin": "B07SGBR7T8",
+                "name": "Amooca Car Seat Headrest Hook 4 Pack Hanger Storage Organizer Universal for Handbag Purse Coat fit Universal Vehicle Car Black S Type",
+                "ratings_count": 59689,
+                "rating": "4.6",
+                "sale_price": "$6.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71Hz9qwLc0L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amooca-Headrest-Organizer-Uiversal-Universal/dp/B07SGBR7T8/ref=zg_bs_g_automotive_d_sccl_40/136-8886488-9357069?psc=1"
+            },
+            {
+                "rank": 41,
+                "asin": "B07SHJVK4G",
+                "name": "CERAKOTE® Ceramic Trim Coat Kit - Quick Plastic Trim Restorer - Ceramic Coating Black Trim Restoration to Last Over 200 Washes – A Ceramic Coating, Not a Dressing",
+                "ratings_count": 19724,
+                "rating": "4.5",
+                "sale_price": "$16.88",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71Gk0PmkG2L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/CERAKOTE-Ceramic-Trim-Coat-Kit/dp/B07SHJVK4G/ref=zg_bs_g_automotive_d_sccl_41/136-8886488-9357069?psc=1"
+            },
+            {
+                "rank": 42,
+                "asin": "B06XPSP2HS",
+                "name": "Chemical Guys CWS20316 Foaming Citrus Fabric Clean Carpet & Upholstery Cleaner (Car Carpets, Seats & Floor Mats), Safe for Cars, Home, Office, & More, 16 fl oz, Citrus Scent",
+                "ratings_count": 39533,
+                "rating": "4.5",
+                "sale_price": "$11.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71kYs5slodL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Chemical-Guys-CWS20316-Foaming-Upholstery/dp/B06XPSP2HS/ref=zg_bs_g_automotive_d_sccl_42/136-8886488-9357069?psc=1"
+            },
+            {
+                "rank": 43,
+                "asin": "B0BZP6HCVS",
+                "name": "AstroAI S8 Car Battery Jump Starter, 1500A Jump Starter Battery Pack for Up to 6.0L Gas & 3.0L Diesel Engines, 12V Portable Jump Box with 3 Modes Flashlight and Jumper Cable(Orange)",
+                "ratings_count": 3111,
+                "rating": "4.6",
+                "sale_price": "$59.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/7129kjit1fL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/AstroAI-S8-Starter-Portable-Flashlight/dp/B0BZP6HCVS/ref=zg_bs_g_automotive_d_sccl_43/136-8886488-9357069?psc=1"
+            },
+            {
+                "rank": 44,
+                "asin": "B01J8DLGU2",
+                "name": "AstroAI Digital Tire Pressure Gauge 150 PSI 4 Settings for Car Truck Bicycle with Backlight LCD and Non-Skid Grip Car Accessories, Silver (1 Pack)",
+                "ratings_count": 66435,
+                "rating": "4.3",
+                "sale_price": "$11.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61P0I7H4fUL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/AstroAI-Digital-Pressure-Settings-Non-Slip/dp/B01J8DLGU2/ref=zg_bs_g_automotive_d_sccl_44/136-8886488-9357069?psc=1"
+            },
+            {
+                "rank": 45,
+                "asin": "B00GZKC6EW",
+                "name": "Valvoline Advanced Full Synthetic SAE 0W-20 Motor Oil 5 QT",
+                "ratings_count": 25331,
+                "rating": "4.8",
+                "sale_price": "$24.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61QUap4DaPL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Valvoline-SynPower-0W-20-Synthetic-Motor/dp/B00GZKC6EW/ref=zg_bs_g_automotive_d_sccl_45/136-8886488-9357069?psc=1"
+            },
+            {
+                "rank": 46,
+                "asin": "B00IPS4APU",
+                "name": "Rain-X 600001 Windshield Repair Kit - Quick And Easy Durable Resin Based Kit for Chips and Cracks, Good For Round Damage Below 1\" In Diameter And Cracks Smaller Than 12\" In Length, BLUE,YELLOW",
+                "ratings_count": 42218,
+                "rating": "3.9",
+                "sale_price": "$12.67",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/710MC25TZaL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Rain-X-600001-Windshield-Repair-Kit/dp/B00IPS4APU/ref=zg_bs_g_automotive_d_sccl_46/136-8886488-9357069?psc=1"
+            },
+            {
+                "rank": 47,
+                "asin": "B00LM54ZD0",
+                "name": "LITTLE TREES Air Fresheners Car Air Freshener. Hanging Tree Provides Long Lasting Scent for Auto or Home. Black Ice, 24 Air Fresheners",
+                "ratings_count": 7686,
+                "rating": "4.6",
+                "sale_price": "$19.69",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61I0RNNWY9L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Freshener-Hanging-Provides-Lasting-6-Packs/dp/B00LM54ZD0/ref=zg_bs_g_automotive_d_sccl_47/136-8886488-9357069?psc=1"
+            },
+            {
+                "rank": 48,
+                "asin": "B07B4QDZHQ",
+                "name": "Invisible Glass 91164-2PK 19-Ounce Foam Cleaner for Auto and Home for a Streak-Free Shine, Deep Cleaning Foaming Action, Safe for Tinted and Non-Tinted Windows, Ammonia Free, Pack of 2",
+                "ratings_count": 15183,
+                "rating": "4.7",
+                "sale_price": "$9.76",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61G4Rsl0zCL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Invisible-Glass-91164-2PK-19-Ounce-Can-Case/dp/B07B4QDZHQ/ref=zg_bs_g_automotive_d_sccl_48/136-8886488-9357069?psc=1"
+            },
+            {
+                "rank": 49,
+                "asin": "B09TSHYYK9",
+                "name": "JUSTTOP 3pcs Magnet for Car, Please Be Patient Student Driver, New Drivers Sticker Safety Warning, Magnetic Reflective Rookie Driver Bumper Sticker (Black&Red)",
+                "ratings_count": 8121,
+                "rating": "4.6",
+                "sale_price": "$4.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/715WhvNns0L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/JUSTTOP-Patient-Student-Magnetic-Reflective/dp/B09TSHYYK9/ref=zg_bs_g_automotive_d_sccl_49/136-8886488-9357069?psc=1"
+            },
+            {
+                "rank": 50,
+                "asin": "B0BXMNC25J",
+                "name": "Febreze Unstopables Car Odor-Fighting Car Freshener Vent Clip Fresh Scent, .07 oz. Car Vent Clip, Pack of 4",
+                "ratings_count": 23912,
+                "rating": "4.5",
+                "sale_price": "$12.84",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71Y7DM2z9eL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Febreze-Unstopables-Odor-Fighting-Freshener-Fresh/dp/B0BXMNC25J/ref=zg_bs_g_automotive_d_sccl_50/136-8886488-9357069?psc=1"
+            }
+        ]
+    }
+}

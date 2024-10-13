@@ -1,0 +1,615 @@
+{
+    "200": {
+        "category": "Amazon Best SellersClothing, Shoes & Jewelry",
+        "category_hierarchy": [
+            {
+                "name": "Any Department",
+                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_fashion_0_1"
+            },
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "url": "https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry/zgbs/fashion/ref=zg_bs_nav_fashion_0?pg=1"
+            }
+        ],
+        "child_categories": [
+            {
+                "category": "Baby",
+                "url": "https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Baby-Clothing-Shoes/zgbs/fashion/7147444011/ref=zg_bs_nav_fashion_1"
+            },
+            {
+                "category": "Boys",
+                "url": "https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Boys-Fashion/zgbs/fashion/7147443011/ref=zg_bs_nav_fashion_1"
+            },
+            {
+                "category": "Costumes & Accessories",
+                "url": "https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Costumes-Accessories/zgbs/fashion/7586165011/ref=zg_bs_nav_fashion_1"
+            },
+            {
+                "category": "Girls",
+                "url": "https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Girls-Fashion/zgbs/fashion/7147442011/ref=zg_bs_nav_fashion_1"
+            },
+            {
+                "category": "Luggage & Travel Gear",
+                "url": "https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Luggage-Travel-Gear/zgbs/fashion/9479199011/ref=zg_bs_nav_fashion_1"
+            },
+            {
+                "category": "Men",
+                "url": "https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Mens-Fashion/zgbs/fashion/7147441011/ref=zg_bs_nav_fashion_1"
+            },
+            {
+                "category": "Novelty & More",
+                "url": "https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Novelty-More/zgbs/fashion/7147445011/ref=zg_bs_nav_fashion_1"
+            },
+            {
+                "category": "Shoe, Jewelry & Watch Accessories",
+                "url": "https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Shoe-Jewelry-Watch-Accessories/zgbs/fashion/7586146011/ref=zg_bs_nav_fashion_1"
+            },
+            {
+                "category": "Sport Specific Clothing",
+                "url": "https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Sport-Specific-Clothing/zgbs/fashion/23575629011/ref=zg_bs_nav_fashion_1"
+            },
+            {
+                "category": "Uniforms, Work & Safety",
+                "url": "https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Uniforms-Work-Safety/zgbs/fashion/7586144011/ref=zg_bs_nav_fashion_1"
+            },
+            {
+                "category": "Women",
+                "url": "https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Womens-Fashion/zgbs/fashion/7147440011/ref=zg_bs_nav_fashion_1"
+            }
+        ],
+        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry/zgbs/fashion/ref%3Dzg_bs_pg_2_fashion%3F_encoding%3DUTF8%26pg%3D2",
+        "url": "https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry/zgbs/fashion/ref=zg_bs_nav_fashion_0?pg=1",
+        "product_listings": [
+            {
+                "rank": 1,
+                "asin": "B00HB6MD1K",
+                "name": "SZIVYSHI Corset Tops for Women, Bustier Shapewear Lingerie, Lace Waist Push Up Bodysuit",
+                "ratings_count": 3343,
+                "rating": "4.2",
+                "sale_price": "$26.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61IpBhp2amL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Shapewear-Lingerie-Bodysuit-Strapless-Victorian/dp/B00HB6MD1K/ref=zg_bs_g_fashion_d_sccl_1/130-8455952-6213559?psc=1"
+            },
+            {
+                "rank": 2,
+                "asin": "B072QRN7HR",
+                "name": "Hanes EcoSmart Fleece, Cotton-Blend Pullover, Crewneck Sweatshirt for Men (1 Or 2 Pack)",
+                "ratings_count": 175701,
+                "rating": "4.6",
+                "sale_price": "$9.80",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81D+bCgn8hL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Hanes-EcoSmart-Fleece-Sweatshirt-Stonewashed/dp/B072QRN7HR/ref=zg_bs_g_fashion_d_sccl_2/130-8455952-6213559?psc=1"
+            },
+            {
+                "rank": 3,
+                "asin": "B08YHLVJN3",
+                "name": "Fruit of the Loom Eversoft Fleece Elastic Bottom Sweatpants with Pockets, Relaxed Fit, Moisture Wicking, Breathable",
+                "ratings_count": 53057,
+                "rating": "4.4",
+                "sale_price": "$8.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61Y8pQkviDL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Fruit-Loom-Eversoft-Fleece-Sweatpants/dp/B08YHLVJN3/ref=zg_bs_g_fashion_d_sccl_3/130-8455952-6213559?psc=1"
+            },
+            {
+                "rank": 4,
+                "asin": "B00JUM2VAQ",
+                "name": "Hanes Men's Hoodie, EcoSmart Fleece Hoodie, Hooded Sweatshirt for Men",
+                "ratings_count": 185352,
+                "rating": "4.5",
+                "sale_price": "$14.66",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61JckjKagSL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Hanes-Pullover-EcoSmart-Fleece-Hoodie/dp/B00JUM2VAQ/ref=zg_bs_g_fashion_d_sccl_4/130-8455952-6213559?psc=1"
+            },
+            {
+                "rank": 5,
+                "asin": "B086KSDTQ4",
+                "name": "Hanes Men's Boxer Briefs, Soft and Breathable Cotton Underwear with ComfortFlex Waistband, Multipack",
+                "ratings_count": 153671,
+                "rating": "4.5",
+                "sale_price": "$17.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81ZBOce1WwL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Hanes-Breathable-ComfortFlex-Waistband-Multipack/dp/B086KSDTQ4/ref=zg_bs_g_fashion_d_sccl_5/130-8455952-6213559?psc=1"
+            },
+            {
+                "rank": 6,
+                "asin": "B086KY66PH",
+                "name": "Hanes Men's Cotton, Moisture-Wicking Crew Tee Undershirts, Multi-Packs Available",
+                "ratings_count": 70544,
+                "rating": "4.5",
+                "sale_price": "$13.89",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71ueRA6JRFL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Hanes-Undershirt-Moisture-Wicking-Undershirts-Multi-Packs/dp/B086KY66PH/ref=zg_bs_g_fashion_d_sccl_6/130-8455952-6213559?psc=1"
+            },
+            {
+                "rank": 7,
+                "asin": "B09XFJ5W56",
+                "name": "The Children's Place Baby Family Matching, Fall Harvest Pajama Sets, Cotton",
+                "ratings_count": 9147,
+                "rating": "4.5",
+                "sale_price": null,
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81YSqKKp6yL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Childrens-Place-Matching-Christmas-Holiday/dp/B09XFJ5W56/ref=zg_bs_g_fashion_d_sccl_7/130-8455952-6213559?psc=1"
+            },
+            {
+                "rank": 8,
+                "asin": "B07HQM6NH8",
+                "name": "THE GYM PEOPLE Thick High Waist Yoga Pants with Pockets, Tummy Control Workout Running Yoga Leggings for Women",
+                "ratings_count": 54149,
+                "rating": "4.4",
+                "sale_price": "$24.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61IqZD8hYDL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/GYM-PEOPLE-Pockets-Control-Leggings/dp/B07HQM6NH8/ref=zg_bs_g_fashion_d_sccl_8/130-8455952-6213559?psc=1"
+            },
+            {
+                "rank": 9,
+                "asin": "B0014C0LUC",
+                "name": "Crocs Unisex-Adult Classic Clogs",
+                "ratings_count": 592918,
+                "rating": "4.8",
+                "sale_price": "$42.12",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81LPwvQLXJL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/crocs-Unisex-Classic-Black-Women/dp/B0014C0LUC/ref=zg_bs_g_fashion_d_sccl_9/130-8455952-6213559?psc=1"
+            },
+            {
+                "rank": 10,
+                "asin": "B001PU9A9Q",
+                "name": "Nippies Nipple Cover - Sticky Adhesive Silicone Nipple Pasties - Reusable Pasty Nipple Covers for Women with Travel Box",
+                "ratings_count": 39636,
+                "rating": "4.5",
+                "sale_price": "$26.50",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51S9vy6ywpL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/NIPPIES-Nipple-Covers-Women-Reusable/dp/B001PU9A9Q/ref=zg_bs_g_fashion_d_sccl_10/130-8455952-6213559?psc=1"
+            },
+            {
+                "rank": 11,
+                "asin": "B07JCS8NRC",
+                "name": "Gildan Men's Crew T-Shirts, Multipack, Style G1100",
+                "ratings_count": 298263,
+                "rating": "4.6",
+                "sale_price": "$21.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51wDsZxtTLL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Gildan-T-Shirt-Multipack-Black-X-Large/dp/B07JCS8NRC/ref=zg_bs_g_fashion_d_sccl_11/130-8455952-6213559?psc=1"
+            },
+            {
+                "rank": 12,
+                "asin": "B0007YXTPW",
+                "name": "PLAYTEX Women's 18 Hour 4745 Ultimate Lift & Support Wireless Full-Coverage Bra, Single or 2 Pack",
+                "ratings_count": 82561,
+                "rating": "4.2",
+                "sale_price": null,
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81Tl4u5vA+L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Playtex-Womens-Plus-Ultimate-Support/dp/B0007YXTPW/ref=zg_bs_g_fashion_d_sccl_12/130-8455952-6213559?psc=1"
+            },
+            {
+                "rank": 13,
+                "asin": "B0BW8ZFMDJ",
+                "name": "Trendy Queen Womens Long Sleeve Shirts Basic Crop Tops Tight Slim Fit Cute Teen Girls Fall Winter Y2k Clothes 2024",
+                "ratings_count": 3079,
+                "rating": "4.4",
+                "sale_price": "$14.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61P3bPmIWAL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Trendy-Queen-Fashion-Outfits-Aesthetic/dp/B0BW8ZFMDJ/ref=zg_bs_g_fashion_d_sccl_13/130-8455952-6213559?psc=1"
+            },
+            {
+                "rank": 14,
+                "asin": "B0C65WCS8R",
+                "name": "Trendy Queen Womens Oversized Hoodies Fleece Sweatshirts Long Sleeve Sweaters Pullover Fall Outfits",
+                "ratings_count": 4636,
+                "rating": "4.5",
+                "sale_price": "$34.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71wp-f9m0-L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Trendy-Queen-Oversized-Sweatshirts-Sweaters/dp/B0C65WCS8R/ref=zg_bs_g_fashion_d_sccl_14/130-8455952-6213559?psc=1"
+            },
+            {
+                "rank": 15,
+                "asin": "B08YGTLS7P",
+                "name": "Fruit of the Loom Men's Eversoft Fleece Hoodies, Moisture Wicking & Breathable, Full Zip Hooded Sweatshirt",
+                "ratings_count": 38350,
+                "rating": "4.6",
+                "sale_price": "$13.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71h2MZlZgLL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Fruit-Loom-Eversoft-Sweatshirts-Zip-Black/dp/B08YGTLS7P/ref=zg_bs_g_fashion_d_sccl_15/130-8455952-6213559?psc=1"
+            },
+            {
+                "rank": 16,
+                "asin": "B00JUM4CT4",
+                "name": "Hanes Men's Zip-Up Hoodie, EcoSmart Fleece Full-Zip Hoodie for Men, Hooded Sweatshirt",
+                "ratings_count": 129325,
+                "rating": "4.5",
+                "sale_price": "$13.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71QyRZzbaUL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Hanes-Full-zip-Eco-smart-athletic-sweatshirts/dp/B00JUM4CT4/ref=zg_bs_g_fashion_d_sccl_16/130-8455952-6213559?psc=1"
+            },
+            {
+                "rank": 17,
+                "asin": "B00W66LQFO",
+                "name": "Fruit of the Loom Men's Eversoft Cotton Stay Tucked Crew T-Shirt",
+                "ratings_count": 128537,
+                "rating": "4.6",
+                "sale_price": "$18.48",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/513fraGQXWL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Fruit-Loom-Mens-Tucked-T-Shirt/dp/B00W66LQFO/ref=zg_bs_g_fashion_d_sccl_17/130-8455952-6213559?psc=1"
+            },
+            {
+                "rank": 18,
+                "asin": "B0BB7SP83Z",
+                "name": "Sunzel Flare Leggings, Crossover Yoga Pants with Tummy Control, High-Waisted and Wide Leg",
+                "ratings_count": 22779,
+                "rating": "4.3",
+                "sale_price": "$28.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61aUZQs50XL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Sunzel-Leggings-Crossover-Control-High-Waisted/dp/B0BB7SP83Z/ref=zg_bs_g_fashion_d_sccl_18/130-8455952-6213559?psc=1"
+            },
+            {
+                "rank": 19,
+                "asin": "B0BS6G9WG6",
+                "name": "KIDMI Women's Suede Clogs Leather Mules Cork Footbed Sandals Potato Shoes with Arch Support",
+                "ratings_count": 3694,
+                "rating": "4.4",
+                "sale_price": "$36.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/810zAULuvKL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/KIDMI-Leather-Footbed-Sandals-Support/dp/B0BS6G9WG6/ref=zg_bs_g_fashion_d_sccl_19/130-8455952-6213559?psc=1"
+            },
+            {
+                "rank": 20,
+                "asin": "B074KL8RVS",
+                "name": "Wrangler Authentics Men's Regular Fit Comfort Flex Waist Jean",
+                "ratings_count": 78638,
+                "rating": "4.6",
+                "sale_price": "$30.96",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61MmC3VF+TL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Wrangler-Authentics-Comfort-Waist-Stonewash/dp/B074KL8RVS/ref=zg_bs_g_fashion_d_sccl_20/130-8455952-6213559?psc=1"
+            },
+            {
+                "rank": 21,
+                "asin": "B004QF0TFQ",
+                "name": "Dickies Men's Dri-Tech Moisture Control Crew Socks, Available in M-XXL (6, 12, 18 Pairs)",
+                "ratings_count": 195882,
+                "rating": "4.7",
+                "sale_price": "$10.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/9171uzu8PEL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Dickies-Multi-Pack-Dri-Tech-Moisture-Control/dp/B004QF0TFQ/ref=zg_bs_g_fashion_d_sccl_21/130-8455952-6213559?psc=1"
+            },
+            {
+                "rank": 22,
+                "asin": "B078GX6FKR",
+                "name": "The Children's Place Girls' Basic Denim Jacket",
+                "ratings_count": 14348,
+                "rating": "4.8",
+                "sale_price": null,
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91Ixnp4P2vL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Childrens-Place-Girls-Jacket-AZUREWASH/dp/B078GX6FKR/ref=zg_bs_g_fashion_d_sccl_22/130-8455952-6213559?psc=1"
+            },
+            {
+                "rank": 23,
+                "asin": "B08YS526MS",
+                "name": "Fruit of the Loom Men's Eversoft Fleece Sweatshirts, Moisture Wicking & Breathable, Crewneck Sweatshirt",
+                "ratings_count": 22621,
+                "rating": "4.6",
+                "sale_price": "$10.44",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71M+qLWDNOL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Fruit-Loom-Eversoft-Sweatshirts-Sweatshirt-Black/dp/B08YS526MS/ref=zg_bs_g_fashion_d_sccl_23/130-8455952-6213559?psc=1"
+            },
+            {
+                "rank": 24,
+                "asin": "B0C7KBZXL6",
+                "name": "AUTOMET Womens Sweatshirts Half Zip Cropped Pullover Fleece Quarter Zipper Hoodies Fall outfits Clothes Thumb Hole",
+                "ratings_count": 3171,
+                "rating": "4.5",
+                "sale_price": "$32.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61hDQfyQtrL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/AUTOMET-Pullover-Sweatshirts-Cropped-Oversized/dp/B0C7KBZXL6/ref=zg_bs_g_fashion_d_sccl_24/130-8455952-6213559?psc=1"
+            },
+            {
+                "rank": 25,
+                "asin": "B09XFM89PB",
+                "name": "The Children's Place Baby and Kids', Sibling Matching, Holiday Pajama Sets, Cotton",
+                "ratings_count": 2312,
+                "rating": "4.7",
+                "sale_price": "$5.74",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81WsUzg9ihL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Childrens-Place-Toddler-PJ-Christmas-Gingerbread/dp/B09XFM89PB/ref=zg_bs_g_fashion_d_sccl_25/130-8455952-6213559?psc=1"
+            },
+            {
+                "rank": 26,
+                "asin": "B00FSB5YHK",
+                "name": "Champion Men's Pants, Lightweight Open-Hem Lounge Pants for Men, Jersey Pants (Reg. or Big & Tall)",
+                "ratings_count": 40516,
+                "rating": "4.3",
+                "sale_price": "$17.50",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61jXBNogwNL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Champion-Authentic-Bottom-Jersey-Large/dp/B00FSB5YHK/ref=zg_bs_g_fashion_d_sccl_26/130-8455952-6213559?psc=1"
+            },
+            {
+                "rank": 27,
+                "asin": "B07ZTD3JZH",
+                "name": "EVERSWE Women's 80 Den Soft Opaque Tights, Women's Tights",
+                "ratings_count": 12370,
+                "rating": "4.5",
+                "sale_price": "$8.50",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51Nj2NTfZoL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/EVERSWE-Opaque-Tights-Womens-Totally/dp/B07ZTD3JZH/ref=zg_bs_g_fashion_d_sccl_27/130-8455952-6213559?psc=1"
+            },
+            {
+                "rank": 28,
+                "asin": "B075ZZ7XKD",
+                "name": "Gildan Unisex-Adult Ultra Cotton T-Shirt, Style G2000, Multipack",
+                "ratings_count": 98811,
+                "rating": "4.5",
+                "sale_price": "$9.75",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61x-LF9fyYL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Gildan-G2000-Cotton-T-Shirt-2-Pack/dp/B075ZZ7XKD/ref=zg_bs_g_fashion_d_sccl_28/130-8455952-6213559?psc=1"
+            },
+            {
+                "rank": 29,
+                "asin": "B0D77L3ZQC",
+                "name": "COSUSKET Snug Fit Unisex Adult Onesie Pajamas, Flannel Cosplay Animal One Piece Halloween Costume Sleepwear Homewear",
+                "ratings_count": 2739,
+                "rating": "4.7",
+                "sale_price": "$35.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51o+kWSp9OL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/COSUSKET-Pajamas-Halloween-Flannel-Cosplay/dp/B0D77L3ZQC/ref=zg_bs_g_fashion_d_sccl_29/130-8455952-6213559?psc=1"
+            },
+            {
+                "rank": 30,
+                "asin": "B0018QS5HU",
+                "name": "Levi's Men's 505 Regular Fit Jeans (Also Available in Big & Tall)",
+                "ratings_count": 127229,
+                "rating": "4.5",
+                "sale_price": "$39.57",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61xsk77in4L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Levis-Regular-Medium-Stonewash-34Wx32L/dp/B0018QS5HU/ref=zg_bs_g_fashion_d_sccl_30/130-8455952-6213559?psc=1"
+            },
+            {
+                "rank": 31,
+                "asin": "B09JFR8HTV",
+                "name": "J.VER Men's Dress Shirts Solid Long Sleeve Stretch Wrinkle-Free Formal Shirt Business Casual Button Down Shirts",
+                "ratings_count": 22685,
+                "rating": "4.4",
+                "sale_price": "$22.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51rkKPruYvL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/J-Ver-Shirts-Stretch-Wrinkle-Free-Regular/dp/B09JFR8HTV/ref=zg_bs_g_fashion_d_sccl_31/133-7099963-9552841?psc=1"
+            },
+            {
+                "rank": 32,
+                "asin": "B08YHBW4J5",
+                "name": "Fruit of the Loom Men's Eversoft Fleece Hoodies, Moisture Wicking & Breathable, Pullover Hooded Sweatshirt",
+                "ratings_count": 21467,
+                "rating": "4.6",
+                "sale_price": "$13.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71+w984iHhL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Fruit-Loom-Eversoft-Sweatshirts-Pullover-Black/dp/B08YHBW4J5/ref=zg_bs_g_fashion_d_sccl_32/133-7099963-9552841?psc=1"
+            },
+            {
+                "rank": 33,
+                "asin": "B0169P8XSK",
+                "name": "Hanes Women's EcoSmart Fleece Petite Sweatpants, Open Bottom Sweatpants, Regular & Petite Sizes",
+                "ratings_count": 89778,
+                "rating": "4.0",
+                "sale_price": "$5.96",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71g5Ae-KwgL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Hanes-Womens-Middle-Sweatpant-Heather/dp/B0169P8XSK/ref=zg_bs_g_fashion_d_sccl_33/133-7099963-9552841?psc=1"
+            },
+            {
+                "rank": 34,
+                "asin": "B08D11NP71",
+                "name": "Fruit of the Loom Men's Coolzone Boxer Briefs, Moisture Wicking & Breathable, Assorted Color Multipacks",
+                "ratings_count": 227155,
+                "rating": "4.6",
+                "sale_price": "$24.49",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61rQmnxdDwL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Fruit-Loom-Coolzone-Briefs-Assorted/dp/B08D11NP71/ref=zg_bs_g_fashion_d_sccl_34/133-7099963-9552841?psc=1"
+            },
+            {
+                "rank": 35,
+                "asin": "B0CZ72KJ94",
+                "name": "ANRABESS Women Striped Sweatshirt Long Sleeve Shirts Crewneck Oversized Casual Pullover Top 2024 Fall Fashion Outfits Clothes",
+                "ratings_count": 600,
+                "rating": "4.5",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81fW0S+wvyL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/ANRABESS-Oversized-Sweatshirt-Crewneck-Pullover/dp/B0CZ72KJ94/ref=zg_bs_g_fashion_d_sccl_35/133-7099963-9552841?psc=1"
+            },
+            {
+                "rank": 36,
+                "asin": "B09JVQQ99K",
+                "name": "Litfun Women's Fuzzy Memory Foam Slippers Fluffy Winter House Shoes Indoor and Outdoor",
+                "ratings_count": 11274,
+                "rating": "4.5",
+                "sale_price": "$16.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71fnIod1SqL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Litfun-Womens-Memory-Slippers-Outdoor/dp/B09JVQQ99K/ref=zg_bs_g_fashion_d_sccl_36/133-7099963-9552841?psc=1"
+            },
+            {
+                "rank": 37,
+                "asin": "B09P1GB319",
+                "name": "CRZ YOGA Butterluxe High Waisted Lounge Legging 25\" - Workout Leggings for Women Buttery Soft Yoga Pants",
+                "ratings_count": 10428,
+                "rating": "4.7",
+                "sale_price": "$32.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61Isb40O6wL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/CRZ-YOGA-Butterluxe-Waisted-Legging/dp/B09P1GB319/ref=zg_bs_g_fashion_d_sccl_37/133-7099963-9552841?psc=1"
+            },
+            {
+                "rank": 38,
+                "asin": "B0000ANHT7",
+                "name": "Carhartt Men's Loose Fit Heavyweight Short-Sleeve Pocket T-Shirt",
+                "ratings_count": 109503,
+                "rating": "4.6",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/814hp8QMsjL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Carhartt-Workwear-Pocket-Short-Sleeve-T-Shirt/dp/B0000ANHT7/ref=zg_bs_g_fashion_d_sccl_38/133-7099963-9552841?psc=1"
+            },
+            {
+                "rank": 39,
+                "asin": "B0BVFDH9CP",
+                "name": "SINOPHANT High Waisted Leggings for Women - Full Length Capri Buttery Soft Yoga Pants for Workout Athletic",
+                "ratings_count": 4529,
+                "rating": "4.3",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51X5PPehAKL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/SINOPHANT-High-Waisted-Leggings-Women/dp/B0BVFDH9CP/ref=zg_bs_g_fashion_d_sccl_39/133-7099963-9552841?psc=1"
+            },
+            {
+                "rank": 40,
+                "asin": "B07YNY69X6",
+                "name": "SHAPERMINT High Waisted Body Shaper Shorts Shapewear for Women Tummy Control Thigh Slimming Technology",
+                "ratings_count": 63544,
+                "rating": "4.0",
+                "sale_price": "$25.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61KXHpR-YlL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/EMPETUA-Shapermint-Waisted-Shaper-Shorts/dp/B07YNY69X6/ref=zg_bs_g_fashion_d_sccl_40/133-7099963-9552841?psc=1"
+            },
+            {
+                "rank": 41,
+                "asin": "B06XKSR4R1",
+                "name": "Amazon Essentials Women's Cotton Bikini Brief Underwear (Available in Plus Size), Pack of 6",
+                "ratings_count": 106976,
+                "rating": "4.3",
+                "sale_price": "$15.20",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71lyQzv7VVL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-Essentials-Womens-Cotton-Stretch/dp/B06XKSR4R1/ref=zg_bs_g_fashion_d_sccl_41/133-7099963-9552841?psc=1"
+            },
+            {
+                "rank": 42,
+                "asin": "B081VSYKL5",
+                "name": "voenxe Seamless Women Underwear Thongs,No Show Ladies Thong,No Line Breathable Comfortable Panties Undies for Women 5-Pack",
+                "ratings_count": 66049,
+                "rating": "4.6",
+                "sale_price": "$12.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71Srgj0Jr5L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/VOENXE-Seamless-Thongs-Underwear-Basics/dp/B081VSYKL5/ref=zg_bs_g_fashion_d_sccl_42/133-7099963-9552841?psc=1"
+            },
+            {
+                "rank": 43,
+                "asin": "B0872FDH5V",
+                "name": "Under Armour Boys' Brawler 2.0 Pants",
+                "ratings_count": 2215,
+                "rating": "4.7",
+                "sale_price": null,
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41h10Hr05DL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Under-Armour-Brawler-Pants-Pitch/dp/B0872FDH5V/ref=zg_bs_g_fashion_d_sccl_43/133-7099963-9552841?psc=1"
+            },
+            {
+                "rank": 44,
+                "asin": "B07XL8N5G2",
+                "name": "wernies No Show Socks Women Low Socks Non Slip Flat Boat Line 4/8 Pairs",
+                "ratings_count": 80390,
+                "rating": "4.5",
+                "sale_price": "$11.89",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81uojej-XEL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Women-Show-Socks-Short-Flats/dp/B07XL8N5G2/ref=zg_bs_g_fashion_d_sccl_44/133-7099963-9552841?psc=1"
+            },
+            {
+                "rank": 45,
+                "asin": "B000NZTPJY",
+                "name": "Gloria Vanderbilt Women's Classic Tapered Amanda Jeans Regular",
+                "ratings_count": 67842,
+                "rating": "4.3",
+                "sale_price": "$15.60",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61jwXeZL5GL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Gloria-Vanderbilt-Womens-Amanda-Classic/dp/B000NZTPJY/ref=zg_bs_g_fashion_d_sccl_45/133-7099963-9552841?psc=1"
+            },
+            {
+                "rank": 46,
+                "asin": "B096423LXW",
+                "name": "Crocs Unisex-Child Kids' Classic Clogs",
+                "ratings_count": 171458,
+                "rating": "4.8",
+                "sale_price": "$39.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71ej9uEjJGL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Crocs-Kids-Classic-Clog-Black/dp/B096423LXW/ref=zg_bs_g_fashion_d_sccl_46/133-7099963-9552841?psc=1"
+            },
+            {
+                "rank": 47,
+                "asin": "B00UCO2PF2",
+                "name": "frawirshau Women's Lace Up Boned Overbust Corset Bustier Lingerie Bodyshaper Top",
+                "ratings_count": 17264,
+                "rating": "4.0",
+                "sale_price": "$23.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61+XvxREIyL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Frawirshau-Corset-Corsets-Renaissance-Bustiers/dp/B00UCO2PF2/ref=zg_bs_g_fashion_d_sccl_47/133-7099963-9552841?psc=1"
+            },
+            {
+                "rank": 48,
+                "asin": "B0B57MP1ZD",
+                "name": "Hanes Men’s Total Support Pouch Boxer Briefs, X-Temp Cooling, Moisture-Wicking Underwear, Regular, Long-leg and Trunk, 3-Pack",
+                "ratings_count": 28486,
+                "rating": "4.5",
+                "sale_price": "$9.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81X1apa8rOL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Hanes-Anti-Chafing-Moisture-Wicking-Underwear-Leg-Marled/dp/B0B57MP1ZD/ref=zg_bs_g_fashion_d_sccl_48/133-7099963-9552841?psc=1"
+            },
+            {
+                "rank": 49,
+                "asin": "B075BHK571",
+                "name": "IDEGG No Show Socks Womens and Men Low Cut Ankle Short Anti-slid Athletic Running Novelty Casual Invisible Liner Socks",
+                "ratings_count": 59212,
+                "rating": "4.7",
+                "sale_price": "$13.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81EFbzAltVL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/IDEGG-Socks-Anti-slid-Athletic-Cotton/dp/B075BHK571/ref=zg_bs_g_fashion_d_sccl_49/133-7099963-9552841?psc=1"
+            },
+            {
+                "rank": 50,
+                "asin": "B002HL5GKE",
+                "name": "Hanes womens Value, Ankle Soft Moisture-wicking Socks, Available in 10 and 14-packs",
+                "ratings_count": 29182,
+                "rating": "4.7",
+                "sale_price": "$8.79",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81GSO31SBpL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Hanes-Moisture-wicking-Available-14-packs-Athletic-socks/dp/B002HL5GKE/ref=zg_bs_g_fashion_d_sccl_50/133-7099963-9552841?psc=1"
+            }
+        ]
+    }
+}

@@ -1,0 +1,639 @@
+{
+    "200": {
+        "category": "Amazon Best SellersAmazon Renewed",
+        "category_hierarchy": [
+            {
+                "name": "Any Department",
+                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_amazon-renewed_0_1"
+            },
+            {
+                "name": "Amazon Renewed",
+                "url": "https://www.amazon.com/Best-Sellers-Amazon-Renewed/zgbs/amazon-renewed/ref=zg_bs_nav_amazon-renewed_0?pg=1"
+            }
+        ],
+        "child_categories": [
+            {
+                "category": "Renewed Automotive",
+                "url": "https://www.amazon.com/Best-Sellers-Amazon-Renewed-Renewed-Automotive/zgbs/amazon-renewed/24430048011/ref=zg_bs_nav_amazon-renewed_1"
+            },
+            {
+                "category": "Renewed Camera & Photo",
+                "url": "https://www.amazon.com/Best-Sellers-Amazon-Renewed-Renewed-Camera-Photo/zgbs/amazon-renewed/17871145011/ref=zg_bs_nav_amazon-renewed_1"
+            },
+            {
+                "category": "Renewed Computers & Accessories",
+                "url": "https://www.amazon.com/Best-Sellers-Amazon-Renewed-Renewed-Computers-Accessories/zgbs/amazon-renewed/17871138011/ref=zg_bs_nav_amazon-renewed_1"
+            },
+            {
+                "category": "Renewed Headphones",
+                "url": "https://www.amazon.com/Best-Sellers-Amazon-Renewed-Renewed-Headphones/zgbs/amazon-renewed/17871147011/ref=zg_bs_nav_amazon-renewed_1"
+            },
+            {
+                "category": "Renewed Home & Kitchen",
+                "url": "https://www.amazon.com/Best-Sellers-Amazon-Renewed-Renewed-Home-Kitchen/zgbs/amazon-renewed/17871150011/ref=zg_bs_nav_amazon-renewed_1"
+            },
+            {
+                "category": "Renewed Home Entertainment",
+                "url": "https://www.amazon.com/Best-Sellers-Amazon-Renewed-Renewed-Home-Entertainment/zgbs/amazon-renewed/17871148011/ref=zg_bs_nav_amazon-renewed_1"
+            },
+            {
+                "category": "Renewed Laptops",
+                "url": "https://www.amazon.com/Best-Sellers-Amazon-Renewed-Renewed-Laptops/zgbs/amazon-renewed/21614632011/ref=zg_bs_nav_amazon-renewed_1"
+            },
+            {
+                "category": "Renewed Musical Instruments",
+                "url": "https://www.amazon.com/Best-Sellers-Amazon-Renewed-Renewed-Musical-Instruments/zgbs/amazon-renewed/17871157011/ref=zg_bs_nav_amazon-renewed_1"
+            },
+            {
+                "category": "Renewed Office Products",
+                "url": "https://www.amazon.com/Best-Sellers-Amazon-Renewed-Renewed-Office-Products/zgbs/amazon-renewed/17871156011/ref=zg_bs_nav_amazon-renewed_1"
+            },
+            {
+                "category": "Renewed Patio, Lawn & Garden",
+                "url": "https://www.amazon.com/Best-Sellers-Amazon-Renewed-Renewed-Patio-Lawn-Garden/zgbs/amazon-renewed/17871155011/ref=zg_bs_nav_amazon-renewed_1"
+            },
+            {
+                "category": "Renewed Portable Bluetooth Speakers",
+                "url": "https://www.amazon.com/Best-Sellers-Amazon-Renewed-Renewed-Portable-Bluetooth-Speakers/zgbs/amazon-renewed/17871154011/ref=zg_bs_nav_amazon-renewed_1"
+            },
+            {
+                "category": "Renewed Smartphones",
+                "url": "https://www.amazon.com/Best-Sellers-Amazon-Renewed-Renewed-Smartphones/zgbs/amazon-renewed/17871142011/ref=zg_bs_nav_amazon-renewed_1"
+            },
+            {
+                "category": "Renewed Smartwatches",
+                "url": "https://www.amazon.com/Best-Sellers-Amazon-Renewed-Renewed-Smartwatches/zgbs/amazon-renewed/18730483011/ref=zg_bs_nav_amazon-renewed_1"
+            },
+            {
+                "category": "Renewed Sports & Outdoors",
+                "url": "https://www.amazon.com/Best-Sellers-Amazon-Renewed-Renewed-Sports-Outdoors/zgbs/amazon-renewed/17939807011/ref=zg_bs_nav_amazon-renewed_1"
+            },
+            {
+                "category": "Renewed Tablets",
+                "url": "https://www.amazon.com/Best-Sellers-Amazon-Renewed-Renewed-Tablets/zgbs/amazon-renewed/17871139011/ref=zg_bs_nav_amazon-renewed_1"
+            },
+            {
+                "category": "Renewed Tools & Home Improvement",
+                "url": "https://www.amazon.com/Best-Sellers-Amazon-Renewed-Renewed-Tools-Home-Improvement/zgbs/amazon-renewed/17871151011/ref=zg_bs_nav_amazon-renewed_1"
+            },
+            {
+                "category": "Renewed Video Game Consoles & Accessories",
+                "url": "https://www.amazon.com/Best-Sellers-Amazon-Renewed-Renewed-Video-Game-Consoles-Accessories/zgbs/amazon-renewed/17871146011/ref=zg_bs_nav_amazon-renewed_1"
+            }
+        ],
+        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/Best-Sellers-Amazon-Renewed/zgbs/amazon-renewed/ref%3Dzg_bs_pg_2_amazon-renewed%3F_encoding%3DUTF8%26pg%3D2",
+        "url": "https://www.amazon.com/Best-Sellers-Amazon-Renewed/zgbs/amazon-renewed/ref=zg_bs_nav_amazon-renewed_0?pg=1",
+        "product_listings": [
+            {
+                "rank": 1,
+                "asin": "B08PP5MSVB",
+                "name": "Apple iPhone 12, 64GB, Black - Fully Unlocked (Renewed)",
+                "ratings_count": 26191,
+                "rating": "4.1",
+                "sale_price": "$298.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51fYXSnSu9L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-iPhone-12-64GB-Black/dp/B08PP5MSVB/ref=zg_bs_g_amazon-renewed_d_sccl_1/135-6381759-7920809?psc=1"
+            },
+            {
+                "rank": 2,
+                "asin": "B07ZPKN6YR",
+                "name": "Apple iPhone 11, 64GB, Black - Unlocked (Renewed)",
+                "ratings_count": 53177,
+                "rating": "4.2",
+                "sale_price": "$224.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61MG3m5FhIL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-iPhone-11-64GB-Black/dp/B07ZPKN6YR/ref=zg_bs_g_amazon-renewed_d_sccl_2/135-6381759-7920809?psc=1"
+            },
+            {
+                "rank": 3,
+                "asin": "B07SKLLYTW",
+                "name": "Apple AirPods 2 with Charging Case - White (Renewed)",
+                "ratings_count": 15495,
+                "rating": "4.3",
+                "sale_price": "$85.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41XjE57VLvL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-AirPods-Charging-Case-Renewed/dp/B07SKLLYTW/ref=zg_bs_g_amazon-renewed_d_sccl_3/135-6381759-7920809?psc=1"
+            },
+            {
+                "rank": 4,
+                "asin": "B08PNN2SKF",
+                "name": "Apple iPhone 12 Mini, 64GB, Blue - Unlocked (Renewed)",
+                "ratings_count": 13566,
+                "rating": "4.0",
+                "sale_price": "$229.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51-ZD+JBZ7L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-iPhone-12-Mini-64GB/dp/B08PNN2SKF/ref=zg_bs_g_amazon-renewed_d_sccl_4/135-6381759-7920809?psc=1"
+            },
+            {
+                "rank": 5,
+                "asin": "B08264XHCZ",
+                "name": "Apple iPad (10.2-Inch, Wi-Fi, 32GB) - Space Gray (Renewed)",
+                "ratings_count": 10165,
+                "rating": "4.4",
+                "sale_price": "$144.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81IjVvOXGdL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-iPad-10-2-Inch-Wi-Fi-32GB/dp/B08264XHCZ/ref=zg_bs_g_amazon-renewed_d_sccl_5/135-6381759-7920809?psc=1"
+            },
+            {
+                "rank": 6,
+                "asin": "B09LNW3CY2",
+                "name": "Apple iPhone 13, 128GB, Midnight - Unlocked (Renewed)",
+                "ratings_count": 12477,
+                "rating": "4.1",
+                "sale_price": "$404.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61VuVU94RnL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-iPhone-13-128GB-Midnight/dp/B09LNW3CY2/ref=zg_bs_g_amazon-renewed_d_sccl_6/135-6381759-7920809?psc=1"
+            },
+            {
+                "rank": 7,
+                "asin": "B088NQXD8T",
+                "name": "Apple iPhone SE 2nd Generation, US Version, 64GB, Black - Unlocked (Renewed)",
+                "ratings_count": 19036,
+                "rating": "4.2",
+                "sale_price": "$118.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71Ta1OO00fL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-iPhone-SE-64GB-Black/dp/B088NQXD8T/ref=zg_bs_g_amazon-renewed_d_sccl_7/135-6381759-7920809?psc=1"
+            },
+            {
+                "rank": 8,
+                "asin": "B07P6Y7954",
+                "name": "Apple iPhone XR, 64GB, Black - Unlocked (Renewed)",
+                "ratings_count": 65135,
+                "rating": "4.4",
+                "sale_price": "$179.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51z1UO6N6LL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-iPhone-XR-Fully-Unlocked/dp/B07P6Y7954/ref=zg_bs_g_amazon-renewed_d_sccl_8/135-6381759-7920809?psc=1"
+            },
+            {
+                "rank": 9,
+                "asin": "B0BN72FYFG",
+                "name": "Apple iPhone 14, 128GB, Midnight - Unlocked (Renewed)",
+                "ratings_count": 2892,
+                "rating": "4.1",
+                "sale_price": "$499.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61WUSYIQdKL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-iPhone-14-128GB-Midnight/dp/B0BN72FYFG/ref=zg_bs_g_amazon-renewed_d_sccl_9/135-6381759-7920809?psc=1"
+            },
+            {
+                "rank": 10,
+                "asin": "B083M6YZKT",
+                "name": "Apple Watch Series 5 (GPS, 40MM) - Gold Aluminum Case with Pink Sand Sport Band (Renewed)",
+                "ratings_count": 26679,
+                "rating": "4.2",
+                "sale_price": "$137.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71luYyAPVTL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-Watch-GPS-40MM-Aluminum/dp/B083M6YZKT/ref=zg_bs_g_amazon-renewed_d_sccl_10/135-6381759-7920809?psc=1"
+            },
+            {
+                "rank": 11,
+                "asin": "B09WZF9633",
+                "name": "Samsung Galaxy S22 Ultra, Unlocked, 512GB, US Version, Phantom Black (Renewed)",
+                "ratings_count": 4072,
+                "rating": "3.9",
+                "sale_price": "$446.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/613Fp7fknhL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Samsung-Smartphone-Unlocked-Brightest-Processor/dp/B09WZF9633/ref=zg_bs_g_amazon-renewed_d_sccl_11/135-6381759-7920809?psc=1"
+            },
+            {
+                "rank": 12,
+                "asin": "B08PMYLKVF",
+                "name": "Apple iPhone 12 Pro, 128GB, Pacific Blue - Fully Unlocked (Renewed)",
+                "ratings_count": 10515,
+                "rating": "4.1",
+                "sale_price": "$379.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51n-83C8HYL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-iPhone-128GB-Pacific-Blue/dp/B08PMYLKVF/ref=zg_bs_g_amazon-renewed_d_sccl_12/135-6381759-7920809?psc=1"
+            },
+            {
+                "rank": 13,
+                "asin": "B07Q484YLW",
+                "name": "Apple Watch Series 4 (GPS + Cellular, 40MM) - Gold Aluminum Case with Pink Sand Sport Band (Renewed)",
+                "ratings_count": 24582,
+                "rating": "4.1",
+                "sale_price": "$127.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61NPQ+Y13dL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-Watch-GPS-Cellular-40mm/dp/B07Q484YLW/ref=zg_bs_g_amazon-renewed_d_sccl_13/135-6381759-7920809?psc=1"
+            },
+            {
+                "rank": 14,
+                "asin": "B0BNJNP1P6",
+                "name": "Apple AirPods with Lightning Charging Case (3rd Generation) (Renewed)",
+                "ratings_count": 1650,
+                "rating": "4.3",
+                "sale_price": "$111.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61CmrrKebAL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-AirPods-Lightning-Charging-Generation/dp/B0BNJNP1P6/ref=zg_bs_g_amazon-renewed_d_sccl_14/135-6381759-7920809?psc=1"
+            },
+            {
+                "rank": 15,
+                "asin": "B09LKTXKXQ",
+                "name": "Apple iPhone 13 Mini, 128GB, Midnight - Unlocked (Renewed)",
+                "ratings_count": 4431,
+                "rating": "4.1",
+                "sale_price": "$344.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61H3jeeHnUL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-iPhone-13-Mini-Midnight/dp/B09LKTXKXQ/ref=zg_bs_g_amazon-renewed_d_sccl_15/135-6381759-7920809?psc=1"
+            },
+            {
+                "rank": 16,
+                "asin": "B08KWJW3DV",
+                "name": "Apple iPad 2020 (10.2-inch, Wi-Fi, 32GB) - Space Gray (Renewed)",
+                "ratings_count": 3591,
+                "rating": "4.5",
+                "sale_price": "$164.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/517D9rSAztL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-iPad-10-2-inch-Wi-Fi-32GB/dp/B08KWJW3DV/ref=zg_bs_g_amazon-renewed_d_sccl_16/135-6381759-7920809?psc=1"
+            },
+            {
+                "rank": 17,
+                "asin": "B0BDY71GRG",
+                "name": "Apple iPhone SE 3rd Gen, 64GB, Midnight - Unlocked (Renewed)",
+                "ratings_count": 1928,
+                "rating": "4.2",
+                "sale_price": "$181.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61-wAIWB8NL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-iPhone-SE-3rd-Midnight/dp/B0BDY71GRG/ref=zg_bs_g_amazon-renewed_d_sccl_17/135-6381759-7920809?psc=1"
+            },
+            {
+                "rank": 18,
+                "asin": "B096T6Y623",
+                "name": "Samsung Galaxy S21 Ultra 5G, US Version, 128GB, Phantom Black - Unlocked (Renewed)",
+                "ratings_count": 2471,
+                "rating": "3.9",
+                "sale_price": "$264.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61dlAm9BpqL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Galaxy-S21-Ultra-5G-Smartphone/dp/B096T6Y623/ref=zg_bs_g_amazon-renewed_d_sccl_18/135-6381759-7920809?psc=1"
+            },
+            {
+                "rank": 19,
+                "asin": "B09NWDXS13",
+                "name": "Apple Watch Series 7 (GPS, 45mm) Midnight Aluminum Case with Midnight Sport Band (Renewed)",
+                "ratings_count": 2057,
+                "rating": "4.3",
+                "sale_price": "$189.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51I1QoWjX3L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-Watch-Midnight-Aluminum-Sport/dp/B09NWDXS13/ref=zg_bs_g_amazon-renewed_d_sccl_19/135-6381759-7920809?psc=1"
+            },
+            {
+                "rank": 20,
+                "asin": "B0CJ3XWXP8",
+                "name": "Xbox Series X Console (Renewed)Amazon RenewedXbox Series X",
+                "ratings_count": 901,
+                "rating": "4.1",
+                "sale_price": "$437.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51jKdIMGCsL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Xbox-X-Console-Renewed/dp/B0CJ3XWXP8/ref=zg_bs_g_amazon-renewed_d_sccl_20/135-6381759-7920809?psc=1"
+            },
+            {
+                "rank": 21,
+                "asin": "B0D5H6WRPH",
+                "name": "Meta Quest 3 128GB — Breakthrough Mixed Reality Headset — Powerful Performance (Renewed Premium)Amazon RenewedMeta Quest",
+                "ratings_count": 72,
+                "rating": "4.2",
+                "sale_price": "$379.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/412BHgkgNvL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Meta-Quest-128GB-Breakthrough-Performance-Oculus/dp/B0D5H6WRPH/ref=zg_bs_g_amazon-renewed_d_sccl_21/135-6381759-7920809?psc=1"
+            },
+            {
+                "rank": 22,
+                "asin": "B09SM24S8C",
+                "name": "Samsung Galaxy A03s Cell Phone, AT&T GSM Unlocked Android Smartphone, 32GB, Long Lasting Battery, Expandable Storage, 3 Camera Lenses, Infinite Display - Black (Renewed)",
+                "ratings_count": 663,
+                "rating": "3.8",
+                "sale_price": "$68.49",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51m45B3Yy+L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Samsung-Unlocked-Smartphone-Expandable-Infinite/dp/B09SM24S8C/ref=zg_bs_g_amazon-renewed_d_sccl_22/135-6381759-7920809?psc=1"
+            },
+            {
+                "rank": 23,
+                "asin": "B09PQ7C8Z3",
+                "name": "Apple Watch Series 7 GPS + Cellular, 45mm Midnight Aluminum Case with Midnight Sport Band - Regular (Renewed)",
+                "ratings_count": 6745,
+                "rating": "4.3",
+                "sale_price": "$194.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51NV+STh2IL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-Watch-Cellular-Midnight-Aluminum/dp/B09PQ7C8Z3/ref=zg_bs_g_amazon-renewed_d_sccl_23/135-6381759-7920809?psc=1"
+            },
+            {
+                "rank": 24,
+                "asin": "B0CMPMY9ZZ",
+                "name": "Apple iPhone 15, 128GB, Black - Unlocked (Renewed)",
+                "ratings_count": 617,
+                "rating": "4.4",
+                "sale_price": "$598.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51PtFHUPjBL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-iPhone-15-128GB-Black/dp/B0CMPMY9ZZ/ref=zg_bs_g_amazon-renewed_d_sccl_24/135-6381759-7920809?psc=1"
+            },
+            {
+                "rank": 25,
+                "asin": "B0CMZ8ZBVN",
+                "name": "Apple iPhone 15 Pro, 128GB, Blue Titanium - Unlocked (Renewed)",
+                "ratings_count": 460,
+                "rating": "4.3",
+                "sale_price": "$749.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61XXUxrT1xL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-iPhone-128GB-Blue-Titanium/dp/B0CMZ8ZBVN/ref=zg_bs_g_amazon-renewed_d_sccl_25/135-6381759-7920809?psc=1"
+            },
+            {
+                "rank": 26,
+                "asin": "B0BN9P1GXC",
+                "name": "Apple iPhone 14 Pro Max, 128GB, Deep Purple - Unlocked (Renewed)",
+                "ratings_count": 2340,
+                "rating": "4.1",
+                "sale_price": "$669.23",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51KLILQ67nL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-iPhone-128GB-Deep-Purple/dp/B0BN9P1GXC/ref=zg_bs_g_amazon-renewed_d_sccl_26/135-6381759-7920809?psc=1"
+            },
+            {
+                "rank": 27,
+                "asin": "B08L34JQ9C",
+                "name": "Samsung Galaxy S20 FE 5G, 128GB, Cloud Navy - Unlocked (Renewed)",
+                "ratings_count": 7399,
+                "rating": "3.9",
+                "sale_price": "$162.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51FaenRetSL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Samsung-Galaxy-S20-FE-128GB/dp/B08L34JQ9C/ref=zg_bs_g_amazon-renewed_d_sccl_27/135-6381759-7920809?psc=1"
+            },
+            {
+                "rank": 28,
+                "asin": "B08VLMQ3KS",
+                "name": "Samsung Galaxy S21 5G, US Version, 128GB, Phantom Gray - Unlocked (Renewed)",
+                "ratings_count": 6374,
+                "rating": "3.9",
+                "sale_price": "$194.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61XyNdmvr6L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Samsung-Galaxy-S21-5G-Version/dp/B08VLMQ3KS/ref=zg_bs_g_amazon-renewed_d_sccl_28/135-6381759-7920809?psc=1"
+            },
+            {
+                "rank": 29,
+                "asin": "B07D3DDJ4L",
+                "name": "Apple iPad (2018 Model) with Wi-Fi only 32GB Apple 9.7in iPad - Space Gray (Renewed)",
+                "ratings_count": 9475,
+                "rating": "4.5",
+                "sale_price": "$108.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51AnI3hZY1L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Renewed-Apple-Model-Wi-Fi-9-7in/dp/B07D3DDJ4L/ref=zg_bs_g_amazon-renewed_d_sccl_29/135-6381759-7920809?psc=1"
+            },
+            {
+                "rank": 30,
+                "asin": "B0B844T634",
+                "name": "Apple AirPods Pro Wireless Earbuds with MagSafe Charging Case (Renewed)",
+                "ratings_count": 1581,
+                "rating": "3.9",
+                "sale_price": "$133.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/5111xZtj59L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-AirPods-Wireless-Earbuds-Charging/dp/B0B844T634/ref=zg_bs_g_amazon-renewed_d_sccl_30/135-6381759-7920809?psc=1"
+            },
+            {
+                "rank": 31,
+                "asin": "B0BN91GD3J",
+                "name": "Apple iPhone 14 Pro, 256GB, Deep Purple - Unlocked (Renewed)",
+                "ratings_count": 2217,
+                "rating": "4.1",
+                "sale_price": "$660.32",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51CJE8vrvIL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-iPhone-256GB-Deep-Purple/dp/B0BN91GD3J/ref=zg_bs_g_amazon-renewed_d_sccl_31/145-1616237-4585555?psc=1"
+            },
+            {
+                "rank": 32,
+                "asin": "B074PWW6NS",
+                "name": "Apple iPad 2017 (9.7-inch, Wi-Fi, 32GB) - Space Gray (Renewed)",
+                "ratings_count": 12048,
+                "rating": "4.5",
+                "sale_price": "$100.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61eT9rYxfSL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/2017-Apple-iPad-9-7-inch-Wi-Fi/dp/B074PWW6NS/ref=zg_bs_g_amazon-renewed_d_sccl_32/145-1616237-4585555?psc=1"
+            },
+            {
+                "rank": 33,
+                "asin": "B092LJJYDQ",
+                "name": "DualSense Wireless Controller (Renewed)Amazon RenewedPlayStation 5",
+                "ratings_count": 1563,
+                "rating": "3.9",
+                "sale_price": "$65.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61wGR8gY41S._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Playstation-DualSense-Wireless-Controller-Renewed-5/dp/B092LJJYDQ/ref=zg_bs_g_amazon-renewed_d_sccl_33/145-1616237-4585555?psc=1"
+            },
+            {
+                "rank": 34,
+                "asin": "B09LPB9SQH",
+                "name": "Apple iPhone 13 Pro, 128GB, Sierra Blue - Unlocked (Renewed)",
+                "ratings_count": 4831,
+                "rating": "4.1",
+                "sale_price": "$539.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51UuPZLMaCL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-iPhone-13-Pro-Sierra/dp/B09LPB9SQH/ref=zg_bs_g_amazon-renewed_d_sccl_34/145-1616237-4585555?psc=1"
+            },
+            {
+                "rank": 35,
+                "asin": "B0BN9426PP",
+                "name": "Apple iPhone 14 Plus, 128GB, Midnight - Unlocked (Renewed)",
+                "ratings_count": 2136,
+                "rating": "4.2",
+                "sale_price": "$499.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/513-nH35+UL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-iPhone-14-Plus-Midnight/dp/B0BN9426PP/ref=zg_bs_g_amazon-renewed_d_sccl_35/145-1616237-4585555?psc=1"
+            },
+            {
+                "rank": 36,
+                "asin": "B08X1KKVCZ",
+                "name": "Dell Optiplex 7050 SFF Desktop PC Intel i7-7700 4-Cores 3.60GHz 32GB DDR4 1TB SSD WiFi BT HDMI Duel Monitor Support Windows 10 Pro Excellent Condition(Renewed)",
+                "ratings_count": 1906,
+                "rating": "4.0",
+                "sale_price": "$238.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61FVIijQp2L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Dell-Optiplex-Desktop-Excellent-Condition/dp/B08X1KKVCZ/ref=zg_bs_g_amazon-renewed_d_sccl_36/145-1616237-4585555?psc=1"
+            },
+            {
+                "rank": 37,
+                "asin": "B084B1HC6T",
+                "name": "Beats Powerbeats Pro Totally Wireless & High-Performance Bluetooth Earphones - Navy (Renewed)",
+                "ratings_count": 8811,
+                "rating": "4.3",
+                "sale_price": "$127.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51UxMEXCUbL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Powerbeats-Wireless-High-Performance-Bluetooth-Earphones/dp/B084B1HC6T/ref=zg_bs_g_amazon-renewed_d_sccl_37/145-1616237-4585555?psc=1"
+            },
+            {
+                "rank": 38,
+                "asin": "B09MMNDDQB",
+                "name": "Apple iPad 2021 9th Gen (10.2 inch, Wi-Fi + Cellular, 64GB) Space Gray (Renewed)",
+                "ratings_count": 2342,
+                "rating": "4.5",
+                "sale_price": "$249.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61ya9r7+jxL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/2021-Apple-10-2-inch-Wi-Fi-Cellular/dp/B09MMNDDQB/ref=zg_bs_g_amazon-renewed_d_sccl_38/145-1616237-4585555?psc=1"
+            },
+            {
+                "rank": 39,
+                "asin": "B0CH2MVTW9",
+                "name": "SAMSUNG Galaxy Watch 6 44mm Bluetooth Smartwatch w/ Fitness Tracker, Personalized HR Zones, Advanced Sleep Coaching, Heart Monitor, BIA Sensor, Biggest Screen, US Version, Graphite (Renewed)",
+                "ratings_count": 256,
+                "rating": "4.6",
+                "sale_price": "$149.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/711f6KLsMaL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/SAMSUNG-Bluetooth-Smartwatch-Personalized-Advanced/dp/B0CH2MVTW9/ref=zg_bs_g_amazon-renewed_d_sccl_39/145-1616237-4585555?psc=1"
+            },
+            {
+                "rank": 40,
+                "asin": "B09V5LDZQ4",
+                "name": "Samsung Galaxy S22 Smartphone, Factory Unlocked Android Cell Phone, 128GB, 8K Camera & Video, Brightest Display, Long Battery Life, Fast 4nm Processor, US Version, Phantom Black (Renewed)",
+                "ratings_count": 2256,
+                "rating": "4.0",
+                "sale_price": "$259.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61M4ndNetDL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Samsung-Smartphone-Unlocked-Brightest-Processor/dp/B09V5LDZQ4/ref=zg_bs_g_amazon-renewed_d_sccl_40/145-1616237-4585555?psc=1"
+            },
+            {
+                "rank": 41,
+                "asin": "B07SC58QBW",
+                "name": "Apple iPhone XS, US Version, 64GB, Space Gray - Unlocked (Renewed)",
+                "ratings_count": 21757,
+                "rating": "4.2",
+                "sale_price": "$179.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61l4klmN95L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-iPhone-64GB-Space-Gray/dp/B07SC58QBW/ref=zg_bs_g_amazon-renewed_d_sccl_41/145-1616237-4585555?psc=1"
+            },
+            {
+                "rank": 42,
+                "asin": "B0CTD9PNT2",
+                "name": "Apple Watch Series 9 [GPS + Cellular 41mm] Pink Aluminum Case with Pink Sport Band S/M (Renewed)",
+                "ratings_count": 535,
+                "rating": "4.3",
+                "sale_price": "$299.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61AgWAxKnlL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-Cellular-Smartwatch-Aluminum-Fitness/dp/B0CTD9PNT2/ref=zg_bs_g_amazon-renewed_d_sccl_42/145-1616237-4585555?psc=1"
+            },
+            {
+                "rank": 43,
+                "asin": "B0BPYPZ953",
+                "name": "SAMSUNG Galaxy Buds 2 Pro True Wireless Bluetooth Earbuds w/ Noise Cancelling, Hi-Fi Sound, 360 Audio, Comfort Ear Fit, HD Voice, Conversation Mode, IPX7 Water Resistant, Graphite (Renewed)",
+                "ratings_count": 433,
+                "rating": "4.2",
+                "sale_price": "$89.96",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61Qqg+T8nsL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/SAMSUNG-Bluetooth-Cancelling-Conversation-Resistant/dp/B0BPYPZ953/ref=zg_bs_g_amazon-renewed_d_sccl_43/145-1616237-4585555?psc=1"
+            },
+            {
+                "rank": 44,
+                "asin": "B08NPH29YG",
+                "name": "Apple iPad Air 2020 (10.9-inch, Wi-Fi, 64GB) - Space Gray (Renewed)",
+                "ratings_count": 752,
+                "rating": "4.4",
+                "sale_price": "$289.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71xtU-sL3aL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-iPad-10-9-inch-Wi-Fi-64GB/dp/B08NPH29YG/ref=zg_bs_g_amazon-renewed_d_sccl_44/145-1616237-4585555?psc=1"
+            },
+            {
+                "rank": 45,
+                "asin": "B08L5HKWFX",
+                "name": "Apple Watch Series 6 (GPS + Cellular, 44mm) - Space Gray Aluminum Case with Black Sport Band (Renewed)",
+                "ratings_count": 9635,
+                "rating": "4.3",
+                "sale_price": "$165.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51N0hSJADwL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-Watch-GPS-Cellular-44mm-Aluminum/dp/B08L5HKWFX/ref=zg_bs_g_amazon-renewed_d_sccl_45/145-1616237-4585555?psc=1"
+            },
+            {
+                "rank": 46,
+                "asin": "B09VRX9YVW",
+                "name": "HP Newest 14\" HD Laptop, Windows 11, Intel Celeron Dual-Core Processor Up to 2.60GHz, 4GB RAM, 64GB SSD, Webcam, Dale Pink(Renewed) (Dale Pink)",
+                "ratings_count": 2042,
+                "rating": "4.2",
+                "sale_price": "$169.85",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61MGsq1ZVaL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/HP-14-Laptop-Dual-Core-Processor/dp/B09VRX9YVW/ref=zg_bs_g_amazon-renewed_d_sccl_46/145-1616237-4585555?psc=1"
+            },
+            {
+                "rank": 47,
+                "asin": "B0DDM2YG5X",
+                "name": "Shark UV730 Navigator Lift-Away Upright Vacuum, PowerFins HairPro Self-Cleaning Brushroll, HEPA Filter with Anti-Allergen Technology, LED Headlights, Swivel Steering, Gray (Renewed)",
+                "ratings_count": 6,
+                "rating": "4.6",
+                "sale_price": "$109.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71q-WdHqS4L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Shark-UV730-Self-Cleaning-Anti-Allergen-Technology/dp/B0DDM2YG5X/ref=zg_bs_g_amazon-renewed_d_sccl_47/145-1616237-4585555?psc=1"
+            },
+            {
+                "rank": 48,
+                "asin": "B0125JFATY",
+                "name": "DualShock 4 Wireless Controller for PlayStation 4 , television- Jet Black (Renewed)",
+                "ratings_count": 2023,
+                "rating": "3.8",
+                "sale_price": "$38.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71LQ7OmynHL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/DualShock-Wireless-Controller-PlayStation-Sony-4/dp/B0125JFATY/ref=zg_bs_g_amazon-renewed_d_sccl_48/145-1616237-4585555?psc=1"
+            },
+            {
+                "rank": 49,
+                "asin": "B0CRHZZLYR",
+                "name": "Apple iPhone 15 Pro Max, 256GB, Blue Titanium - Unlocked (Renewed Premium)",
+                "ratings_count": 172,
+                "rating": "3.9",
+                "sale_price": "$989.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/31P+RImwnlL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-iPhone-256GB-Blue-Titanium/dp/B0CRHZZLYR/ref=zg_bs_g_amazon-renewed_d_sccl_49/145-1616237-4585555?psc=1"
+            },
+            {
+                "rank": 50,
+                "asin": "B07H6QCGGZ",
+                "name": "Apple Airpods In-Ear Bluetooth Wireless Headset (Renewed)",
+                "ratings_count": 1081,
+                "rating": "4.1",
+                "sale_price": "$92.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51QKvd62vVL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-Airpods-Bluetooth-Wireless-Refurbished/dp/B07H6QCGGZ/ref=zg_bs_g_amazon-renewed_d_sccl_50/145-1616237-4585555?psc=1"
+            }
+        ]
+    }
+}

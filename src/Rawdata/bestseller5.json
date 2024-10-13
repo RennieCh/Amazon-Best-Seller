@@ -1,0 +1,627 @@
+{
+    "200": {
+        "category": "Amazon Best SellersArts, Crafts & Sewing",
+        "category_hierarchy": [
+            {
+                "name": "Any Department",
+                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_arts-crafts_0_1"
+            },
+            {
+                "name": "Arts, Crafts & Sewing",
+                "url": "https://www.amazon.com/Best-Sellers-Arts-Crafts-Sewing/zgbs/arts-crafts/ref=zg_bs_nav_arts-crafts_0?pg=1"
+            }
+        ],
+        "child_categories": [
+            {
+                "category": "Beading & Jewelry Making",
+                "url": "https://www.amazon.com/Best-Sellers-Arts-Crafts-Sewing-Beading-Jewelry-Making/zgbs/arts-crafts/12896081/ref=zg_bs_nav_arts-crafts_1"
+            },
+            {
+                "category": "Craft Supplies",
+                "url": "https://www.amazon.com/Best-Sellers-Arts-Crafts-Sewing-Craft-Supplies-Materials/zgbs/arts-crafts/378733011/ref=zg_bs_nav_arts-crafts_1"
+            },
+            {
+                "category": "Fabric",
+                "url": "https://www.amazon.com/Best-Sellers-Arts-Crafts-Sewing-Craft-Hobby-Fabric/zgbs/arts-crafts/12899121/ref=zg_bs_nav_arts-crafts_1"
+            },
+            {
+                "category": "Fabric Painting & Dyeing",
+                "url": "https://www.amazon.com/Best-Sellers-Arts-Crafts-Sewing-Fabric-Decorating/zgbs/arts-crafts/12896841/ref=zg_bs_nav_arts-crafts_1"
+            },
+            {
+                "category": "Knitting & Crochet",
+                "url": "https://www.amazon.com/Best-Sellers-Arts-Crafts-Sewing-Knitting-Crochet-Supplies/zgbs/arts-crafts/12897221/ref=zg_bs_nav_arts-crafts_1"
+            },
+            {
+                "category": "Needlework",
+                "url": "https://www.amazon.com/Best-Sellers-Arts-Crafts-Sewing-Needlework-Supplies/zgbs/arts-crafts/2237329011/ref=zg_bs_nav_arts-crafts_1"
+            },
+            {
+                "category": "Organization & Storage",
+                "url": "https://www.amazon.com/Best-Sellers-Arts-Crafts-Sewing-Arts-Crafts-Sewing-Storage/zgbs/arts-crafts/2237594011/ref=zg_bs_nav_arts-crafts_1"
+            },
+            {
+                "category": "Painting, Drawing & Art Supplies",
+                "url": "https://www.amazon.com/Best-Sellers-Arts-Crafts-Sewing-Painting-Drawing-Art-Supplies/zgbs/arts-crafts/2747968011/ref=zg_bs_nav_arts-crafts_1"
+            },
+            {
+                "category": "Photo Transfer & Coloring Supplies",
+                "url": "https://www.amazon.com/Best-Sellers-Arts-Crafts-Sewing-Scrapbooking-Photo-Transfer-Coloring/zgbs/arts-crafts/12898411/ref=zg_bs_nav_arts-crafts_1"
+            },
+            {
+                "category": "Printmaking",
+                "url": "https://www.amazon.com/Best-Sellers-Arts-Crafts-Sewing-Printmaking-Supplies/zgbs/arts-crafts/12898451/ref=zg_bs_nav_arts-crafts_1"
+            },
+            {
+                "category": "Scrapbooking",
+                "url": "https://www.amazon.com/Best-Sellers-Arts-Crafts-Sewing-Scrapbooking-Stamping-Supplies/zgbs/arts-crafts/12898821/ref=zg_bs_nav_arts-crafts_1"
+            },
+            {
+                "category": "Sewing",
+                "url": "https://www.amazon.com/Best-Sellers-Arts-Crafts-Sewing-Sewing-Products/zgbs/arts-crafts/12899091/ref=zg_bs_nav_arts-crafts_1"
+            },
+            {
+                "category": "Thread & Floss",
+                "url": "https://www.amazon.com/Best-Sellers-Arts-Crafts-Sewing-Sewing-Thread-Floss/zgbs/arts-crafts/12897331/ref=zg_bs_nav_arts-crafts_1"
+            },
+            {
+                "category": "Yarn",
+                "url": "https://www.amazon.com/Best-Sellers-Arts-Crafts-Sewing-Yarn/zgbs/arts-crafts/262625011/ref=zg_bs_nav_arts-crafts_1"
+            }
+        ],
+        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/Best-Sellers-Arts-Crafts-Sewing/zgbs/arts-crafts/ref%3Dzg_bs_pg_2_arts-crafts%3F_encoding%3DUTF8%26pg%3D2",
+        "url": "https://www.amazon.com/Best-Sellers-Arts-Crafts-Sewing/zgbs/arts-crafts/ref=zg_bs_nav_arts-crafts_0?pg=1",
+        "product_listings": [
+            {
+                "rank": 1,
+                "asin": "B003MX7UAA",
+                "name": "Apple Barrel Acrylic Paint in Assorted Colors (2 Ounce), 20503 White",
+                "ratings_count": 1397,
+                "rating": "4.7",
+                "sale_price": "$0.58",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51gwtutaC8L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-Barrel-Acrylic-Assorted-Colors/dp/B003MX7UAA/ref=zg_bs_g_arts-crafts_d_sccl_1/146-3349861-4194107?psc=1"
+            },
+            {
+                "rank": 2,
+                "asin": "B09PR9R9SL",
+                "name": "Kukka Rosemary Oil for Hair - 100% Natural Rosemary Hair Oil - Rosemary Essential Oils for Skin, Diffuser & Aromatherapy - Soap Making & DIY (4 Fl Oz).",
+                "ratings_count": 8511,
+                "rating": "4.3",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71GKjQ4cRBL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Rosemary-Oil-for-Hair-Growth-Essential/dp/B09PR9R9SL/ref=zg_bs_g_arts-crafts_d_sccl_2/146-3349861-4194107?psc=1"
+            },
+            {
+                "rank": 3,
+                "asin": "B000P0LNRE",
+                "name": "Westcott 13901 8-Inch Titanium Scissors For Office and Home, Yellow/Gray, 2 Pack",
+                "ratings_count": 32821,
+                "rating": "4.7",
+                "sale_price": "$7.89",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71GcgFn9ubL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Westcott-13901-Straight-Titanium-Scissors/dp/B000P0LNRE/ref=zg_bs_g_arts-crafts_d_sccl_3/146-3349861-4194107?psc=1"
+            },
+            {
+                "rank": 4,
+                "asin": "B0018NBVKQ",
+                "name": "Apple Barrel Acrylic Paint in Assorted Colors (8 Ounce), 20403 White",
+                "ratings_count": 9518,
+                "rating": "4.8",
+                "sale_price": "$2.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51nN0mGmGzL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-Barrel-Acrylic-Assorted-Colors/dp/B0018NBVKQ/ref=zg_bs_g_arts-crafts_d_sccl_4/146-3349861-4194107?psc=1"
+            },
+            {
+                "rank": 5,
+                "asin": "B0C3QP952N",
+                "name": "BADCOLOR Black Cream-Blendable Face Body Paint Stick for Adults Children Eye Black Softball Football Baseball Sports , Non-Toxic Hypoallergenic for Halloween SFX Makeup Cosplay Joker Costume Parties",
+                "ratings_count": 846,
+                "rating": "4.3",
+                "sale_price": "$5.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61JtdbhsCqL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/BADCOLOR-Cream-Blendable-Non-Toxic-Hypoallergenic-Halloween/dp/B0C3QP952N/ref=zg_bs_g_arts-crafts_d_sccl_5/146-3349861-4194107?psc=1"
+            },
+            {
+                "rank": 6,
+                "asin": "B08YS42GPG",
+                "name": "The Woobles Beginners Crochet Kit with Easy Peasy Yarn as seen on Shark Tank - with Step-by-Step Video Tutorials - Pierre The Penguin",
+                "ratings_count": 5243,
+                "rating": "4.5",
+                "sale_price": "$24.49",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71mJmURlv0L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/PRE-Order-Woobles-Beginners-Tutorials-Penguin/dp/B08YS42GPG/ref=zg_bs_g_arts-crafts_d_sccl_6/146-3349861-4194107?psc=1"
+            },
+            {
+                "rank": 7,
+                "asin": "B09VCYS41G",
+                "name": "Betem 24 Colors Dual Tip Acrylic Paint Pens Markers, Premium Acrylic Paint Pens for Wood, Canvas, Stone, Rock Painting, Glass, Ceramic Surfaces, DIY Crafts Making Art Supplies",
+                "ratings_count": 7889,
+                "rating": "4.6",
+                "sale_price": "$11.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81FV47uX-nL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Betem-Acrylic-Painting-Surfaces-Supplies/dp/B09VCYS41G/ref=zg_bs_g_arts-crafts_d_sccl_7/146-3349861-4194107?psc=1"
+            },
+            {
+                "rank": 8,
+                "asin": "B09G2979JS",
+                "name": "Gionlion 6000 Clay Beads Bracelet Making Kit, 24 Colors Flat Preppy Beads for Friendship Bracelets, Polymer Clay Beads with Charms for Jewelry Making, Crafts Gifts for Girls Ages 6-12",
+                "ratings_count": 12078,
+                "rating": "4.7",
+                "sale_price": "$8.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/819HZrh0cIL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Bracelet-Gionlion-Polymer-Bracelets-Necklace/dp/B09G2979JS/ref=zg_bs_g_arts-crafts_d_sccl_8/146-3349861-4194107?psc=1"
+            },
+            {
+                "rank": 9,
+                "asin": "B07YDDX4JL",
+                "name": "3-Pack 8\" Heavy Duty Scissors with Ultra Sharp Blades and Comfort Grip Handles - For Office, Home, School, Sewing, and Crafts",
+                "ratings_count": 82458,
+                "rating": "4.8",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61iVyRt2AfL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Scissors-Multipurpose-Comfort-Grip-Handles-Supplies/dp/B07YDDX4JL/ref=zg_bs_g_arts-crafts_d_sccl_9/146-3349861-4194107?psc=1"
+            },
+            {
+                "rank": 10,
+                "asin": "B089T7PX27",
+                "name": "Crayola Air Dry Clay (5lbs), Natural White Modeling Clay for Kids, Sculpting Material, Bulk Craft Supplies for School Classrooms [Amazon Exclusive]",
+                "ratings_count": 17960,
+                "rating": "4.6",
+                "sale_price": "$10.62",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61orX92CK8L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Crayola-Natural-White-Modeling-Bucket/dp/B089T7PX27/ref=zg_bs_g_arts-crafts_d_sccl_10/146-3349861-4194107?psc=1"
+            },
+            {
+                "rank": 11,
+                "asin": "B0CRB1VZ46",
+                "name": "Amazon Basics Multipurpose, Comfort Grip, PVD Coated, Stainless Steel Office Scissors, Grey 1 pack",
+                "ratings_count": 56598,
+                "rating": "4.8",
+                "sale_price": "$3.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51XUXWgWF8L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-Basics-Multipurpose-Stainless-Scissors/dp/B0CRB1VZ46/ref=zg_bs_g_arts-crafts_d_sccl_11/146-3349861-4194107?psc=1"
+            },
+            {
+                "rank": 12,
+                "asin": "B00178QQJ8",
+                "name": "Mod Podge Gloss Sealer, Glue & Finish: All-in-One Craft Solution- Quick Dry, Easy Clean, for Wood, Paper, Fabric & More. Non-Toxic - Craft with Confidence, Made in USA, 16 oz., Pack of 1",
+                "ratings_count": 54203,
+                "rating": "4.8",
+                "sale_price": "$7.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/719FHcaVnrL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Mod-Podge-Waterbase-16-Ounce-CS11202/dp/B00178QQJ8/ref=zg_bs_g_arts-crafts_d_sccl_12/146-3349861-4194107?psc=1"
+            },
+            {
+                "rank": 13,
+                "asin": "B002TOL3ZG",
+                "name": "Duck 1265015 1.88\" x 20 yd Winking Tape, Single Roll, White",
+                "ratings_count": 39449,
+                "rating": "4.7",
+                "sale_price": "$3.50",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61m-MSdmjLL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Duck-Brand-1265015-Inches-Single/dp/B002TOL3ZG/ref=zg_bs_g_arts-crafts_d_sccl_13/146-3349861-4194107?psc=1"
+            },
+            {
+                "rank": 14,
+                "asin": "B076XR6CFZ",
+                "name": "beadsland Flat Back Crystal Rhinestones Round Gems for Nail Art and Craft Glue Fix, CrystalAB (4.6-4.8mm) SS20/1440pcs",
+                "ratings_count": 9073,
+                "rating": "4.7",
+                "sale_price": "$8.29",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71aRoniZxWL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Beadsland-Rhinestones-1-3mm-6-5mm-CrystalAB-4-9-5-0mm/dp/B076XR6CFZ/ref=zg_bs_g_arts-crafts_d_sccl_14/146-3349861-4194107?psc=1"
+            },
+            {
+                "rank": 15,
+                "asin": "B08CGMYQGN",
+                "name": "UCANBE Athena Face Body Paint Oil Palette, Professional Flash Non Toxic Safe Tattoo Halloween FX Party Artist Fancy Makeup Painting Kit For Kids and Adult",
+                "ratings_count": 9821,
+                "rating": "4.4",
+                "sale_price": "$15.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71QdBe2W7LL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/UCANBE-Palette-Professional-Halloween-Painting/dp/B08CGMYQGN/ref=zg_bs_g_arts-crafts_d_sccl_15/146-3349861-4194107?psc=1"
+            },
+            {
+                "rank": 16,
+                "asin": "B08BNNV3JY",
+                "name": "Caliart Acrylic Paint Set With 12 Brushes, 24 Colors (59ml, 2oz) Art Craft Paints Gifts for Artists Kids Beginners & Painters, Halloween Pumpkin Canvas Ceramic Rock Painting Kit Art Supplies",
+                "ratings_count": 18836,
+                "rating": "4.7",
+                "sale_price": "$25.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81EkGbfrPBL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Caliart-Supplies-Painting-Pigments-Beginners/dp/B08BNNV3JY/ref=zg_bs_g_arts-crafts_d_sccl_16/146-3349861-4194107?psc=1"
+            },
+            {
+                "rank": 17,
+                "asin": "B0CJV5FTNJ",
+                "name": "5 STARS UNITED Ring Sizers for Loose Rings - 8 Easy-Clip Ring Size Adjuster for 1-10 mm Band Widths - Ring Guards for Women and Men",
+                "ratings_count": 76311,
+                "rating": "4.2",
+                "sale_price": "$8.55",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/715X8N1lgYL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Ring-Size-Adjuster-for-Loose-Rings/dp/B0CJV5FTNJ/ref=zg_bs_g_arts-crafts_d_sccl_17/146-3349861-4194107?psc=1"
+            },
+            {
+                "rank": 18,
+                "asin": "B0CPMFV2ZF",
+                "name": "Sharpie Acrylic Creative Markers, Bullet Tip, Vibrant Assorted Colors, Non-Bleeding Water-Based Ink, Pack of 12",
+                "ratings_count": 2427,
+                "rating": "4.8",
+                "sale_price": "$16.59",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81tzF4jqlGL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/SHARPIE-Creative-Markers-Water-Based-Assorted/dp/B0CPMFV2ZF/ref=zg_bs_g_arts-crafts_d_sccl_18/146-3349861-4194107?psc=1"
+            },
+            {
+                "rank": 19,
+                "asin": "B0772XSNXY",
+                "name": "iBayam Journal Planner Pens Colored Pens Fine Point Markers Fine Tip Drawing Pens Fineliner Pen for Bullet Journaling Writing Note Taking Calendar Coloring Art Office School Supplies, 18-Pack",
+                "ratings_count": 116645,
+                "rating": "4.6",
+                "sale_price": "$8.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61Uz0P19r-L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Fineliner-Journaling-Calendar-Coloring-Supplies/dp/B0772XSNXY/ref=zg_bs_g_arts-crafts_d_sccl_19/146-3349861-4194107?psc=1"
+            },
+            {
+                "rank": 20,
+                "asin": "B07MT89MCW",
+                "name": "GDMINLO Soft Tape Measure Double Scale Body Sewing Flexible Ruler for Weight Loss Medical Body Measurement Sewing Tailor Craft Vinyl Ruler, Has Centimetre Scale on Reverse Side 60-inch（White）",
+                "ratings_count": 62773,
+                "rating": "4.8",
+                "sale_price": "$3.59",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61vysAVtFBL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Measure-Flexible-Measurement-Centimetre-60-inch%EF%BC%88White%EF%BC%89/dp/B07MT89MCW/ref=zg_bs_g_arts-crafts_d_sccl_20/146-3349861-4194107?psc=1"
+            },
+            {
+                "rank": 21,
+                "asin": "B089ZVY1L1",
+                "name": "HTVRONT HTV Vinyl Rolls Heat Transfer Vinyl - 12\" x 8ft White HTV Vinyl for Shirts, Iron on Vinyl for Cricut & Cameo - Easy to Cut & Weed for Heat Vinyl Design (White)",
+                "ratings_count": 36513,
+                "rating": "4.5",
+                "sale_price": "$8.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51Cv1lx9NyL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/HTVRONT-Vinyl-Rolls-Heat-Transfer/dp/B089ZVY1L1/ref=zg_bs_g_arts-crafts_d_sccl_21/146-3349861-4194107?psc=1"
+            },
+            {
+                "rank": 22,
+                "asin": "B076CP6F36",
+                "name": "Apple Barrel, Vibrant Spectrum Collection Acrylic Craft Paint, PROMOABIII, 2 fl oz each, 16 assorted matte colors, 16 count",
+                "ratings_count": 44946,
+                "rating": "4.8",
+                "sale_price": "$16.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81++8e6G1ZL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-Barrel-PROMOABIII-Acrylic-2-Ounce/dp/B076CP6F36/ref=zg_bs_g_arts-crafts_d_sccl_22/146-3349861-4194107?psc=1"
+            },
+            {
+                "rank": 23,
+                "asin": "B001IKES5O",
+                "name": "Mod Podge Matte Sealer, Glue & Finish: All-in-One Craft Solution- Quick Dry, Easy Clean, for Wood, Paper, Fabric & More. Non-Toxic - Craft with Confidence, Made in USA, 16 oz., Pack of 1",
+                "ratings_count": 30961,
+                "rating": "4.8",
+                "sale_price": "$6.31",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61uQygFGhXL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Mod-Podge-Waterbase-16-Ounce-CS11302/dp/B001IKES5O/ref=zg_bs_g_arts-crafts_d_sccl_23/146-3349861-4194107?psc=1"
+            },
+            {
+                "rank": 24,
+                "asin": "B01N09ZDEI",
+                "name": "Soucolor 72-Color Colored Pencils for Adult Coloring Books, Back to School Supplies, Soft Core Artist Sketching Drawing Pencils Drawing Supplies, Art Supplies Kit for Adults Kids, Coloring Pencils Set",
+                "ratings_count": 19374,
+                "rating": "4.7",
+                "sale_price": "$11.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81mbDWmT1NL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Soucolor-72-Color-Coloring-Crafting-72-Colors/dp/B01N09ZDEI/ref=zg_bs_g_arts-crafts_d_sccl_24/146-3349861-4194107?psc=1"
+            },
+            {
+                "rank": 25,
+                "asin": "B0BBWHFF2W",
+                "name": "Sewing Kit Basic,Marcoon Needle and Thread Kit with Sewing Supplies and Accessories for Adults,Kids,Beginner,Home,Travel,Emergency Including Scissors,Measure Tape,Needle Threader and More",
+                "ratings_count": 4966,
+                "rating": "4.7",
+                "sale_price": "$7.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81-pbEcDR5L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Marcoon-Accessories-Traveller-Home%EF%BC%8CEmergency-Including/dp/B0BBWHFF2W/ref=zg_bs_g_arts-crafts_d_sccl_25/146-3349861-4194107?psc=1"
+            },
+            {
+                "rank": 26,
+                "asin": "B09W1J7FWG",
+                "name": "Red Heart Super Saver White Yarn - 3 Pack of 198g/7oz - Acrylic - 4 Medium (Worsted) - 364 Yards - Knitting/Crochet",
+                "ratings_count": 19859,
+                "rating": "4.7",
+                "sale_price": "$11.47",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61Q3Xrz8bIL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Red-Heart-Super-Saver-White/dp/B09W1J7FWG/ref=zg_bs_g_arts-crafts_d_sccl_26/146-3349861-4194107?psc=1"
+            },
+            {
+                "rank": 27,
+                "asin": "B07YDDF26Y",
+                "name": "Soucolor Acrylic Paint Brushes Set, 20Pcs Round Pointed Tip Artist Paintbrushes for Acrylic Painting Oil Watercolor Canvas Boards Rock Body Face Nail Art, Halloween Pumpkin Ceramic Crafts Supplies",
+                "ratings_count": 25616,
+                "rating": "4.6",
+                "sale_price": "$4.69",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/717vj8b2QkS._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Paintbrushes-Watercolor-Painting-Miniature-Detailing/dp/B07YDDF26Y/ref=zg_bs_g_arts-crafts_d_sccl_27/146-3349861-4194107?psc=1"
+            },
+            {
+                "rank": 28,
+                "asin": "B000XZVXNK",
+                "name": "HeatnBond Hem Iron-On Adhesive, Super Weight, 3/4 Inch x 8 Yards, White",
+                "ratings_count": 24905,
+                "rating": "4.4",
+                "sale_price": "$5.87",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81wJbbk3-CL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/HeatnBond-Iron-Adhesive-Super-Weight/dp/B000XZVXNK/ref=zg_bs_g_arts-crafts_d_sccl_28/146-3349861-4194107?psc=1"
+            },
+            {
+                "rank": 29,
+                "asin": "B0BQTYYVZH",
+                "name": "Vanhench Brown Wrapping Paper, Craft Paper, Kraft Paper 17.5\"x 1200\"(100'), Gift Wrapping Bulletin Board Arts & Crafts, Bouquet Flower Table Covering Poster Packing Shipping Moving Supplies 70GSM 50LB",
+                "ratings_count": 2675,
+                "rating": "4.7",
+                "sale_price": "$6.69",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61A7rxSxclL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Wrapping-Covering-Bulletin-Bouquet-Supplies/dp/B0BQTYYVZH/ref=zg_bs_g_arts-crafts_d_sccl_29/146-3349861-4194107?psc=1"
+            },
+            {
+                "rank": 30,
+                "asin": "B001DQ4L28",
+                "name": "Berwick 072073 7/8\" Wide Single Face Satin Ribbon, Black, 6 Yds",
+                "ratings_count": 11026,
+                "rating": "4.7",
+                "sale_price": "$1.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/717szGIYNGL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Offray-Berwick-Single-Satin-Ribbon/dp/B001DQ4L28/ref=zg_bs_g_arts-crafts_d_sccl_30/146-3349861-4194107?psc=1"
+            },
+            {
+                "rank": 31,
+                "asin": "B085DP36VF",
+                "name": "Soucolor Art Brush Markers Pens for Adult Coloring Books, 34 Colors Numbered Dual Tip (Brush and Fine Point) Marker Pen for Kids Note taking Planner Lettering Calligraphy Drawing Preppy School Stuff",
+                "ratings_count": 12474,
+                "rating": "4.6",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81rf7fIPFZL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Fineliner-Lettering-Calligraphy-Sketching-Journaling/dp/B085DP36VF/ref=zg_bs_g_arts-crafts_d_sccl_31/144-4796398-4872506?psc=1"
+            },
+            {
+                "rank": 32,
+                "asin": "B00143SNPG",
+                "name": "Elmer's Disappearing Purple School Glue Sticks, Washable, 22 Grams, 3 Count",
+                "ratings_count": 13666,
+                "rating": "4.8",
+                "sale_price": "$3.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81oLpczDZOL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Elmers-Disappearing-Purple-School-E562/dp/B00143SNPG/ref=zg_bs_g_arts-crafts_d_sccl_32/144-4796398-4872506?psc=1"
+            },
+            {
+                "rank": 33,
+                "asin": "B09X9DPDBQ",
+                "name": "Redtwo 5100 Clay Beads Bracelet Making Kit, Flat Preppy Beads for Friendship Jewelry Making,Polymer Heishi Beads with Charms Gifts for Teen Girls Crafts for Girls Ages 8-12",
+                "ratings_count": 9088,
+                "rating": "4.6",
+                "sale_price": "$7.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/817w4yo6gZL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Redtwo-Bracelet-Making-Jewelry-Polymer/dp/B09X9DPDBQ/ref=zg_bs_g_arts-crafts_d_sccl_33/144-4796398-4872506?psc=1"
+            },
+            {
+                "rank": 34,
+                "asin": "B07K791YRP",
+                "name": "Gorilla Dual Temp Mini Hot Glue Gun Kit with 30 Hot Glue Sticks, Precision Nozzle, and Easy Squeeze Trigger, for DIY, Craft, Repairs, and More, Orange (Combo Pack:1 Mini Gun, 30 Glue Sticks)",
+                "ratings_count": 38244,
+                "rating": "4.7",
+                "sale_price": "$29.42",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71Ln5PDEFnL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Gorilla-8401509-Hot-Glue-Sticks/dp/B07K791YRP/ref=zg_bs_g_arts-crafts_d_sccl_34/144-4796398-4872506?psc=1"
+            },
+            {
+                "rank": 35,
+                "asin": "B07BG4NH83",
+                "name": "Apple Barrel Multi Surface Acrylic Paint, 2 oz, Black 2 Fl Oz",
+                "ratings_count": 12666,
+                "rating": "4.7",
+                "sale_price": "$1.07",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61zgeg2rrJL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-Barrel-21985E-Surface-Acrylic/dp/B07BG4NH83/ref=zg_bs_g_arts-crafts_d_sccl_35/144-4796398-4872506?psc=1"
+            },
+            {
+                "rank": 36,
+                "asin": "B07D4YF3K4",
+                "name": "Neenah Index Cardstock, 8.5\" x 11\", 90 lb/163 gsm, White, Lightweight, 94 Brightness, 300 Sheets (91437)",
+                "ratings_count": 13517,
+                "rating": "4.7",
+                "sale_price": "$12.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81hjsUgSXbL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Neenah-Cardstock-Heavy-Weight-Brightness-91437/dp/B07D4YF3K4/ref=zg_bs_g_arts-crafts_d_sccl_36/144-4796398-4872506?psc=1"
+            },
+            {
+                "rank": 37,
+                "asin": "B07PW7J8QG",
+                "name": "Goo Gone Original Liquid - 8 Ounce - Surface Safe Adhesive Remover Safely Removes Stickers Labels Decals Residue Tape Chewing Gum Grease Tar Crayon Glue",
+                "ratings_count": 14757,
+                "rating": "4.6",
+                "sale_price": "$9.89",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61zw85lNeVL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Goo-Gone-Original-Liquid-Adhesive/dp/B07PW7J8QG/ref=zg_bs_g_arts-crafts_d_sccl_37/144-4796398-4872506?psc=1"
+            },
+            {
+                "rank": 38,
+                "asin": "B017T97A02",
+                "name": "Lion Brand 24/7 Cotton Yarn, Lightweight Yarn for Knitting, Crocheting, and Crafts, White, 1 Pack",
+                "ratings_count": 14090,
+                "rating": "4.6",
+                "sale_price": "$5.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71P10FwazpL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Skein-24-Cotton%C2%AE-Yarn-White/dp/B017T97A02/ref=zg_bs_g_arts-crafts_d_sccl_38/144-4796398-4872506?psc=1"
+            },
+            {
+                "rank": 39,
+                "asin": "B08TLK1ZSV",
+                "name": "9 x 12 inches Sketch Book, Top Spiral Bound Sketch Pad, 1 Pack 100-Sheets (68lb/100gsm), Acid Free Art Sketchbook Artistic Drawing Painting Writing Paper for Kids Adults Beginners Artists",
+                "ratings_count": 11901,
+                "rating": "4.8",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71mrpkslSuL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/100-Sheets-Sketchbook-Artistic-Painting-Beginners/dp/B08TLK1ZSV/ref=zg_bs_g_arts-crafts_d_sccl_39/144-4796398-4872506?psc=1"
+            },
+            {
+                "rank": 40,
+                "asin": "B07D4J1MQ4",
+                "name": "Paxcoo 1mm Elastic Bracelet String Cord Stretch Bead Cord for Jewelry Making and Bracelet Making White",
+                "ratings_count": 27370,
+                "rating": "4.4",
+                "sale_price": "$6.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/517YQJNAMeS._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Paxcoo-Elastic-Bracelet-Stretch-Jewelry/dp/B07D4J1MQ4/ref=zg_bs_g_arts-crafts_d_sccl_40/144-4796398-4872506?psc=1"
+            },
+            {
+                "rank": 41,
+                "asin": "B003A2I5T8",
+                "name": "Astrobrights/Neenah Bright White Cardstock, 8.5\" x 11\", 65 lb/176 gsm, White, 75 Sheets (90905-02) - Packaging May Vary",
+                "ratings_count": 22762,
+                "rating": "4.8",
+                "sale_price": "$6.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81UVmEEoiAL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Neenah-Bright-Cardstock-Sheets-90905/dp/B003A2I5T8/ref=zg_bs_g_arts-crafts_d_sccl_41/144-4796398-4872506?psc=1"
+            },
+            {
+                "rank": 42,
+                "asin": "B0B7GCFB26",
+                "name": "MEICOLY White Cream Face Body Paint,2.37Oz Large Tube Clown White Makeup,Water Based Full Body Paint for Adults and Kids,Halloween SFX Skull Joker Zombie Vampire Skeleton Goth Cosplay Mime Makeup",
+                "ratings_count": 622,
+                "rating": "4.4",
+                "sale_price": "$8.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61+ajHSVjRL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/MEICOLY-Children-Halloween-Special-Skeleton/dp/B0B7GCFB26/ref=zg_bs_g_arts-crafts_d_sccl_42/144-4796398-4872506?psc=1"
+            },
+            {
+                "rank": 43,
+                "asin": "B000Y0078G",
+                "name": "FolkArt Acrylic Metallic Paint, Non Toxic, 2 Fl Oz (Pack of 1), Pure Gold",
+                "ratings_count": 2356,
+                "rating": "4.7",
+                "sale_price": "$1.79",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71kceBHDceL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/FolkArt-Metallic-Acrylic-Assorted-Colors/dp/B000Y0078G/ref=zg_bs_g_arts-crafts_d_sccl_43/144-4796398-4872506?psc=1"
+            },
+            {
+                "rank": 44,
+                "asin": "B0728B4CLJ",
+                "name": "FolkArt Acrylic Paint in Assorted Colors (2 oz), , Mossy Meadow",
+                "ratings_count": 558,
+                "rating": "4.8",
+                "sale_price": "$1.17",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71qw9Ftti6L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/FolkArt-Acrylic-Assorted-Colors-6456/dp/B0728B4CLJ/ref=zg_bs_g_arts-crafts_d_sccl_44/144-4796398-4872506?psc=1"
+            },
+            {
+                "rank": 45,
+                "asin": "B002665SYY",
+                "name": "Liquitex BASICS Acrylic Paint, 250ml (8.5-oz) Tube, Titanium White",
+                "ratings_count": 4389,
+                "rating": "4.8",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61lW2Gj2SHL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Liquitex-BASICS-Acrylic-8-45-oz-Titanium/dp/B002665SYY/ref=zg_bs_g_arts-crafts_d_sccl_45/144-4796398-4872506?psc=1"
+            },
+            {
+                "rank": 46,
+                "asin": "B07Y3VDPLF",
+                "name": "Melsan 1x4 inch Hook and Loop Strips with Adhesive - 15 Sets, Strong Back Adhesive Fasten Mounting Tape for Home or Office Use - Instead of Holes and Screws, Black",
+                "ratings_count": 16140,
+                "rating": "4.5",
+                "sale_price": "$9.90",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61nS6xh3jcL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Melsan-inch-Hook-Loop-Tape/dp/B07Y3VDPLF/ref=zg_bs_g_arts-crafts_d_sccl_46/144-4796398-4872506?psc=1"
+            },
+            {
+                "rank": 47,
+                "asin": "B098HXCJNQ",
+                "name": "340 Pack Safety Pins Assorted, 5 Different Sizes Small and Large Safety Pins, Safety Pins for Clothes Halloween Costume Pins Sewing, Nickel Plated Steel Pin Bulk, Arts and Crafts Supplies (Silver)",
+                "ratings_count": 6450,
+                "rating": "4.5",
+                "sale_price": "$5.37",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81r1UA0tTIL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Assorted-Different-Pinning-Jackets-Clothes/dp/B098HXCJNQ/ref=zg_bs_g_arts-crafts_d_sccl_47/144-4796398-4872506?psc=1"
+            },
+            {
+                "rank": 48,
+                "asin": "B000QTO78Q",
+                "name": "Mosser Lee ML0560 Spanish Moss, 250 Cubic Inches",
+                "ratings_count": 12770,
+                "rating": "4.6",
+                "sale_price": "$4.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81tPEc5OVRL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Mosser-Lee-ML0560-Spanish-Moss/dp/B000QTO78Q/ref=zg_bs_g_arts-crafts_d_sccl_48/144-4796398-4872506?psc=1"
+            },
+            {
+                "rank": 49,
+                "asin": "B07WG5B464",
+                "name": "2 Pack Tape Measure Measuring Tape for Body Fabric Sewing Tailor Cloth Knitting Vinyl Home Craft Measurements, 60-Inch Soft Fashion Pink & Retractable Black Double Scales Rulers for Body Weight Loss",
+                "ratings_count": 49074,
+                "rating": "4.8",
+                "sale_price": "$3.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61shRjpfqiL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Pack-Measuring-Knitting-Measurements-Retractable/dp/B07WG5B464/ref=zg_bs_g_arts-crafts_d_sccl_49/144-4796398-4872506?psc=1"
+            },
+            {
+                "rank": 50,
+                "asin": "B00178QSE6",
+                "name": "Aleene's Fabric Fusion Permanent Fabric Adhesive 4 fl. oz.",
+                "ratings_count": 20652,
+                "rating": "4.1",
+                "sale_price": "$6.36",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51BVJlM7VxL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Aleenes-Fabric-Fusion-Permanent-Adhesive/dp/B00178QSE6/ref=zg_bs_g_arts-crafts_d_sccl_50/144-4796398-4872506?psc=1"
+            }
+        ]
+    }
+}

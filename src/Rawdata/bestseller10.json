@@ -1,0 +1,711 @@
+{
+    "200": {
+        "category": "Amazon Best SellersBooks",
+        "category_hierarchy": [
+            {
+                "name": "Any Department",
+                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_books_0_1"
+            },
+            {
+                "name": "Books",
+                "url": "https://www.amazon.com/best-sellers-books-Amazon/zgbs/books/ref=zg_bs_nav_books_0?pg=1"
+            }
+        ],
+        "child_categories": [
+            {
+                "category": "Arts & Photography",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Arts-Photography/zgbs/books/1/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "Biographies & Memoirs",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Biographies/zgbs/books/2/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "Books on CD",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Books-on-CD/zgbs/books/69724/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "Business & Money",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Business-Money/zgbs/books/3/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "Calendars",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Calendars/zgbs/books/3248857011/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "Children's Books",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Childrens-Books/zgbs/books/4/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "Christian Books & Bibles",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Christian-Books-Bibles/zgbs/books/12290/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "Comics & Graphic Novels",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Comics-Graphic-Novels/zgbs/books/4366/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "Computers & Technology",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Computers-Technology/zgbs/books/5/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "Cookbooks, Food & Wine",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Cookbooks-Food-Wine/zgbs/books/6/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "Crafts, Hobbies & Home",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Crafts-Hobbies-Home/zgbs/books/48/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "Education & Teaching",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Education-Teaching/zgbs/books/8975347011/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "Engineering & Transportation",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Engineering-Transportation/zgbs/books/173507/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "Health, Fitness & Dieting",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Health-Fitness-Dieting/zgbs/books/10/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "History",
+                "url": "https://www.amazon.com/Best-Sellers-Books-History/zgbs/books/9/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "Humor & Entertainment",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Humor-Entertainment/zgbs/books/86/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "Law",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Law/zgbs/books/10777/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "Lesbian, Gay, Bisexual & Transgender Books",
+                "url": "https://www.amazon.com/Best-Sellers-Books-LGBTQ-Books/zgbs/books/301889/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "Libros en español",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Libros-en-espaol/zgbs/books/16568978011/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "Literature & Fiction",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Literature-Fiction/zgbs/books/17/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "Medical Books",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Medical-Books/zgbs/books/173514/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "Mystery, Thriller & Suspense",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Mystery-Thriller-Suspense/zgbs/books/18/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "New, Used & Rental Textbooks",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Textbooks/zgbs/books/465600/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "Parenting & Relationships",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Parenting-Relationships/zgbs/books/20/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "Politics & Social Sciences",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Politics-Social-Sciences/zgbs/books/3377866011/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "Reference",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Reference/zgbs/books/21/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "Religion & Spirituality",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Religion-Spirituality/zgbs/books/22/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "Romance",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Romance/zgbs/books/23/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "Science & Math",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Science-Math/zgbs/books/75/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "Science Fiction & Fantasy",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Science-Fiction-Fantasy/zgbs/books/25/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "Self-Help",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Self-Help/zgbs/books/4736/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "Sports & Outdoors",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Sports-Outdoors/zgbs/books/26/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "Teens",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Teen-Young-Adult-Books/zgbs/books/28/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "Test Preparation",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Test-Preparation/zgbs/books/5267710011/ref=zg_bs_nav_books_1"
+            },
+            {
+                "category": "Travel",
+                "url": "https://www.amazon.com/Best-Sellers-Books-Travel/zgbs/books/27/ref=zg_bs_nav_books_1"
+            }
+        ],
+        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/best-sellers-books-Amazon/zgbs/books/ref%3Dzg_bs_pg_2_books%3F_encoding%3DUTF8%26pg%3D2",
+        "url": "https://www.amazon.com/best-sellers-books-Amazon/zgbs/books/ref=zg_bs_nav_books_0?pg=1",
+        "product_listings": [
+            {
+                "rank": 1,
+                "asin": "0593733878",
+                "name": "From Here to the Great Unknown: Oprah's Book Club: A Memoir",
+                "ratings_count": 748,
+                "rating": "4.7",
+                "sale_price": "$21.49",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81wThrp1YyL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Here-Great-Lisa-Marie-Presley/dp/0593733878/ref=zg_bs_g_books_d_sccl_1/132-0689153-8819237?psc=1"
+            },
+            {
+                "rank": 2,
+                "asin": "166805227X",
+                "name": "War",
+                "ratings_count": null,
+                "rating": null,
+                "sale_price": "$21.69",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61ZRi-MxTLL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/War-Bob-Woodward/dp/166805227X/ref=zg_bs_g_books_d_sccl_2/132-0689153-8819237?psc=1"
+            },
+            {
+                "rank": 3,
+                "asin": "1510782699",
+                "name": "Melania",
+                "ratings_count": 331,
+                "rating": "4.4",
+                "sale_price": "$28.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/419zn8-6gaL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Melania-Trump/dp/1510782699/ref=zg_bs_g_books_d_sccl_3/132-0689153-8819237?psc=1"
+            },
+            {
+                "rank": 4,
+                "asin": "1538742578",
+                "name": "The Housemaid",
+                "ratings_count": 377049,
+                "rating": "4.5",
+                "sale_price": "$6.96",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81AHTyq2wVL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Housemaid-Freida-McFadden/dp/1538742578/ref=zg_bs_g_books_d_sccl_4/132-0689153-8819237?psc=1"
+            },
+            {
+                "rank": 5,
+                "asin": "B0D943SQXV",
+                "name": "Spooky Cutie: Coloring Book for Adults and Teens Featuring Adorable Creepy Creatures in Cozy Hygge Moments for Relaxation (Cozy Spaces Coloring)",
+                "ratings_count": 976,
+                "rating": "4.8",
+                "sale_price": "$7.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71jfsEP8G4L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Spooky-Cutie-Featuring-Creatures-Relaxation/dp/B0D943SQXV/ref=zg_bs_g_books_d_sccl_5/132-0689153-8819237?psc=1"
+            },
+            {
+                "rank": 6,
+                "asin": "0593230388",
+                "name": "The Message",
+                "ratings_count": 377,
+                "rating": "4.5",
+                "sale_price": "$19.60",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91ZSMtvdM3L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Message-Ta-Nehisi-Coates/dp/0593230388/ref=zg_bs_g_books_d_sccl_6/132-0689153-8819237?psc=1"
+            },
+            {
+                "rank": 7,
+                "asin": "1728296226",
+                "name": "The Boyfriend",
+                "ratings_count": 19932,
+                "rating": "4.4",
+                "sale_price": "$14.39",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71waptWklgL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Boyfriend-Freida-McFadden/dp/1728296226/ref=zg_bs_g_books_d_sccl_7/132-0689153-8819237?psc=1"
+            },
+            {
+                "rank": 8,
+                "asin": "0593712641",
+                "name": "Good Energy: The Surprising Connection Between Metabolism and Limitless Health",
+                "ratings_count": 1612,
+                "rating": "4.6",
+                "sale_price": "$22.40",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71KTwO53SnL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Good-Energy-Surprising-Connection-Metabolism/dp/0593712641/ref=zg_bs_g_books_d_sccl_8/132-0689153-8819237?psc=1"
+            },
+            {
+                "rank": 9,
+                "asin": "1649374186",
+                "name": "Onyx Storm (Deluxe Limited Edition) (The Empyrean, 3)",
+                "ratings_count": null,
+                "rating": null,
+                "sale_price": "$19.78",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/9101MLPcFTL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Onyx-Storm-Deluxe-Limited-Empyrean/dp/1649374186/ref=zg_bs_g_books_d_sccl_9/132-0689153-8819237?psc=1"
+            },
+            {
+                "rank": 10,
+                "asin": "1250859999",
+                "name": "Does This Taste Funny?: Recipes Our Family Loves",
+                "ratings_count": 225,
+                "rating": "4.7",
+                "sale_price": "$24.48",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81VNFid7TkL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Does-This-Taste-Funny-Recipes/dp/1250859999/ref=zg_bs_g_books_d_sccl_10/132-0689153-8819237?psc=1"
+            },
+            {
+                "rank": 11,
+                "asin": "1419766953",
+                "name": "Hot Mess (Diary of a Wimpy Kid Book 19) (Volume 19)",
+                "ratings_count": null,
+                "rating": null,
+                "sale_price": "$10.49",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81mFBsBFYXL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Hot-Mess-Diary-Wimpy-Book/dp/1419766953/ref=zg_bs_g_books_d_sccl_11/132-0689153-8819237?psc=1"
+            },
+            {
+                "rank": 12,
+                "asin": "0593799895",
+                "name": "Be Ready When the Luck Happens: A Memoir",
+                "ratings_count": 883,
+                "rating": "4.7",
+                "sale_price": "$21.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81g+Hs6XF5L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Be-Ready-When-Luck-Happens/dp/0593799895/ref=zg_bs_g_books_d_sccl_12/132-0689153-8819237?psc=1"
+            },
+            {
+                "rank": 13,
+                "asin": "1728235200",
+                "name": "The Leaf Thief: (The Perfect Fall Book for Children and Toddlers)",
+                "ratings_count": 2820,
+                "rating": "4.8",
+                "sale_price": "$10.71",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/A18OnuYW2dL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Leaf-Thief-Alice-Hemming/dp/1728235200/ref=zg_bs_g_books_d_sccl_13/132-0689153-8819237?psc=1"
+            },
+            {
+                "rank": 14,
+                "asin": "0593655036",
+                "name": "The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness",
+                "ratings_count": 3682,
+                "rating": "4.6",
+                "sale_price": "$15.24",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81XP4hEXDXL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Anxious-Generation-Rewiring-Childhood-Epidemic/dp/0593655036/ref=zg_bs_g_books_d_sccl_14/132-0689153-8819237?psc=1"
+            },
+            {
+                "rank": 15,
+                "asin": "1070527718",
+                "name": "Dad, I Want to Hear Your Story: A Father’s Guided Journal To Share His Life & His Love (Hear Your Story Books)",
+                "ratings_count": 6935,
+                "rating": "4.7",
+                "sale_price": "$11.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51ZvZFJOsrL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Dad-Want-Hear-Your-Story/dp/1070527718/ref=zg_bs_g_books_d_sccl_15/132-0689153-8819237?psc=1"
+            },
+            {
+                "rank": 16,
+                "asin": "1728210356",
+                "name": "How to Catch a Witch",
+                "ratings_count": 1955,
+                "rating": "4.6",
+                "sale_price": "$5.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81BFQlGo5XL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/How-Catch-Witch-Alice-Walstead/dp/1728210356/ref=zg_bs_g_books_d_sccl_16/132-0689153-8819237?psc=1"
+            },
+            {
+                "rank": 17,
+                "asin": "1641526270",
+                "name": "My First Learn-to-Write Workbook: Practice for Kids with Pen Control, Line Tracing, Letters, and More!",
+                "ratings_count": 85221,
+                "rating": "4.8",
+                "sale_price": "$5.26",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71-IU8JFyZL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/My-First-Learn-Write-Workbook/dp/1641526270/ref=zg_bs_g_books_d_sccl_17/132-0689153-8819237?psc=1"
+            },
+            {
+                "rank": 18,
+                "asin": "0735211299",
+                "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+                "ratings_count": 133633,
+                "rating": "4.8",
+                "sale_price": "$13.79",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81ANaVZk5LL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ref=zg_bs_g_books_d_sccl_18/132-0689153-8819237?psc=1"
+            },
+            {
+                "rank": 19,
+                "asin": "B0D5HVSW5T",
+                "name": "Little Corner: Coloring Book for Adults and Teens, Super Cute Designs of Cozy, Hygge Spaces for Relaxation (Cozy Spaces Coloring)",
+                "ratings_count": 1211,
+                "rating": "4.7",
+                "sale_price": "$7.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71QManc1wDL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Little-Corner-Coloring-Designs-Relaxation/dp/B0D5HVSW5T/ref=zg_bs_g_books_d_sccl_19/132-0689153-8819237?psc=1"
+            },
+            {
+                "rank": 20,
+                "asin": "B0D4YLQRMP",
+                "name": "Cozy Friends: Coloring Book for Adults and Teens Featuring Super Cute Animal Characters with Easy and Simple Designs for Relaxation (Cozy Spaces Coloring)",
+                "ratings_count": 863,
+                "rating": "4.8",
+                "sale_price": "$7.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71HEaIuLeUL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Cozy-Friends-Featuring-Characters-Relaxation/dp/B0D4YLQRMP/ref=zg_bs_g_books_d_sccl_20/132-0689153-8819237?psc=1"
+            },
+            {
+                "rank": 21,
+                "asin": "1081439793",
+                "name": "Mom, I Want to Hear Your Story: A Mother’s Guided Journal To Share Her Life & Her Love (Hear Your Story Books)",
+                "ratings_count": 12620,
+                "rating": "4.7",
+                "sale_price": "$11.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71sOqrd6JHL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Mom-Want-Hear-Your-Story/dp/1081439793/ref=zg_bs_g_books_d_sccl_21/132-0689153-8819237?psc=1"
+            },
+            {
+                "rank": 22,
+                "asin": "1589255518",
+                "name": "I Love You to the Moon and Back",
+                "ratings_count": 76328,
+                "rating": "4.9",
+                "sale_price": "$5.79",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81mpSoJzv4L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/I-Love-You-Moon-Back/dp/1589255518/ref=zg_bs_g_books_d_sccl_22/132-0689153-8819237?psc=1"
+            },
+            {
+                "rank": 23,
+                "asin": "164152815X",
+                "name": "The Bible in 52 Weeks: A Yearlong Bible Study for Women",
+                "ratings_count": 26994,
+                "rating": "4.7",
+                "sale_price": "$7.48",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81aa-bK1K9L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Bible-52-Weeks-Yearlong-Study/dp/164152815X/ref=zg_bs_g_books_d_sccl_23/132-0689153-8819237?psc=1"
+            },
+            {
+                "rank": 24,
+                "asin": "1649374178",
+                "name": "Iron Flame (The Empyrean, 2)",
+                "ratings_count": 200536,
+                "rating": "4.7",
+                "sale_price": "$11.41",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/917Bc9C1MlL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Iron-Flame-Empyrean-Rebecca-Yarros/dp/1649374178/ref=zg_bs_g_books_d_sccl_24/132-0689153-8819237?psc=1"
+            },
+            {
+                "rank": 25,
+                "asin": "1101906111",
+                "name": "The Vegetarian",
+                "ratings_count": 9390,
+                "rating": "3.7",
+                "sale_price": null,
+                "image": "https://images-na.ssl-images-amazon.com/images/I/711AQBvoGKL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Vegetarian-Han-Kang/dp/1101906111/ref=zg_bs_g_books_d_sccl_25/132-0689153-8819237?psc=1"
+            },
+            {
+                "rank": 26,
+                "asin": "0140280197",
+                "name": "The 48 Laws of Power",
+                "ratings_count": 80391,
+                "rating": "4.7",
+                "sale_price": "$14.55",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/611X8GI7hpL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197/ref=zg_bs_g_books_d_sccl_26/132-0689153-8819237?psc=1"
+            },
+            {
+                "rank": 27,
+                "asin": "0593449592",
+                "name": "Counting Miracles: A Novel",
+                "ratings_count": 3162,
+                "rating": "4.6",
+                "sale_price": "$20.29",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91-GiHt82EL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Counting-Miracles-Novel-Nicholas-Sparks/dp/0593449592/ref=zg_bs_g_books_d_sccl_27/132-0689153-8819237?psc=1"
+            },
+            {
+                "rank": 28,
+                "asin": "059372996X",
+                "name": "Into the Uncut Grass",
+                "ratings_count": 16,
+                "rating": "4.9",
+                "sale_price": "$18.20",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71PgfJuenxL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Into-Uncut-Grass-Trevor-Noah/dp/059372996X/ref=zg_bs_g_books_d_sccl_28/132-0689153-8819237?psc=1"
+            },
+            {
+                "rank": 29,
+                "asin": "1250178630",
+                "name": "The Women: A Novel",
+                "ratings_count": 189692,
+                "rating": "4.7",
+                "sale_price": "$18.45",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/913C+MR3S5L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Women-Novel-Kristin-Hannah/dp/1250178630/ref=zg_bs_g_books_d_sccl_29/132-0689153-8819237?psc=1"
+            },
+            {
+                "rank": 30,
+                "asin": "0761456864",
+                "name": "What If Everybody Did That?",
+                "ratings_count": 7526,
+                "rating": "4.7",
+                "sale_price": "$5.94",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91oEavHTylL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/What-If-Everybody-Did-That/dp/0761456864/ref=zg_bs_g_books_d_sccl_30/132-0689153-8819237?psc=1"
+            },
+            {
+                "rank": 31,
+                "asin": "1728213746",
+                "name": "I Love You Like No Otter: A Funny and Sweet Animal Board Book for Babies and Toddlers this Christmas (Punderland)",
+                "ratings_count": 11712,
+                "rating": "4.9",
+                "sale_price": "$5.37",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81a5X+c7kkL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Love-You-Like-No-Otter/dp/1728213746/ref=zg_bs_g_books_d_sccl_31/134-6578004-0123348?psc=1"
+            },
+            {
+                "rank": 32,
+                "asin": "1450805752",
+                "name": "World of Eric Carle, Around the Farm 30-Button Animal Sound Book - Great for First Words - PI Kids",
+                "ratings_count": 23865,
+                "rating": "4.8",
+                "sale_price": "$10.45",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91WyMdm13iL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/World-Carle-Around-Play-Sound/dp/1450805752/ref=zg_bs_g_books_d_sccl_32/134-6578004-0123348?psc=1"
+            },
+            {
+                "rank": 33,
+                "asin": "0349132615",
+                "name": "The Housemaid's Secret",
+                "ratings_count": 207287,
+                "rating": "4.4",
+                "sale_price": "$7.68",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81LZXcfKqJL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Housemaids-Secret-Freida-McFadden/dp/0349132615/ref=zg_bs_g_books_d_sccl_33/134-6578004-0123348?psc=1"
+            },
+            {
+                "rank": 34,
+                "asin": "1938093682",
+                "name": "Hello, Baby Animals: A Black-and-White Board Book for Babies That Helps Visual Development (High-Contrast Books)",
+                "ratings_count": 6791,
+                "rating": "4.9",
+                "sale_price": "$5.39",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71wxlMQUZOL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Hello-Baby-Animals-High-Contrast-Book/dp/1938093682/ref=zg_bs_g_books_d_sccl_34/134-6578004-0123348?psc=1"
+            },
+            {
+                "rank": 35,
+                "asin": "0316575801",
+                "name": "Revenge of the Tipping Point: Overstories, Superspreaders, and the Rise of Social Engineering",
+                "ratings_count": 151,
+                "rating": "4.3",
+                "sale_price": "$22.40",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61f9VKVop9L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Revenge-Tipping-Point-Overstories-Superspreaders/dp/0316575801/ref=zg_bs_g_books_d_sccl_35/134-6578004-0123348?psc=1"
+            },
+            {
+                "rank": 36,
+                "asin": "1728296161",
+                "name": "Never Lie",
+                "ratings_count": 195559,
+                "rating": "4.4",
+                "sale_price": "$7.56",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81PIs7jhL0L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Never-Lie-Freida-McFadden/dp/1728296161/ref=zg_bs_g_books_d_sccl_36/134-6578004-0123348?psc=1"
+            },
+            {
+                "rank": 37,
+                "asin": "0143127748",
+                "name": "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",
+                "ratings_count": 76825,
+                "rating": "4.8",
+                "sale_price": "$10.86",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71Ha3OShqSL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Body-Keeps-Score-Healing-Trauma/dp/0143127748/ref=zg_bs_g_books_d_sccl_37/134-6578004-0123348?psc=1"
+            },
+            {
+                "rank": 38,
+                "asin": "0545174805",
+                "name": "The Spooky Wheels on the Bus: (A Holiday Wheels on the Bus Book)",
+                "ratings_count": 8178,
+                "rating": "4.8",
+                "sale_price": "$3.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81cgi4luylL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Spooky-Wheels-Bus-Elizabeth-Mills/dp/0545174805/ref=zg_bs_g_books_d_sccl_38/134-6578004-0123348?psc=1"
+            },
+            {
+                "rank": 39,
+                "asin": "B0D55MQN2R",
+                "name": "Fuzzy Hygge: Cute and Cozy Coloring Book for Adults & Teens Featuring Adorable Animals Characters for Stress Relief (Fuzzy Friends Coloring)",
+                "ratings_count": 481,
+                "rating": "4.7",
+                "sale_price": "$7.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71vE85OsuDL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Fuzzy-Hygge-Coloring-Featuring-Characters/dp/B0D55MQN2R/ref=zg_bs_g_books_d_sccl_39/134-6578004-0123348?psc=1"
+            },
+            {
+                "rank": 40,
+                "asin": "1636413994",
+                "name": "The Dragon's Prophecy: Israel, the Dark Resurrection, and the End of Days",
+                "ratings_count": 1126,
+                "rating": "4.8",
+                "sale_price": "$14.49",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91qcLbAh3pL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Dragons-Prophecy-Israel-Dark-Resurrection/dp/1636413994/ref=zg_bs_g_books_d_sccl_40/134-6578004-0123348?psc=1"
+            },
+            {
+                "rank": 41,
+                "asin": "B0DF33DSNF",
+                "name": "Little Spooky: Coloring Book for Adults and Teens Featuring Cute Creepy Creatures in Cozy Hygge Moments for Relaxation (Cozy Spaces Coloring)",
+                "ratings_count": 179,
+                "rating": "4.8",
+                "sale_price": "$7.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61lTKWM4J0L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Little-Spooky-Featuring-Creatures-Relaxation/dp/B0DF33DSNF/ref=zg_bs_g_books_d_sccl_41/134-6578004-0123348?psc=1"
+            },
+            {
+                "rank": 42,
+                "asin": "0593655117",
+                "name": "Sonny Boy: A Memoir",
+                "ratings_count": null,
+                "rating": null,
+                "sale_price": "$24.50",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81hdE9JGlgL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Sonny-Boy-Memoir-Al-Pacino/dp/0593655117/ref=zg_bs_g_books_d_sccl_42/134-6578004-0123348?psc=1"
+            },
+            {
+                "rank": 43,
+                "asin": "0316479268",
+                "name": "The Wild Robot Escapes (Volume 2) (The Wild Robot, 2)",
+                "ratings_count": 8072,
+                "rating": "4.9",
+                "sale_price": "$8.15",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91dfFQk+vvL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Wild-Robot-Escapes/dp/0316479268/ref=zg_bs_g_books_d_sccl_43/134-6578004-0123348?psc=1"
+            },
+            {
+                "rank": 44,
+                "asin": "0544772539",
+                "name": "Little Blue Truck's Halloween: A Halloween Book for Kids",
+                "ratings_count": 14592,
+                "rating": "4.9",
+                "sale_price": "$9.36",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81qROMFiwmL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Little-Trucks-Halloween-Alice-Schertle/dp/0544772539/ref=zg_bs_g_books_d_sccl_44/134-6578004-0123348?psc=1"
+            },
+            {
+                "rank": 45,
+                "asin": "1450845800",
+                "name": "The Book of Unusual Knowledge",
+                "ratings_count": 19123,
+                "rating": "4.6",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71WC3z4Wt0L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Unusual-Knowledge-Editors-Publications-International/dp/1450845800/ref=zg_bs_g_books_d_sccl_45/134-6578004-0123348?psc=1"
+            },
+            {
+                "rank": 46,
+                "asin": "B0D3CSPMZG",
+                "name": "Stress Relief: Coloring Book for Adults and Kids, Bold and Easy, Simple and Big Designs for Relaxation Featuring Animals, Landscape, Flowers, Patterns, Cute Things And Many More (Bold & Easy Coloring)",
+                "ratings_count": 804,
+                "rating": "4.8",
+                "sale_price": "$7.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61jccG4IyuL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Stress-Relief-Relaxation-Featuring-Landscape/dp/B0D3CSPMZG/ref=zg_bs_g_books_d_sccl_46/134-6578004-0123348?psc=1"
+            },
+            {
+                "rank": 47,
+                "asin": "083077744X",
+                "name": "The Action Bible: God's Redemptive Story (Action Bible Series)",
+                "ratings_count": 9706,
+                "rating": "4.9",
+                "sale_price": "$15.92",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81ydk0sI7HL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/The-Action-Bible/dp/083077744X/ref=zg_bs_g_books_d_sccl_47/134-6578004-0123348?psc=1"
+            },
+            {
+                "rank": 48,
+                "asin": "0316382000",
+                "name": "The Wild Robot (Volume 1) (The Wild Robot, 1)",
+                "ratings_count": 11599,
+                "rating": "4.8",
+                "sale_price": "$6.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91VsjBbwzkL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Wild-Robot-Peter-Brown/dp/0316382000/ref=zg_bs_g_books_d_sccl_48/134-6578004-0123348?psc=1"
+            },
+            {
+                "rank": 49,
+                "asin": "1668001225",
+                "name": "It Starts with Us: A Novel (It Ends with Us)",
+                "ratings_count": 195165,
+                "rating": "4.5",
+                "sale_price": "$10.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71PNGYHykrL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Starts-Us-Novel-Ends/dp/1668001225/ref=zg_bs_g_books_d_sccl_49/134-6578004-0123348?psc=1"
+            },
+            {
+                "rank": 50,
+                "asin": "1338233580",
+                "name": "Flash Cards: Sight Words",
+                "ratings_count": 29723,
+                "rating": "4.8",
+                "sale_price": "$2.88",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71HtAExOQjL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Flash-Cards-Scholastic-Teacher-Resources/dp/1338233580/ref=zg_bs_g_books_d_sccl_50/134-6578004-0123348?psc=1"
+            }
+        ]
+    }
+}

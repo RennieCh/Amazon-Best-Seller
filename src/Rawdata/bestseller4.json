@@ -1,0 +1,672 @@
+{
+    "200": {
+        "category": "Amazon Best SellersApps & Games",
+        "category_hierarchy": [
+            {
+                "name": "Any Department",
+                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_mobile-apps_0_1"
+            },
+            {
+                "name": "Apps & Games",
+                "url": "https://www.amazon.com/Best-Sellers-Apps-Games/zgbs/mobile-apps/ref=zg_bs_nav_mobile-apps_0?pg=1"
+            }
+        ],
+        "child_categories": [
+            {
+                "category": "Books & Comics",
+                "url": "https://www.amazon.com/Best-Sellers-Apps-Games-Books-Comics/zgbs/mobile-apps/9408444011/ref=zg_bs_nav_mobile-apps_1"
+            },
+            {
+                "category": "Business",
+                "url": "https://www.amazon.com/Best-Sellers-Apps-Games-Business/zgbs/mobile-apps/10298305011/ref=zg_bs_nav_mobile-apps_1"
+            },
+            {
+                "category": "Communication",
+                "url": "https://www.amazon.com/Best-Sellers-Apps-Games-Communication/zgbs/mobile-apps/9408466011/ref=zg_bs_nav_mobile-apps_1"
+            },
+            {
+                "category": "Customization",
+                "url": "https://www.amazon.com/Best-Sellers-Apps-Games-Customization/zgbs/mobile-apps/9408481011/ref=zg_bs_nav_mobile-apps_1"
+            },
+            {
+                "category": "Education",
+                "url": "https://www.amazon.com/Best-Sellers-Apps-Games-Education/zgbs/mobile-apps/9408490011/ref=zg_bs_nav_mobile-apps_1"
+            },
+            {
+                "category": "Finance",
+                "url": "https://www.amazon.com/Best-Sellers-Apps-Games-Finance/zgbs/mobile-apps/9408433011/ref=zg_bs_nav_mobile-apps_1"
+            },
+            {
+                "category": "Food & Drink",
+                "url": "https://www.amazon.com/Best-Sellers-Apps-Games-Food-Drink/zgbs/mobile-apps/9408523011/ref=zg_bs_nav_mobile-apps_1"
+            },
+            {
+                "category": "Games",
+                "url": "https://www.amazon.com/Best-Sellers-Apps-Games-Games/zgbs/mobile-apps/9209902011/ref=zg_bs_nav_mobile-apps_1"
+            },
+            {
+                "category": "Health & Fitness",
+                "url": "https://www.amazon.com/Best-Sellers-Apps-Games-Health-Wellness/zgbs/mobile-apps/9408749011/ref=zg_bs_nav_mobile-apps_1"
+            },
+            {
+                "category": "Kids",
+                "url": "https://www.amazon.com/Best-Sellers-Apps-Games-Kids/zgbs/mobile-apps/9408582011/ref=zg_bs_nav_mobile-apps_1"
+            },
+            {
+                "category": "Lifestyle",
+                "url": "https://www.amazon.com/Best-Sellers-Apps-Games-Lifestyle/zgbs/mobile-apps/9408710011/ref=zg_bs_nav_mobile-apps_1"
+            },
+            {
+                "category": "Local",
+                "url": "https://www.amazon.com/Best-Sellers-Apps-Games-Local/zgbs/mobile-apps/10298309011/ref=zg_bs_nav_mobile-apps_1"
+            },
+            {
+                "category": "Magazines",
+                "url": "https://www.amazon.com/Best-Sellers-Apps-Games-Magazines/zgbs/mobile-apps/9408805011/ref=zg_bs_nav_mobile-apps_1"
+            },
+            {
+                "category": "Medical",
+                "url": "https://www.amazon.com/Best-Sellers-Apps-Games-Medical/zgbs/mobile-apps/10298306011/ref=zg_bs_nav_mobile-apps_1"
+            },
+            {
+                "category": "Movies & TV",
+                "url": "https://www.amazon.com/Best-Sellers-Apps-Games-Movies-TV/zgbs/mobile-apps/9408765011/ref=zg_bs_nav_mobile-apps_1"
+            },
+            {
+                "category": "Music & Audio",
+                "url": "https://www.amazon.com/Best-Sellers-Apps-Games-Music-Audio/zgbs/mobile-apps/9408771011/ref=zg_bs_nav_mobile-apps_1"
+            },
+            {
+                "category": "News",
+                "url": "https://www.amazon.com/Best-Sellers-Apps-Games-News/zgbs/mobile-apps/9408802011/ref=zg_bs_nav_mobile-apps_1"
+            },
+            {
+                "category": "Novelty",
+                "url": "https://www.amazon.com/Best-Sellers-Apps-Games-Novelty/zgbs/mobile-apps/9408852011/ref=zg_bs_nav_mobile-apps_1"
+            },
+            {
+                "category": "Photo & Video",
+                "url": "https://www.amazon.com/Best-Sellers-Apps-Games-Photo-Video/zgbs/mobile-apps/9408874011/ref=zg_bs_nav_mobile-apps_1"
+            },
+            {
+                "category": "Productivity",
+                "url": "https://www.amazon.com/Best-Sellers-Apps-Games-Productivity/zgbs/mobile-apps/9408449011/ref=zg_bs_nav_mobile-apps_1"
+            },
+            {
+                "category": "Reference",
+                "url": "https://www.amazon.com/Best-Sellers-Apps-Games-Reference/zgbs/mobile-apps/9408491011/ref=zg_bs_nav_mobile-apps_1"
+            },
+            {
+                "category": "Shopping",
+                "url": "https://www.amazon.com/Best-Sellers-Apps-Games-Shopping/zgbs/mobile-apps/9408875011/ref=zg_bs_nav_mobile-apps_1"
+            },
+            {
+                "category": "Social",
+                "url": "https://www.amazon.com/Best-Sellers-Apps-Games-Social/zgbs/mobile-apps/9408464011/ref=zg_bs_nav_mobile-apps_1"
+            },
+            {
+                "category": "Sports",
+                "url": "https://www.amazon.com/Best-Sellers-Apps-Games-Sports-Fitness/zgbs/mobile-apps/9408876011/ref=zg_bs_nav_mobile-apps_1"
+            },
+            {
+                "category": "Transportation",
+                "url": "https://www.amazon.com/Best-Sellers-Apps-Games-Transportation/zgbs/mobile-apps/10298308011/ref=zg_bs_nav_mobile-apps_1"
+            },
+            {
+                "category": "Travel",
+                "url": "https://www.amazon.com/Best-Sellers-Apps-Games-Travel/zgbs/mobile-apps/9408785011/ref=zg_bs_nav_mobile-apps_1"
+            },
+            {
+                "category": "Utilities",
+                "url": "https://www.amazon.com/Best-Sellers-Apps-Games-Utilities/zgbs/mobile-apps/9408914011/ref=zg_bs_nav_mobile-apps_1"
+            },
+            {
+                "category": "Weather",
+                "url": "https://www.amazon.com/Best-Sellers-Apps-Games-Weather/zgbs/mobile-apps/9408850011/ref=zg_bs_nav_mobile-apps_1"
+            }
+        ],
+        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/Best-Sellers-Apps-Games/zgbs/mobile-apps/ref%3Dzg_bs_pg_2_mobile-apps%3F_encoding%3DUTF8%26pg%3D2",
+        "url": "https://www.amazon.com/Best-Sellers-Apps-Games/zgbs/mobile-apps/ref=zg_bs_nav_mobile-apps_0?pg=1",
+        "product_listings": [
+            {
+                "rank": 1,
+                "asin": "B00992CF6W",
+                "name": "MinecraftMojang",
+                "ratings_count": 148507,
+                "rating": "4.4",
+                "sale_price": "$6.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81gsSy5r13L._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Mojang-Minecraft/dp/B00992CF6W/ref=zg_bs_g_mobile-apps_d_sccl_1/138-3461205-3929053?psc=1"
+            },
+            {
+                "rank": 2,
+                "asin": "B0DJVDCH67",
+                "name": "Hide & Escape: Stickman RunDZENDEV LIMITED",
+                "ratings_count": null,
+                "rating": null,
+                "sale_price": "$7.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71EMrOAeVzL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/DZENDEV-LIMITED-Hide-Escape-Stickman/dp/B0DJVDCH67/ref=zg_bs_g_mobile-apps_d_sccl_2/138-3461205-3929053?psc=1"
+            },
+            {
+                "rank": 3,
+                "asin": "B0DH8M6S8Q",
+                "name": "Draw Quest: Serene ScapesAmazecraft",
+                "ratings_count": 20,
+                "rating": "4.6",
+                "sale_price": "$7.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61ZTolTZMTL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazecraft-Draw-Quest-Serene-Scapes/dp/B0DH8M6S8Q/ref=zg_bs_g_mobile-apps_d_sccl_3/138-3461205-3929053?psc=1"
+            },
+            {
+                "rank": 4,
+                "asin": "B0DJRN1YWD",
+                "name": "Robo Titan 3D: Machine DuelDZENDEV LIMITED",
+                "ratings_count": null,
+                "rating": null,
+                "sale_price": "$7.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81dVdJ4GuuL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Robo-Titan-3D-Machine-Duel/dp/B0DJRN1YWD/ref=zg_bs_g_mobile-apps_d_sccl_4/138-3461205-3929053?psc=1"
+            },
+            {
+                "rank": 5,
+                "asin": "B0DJTZNCF3",
+                "name": "Lunch Master: Twerk FrenzyDEVABRIKOS LIMITED",
+                "ratings_count": null,
+                "rating": null,
+                "sale_price": "$7.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/817ias8EekL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/DEVABRIKOS-LIMITED-Lunch-Master-Frenzy/dp/B0DJTZNCF3/ref=zg_bs_g_mobile-apps_d_sccl_5/138-3461205-3929053?psc=1"
+            },
+            {
+                "rank": 6,
+                "asin": "B0DCCG4Z9V",
+                "name": "Mind Power: Control GameAmazecraft",
+                "ratings_count": 22,
+                "rating": "4.3",
+                "sale_price": "$7.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71+GES264cL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazecraft-Mind-Power-Control-Game/dp/B0DCCG4Z9V/ref=zg_bs_g_mobile-apps_d_sccl_6/138-3461205-3929053?psc=1"
+            },
+            {
+                "rank": 7,
+                "asin": "B00EDTSKLU",
+                "name": "Geometry DashRobTop Games",
+                "ratings_count": 23091,
+                "rating": "4.3",
+                "sale_price": "$1.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61mVIP6Oo1L._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/RobTop-Games-Geometry-Dash/dp/B00EDTSKLU/ref=zg_bs_g_mobile-apps_d_sccl_7/138-3461205-3929053?psc=1"
+            },
+            {
+                "rank": 8,
+                "asin": "B0CVQGNRY1",
+                "name": "Plunger HeroPixel Pioneers",
+                "ratings_count": 14,
+                "rating": "2.2",
+                "sale_price": "$12.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81Cfa+Kx-BL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Pixel-Pioneers-Plunger-Hero/dp/B0CVQGNRY1/ref=zg_bs_g_mobile-apps_d_sccl_8/138-3461205-3929053?psc=1"
+            },
+            {
+                "rank": 9,
+                "asin": "B0BWZ126R2",
+                "name": "One Punch: Master 3DHardSkill",
+                "ratings_count": 226,
+                "rating": "3.2",
+                "sale_price": "$4.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71J2Myo7KoL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/HardSkill-One-Punch-Master-3D/dp/B0BWZ126R2/ref=zg_bs_g_mobile-apps_d_sccl_9/138-3461205-3929053?psc=1"
+            },
+            {
+                "rank": 10,
+                "asin": "B09483KX2V",
+                "name": "Hair Run: Race for Longer HairsSkilljoy",
+                "ratings_count": 3143,
+                "rating": "3.6",
+                "sale_price": "$7.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71yBb0lYeiL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Hair-Run-Long-Challenge-Makeover/dp/B09483KX2V/ref=zg_bs_g_mobile-apps_d_sccl_10/138-3461205-3929053?psc=1"
+            },
+            {
+                "rank": 11,
+                "asin": "B0BN4GRW1W",
+                "name": "Girl FlipEnjoyplay",
+                "ratings_count": 166,
+                "rating": "3.4",
+                "sale_price": "$6.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71ahCi9D+9L._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Enjoyplay-Girl-Flip/dp/B0BN4GRW1W/ref=zg_bs_g_mobile-apps_d_sccl_11/138-3461205-3929053?psc=1"
+            },
+            {
+                "rank": 12,
+                "asin": "B0BNNSBHJK",
+                "name": "Monster Rush: Collect MonstersSUNSHINE GAMES LIMITED",
+                "ratings_count": 688,
+                "rating": "3.4",
+                "sale_price": "$6.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81ajokd7HhL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Sunshine-Games-Monster-Rush-Monsters/dp/B0BNNSBHJK/ref=zg_bs_g_mobile-apps_d_sccl_12/138-3461205-3929053?psc=1"
+            },
+            {
+                "rank": 13,
+                "asin": "B07DXGT5C4",
+                "name": "Bloons TD 6Ninja Kiwi",
+                "ratings_count": 3806,
+                "rating": "4.5",
+                "sale_price": "$6.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71BaHwbnrpL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Ninja-Kiwi-Bloons-TD-6/dp/B07DXGT5C4/ref=zg_bs_g_mobile-apps_d_sccl_13/138-3461205-3929053?psc=1"
+            },
+            {
+                "rank": 14,
+                "asin": "B0DB8HDCRM",
+                "name": "Spider Rope Hero Man 3D Games: Spider Fighter Game 3DThe Game Storm Studios",
+                "ratings_count": 4,
+                "rating": "3.5",
+                "sale_price": "$1.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81pLyseV6JL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Spider-Rope-Hero-Man-Games/dp/B0DB8HDCRM/ref=zg_bs_g_mobile-apps_d_sccl_14/138-3461205-3929053?psc=1"
+            },
+            {
+                "rank": 15,
+                "asin": "B0CHPGNM48",
+                "name": "Makeup Slime Simulator ASMR makeup artistry with ASMR relaxation and virtual models' beautyAppSynergy Creations",
+                "ratings_count": 86,
+                "rating": "3.5",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81bS+2ykzfL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Makeup-Simulator-artistry-relaxation-virtual/dp/B0CHPGNM48/ref=zg_bs_g_mobile-apps_d_sccl_15/138-3461205-3929053?psc=1"
+            },
+            {
+                "rank": 16,
+                "asin": "B0D22HM6DH",
+                "name": "Snake Run Race - Running GameOpen World Simulation Games",
+                "ratings_count": 2,
+                "rating": "2.9",
+                "sale_price": "$4.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71GzNHJ2OwL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Snake-Run-Race-Running-Game/dp/B0D22HM6DH/ref=zg_bs_g_mobile-apps_d_sccl_16/138-3461205-3929053?psc=1"
+            },
+            {
+                "rank": 17,
+                "asin": "B0C828D9K1",
+                "name": "Rainbow Friends PlaygroundPrism Pioneers",
+                "ratings_count": 103,
+                "rating": "3.5",
+                "sale_price": "$4.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/7125k3w1eyL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Prism-Pioneers-Rainbow-Friends-Playground/dp/B0C828D9K1/ref=zg_bs_g_mobile-apps_d_sccl_17/138-3461205-3929053?psc=1"
+            },
+            {
+                "rank": 18,
+                "asin": "B07BKZCDHT",
+                "name": "IncrediboxSo Far So Good",
+                "ratings_count": 544,
+                "rating": "4.3",
+                "sale_price": "$4.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41qIPyBmMWL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/So-Far-Good-Incredibox/dp/B07BKZCDHT/ref=zg_bs_g_mobile-apps_d_sccl_18/138-3461205-3929053?psc=1"
+            },
+            {
+                "rank": 19,
+                "asin": "B0BVFZ94S4",
+                "name": "Robot ClashFuji HC Games",
+                "ratings_count": 185,
+                "rating": "3.5",
+                "sale_price": "$6.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81yYCebPIPL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Fuji-HC-Games-Robot-Clash/dp/B0BVFZ94S4/ref=zg_bs_g_mobile-apps_d_sccl_19/138-3461205-3929053?psc=1"
+            },
+            {
+                "rank": 20,
+                "asin": "B0CMMM874F",
+                "name": "Where's your Daddy? Newborn Twins Naughty Baby Daycare Life Simulator 3D Game: Who is your Virtual Daddy & Mommy Simulator Hide and Seek 3D Fun Games For Kids| Here’s Your Mommy Sims Newborn Baby GameFamily Fun Games Studio",
+                "ratings_count": 3,
+                "rating": "4.0",
+                "sale_price": "$2.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/7153MjQM+fL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Wheres-Newborn-Naughty-Daycare-Simulator/dp/B0CMMM874F/ref=zg_bs_g_mobile-apps_d_sccl_20/138-3461205-3929053?psc=1"
+            },
+            {
+                "rank": 21,
+                "asin": "B0CLKV86KC",
+                "name": "Chainsaw Playground GameOVIVO Games",
+                "ratings_count": 23,
+                "rating": "3.7",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71-h3ro3tJL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/OVIVO-Games-Chainsaw-Playground-Game/dp/B0CLKV86KC/ref=zg_bs_g_mobile-apps_d_sccl_21/138-3461205-3929053?psc=1"
+            },
+            {
+                "rank": 22,
+                "asin": "B0DB67R9SX",
+                "name": "Human Ragdoll ShooterTop Games",
+                "ratings_count": null,
+                "rating": null,
+                "sale_price": "$13.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81aPppUEykL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Top-Games-Human-Ragdoll-Shooter/dp/B0DB67R9SX/ref=zg_bs_g_mobile-apps_d_sccl_22/138-3461205-3929053?psc=1"
+            },
+            {
+                "rank": 23,
+                "asin": "B0141KIMPE",
+                "name": "PAW Patrol: Pups to the RescueNickelodeon",
+                "ratings_count": 2043,
+                "rating": "4.2",
+                "sale_price": "$1.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81prVx1W4mL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Nickelodeon-PAW-Patrol-Pups-Rescue/dp/B0141KIMPE/ref=zg_bs_g_mobile-apps_d_sccl_23/138-3461205-3929053?psc=1"
+            },
+            {
+                "rank": 24,
+                "asin": "B07YQ1YTQX",
+                "name": "Scary Teacher 3DScary Dudes",
+                "ratings_count": 8381,
+                "rating": "3.6",
+                "sale_price": "$0.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71FP6DO-OfL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Scary-Dudes-Teacher-3D/dp/B07YQ1YTQX/ref=zg_bs_g_mobile-apps_d_sccl_24/138-3461205-3929053?psc=1"
+            },
+            {
+                "rank": 25,
+                "asin": "B0D57Z7R26",
+                "name": "Where’s your Fun Baby 3D - Daddy Fun SimulatorEagles Gaming",
+                "ratings_count": 1,
+                "rating": "1.0",
+                "sale_price": "$4.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71JA57yUDWL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Wheres-your-Fun-Baby-Simulator/dp/B0D57Z7R26/ref=zg_bs_g_mobile-apps_d_sccl_25/138-3461205-3929053?psc=1"
+            },
+            {
+                "rank": 26,
+                "asin": "B00HAPRVWS",
+                "name": "Sonic The Hedgehog 2Sega of America",
+                "ratings_count": 7696,
+                "rating": "4.3",
+                "sale_price": "$2.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81J-cag-wfL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Sega-of-America-Sonic-Hedgehog/dp/B00HAPRVWS/ref=zg_bs_g_mobile-apps_d_sccl_26/138-3461205-3929053?psc=1"
+            },
+            {
+                "rank": 27,
+                "asin": "B0D978Z3SX",
+                "name": "Supermarket Simulator Games - Manage Supermarket Shopping Store SimulatorOpen World Games Studio",
+                "ratings_count": 2,
+                "rating": "2.9",
+                "sale_price": "$6.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81enU8YL8pL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Supermarket-Simulator-Games-Manage-Shopping/dp/B0D978Z3SX/ref=zg_bs_g_mobile-apps_d_sccl_27/138-3461205-3929053?psc=1"
+            },
+            {
+                "rank": 28,
+                "asin": "B0CBZS8LQZ",
+                "name": "Planet Block Craft GameGALGAM",
+                "ratings_count": 18,
+                "rating": "3.3",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81t4nu38jEL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/GALGAM-Planet-Block-Craft-Game/dp/B0CBZS8LQZ/ref=zg_bs_g_mobile-apps_d_sccl_28/138-3461205-3929053?psc=1"
+            },
+            {
+                "rank": 29,
+                "asin": "B0DDHKNBK4",
+                "name": "Cutting Grass - Idle Harvest Farm Land: Grass Farming GameOpen World Games Studio",
+                "ratings_count": null,
+                "rating": null,
+                "sale_price": "$6.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81R1bn3DD1L._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Cutting-Grass-Idle-Harvest-Farming/dp/B0DDHKNBK4/ref=zg_bs_g_mobile-apps_d_sccl_29/138-3461205-3929053?psc=1"
+            },
+            {
+                "rank": 30,
+                "asin": "B07DPQMFHB",
+                "name": "Panther Superhero City Bank Robbery Gangster Squad -Superhero Games3deeSpace LLC",
+                "ratings_count": 579,
+                "rating": "3.8",
+                "sale_price": "$1.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81SQJrtdkWL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Panther-Superhero-Robbery-Gangster-Squad/dp/B07DPQMFHB/ref=zg_bs_g_mobile-apps_d_sccl_30/138-3461205-3929053?psc=1"
+            },
+            {
+                "rank": 31,
+                "asin": "B0CYM54PBY",
+                "name": "Black Hole : Monster AttackAliStar Games",
+                "ratings_count": 19,
+                "rating": "2.9",
+                "sale_price": "$7.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61no1fN9NgL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/AliStar-Games-Black-Hole-Monster/dp/B0CYM54PBY/ref=zg_bs_g_mobile-apps_d_sccl_31/132-1481776-2478025?psc=1"
+            },
+            {
+                "rank": 32,
+                "asin": "B07S76CXLZ",
+                "name": "Sesame Street Alphabet KitchenSesame Street",
+                "ratings_count": 1640,
+                "rating": "4.4",
+                "sale_price": "$2.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81Cd8WyJkgL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Sesame-Workshop-Street-Alphabet-Kitchen/dp/B07S76CXLZ/ref=zg_bs_g_mobile-apps_d_sccl_32/132-1481776-2478025?psc=1"
+            },
+            {
+                "rank": 33,
+                "asin": "B0DFYMHZS1",
+                "name": "Cat Games 3d - Virtual Pet Simulator Games For KidsOpen World Games Studio",
+                "ratings_count": null,
+                "rating": null,
+                "sale_price": "$6.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81G7jLjq5nL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Cat-Games-3d-Virtual-Simulator/dp/B0DFYMHZS1/ref=zg_bs_g_mobile-apps_d_sccl_33/132-1481776-2478025?psc=1"
+            },
+            {
+                "rank": 34,
+                "asin": "B07FQVWFG3",
+                "name": "Airplane Flight Car Transport Driving Simulator Games - Pickup Truck Simulator Racing Cars Parking Airplane Flight Adventure 3D Game Free for KidsTenlogix Games",
+                "ratings_count": 44,
+                "rating": "3.7",
+                "sale_price": "$1.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81BAnNnl+1L._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Cargo-Plane-Car-Transport-Simulator/dp/B07FQVWFG3/ref=zg_bs_g_mobile-apps_d_sccl_34/132-1481776-2478025?psc=1"
+            },
+            {
+                "rank": 35,
+                "asin": "B008K8U13K",
+                "name": "Sonic The Hedgehog 4 Episode ISega of America",
+                "ratings_count": 3176,
+                "rating": "4.1",
+                "sale_price": "$2.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81wNRtDaTXL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Sonic-Hedgehog-4-Episode-I/dp/B008K8U13K/ref=zg_bs_g_mobile-apps_d_sccl_35/132-1481776-2478025?psc=1"
+            },
+            {
+                "rank": 36,
+                "asin": "B0BMY4C22P",
+                "name": "City Sniper: Shoot and EscapeHardSkill",
+                "ratings_count": 211,
+                "rating": "3.2",
+                "sale_price": "$4.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71YA1E-sDcL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/City-Sniper-Shoot-and-Escape/dp/B0BMY4C22P/ref=zg_bs_g_mobile-apps_d_sccl_36/132-1481776-2478025?psc=1"
+            },
+            {
+                "rank": 37,
+                "asin": "B0CR7YFPSB",
+                "name": "Barry World PrisonThredano PLB",
+                "ratings_count": 1,
+                "rating": "5.0",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81cqW6TWjYL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Thredano-PLB-Barry-World-Prison/dp/B0CR7YFPSB/ref=zg_bs_g_mobile-apps_d_sccl_37/132-1481776-2478025?psc=1"
+            },
+            {
+                "rank": 38,
+                "asin": "B00D74DVKM",
+                "name": "Sonic The HedgehogSega of America",
+                "ratings_count": 3550,
+                "rating": "4.2",
+                "sale_price": "$2.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81gX+YoylLL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Sega-of-America-Sonic-Hedgehog/dp/B00D74DVKM/ref=zg_bs_g_mobile-apps_d_sccl_38/132-1481776-2478025?psc=1"
+            },
+            {
+                "rank": 39,
+                "asin": "B01MDLUCJ9",
+                "name": "The Jackbox Party Pack 3Jackbox Games",
+                "ratings_count": 6166,
+                "rating": "4.6",
+                "sale_price": "$24.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/810WNJqAm1L._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/The-Jackbox-Party-Pack-3/dp/B01MDLUCJ9/ref=zg_bs_g_mobile-apps_d_sccl_39/132-1481776-2478025?psc=1"
+            },
+            {
+                "rank": 40,
+                "asin": "B0CYCQDSZW",
+                "name": "Noob: Hide or Run: Strategy games - stealth and seekMobiGame",
+                "ratings_count": 19,
+                "rating": "3.3",
+                "sale_price": "$13.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81pAoy6mU3L._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Noob-Hide-Strategy-games-stealth/dp/B0CYCQDSZW/ref=zg_bs_g_mobile-apps_d_sccl_40/132-1481776-2478025?psc=1"
+            },
+            {
+                "rank": 41,
+                "asin": "B00MKD981M",
+                "name": "Celebrity Frozen Snow Cone MakerBeansprites LLC",
+                "ratings_count": 1780,
+                "rating": "3.5",
+                "sale_price": "$7.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81bRet5F5sL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Celebrity-Frozen-Snow-Cone-Maker/dp/B00MKD981M/ref=zg_bs_g_mobile-apps_d_sccl_41/132-1481776-2478025?psc=1"
+            },
+            {
+                "rank": 42,
+                "asin": "B0DJ69XVCD",
+                "name": "Find the TraitorDalak Games",
+                "ratings_count": 1,
+                "rating": "5.0",
+                "sale_price": "$7.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/819-KKodIFL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Dalak-Games-Find-the-Traitor/dp/B0DJ69XVCD/ref=zg_bs_g_mobile-apps_d_sccl_42/132-1481776-2478025?psc=1"
+            },
+            {
+                "rank": 43,
+                "asin": "B0D3TX1YC7",
+                "name": "Flying Fighter Open World Hero: Rope GameCentury Games Studio",
+                "ratings_count": 1,
+                "rating": "3.0",
+                "sale_price": "$4.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81nbz3ZtK-L._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Flying-Fighter-Open-World-Hero/dp/B0D3TX1YC7/ref=zg_bs_g_mobile-apps_d_sccl_43/132-1481776-2478025?psc=1"
+            },
+            {
+                "rank": 44,
+                "asin": "B07R1H8S2X",
+                "name": "Police Bike Driving Simulator 3d Extreme Motorbike Chase Racing Game- Real Car Driving Simulator Free Games with Cops and Robbers Games –Fast Motorcycle Drive GamesTenlogix Games",
+                "ratings_count": 435,
+                "rating": "3.8",
+                "sale_price": "$1.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91JZUZrXyaL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Police-Bike-Gangster-Chase-Games/dp/B07R1H8S2X/ref=zg_bs_g_mobile-apps_d_sccl_44/132-1481776-2478025?psc=1"
+            },
+            {
+                "rank": 45,
+                "asin": "B0CG95V45J",
+                "name": "Flick Guy: Anti stress games & destroying simulatorCasual Gaming",
+                "ratings_count": 31,
+                "rating": "2.5",
+                "sale_price": "$10.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71uC2y5tsZL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Casual-Gaming-Flick-Guy/dp/B0CG95V45J/ref=zg_bs_g_mobile-apps_d_sccl_45/132-1481776-2478025?psc=1"
+            },
+            {
+                "rank": 46,
+                "asin": "B0D9W5B9Q6",
+                "name": "Iron Suit: Superhero SimulatorTop Games",
+                "ratings_count": 2,
+                "rating": "2.5",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81rG0sCXe1L._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Top-Games-Iron-Suit-Superhero/dp/B0D9W5B9Q6/ref=zg_bs_g_mobile-apps_d_sccl_46/132-1481776-2478025?psc=1"
+            },
+            {
+                "rank": 47,
+                "asin": "B0CMV9CLZL",
+                "name": "Match Guns 3DPlayPeak",
+                "ratings_count": 5,
+                "rating": "2.3",
+                "sale_price": "$13.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71W4QdSG0aL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/PlayPeak-Match-Guns-3D/dp/B0CMV9CLZL/ref=zg_bs_g_mobile-apps_d_sccl_47/132-1481776-2478025?psc=1"
+            },
+            {
+                "rank": 48,
+                "asin": "B0D965HTN3",
+                "name": "Gangster Games Vegas Crime GameOpen World Games Studio",
+                "ratings_count": null,
+                "rating": null,
+                "sale_price": "$6.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81Irn7S12DL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Gangster-Games-Vegas-Crime-Game/dp/B0D965HTN3/ref=zg_bs_g_mobile-apps_d_sccl_48/132-1481776-2478025?psc=1"
+            },
+            {
+                "rank": 49,
+                "asin": "B0DDL4VNCS",
+                "name": "Ragdoll Playgrounds Sandbox Simulationpegar hube",
+                "ratings_count": null,
+                "rating": null,
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71oi-J0ODoL._AC_UL300_SR300,200_.png",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/pegar-hube-Ragdoll-Playgrounds-Simulation/dp/B0DDL4VNCS/ref=zg_bs_g_mobile-apps_d_sccl_49/132-1481776-2478025?psc=1"
+            }
+        ]
+    }
+}

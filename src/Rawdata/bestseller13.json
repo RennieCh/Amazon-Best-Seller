@@ -1,0 +1,583 @@
+{
+    "200": {
+        "category": "Amazon Best SellersCell Phones & Accessories",
+        "category_hierarchy": [
+            {
+                "name": "Any Department",
+                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_wireless_0_1"
+            },
+            {
+                "name": "Cell Phones & Accessories",
+                "url": "https://www.amazon.com/Best-Sellers-Cell-Phones-Accessories/zgbs/wireless/ref=zg_bs_nav_wireless_0?pg=1"
+            }
+        ],
+        "child_categories": [
+            {
+                "category": "Accessories",
+                "url": "https://www.amazon.com/Best-Sellers-Cell-Phones-Accessories-Cell-Phone-Accessories/zgbs/wireless/2407755011/ref=zg_bs_nav_wireless_1"
+            },
+            {
+                "category": "Cases, Holsters & Clips",
+                "url": "https://www.amazon.com/Best-Sellers-Cell-Phones-Accessories-Cell-Phone-Cases-Covers/zgbs/wireless/2407760011/ref=zg_bs_nav_wireless_1"
+            },
+            {
+                "category": "SIM Cards & Prepaid Minutes",
+                "url": "https://www.amazon.com/Best-Sellers-Cell-Phones-Accessories-SIM-Cards-Prepaid-Minutes/zgbs/wireless/3345523011/ref=zg_bs_nav_wireless_1"
+            }
+        ],
+        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/Best-Sellers-Cell-Phones-Accessories/zgbs/wireless/ref%3Dzg_bs_pg_2_wireless%3F_encoding%3DUTF8%26pg%3D2",
+        "url": "https://www.amazon.com/Best-Sellers-Cell-Phones-Accessories/zgbs/wireless/ref=zg_bs_nav_wireless_0?pg=1",
+        "product_listings": [
+            {
+                "rank": 1,
+                "asin": "B0D79322MG",
+                "name": "ESR for iPhone 16 Pro Max Case, Compatible with MagSafe, Shockproof Military-Grade Protection, Magnetic Phone Case for iPhone 16 Pro Max 6.9 inch, Clear",
+                "ratings_count": 103060,
+                "rating": "4.6",
+                "sale_price": "$14.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71RzaVCib3L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/ESR-Compatible-Shockproof-Military-Grade-Protection/dp/B0D79322MG/ref=zg_bs_g_wireless_d_sccl_1/132-9086456-1296868?psc=1"
+            },
+            {
+                "rank": 2,
+                "asin": "B0CJMJS3DS",
+                "name": "NEW'C 3 Pack Designed for iPhone 16, iPhone 15, iPhone 15 Pro (6.1 inches) Screen Protector Tempered Glass,Case Friendly Ultra Resistant",
+                "ratings_count": 191455,
+                "rating": "4.5",
+                "sale_price": "$5.89",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71O77qWEvXL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/NEWC-Designed-Protector-Tempered-Resistant/dp/B0CJMJS3DS/ref=zg_bs_g_wireless_d_sccl_2/132-9086456-1296868?psc=1"
+            },
+            {
+                "rank": 3,
+                "asin": "B0D9LJPWX9",
+                "name": "Ailun 3 Pack Screen Protector for iPhone 16 Pro Max [6.9 inch] + 3 Pack Camera Lens Protector with Installation Frame,Sensor Protection,Dynamic Island Compatible,Case Friendly Tempered Glass Film",
+                "ratings_count": 127075,
+                "rating": "4.5",
+                "sale_price": "$7.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/815keamN-BL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Ailun-Protector-Installation-Protection-Compatible/dp/B0D9LJPWX9/ref=zg_bs_g_wireless_d_sccl_3/132-9086456-1296868?psc=1"
+            },
+            {
+                "rank": 4,
+                "asin": "B0D5LXN6MN",
+                "name": "ESR 3 Pack for iPhone 16 Pro Max Privacy Screen Protector, Anti-spy Tempered-Glass Privacy Screen Protector with Easy Installation Tool, Micro-Curved Edges, Case Friendly",
+                "ratings_count": 87541,
+                "rating": "4.4",
+                "sale_price": "$11.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71T6pA7ti3L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/ESR-iPhone-Pro-Max-Tempered-Glass/dp/B0D5LXN6MN/ref=zg_bs_g_wireless_d_sccl_4/132-9086456-1296868?psc=1"
+            },
+            {
+                "rank": 5,
+                "asin": "B07CZDXDG8",
+                "name": "INIU Portable Charger, Slimmest 10000mAh 5V/3A Power Bank, USB C in&out High-Speed Charging Battery Pack, External Phone Powerbank Compatible with iPhone 16 15 14 13 12 Samsung S22 S21 Google iPad etc",
+                "ratings_count": 64528,
+                "rating": "4.6",
+                "sale_price": "$17.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/516tnauVb+L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/INIU-High-Speed-Flashlight-Powerbank-Compatible/dp/B07CZDXDG8/ref=zg_bs_g_wireless_d_sccl_5/132-9086456-1296868?psc=1"
+            },
+            {
+                "rank": 6,
+                "asin": "B0CCYNV9PC",
+                "name": "Ailun 3 Pack Screen Protector for iPhone 15 Pro Max [6.7 inch] + 3 Pack Camera Lens Protector with Installation Frame,Sensor Protection,Dynamic Island Compatible,Case Friendly Tempered Glass Film",
+                "ratings_count": 78536,
+                "rating": "4.5",
+                "sale_price": "$6.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71aodrmIgCL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Ailun-Protector-Installation-Protection-Compatible/dp/B0CCYNV9PC/ref=zg_bs_g_wireless_d_sccl_6/132-9086456-1296868?psc=1"
+            },
+            {
+                "rank": 7,
+                "asin": "B0C8HHV9DK",
+                "name": "Anker iPhone 16 Charger, Anker USB C Charger, 2-Pack 20W Dual Port USB Fast Wall Charger, USB C Charger Block for iPhone 16/15 / 14 / iPad Pro/AirPods and More (2-Pack 5 ft USBC Cable Included)",
+                "ratings_count": 9334,
+                "rating": "4.7",
+                "sale_price": "$18.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61GTEkM79DL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/iPhone-Charger-Anker-AirPods-Included/dp/B0C8HHV9DK/ref=zg_bs_g_wireless_d_sccl_7/132-9086456-1296868?psc=1"
+            },
+            {
+                "rank": 8,
+                "asin": "B0D7FVQ1ZB",
+                "name": "Apple EarPods Headphones with Lightning Connector, Wired Ear Buds for iPhone with Built-in Remote to Control Music, Phone Calls, and Volume",
+                "ratings_count": 973,
+                "rating": "4.5",
+                "sale_price": "$19.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/317eB4+yU6L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-EarPods-Headphones-Lightning-Connector/dp/B0D7FVQ1ZB/ref=zg_bs_g_wireless_d_sccl_8/132-9086456-1296868?psc=1"
+            },
+            {
+                "rank": 9,
+                "asin": "B0D871H8RY",
+                "name": "TAURI 5 in 1 for iPhone 16 Pro Max Case, Compatible with MagSafe [Not-Yellowing] with 2X Screen Protector + 2X Camera Lens Protector, Military-Grade Protection, Magnetic Case for 16 ProMax 6.9\", Clear",
+                "ratings_count": 52617,
+                "rating": "4.6",
+                "sale_price": "$17.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/717T2Ix7ZOL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/TAURI-iPhone-Pro-Max-Military-Grade/dp/B0D871H8RY/ref=zg_bs_g_wireless_d_sccl_9/132-9086456-1296868?psc=1"
+            },
+            {
+                "rank": 10,
+                "asin": "B0DGHMNQ5Z",
+                "name": "Apple AirPods 4 Wireless Earbuds, Bluetooth Headphones, Personalized Spatial Audio, Sweat and Water Resistant, USB-C Charging Case, H2 Chip, Up to 30 Hours of Battery Life, Effortless Setup for iPhone",
+                "ratings_count": 82,
+                "rating": "3.9",
+                "sale_price": "$119.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61iBtxCUabL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-Bluetooth-Headphones-Personalized-Effortless/dp/B0DGHMNQ5Z/ref=zg_bs_g_wireless_d_sccl_10/132-9086456-1296868?psc=1"
+            },
+            {
+                "rank": 11,
+                "asin": "B07WRBDXZ8",
+                "name": "Misxi 2 Pack Hard PC Case with Tempered Glass Screen Protector Compatible with Apple Watch Series 6 SE Series 5 Series 4 44mm, Black",
+                "ratings_count": 162869,
+                "rating": "4.4",
+                "sale_price": "$9.96",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61wDa7Ea5TL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Misxi-Compatible-Protector-Tempered-Protective/dp/B07WRBDXZ8/ref=zg_bs_g_wireless_d_sccl_11/132-9086456-1296868?psc=1"
+            },
+            {
+                "rank": 12,
+                "asin": "B08L5M9BTJ",
+                "name": "Apple 20W USB-C Power Adapter - iPhone Charger with Fast Charging Capability, Type C Wall Charger",
+                "ratings_count": 216394,
+                "rating": "4.8",
+                "sale_price": "$14.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41iWogJnZQL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-20W-USB-C-Power-Adapter/dp/B08L5M9BTJ/ref=zg_bs_g_wireless_d_sccl_12/132-9086456-1296868?psc=1"
+            },
+            {
+                "rank": 13,
+                "asin": "B0DCC1P4HT",
+                "name": "Miracase for iPhone 16 Pro Max Case 6.9'', [Bubble Free] Full-Body Bumper Phone case with Built-in Full Glass Screen &Lens Protector,Compatible with MagSafe,Drop Proof 16 Pro Max Cover,Desert Brown",
+                "ratings_count": 108431,
+                "rating": "4.3",
+                "sale_price": "$19.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71Hqa6jyB2L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Miracase-Full-Body-Protector-Compatible-MagSafe/dp/B0DCC1P4HT/ref=zg_bs_g_wireless_d_sccl_13/132-9086456-1296868?psc=1"
+            },
+            {
+                "rank": 14,
+                "asin": "B08P25VBY1",
+                "name": "MAILESI for iPhone Charger Fast Charging,[MFi Certified] 2Pack 20W Type C Fast Charger Block with 6FT USB C Charger Cable Compatible for iPhone 14/13/12/11 Pro Max/11/Xs Max/XR/X,iPad,AirPods Pro",
+                "ratings_count": 18445,
+                "rating": "4.4",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61OlKzV5uvL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/i-Phone-Charger-Charging-Certified-Compatible/dp/B08P25VBY1/ref=zg_bs_g_wireless_d_sccl_14/132-9086456-1296868?psc=1"
+            },
+            {
+                "rank": 15,
+                "asin": "B0D944B4GS",
+                "name": "Temdan for iPhone 16 Pro Case Clear, [Compatible with Magsafe] Shockproof Slim Megnetic Phone Case for iPhone 16 Pro, Transparent",
+                "ratings_count": 6917,
+                "rating": "4.6",
+                "sale_price": "$8.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61Z9OFrXi4L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Temdan-Compatible-Shockproof-Megnetic-Transparent/dp/B0D944B4GS/ref=zg_bs_g_wireless_d_sccl_15/132-9086456-1296868?psc=1"
+            },
+            {
+                "rank": 16,
+                "asin": "B09CSSP9C1",
+                "name": "Ailun Glass Screen Protector for iPhone 14 / iPhone 13 / iPhone 13 Pro [6.1 Inch] Display 3 Pack Tempered Glass, Case Friendly",
+                "ratings_count": 86655,
+                "rating": "4.5",
+                "sale_price": "$4.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71OicfvCsbL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Ailun-Protector-Compatible-Tempered-Friendly/dp/B09CSSP9C1/ref=zg_bs_g_wireless_d_sccl_16/132-9086456-1296868?psc=1"
+            },
+            {
+                "rank": 17,
+                "asin": "B0DBL8F3L2",
+                "name": "Mkeke for iPhone 16 Pro Max Case Clear [Not-Yellowing] [Military-Grade Drop Protection] Shockproof Protective Clear iPhone 16 Pro Max Case Phone Bumper case for Apple 6.9 inch 2024",
+                "ratings_count": 124628,
+                "rating": "4.6",
+                "sale_price": "$13.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/7154009guGL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Mkeke-Not-Yellowing-Military-Grade-Protection-Shockproof/dp/B0DBL8F3L2/ref=zg_bs_g_wireless_d_sccl_17/132-9086456-1296868?psc=1"
+            },
+            {
+                "rank": 18,
+                "asin": "B0BFCC18FS",
+                "name": "3 in 1 Charging Station for iPhone, Wireless Charger for iPhone 16 15 14 13 12 11 X Pro Max & Apple Watch - Wireless Charging Station for AirPods 4 3 Pro",
+                "ratings_count": 20073,
+                "rating": "4.3",
+                "sale_price": "$29.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61VwfUI+-eL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Charging-Station-iPhone-Wireless-Charger/dp/B0BFCC18FS/ref=zg_bs_g_wireless_d_sccl_18/132-9086456-1296868?psc=1"
+            },
+            {
+                "rank": 19,
+                "asin": "B0BQPNMXQV",
+                "name": "JBL Vibe Beam - True Wireless JBL Deep Bass Sound Earbuds, Bluetooth 5.2, Water & Dust Resistant, Hands-free call with VoiceAware, Up to 32 hours of battery life (Black)",
+                "ratings_count": 13724,
+                "rating": "4.3",
+                "sale_price": "$29.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41+1Csr1pSL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/JBL-Vibe-Beam-Wireless-Headphones/dp/B0BQPNMXQV/ref=zg_bs_g_wireless_d_sccl_19/132-9086456-1296868?psc=1"
+            },
+            {
+                "rank": 20,
+                "asin": "B09KR8P3L5",
+                "name": "iPhone 16 15 Charger Fast Charging Type C Charger USB C Charger Block iPhone 16 Charger with 2 Pack 6FT Cable for iPhone 16/16 Plus/16 Pro/16 Pro Max/iPhone 15/15 Pro Max/iPad Pro/AirPods",
+                "ratings_count": 9248,
+                "rating": "4.6",
+                "sale_price": "$9.90",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61lzntb+BnL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Fast-Charger-USB-Wall-Charegr/dp/B09KR8P3L5/ref=zg_bs_g_wireless_d_sccl_20/132-9086456-1296868?psc=1"
+            },
+            {
+                "rank": 21,
+                "asin": "B0D9BBV4FZ",
+                "name": "amFilm Auto-Alignment OneTouch for iPhone 16 Pro [6.3''] Screen Protector + Camera Lens Protector, Tempered Glass, 30 seconds Installation, Bubble Free, Case Friendly, Anti-Scratch [2+2 Pack]",
+                "ratings_count": 11293,
+                "rating": "4.5",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71hDxW+QCaL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/amFilm-Auto-Alignment-Protector-Installation-Anti-Scratch/dp/B0D9BBV4FZ/ref=zg_bs_g_wireless_d_sccl_21/132-9086456-1296868?psc=1"
+            },
+            {
+                "rank": 22,
+                "asin": "B0D9LL9BKW",
+                "name": "Ailun 3Pack Privacy Screen Protector for iPhone 16 Pro Max [6.9 inch]+3Pack Camera Lens Protector,Dynamic Island Compatible,Anti Spy Tempered Glass[9H Hardness]-HD [6 Pack]",
+                "ratings_count": 26984,
+                "rating": "4.5",
+                "sale_price": "$8.89",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71BAzS7kD4L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Ailun-Protector-Compatible-Tempered-Hardness/dp/B0D9LL9BKW/ref=zg_bs_g_wireless_d_sccl_22/132-9086456-1296868?psc=1"
+            },
+            {
+                "rank": 23,
+                "asin": "B0B768XC42",
+                "name": "Ailun 3 Pack Camera Lens Protector for iPhone 16 Pro 6.3\" / 14 Pro 6.1\" ＆ iPhone 16 Pro Max 6.9\" / 14 Pro Max 6.7\",Tempered Glass,9H Hardness,Anti-Scratch,Case Friendly[Does not Affect Night Shots]",
+                "ratings_count": 20270,
+                "rating": "4.4",
+                "sale_price": "$5.89",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71guOhtWkNL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Ailun-Protector-Tempered-Hardness-Anti-Scratch/dp/B0B768XC42/ref=zg_bs_g_wireless_d_sccl_23/132-9086456-1296868?psc=1"
+            },
+            {
+                "rank": 24,
+                "asin": "B0CCYNCW8G",
+                "name": "Ailun 3Pack Privacy Screen Protector for iPhone 15 Pro Max [6.7 inch]+3Pack Camera Lens Protector,Sensor Protection,Dynamic Island Compatible,Anti Spy Tempered Glass[9H Hardness]-HD[6 Pack]",
+                "ratings_count": 56428,
+                "rating": "4.4",
+                "sale_price": "$8.89",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71zY7rMNyjL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Ailun-Protector-Protection-Compatible-Tempered/dp/B0CCYNCW8G/ref=zg_bs_g_wireless_d_sccl_24/132-9086456-1296868?psc=1"
+            },
+            {
+                "rank": 25,
+                "asin": "B0D78ZBNQJ",
+                "name": "ESR 3 Pack for iPhone 16 Pro Max Screen Protector, [9H Hardness] [Military Grade Shatterproof] Tempered Glass Film with Flawless Fit Tray, HD Clear, Scratch Resistant",
+                "ratings_count": 18529,
+                "rating": "4.3",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71fZdZloLIL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/ESR-iPhone-Pro-Max-Shatterproof/dp/B0D78ZBNQJ/ref=zg_bs_g_wireless_d_sccl_25/132-9086456-1296868?psc=1"
+            },
+            {
+                "rank": 26,
+                "asin": "B0C2BMNHW2",
+                "name": "Wireless Charger iPhone Charging Station: 3 in 1 Charger Stand Multiple Devices for Apple - iPhone 16 15 14 Pro Max 13 12 11 - Watch 10 9 8 7 6 5 4 3 2 SE and Ultra Series - Airpods 4 3 2 Pro",
+                "ratings_count": 10501,
+                "rating": "4.3",
+                "sale_price": "$17.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61cIq+mTLqL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Wireless-Charger-iPhone-Charging-Station/dp/B0C2BMNHW2/ref=zg_bs_g_wireless_d_sccl_26/132-9086456-1296868?psc=1"
+            },
+            {
+                "rank": 27,
+                "asin": "B0B76KJXWV",
+                "name": "Ailun 3 Pack Screen Protector for iPhone 14 Pro Max [6.7 inch] + 3 Pack Camera Lens Protector,Sensor Protection,Dynamic Island Compatible,Case Friendly Tempered Glass Film,[9H Hardness] - HD",
+                "ratings_count": 74558,
+                "rating": "4.5",
+                "sale_price": "$7.89",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71fW+RXbrzL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Ailun-Protector-Protection-Compatible-Friendly/dp/B0B76KJXWV/ref=zg_bs_g_wireless_d_sccl_27/132-9086456-1296868?psc=1"
+            },
+            {
+                "rank": 28,
+                "asin": "B0CCYM3F1V",
+                "name": "Ailun Glass Screen Protector for iPhone 16 / iPhone 15 / iPhone 15 Pro [6.1 Inch] Display 3 Pack Tempered Glass, Dynamic Island Compatible, Case Friendly [Not for iPhone 16 Pro 6.3 Inch]",
+                "ratings_count": 9400,
+                "rating": "4.4",
+                "sale_price": "$5.89",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71S7Ej-DfQL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Ailun-iPhone-15-Protection-Compatible/dp/B0CCYM3F1V/ref=zg_bs_g_wireless_d_sccl_28/132-9086456-1296868?psc=1"
+            },
+            {
+                "rank": 29,
+                "asin": "B0D8L1RLD5",
+                "name": "TOCOL 3 in 1 Magnetic for iPhone 16 Pro Max Case, Upgraded Full Camera Protection, Compatible with Magsafe, Drop Protection, Translucent Matte Back Bumper for 16 ProMax Case 6.9-Inch（Black）",
+                "ratings_count": 4700,
+                "rating": "4.5",
+                "sale_price": "$17.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71JfIzNBI3L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/TOCOL-iPhone-Pro-Max-6-9-Inch%EF%BC%88Black%EF%BC%89/dp/B0D8L1RLD5/ref=zg_bs_g_wireless_d_sccl_29/132-9086456-1296868?psc=1"
+            },
+            {
+                "rank": 30,
+                "asin": "B0D7ZRPDTW",
+                "name": "ESR for iPhone 16 Pro Max Case, Compatible with MagSafe, Military-Grade Protective Case, Built-in Stash Stand iPhone Case, Scratch-Resistant Back Cover, Classic Series, Clear",
+                "ratings_count": 23554,
+                "rating": "4.6",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81QAg3fND6L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/ESR-Compatible-Military-Grade-Protective-Scratch-Resistant/dp/B0D7ZRPDTW/ref=zg_bs_g_wireless_d_sccl_30/132-9086456-1296868?psc=1"
+            },
+            {
+                "rank": 31,
+                "asin": "B0CS6DWTDT",
+                "name": "NEW'C 3 Pack Designed for Samsung Galaxy S24 5G Screen Protector Tempered Glass,Case Friendly Ultra Resistant",
+                "ratings_count": 45560,
+                "rating": "4.4",
+                "sale_price": "$6.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71d--aY4-OL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/NEWC-Designed-Protector-Scratch-proof-Resistant/dp/B0CS6DWTDT/ref=zg_bs_g_wireless_d_sccl_31/132-3084200-1203332?psc=1"
+            },
+            {
+                "rank": 32,
+                "asin": "B0CHS69JW3",
+                "name": "Qifutan Car Phone Holder Mount Phone Mount for Car Windshield Dashboard Air Vent Universal Hands Free Automobile Cell Phone Holder Fit for iPhone Smartphone Carbon Fiber",
+                "ratings_count": 16723,
+                "rating": "4.3",
+                "sale_price": "$11.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71OjC2Gpb4L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Qifutan-Windshield-Dashboard-Automobile-Smartphone/dp/B0CHS69JW3/ref=zg_bs_g_wireless_d_sccl_32/132-3084200-1203332?psc=1"
+            },
+            {
+                "rank": 33,
+                "asin": "B0D4YW94D2",
+                "name": "SUPFINE Magnetic for iPhone 13 Pro Case [Compatible with MagSafe] [10 FT Military Grade Drop Protection] Slim Translucent Matte Shockproof with Anti-Fingerprint Phone Case,Matte Black",
+                "ratings_count": 1184,
+                "rating": "4.4",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71rMUifqz4L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/SUPFINE-Compatible-Protection-Translucent-Anti-Fingerprint/dp/B0D4YW94D2/ref=zg_bs_g_wireless_d_sccl_33/132-3084200-1203332?psc=1"
+            },
+            {
+                "rank": 34,
+                "asin": "B0D89TKT47",
+                "name": "QHOHQ for iPhone 16 Pro Max Screen Protector with Camera Lens Protector, [Military Grade Shatterproof], Top 9H+ Tempered Glass, Full Edge Coverage, Ultra Durable, with Installation Tool [3+3 Pack]",
+                "ratings_count": 146393,
+                "rating": "4.5",
+                "sale_price": "$9.96",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/714QRCM07qL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/QHOHQ-iPhone-Pro-Max-Shatterproof/dp/B0D89TKT47/ref=zg_bs_g_wireless_d_sccl_34/132-3084200-1203332?psc=1"
+            },
+            {
+                "rank": 35,
+                "asin": "B08LVSFN4X",
+                "name": "INIU Wireless Charger, 15W Fast Qi-Certified Wireless Charging Station with Sleep-Friendly Adaptive Light Compatible with iPhone 16 15 14 13 Pro XS 8 Plus Samsung Galaxy S23 S22 S21 Note 20 Google etc",
+                "ratings_count": 27258,
+                "rating": "4.3",
+                "sale_price": "$12.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71B+4V5YhnL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/INIU-Wireless-Qi-Certified-Sleep-Friendly-Compatible/dp/B08LVSFN4X/ref=zg_bs_g_wireless_d_sccl_35/132-3084200-1203332?psc=1"
+            },
+            {
+                "rank": 36,
+                "asin": "B0D9LL8LK7",
+                "name": "Ailun 3 Pack Screen Protector for iPhone 16 Pro Max [6.9 inch] with Installation Frame, Tempered Glass, Sensor Protection, Dynamic Island Compatible, Case Friendly",
+                "ratings_count": 33068,
+                "rating": "4.5",
+                "sale_price": "$5.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71Biao08IyL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Ailun-Protector-Installation-Protection-Compatible/dp/B0D9LL8LK7/ref=zg_bs_g_wireless_d_sccl_36/132-3084200-1203332?psc=1"
+            },
+            {
+                "rank": 37,
+                "asin": "B0DBVJS5HT",
+                "name": "Miracase Magnetic for iPhone 16 Pro Max Case [Compatible with MagSafe] [with 2X Screen Protectors] Military-Grade Protection, Anti-Fingerprint, Slim Fit Phone Case for 16 Pro Max 6.9 inch - Black",
+                "ratings_count": 2868,
+                "rating": "4.5",
+                "sale_price": "$16.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71kVIFu7b6L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Miracase-Compatible-Protectors-Military-Grade-Anti-Fingerprint/dp/B0DBVJS5HT/ref=zg_bs_g_wireless_d_sccl_37/132-3084200-1203332?psc=1"
+            },
+            {
+                "rank": 38,
+                "asin": "B0D6W6ZX6B",
+                "name": "ESR 3 Pack 9H+ Glass for iPhone 16 Pro Max Screen Protector, [Military Grade Shatterproof & Longest Durable] Ultra-tough Tempered Glass with Updated Easy Installation Tool",
+                "ratings_count": 19739,
+                "rating": "4.3",
+                "sale_price": "$16.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71dYa2rsyhL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/ESR-iPhone-Pro-Max-Shatterproof/dp/B0D6W6ZX6B/ref=zg_bs_g_wireless_d_sccl_38/132-3084200-1203332?psc=1"
+            },
+            {
+                "rank": 39,
+                "asin": "B0D3J71RM7",
+                "name": "Apple Pencil Pro: Advanced Tools, Pixel-Perfect Precision, Tilt and Pressure Sensitivity, and Industry-Leading Low Latency for Note-Taking, Drawing, and Art. Attaches, Charges, and Pairs Magnetically",
+                "ratings_count": 1016,
+                "rating": "4.5",
+                "sale_price": "$89.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41iLLpfSWxL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Apple-Pencil-Pro-Pixel-Perfect-Industry-Leading/dp/B0D3J71RM7/ref=zg_bs_g_wireless_d_sccl_39/132-3084200-1203332?psc=1"
+            },
+            {
+                "rank": 40,
+                "asin": "B0D8Y61X1L",
+                "name": "CANSHN Magnetic Compatible with iPhone 16 Pro Case, Upgraded [Full Camera Protection] [Compatible with Magsafe] [Translucent Matte] Shockproof Protective Phone Case Cover 6.3 Inch - Black",
+                "ratings_count": 1864,
+                "rating": "4.6",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61k6AgcmR6L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/CANSHN-Compatible-Protection-Translucent-Shockproof/dp/B0D8Y61X1L/ref=zg_bs_g_wireless_d_sccl_40/132-3084200-1203332?psc=1"
+            },
+            {
+                "rank": 41,
+                "asin": "B09TQY66NH",
+                "name": "SENSYNE 62\" Phone Tripod & Selfie Stick, Extendable Cell Phone Tripod Stand with Wireless Remote and Phone Holder, Compatible with iPhone Android Phone, Camera",
+                "ratings_count": 30801,
+                "rating": "4.6",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51JMXGSMcTL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Sensyne-Extendable-Wireless-Compatible-Android/dp/B09TQY66NH/ref=zg_bs_g_wireless_d_sccl_41/132-3084200-1203332?psc=1"
+            },
+            {
+                "rank": 42,
+                "asin": "B079LYHNSR",
+                "name": "Basesailor USB to USB C Adapter for iPhone 16 Charger 2Pack,USBC Female to A Male OTG Type C Converter for Apple Watch Ultra iWatch 7 8 9 10,iPhone 15 14 13 Plus Pro Max,AirPods,iPad,Car,Samsung S24",
+                "ratings_count": 100515,
+                "rating": "4.6",
+                "sale_price": "$8.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61hh93h2ZbL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Female-Adapter-Charger-Airpods-Samsung/dp/B079LYHNSR/ref=zg_bs_g_wireless_d_sccl_42/132-3084200-1203332?psc=1"
+            },
+            {
+                "rank": 43,
+                "asin": "B0C1Y8Z6VT",
+                "name": "for Magsafe Car Mount【20 Strong Magnets】 Magnetic Phone Holder for Car Phone Holder Mount Truck Dash【360°】 Cell Phone Holders for Your Car Accessories for women men iPhone 16 Pro Max 15 14 13 12 Plus",
+                "ratings_count": 5341,
+                "rating": "4.5",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71Mav34qzBL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Mount%E3%80%9020-Magnets%E3%80%91Magnetic-Dashboard%E3%80%90360%C2%B0-Rotation%E3%80%91Hands-Accessories/dp/B0C1Y8Z6VT/ref=zg_bs_g_wireless_d_sccl_43/132-3084200-1203332?psc=1"
+            },
+            {
+                "rank": 44,
+                "asin": "B0C4JTVBBH",
+                "name": "Power-Bank-Solar-Charger - 42800mAh Portable Charger,Solar Power Bank,External Battery Pack 5V3.1A Qc 3.0 Fast Charger Built-in Super Bright Flashlight (Orange)",
+                "ratings_count": 11238,
+                "rating": "4.1",
+                "sale_price": "$35.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71zpVVph3mL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Power-Bank-Solar-Charger-42800mAh-Portable-Built-Flashlight/dp/B0C4JTVBBH/ref=zg_bs_g_wireless_d_sccl_44/132-3084200-1203332?psc=1"
+            },
+            {
+                "rank": 45,
+                "asin": "B0D2225YJD",
+                "name": "Spigen Ultra Hybrid MagFit Designed for iPhone 16 Pro Max Case [Anti-Yellowing] [Military-Grade Protection] Compatible with MagSafe - Frost Black",
+                "ratings_count": 928,
+                "rating": "4.4",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/6130ymD9IgL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Spigen-Anti-Yellowing-Military-Grade-Protection-Compatible/dp/B0D2225YJD/ref=zg_bs_g_wireless_d_sccl_45/132-3084200-1203332?psc=1"
+            },
+            {
+                "rank": 46,
+                "asin": "B07TK6MPNB",
+                "name": "USB Wall Charger, LUOATIP 3-Pack 2.1A/5V Dual Port USB Cube Power Adapter Charger Plug Block Charging Box Brick for iPhone 13 12 11 Pro Max SE XS XR X 8 7 6 6S Plus, Samsung, LG, Moto, Android Phones",
+                "ratings_count": 67404,
+                "rating": "4.7",
+                "sale_price": "$8.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51jMWghvunL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Charger-LUOATIP-Adapter-Charging-Replacement/dp/B07TK6MPNB/ref=zg_bs_g_wireless_d_sccl_46/132-3084200-1203332?psc=1"
+            },
+            {
+                "rank": 47,
+                "asin": "B0D84R9HYW",
+                "name": "Spigen Tempered Glass Screen Protector [GlasTR EZ FIT] designed for iPhone 16 Pro Max [2 Pack]",
+                "ratings_count": 6558,
+                "rating": "4.1",
+                "sale_price": "$18.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61AQP4tYRwL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Spigen-iPhone-16-Pro-Max/dp/B0D84R9HYW/ref=zg_bs_g_wireless_d_sccl_47/132-3084200-1203332?psc=1"
+            },
+            {
+                "rank": 48,
+                "asin": "B0B14VQ5GQ",
+                "name": "2 Pack Case with Tempered Glass Screen Protector for Apple Watch SE(2023) Series 6/5/4/SE 40mm,JZK Slim Guard Bumper Full Coverage Hard PC Protective Cover HD Ultra-Thin Cover for iWatch 40mm,Clear",
+                "ratings_count": 21629,
+                "rating": "4.3",
+                "sale_price": "$6.59",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61mLBmQ5pHL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Tempered-Protector-JZK-Protective-Ultra-Thin/dp/B0B14VQ5GQ/ref=zg_bs_g_wireless_d_sccl_48/132-3084200-1203332?psc=1"
+            },
+            {
+                "rank": 49,
+                "asin": "B0CY2JJ4WS",
+                "name": "Portable Charger with Built in Cables, Portable Charger with Cords Wires Slim 10000mAh Travel Essentials Battery Pack 6 Outputs 3A High Speed Power Bank for iPhone Samsung Pixel LG Moto iPad",
+                "ratings_count": 5791,
+                "rating": "4.6",
+                "sale_price": "$29.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61sqjfNvuXL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Portable-Charger-10000mAh-Essentials-Battery/dp/B0CY2JJ4WS/ref=zg_bs_g_wireless_d_sccl_49/132-3084200-1203332?psc=1"
+            },
+            {
+                "rank": 50,
+                "asin": "B09TPGF9V1",
+                "name": "i Phone Charger 10 Ft Fast Charging【MFi-Certified】 2-Pack 20W PD Fast Charger with 6Ft Fast Charging Cable, Type C Fast Charging Block & Fast Charger Cord for IP 14/13/12/11, i Pad & More",
+                "ratings_count": 9147,
+                "rating": "4.3",
+                "sale_price": "$17.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61Yyb0CP23L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Fast-Charger-Phone-10ft-2-Pack/dp/B09TPGF9V1/ref=zg_bs_g_wireless_d_sccl_50/132-3084200-1203332?psc=1"
+            }
+        ]
+    }
+}

@@ -1,0 +1,667 @@
+{
+    "200": {
+        "category": "Amazon Best SellersCDs & Vinyl",
+        "category_hierarchy": [
+            {
+                "name": "Any Department",
+                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_music_0_1"
+            },
+            {
+                "name": "CDs & Vinyl",
+                "url": "https://www.amazon.com/best-sellers-music-albums/zgbs/music/ref=zg_bs_nav_music_0?pg=1"
+            }
+        ],
+        "child_categories": [
+            {
+                "category": "Alternative Rock",
+                "url": "https://www.amazon.com/Best-Sellers-CDs-Vinyl-Alternative-Rock/zgbs/music/30/ref=zg_bs_nav_music_1"
+            },
+            {
+                "category": "Blues",
+                "url": "https://www.amazon.com/Best-Sellers-CDs-Vinyl-Blues/zgbs/music/31/ref=zg_bs_nav_music_1"
+            },
+            {
+                "category": "Broadway & Vocalists",
+                "url": "https://www.amazon.com/Best-Sellers-CDs-Vinyl-Broadway-Vocalists/zgbs/music/265640/ref=zg_bs_nav_music_1"
+            },
+            {
+                "category": "Children's Music",
+                "url": "https://www.amazon.com/Best-Sellers-CDs-Vinyl-Childrens-Music/zgbs/music/173425/ref=zg_bs_nav_music_1"
+            },
+            {
+                "category": "Christian",
+                "url": "https://www.amazon.com/Best-Sellers-CDs-Vinyl-Christian-Gospel/zgbs/music/173429/ref=zg_bs_nav_music_1"
+            },
+            {
+                "category": "Classic Rock",
+                "url": "https://www.amazon.com/Best-Sellers-CDs-Vinyl-Classic-Rock/zgbs/music/67204/ref=zg_bs_nav_music_1"
+            },
+            {
+                "category": "Classical",
+                "url": "https://www.amazon.com/Best-Sellers-CDs-Vinyl-Classical/zgbs/music/85/ref=zg_bs_nav_music_1"
+            },
+            {
+                "category": "Country",
+                "url": "https://www.amazon.com/Best-Sellers-CDs-Vinyl-Country/zgbs/music/16/ref=zg_bs_nav_music_1"
+            },
+            {
+                "category": "Dance & Electronic",
+                "url": "https://www.amazon.com/Best-Sellers-CDs-Vinyl-Dance-Electronic/zgbs/music/7/ref=zg_bs_nav_music_1"
+            },
+            {
+                "category": "Folk",
+                "url": "https://www.amazon.com/Best-Sellers-CDs-Vinyl-Folk/zgbs/music/32/ref=zg_bs_nav_music_1"
+            },
+            {
+                "category": "Gospel",
+                "url": "https://www.amazon.com/Best-Sellers-CDs-Vinyl-Gospel/zgbs/music/2231705011/ref=zg_bs_nav_music_1"
+            },
+            {
+                "category": "Hard Rock & Metal",
+                "url": "https://www.amazon.com/Best-Sellers-CDs-Vinyl-Metal/zgbs/music/67207/ref=zg_bs_nav_music_1"
+            },
+            {
+                "category": "Indie & Lo-Fi",
+                "url": "https://www.amazon.com/Best-Sellers-CDs-Vinyl-Indie-Lo-Fi/zgbs/music/468300/ref=zg_bs_nav_music_1"
+            },
+            {
+                "category": "International Music",
+                "url": "https://www.amazon.com/Best-Sellers-CDs-Vinyl-International-Music/zgbs/music/33/ref=zg_bs_nav_music_1"
+            },
+            {
+                "category": "Jazz",
+                "url": "https://www.amazon.com/Best-Sellers-CDs-Vinyl-Jazz/zgbs/music/34/ref=zg_bs_nav_music_1"
+            },
+            {
+                "category": "Latin Music",
+                "url": "https://www.amazon.com/Best-Sellers-CDs-Vinyl-Latin/zgbs/music/289122/ref=zg_bs_nav_music_1"
+            },
+            {
+                "category": "Miscellaneous",
+                "url": "https://www.amazon.com/Best-Sellers-CDs-Vinyl-Special-Interest/zgbs/music/35/ref=zg_bs_nav_music_1"
+            },
+            {
+                "category": "New Age",
+                "url": "https://www.amazon.com/Best-Sellers-CDs-Vinyl-New-Age/zgbs/music/36/ref=zg_bs_nav_music_1"
+            },
+            {
+                "category": "Opera & Vocal",
+                "url": "https://www.amazon.com/Best-Sellers-CDs-Vinyl-Opera-Vocal/zgbs/music/84/ref=zg_bs_nav_music_1"
+            },
+            {
+                "category": "Pop",
+                "url": "https://www.amazon.com/Best-Sellers-CDs-Vinyl-Pop/zgbs/music/37/ref=zg_bs_nav_music_1"
+            },
+            {
+                "category": "R&B",
+                "url": "https://www.amazon.com/Best-Sellers-CDs-Vinyl-RB/zgbs/music/39/ref=zg_bs_nav_music_1"
+            },
+            {
+                "category": "Rap & Hip-Hop",
+                "url": "https://www.amazon.com/Best-Sellers-CDs-Vinyl-Rap-Hip-Hop/zgbs/music/38/ref=zg_bs_nav_music_1"
+            },
+            {
+                "category": "Rock",
+                "url": "https://www.amazon.com/Best-Sellers-CDs-Vinyl-Rock/zgbs/music/40/ref=zg_bs_nav_music_1"
+            },
+            {
+                "category": "Soundtracks",
+                "url": "https://www.amazon.com/Best-Sellers-CDs-Vinyl-Soundtracks/zgbs/music/42/ref=zg_bs_nav_music_1"
+            }
+        ],
+        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/best-sellers-music-albums/zgbs/music/ref%3Dzg_bs_pg_2_music%3F_encoding%3DUTF8%26pg%3D2",
+        "url": "https://www.amazon.com/best-sellers-music-albums/zgbs/music/ref=zg_bs_nav_music_0?pg=1",
+        "product_listings": [
+            {
+                "rank": 1,
+                "asin": "B0DFKG6SP2",
+                "name": "Beautifully BrokenJelly Roll",
+                "ratings_count": 2,
+                "rating": "5.0",
+                "sale_price": "$12.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71XwsUoPcFL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Beautifully-Broken-Jelly-Roll/dp/B0DFKG6SP2/ref=zg_bs_g_music_d_sccl_1/139-5648405-9306944?psc=1"
+            },
+            {
+                "rank": 2,
+                "asin": "B0D6XF8VMG",
+                "name": "Moon Music",
+                "ratings_count": 83,
+                "rating": "4.1",
+                "sale_price": "$7.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51u751-zQhL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Moon-Music-Coldplay/dp/B0D6XF8VMG/ref=zg_bs_g_music_d_sccl_2/139-5648405-9306944?psc=1"
+            },
+            {
+                "rank": 3,
+                "asin": "B0CHL954N3",
+                "name": "The Rise And Fall Of A Midwest PrincessChappell Roan",
+                "ratings_count": 536,
+                "rating": "4.8",
+                "sale_price": "$32.92",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71SkcQwLUGL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Rise-Fall-Midwest-Princess-LP/dp/B0CHL954N3/ref=zg_bs_g_music_d_sccl_3/139-5648405-9306944?psc=1"
+            },
+            {
+                "rank": 4,
+                "asin": "B0CFZPB8T2",
+                "name": "The Rise And Fall Of A Midwest PrincessChappell Roan",
+                "ratings_count": 536,
+                "rating": "4.8",
+                "sale_price": "$11.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71JS2eJJW-L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Rise-Fall-Midwest-Princess/dp/B0CFZPB8T2/ref=zg_bs_g_music_d_sccl_4/139-5648405-9306944?psc=1"
+            },
+            {
+                "rank": 5,
+                "asin": "B0BYL8ZN26",
+                "name": "Whitsitt Chapel",
+                "ratings_count": 3430,
+                "rating": "4.8",
+                "sale_price": "$10.42",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81SewUFJBsL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Whitsitt-Chapel-Jelly-Roll/dp/B0BYL8ZN26/ref=zg_bs_g_music_d_sccl_5/139-5648405-9306944?psc=1"
+            },
+            {
+                "rank": 6,
+                "asin": "B08WHNTHKY",
+                "name": "Short n' Sweet [Lapis Lazuli LP] [Amazon Exclusive]",
+                "ratings_count": 147,
+                "rating": "3.4",
+                "sale_price": "$37.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61l69w1HWmL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Short-Sweet-Lazuli-Amazon-Exclusive/dp/B08WHNTHKY/ref=zg_bs_g_music_d_sccl_6/139-5648405-9306944?psc=1"
+            },
+            {
+                "rank": 7,
+                "asin": "B0D26B164V",
+                "name": "Luck and Strange",
+                "ratings_count": 872,
+                "rating": "4.6",
+                "sale_price": "$14.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81d+DvqlVHL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Luck-Strange-David-Gilmour/dp/B0D26B164V/ref=zg_bs_g_music_d_sccl_7/139-5648405-9306944?psc=1"
+            },
+            {
+                "rank": 8,
+                "asin": "B0D5ZBNJ5T",
+                "name": "SUPERCHARGED",
+                "ratings_count": 3,
+                "rating": "4.6",
+                "sale_price": "$14.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71p2j1hgCcL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/SUPERCHARGED-Offspring/dp/B0D5ZBNJ5T/ref=zg_bs_g_music_d_sccl_8/139-5648405-9306944?psc=1"
+            },
+            {
+                "rank": 9,
+                "asin": "B0DFMQHXK5",
+                "name": "Beautifully Broken [Silver Nugget LP] [Amazon Exclusive]Jelly Roll",
+                "ratings_count": 2,
+                "rating": "5.0",
+                "sale_price": "$23.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71ad3IJ6NEL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Beautifully-Broken-Silver-Nugget-Exclusive/dp/B0DFMQHXK5/ref=zg_bs_g_music_d_sccl_9/139-5648405-9306944?psc=1"
+            },
+            {
+                "rank": 10,
+                "asin": "B0C8XZXSWQ",
+                "name": "I've Tried Everything But Therapy Part 1Teddy Swims",
+                "ratings_count": 2651,
+                "rating": "4.8",
+                "sale_price": "$10.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/A1ujAFY3RgL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Ive-Tried-Everything-Therapy-Part/dp/B0C8XZXSWQ/ref=zg_bs_g_music_d_sccl_10/139-5648405-9306944?psc=1"
+            },
+            {
+                "rank": 11,
+                "asin": "B01B2M9H76",
+                "name": "Thriller",
+                "ratings_count": 21068,
+                "rating": "4.8",
+                "sale_price": "$21.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81ogsUqshzL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Thriller-Michael-Jackson/dp/B01B2M9H76/ref=zg_bs_g_music_d_sccl_11/139-5648405-9306944?psc=1"
+            },
+            {
+                "rank": 12,
+                "asin": "B07VNS48HD",
+                "name": "Abbey Road Anniversary",
+                "ratings_count": 13690,
+                "rating": "4.9",
+                "sale_price": "$22.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81Q7HZYO1rL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Abbey-Road-Anniversary-LP-Beatles/dp/B07VNS48HD/ref=zg_bs_g_music_d_sccl_12/139-5648405-9306944?psc=1"
+            },
+            {
+                "rank": 13,
+                "asin": "B09XSZN9K9",
+                "name": "It's The Great Pumpkin, Charlie Brown[Orange Pumpkin Shaped 33 1/3rpm LP]",
+                "ratings_count": 675,
+                "rating": "4.8",
+                "sale_price": "$29.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81ToDnVBx5L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Pumpkin-Charlie-Translucent-Orange-Shaped/dp/B09XSZN9K9/ref=zg_bs_g_music_d_sccl_13/139-5648405-9306944?psc=1"
+            },
+            {
+                "rank": 14,
+                "asin": "B0D9HTG2HS",
+                "name": "The Death of Slim Shady (Coup de Grâce)",
+                "ratings_count": 218,
+                "rating": "4.6",
+                "sale_price": "$13.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51nB8iOSLKL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Death-Slim-Shady-Coup-Gr/dp/B0D9HTG2HS/ref=zg_bs_g_music_d_sccl_14/139-5648405-9306944?psc=1"
+            },
+            {
+                "rank": 15,
+                "asin": "B0CFM79D7Y",
+                "name": "1989 (Taylor's Version)[2 LP]Taylor Swift",
+                "ratings_count": 1855,
+                "rating": "4.8",
+                "sale_price": "$34.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81jw1bKlYyL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/1989-Taylors-Version-2-LP/dp/B0CFM79D7Y/ref=zg_bs_g_music_d_sccl_15/139-5648405-9306944?psc=1"
+            },
+            {
+                "rank": 16,
+                "asin": "B0DHHKW8NF",
+                "name": "Songs Of A Lost WorldThe Cure",
+                "ratings_count": null,
+                "rating": null,
+                "sale_price": "$17.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81eDAtvg2NL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Songs-Lost-World-Cure/dp/B0DHHKW8NF/ref=zg_bs_g_music_d_sccl_16/139-5648405-9306944?psc=1"
+            },
+            {
+                "rank": 17,
+                "asin": "B0D6X4LTDV",
+                "name": "Short n' Sweet",
+                "ratings_count": 164,
+                "rating": "4.6",
+                "sale_price": "$12.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81RmUh+VcEL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Short-n-Sweet-Sabrina-Carpenter/dp/B0D6X4LTDV/ref=zg_bs_g_music_d_sccl_17/139-5648405-9306944?psc=1"
+            },
+            {
+                "rank": 18,
+                "asin": "B0CZWKHX4S",
+                "name": "HIT ME HARD AND SOFT Recycled Black",
+                "ratings_count": 767,
+                "rating": "4.6",
+                "sale_price": "$32.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51ez1iP8yZL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/HIT-HARD-SOFT-Recycled-Black/dp/B0CZWKHX4S/ref=zg_bs_g_music_d_sccl_18/139-5648405-9306944?psc=1"
+            },
+            {
+                "rank": 19,
+                "asin": "B0DDV273YB",
+                "name": "PortraitSamara Joy",
+                "ratings_count": null,
+                "rating": null,
+                "sale_price": "$13.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71VNvpua+LL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Portrait-Samara-Joy/dp/B0DDV273YB/ref=zg_bs_g_music_d_sccl_19/139-5648405-9306944?psc=1"
+            },
+            {
+                "rank": 20,
+                "asin": "B0CFJ37F41",
+                "name": "The Nightmare Before Christmas (Original Motion Picture Soundtrack) [Zoetrope Picture Disc 2 LP]Various Artists",
+                "ratings_count": 2955,
+                "rating": "4.7",
+                "sale_price": "$29.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/813wf4Cxb7L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Nightmare-Christmas-Original-Soundtrack-Zoetrope/dp/B0CFJ37F41/ref=zg_bs_g_music_d_sccl_20/139-5648405-9306944?psc=1"
+            },
+            {
+                "rank": 21,
+                "asin": "B0CGJGG938",
+                "name": "Zach BryanZach Bryan",
+                "ratings_count": 832,
+                "rating": "4.8",
+                "sale_price": "$30.92",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91o46KEzNoL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Zach-Bryan/dp/B0CGJGG938/ref=zg_bs_g_music_d_sccl_21/139-5648405-9306944?psc=1"
+            },
+            {
+                "rank": 22,
+                "asin": "B00JVQ7RHI",
+                "name": "Greatest Hits",
+                "ratings_count": 10454,
+                "rating": "4.8",
+                "sale_price": "$17.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81+qJPceY4L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Fleetwood-Mac-Greatest-Hits/dp/B00JVQ7RHI/ref=zg_bs_g_music_d_sccl_22/139-5648405-9306944?psc=1"
+            },
+            {
+                "rank": 23,
+                "asin": "B0D8S522FD",
+                "name": "My WaySydnie Christmas",
+                "ratings_count": 4,
+                "rating": "5.0",
+                "sale_price": "$20.23",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/818t24bdmgL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/My-Way-Sydnie-Christmas/dp/B0D8S522FD/ref=zg_bs_g_music_d_sccl_23/139-5648405-9306944?psc=1"
+            },
+            {
+                "rank": 24,
+                "asin": "B0CY86T4K8",
+                "name": "THE TORTURED POETS DEPARTMENT [Ghosted White 2 LP]Taylor Swift",
+                "ratings_count": 2528,
+                "rating": "4.6",
+                "sale_price": "$31.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61ZxLp3LWeL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/TORTURED-POETS-DEPARTMENT-Ghosted-White/dp/B0CY86T4K8/ref=zg_bs_g_music_d_sccl_24/139-5648405-9306944?psc=1"
+            },
+            {
+                "rank": 25,
+                "asin": "B07GSMP9L5",
+                "name": "13 Number OnesToby Keith",
+                "ratings_count": 4,
+                "rating": "3.4",
+                "sale_price": "$13.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/713GJW1GYpL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/13-Number-Ones-Toby-Keith/dp/B07GSMP9L5/ref=zg_bs_g_music_d_sccl_25/139-5648405-9306944?psc=1"
+            },
+            {
+                "rank": 26,
+                "asin": "B0041TM5OU",
+                "name": "Kind of Blue",
+                "ratings_count": 10398,
+                "rating": "4.8",
+                "sale_price": "$22.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51CtGfMz4WL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Kind-Blue-Vinyl-Miles-Davis/dp/B0041TM5OU/ref=zg_bs_g_music_d_sccl_26/139-5648405-9306944?psc=1"
+            },
+            {
+                "rank": 27,
+                "asin": "B000V7J82S",
+                "name": "LegendBob Marley & The Wailers",
+                "ratings_count": 21813,
+                "rating": "4.8",
+                "sale_price": "$27.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81-rAh1LQAL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Legend-Vinyl-Bob-Marley-Wailers/dp/B000V7J82S/ref=zg_bs_g_music_d_sccl_27/139-5648405-9306944?psc=1"
+            },
+            {
+                "rank": 28,
+                "asin": "B0DCT77XQ2",
+                "name": "Breakaway",
+                "ratings_count": 1508,
+                "rating": "4.6",
+                "sale_price": "$24.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71du-GAzC3L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Breakaway-Kelly-Clarkson/dp/B0DCT77XQ2/ref=zg_bs_g_music_d_sccl_28/139-5648405-9306944?psc=1"
+            },
+            {
+                "rank": 29,
+                "asin": "B0DCBZGR3M",
+                "name": "The Best Of BubléMichael Bublé",
+                "ratings_count": 39,
+                "rating": "4.5",
+                "sale_price": "$13.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71qTcy3jFNL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Best-Bubl%C3%A9-Michael/dp/B0DCBZGR3M/ref=zg_bs_g_music_d_sccl_29/139-5648405-9306944?psc=1"
+            },
+            {
+                "rank": 30,
+                "asin": "B0D7N3GSWR",
+                "name": "F-1 TrillionPost Malone",
+                "ratings_count": 354,
+                "rating": "4.7",
+                "sale_price": "$13.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71sWAM-qmyL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/F-1-Trillion-Post-Malone/dp/B0D7N3GSWR/ref=zg_bs_g_music_d_sccl_30/139-5648405-9306944?psc=1"
+            },
+            {
+                "rank": 31,
+                "asin": "B0BBWL7HZK",
+                "name": "Blue",
+                "ratings_count": 778,
+                "rating": "4.8",
+                "sale_price": null,
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81OC8QTUK5L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Blue-Joni-Mitchell/dp/B0BBWL7HZK/ref=zg_bs_g_music_d_sccl_31/132-5443987-0130331?psc=1"
+            },
+            {
+                "rank": 32,
+                "asin": "B0D8MVGNLD",
+                "name": "The 1974 Live RecordingsBob Dylan",
+                "ratings_count": 50,
+                "rating": "4.4",
+                "sale_price": "$129.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71quclAGWxL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/1974-Live-Recordings-Bob-Dylan/dp/B0D8MVGNLD/ref=zg_bs_g_music_d_sccl_32/132-5443987-0130331?psc=1"
+            },
+            {
+                "rank": 33,
+                "asin": "B09HLH665V",
+                "name": "Ballads of the Broken",
+                "ratings_count": 2633,
+                "rating": "4.8",
+                "sale_price": "$9.47",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/914W7oK3kzL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Ballads-Broken-Jelly-Roll/dp/B09HLH665V/ref=zg_bs_g_music_d_sccl_33/132-5443987-0130331?psc=1"
+            },
+            {
+                "rank": 34,
+                "asin": "B077GT29HM",
+                "name": "reputation Picture",
+                "ratings_count": 11061,
+                "rating": "4.8",
+                "sale_price": "$34.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81Pm4vut3tL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/reputation-2-LP-Picture-Disc/dp/B077GT29HM/ref=zg_bs_g_music_d_sccl_34/132-5443987-0130331?psc=1"
+            },
+            {
+                "rank": 35,
+                "asin": "B0000088DC",
+                "name": "Nevermind",
+                "ratings_count": 16302,
+                "rating": "4.8",
+                "sale_price": "$23.50",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/9160Tqc9biL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Nevermind-Nirvana/dp/B0000088DC/ref=zg_bs_g_music_d_sccl_35/132-5443987-0130331?psc=1"
+            },
+            {
+                "rank": 36,
+                "asin": "B0DGYJQKK1",
+                "name": "HarlequinLady Gaga",
+                "ratings_count": 2,
+                "rating": "4.0",
+                "sale_price": "$13.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81yopvO+CJL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Harlequin-Lady-Gaga/dp/B0DGYJQKK1/ref=zg_bs_g_music_d_sccl_36/132-5443987-0130331?psc=1"
+            },
+            {
+                "rank": 37,
+                "asin": "B0D4GGBHR6",
+                "name": "Cowboys and DreamersGeorge Strait",
+                "ratings_count": 165,
+                "rating": "4.7",
+                "sale_price": "$10.47",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81-lq8l1zEL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Cowboys-Dreamers-George-Strait/dp/B0D4GGBHR6/ref=zg_bs_g_music_d_sccl_37/132-5443987-0130331?psc=1"
+            },
+            {
+                "rank": 38,
+                "asin": "B0DC13W3N5",
+                "name": "Highway PrayersBilly Strings",
+                "ratings_count": 7,
+                "rating": "4.6",
+                "sale_price": "$17.49",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71rsFtOFXBL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Highway-Prayers-Billy-Strings/dp/B0DC13W3N5/ref=zg_bs_g_music_d_sccl_38/132-5443987-0130331?psc=1"
+            },
+            {
+                "rank": 39,
+                "asin": "B00144VBBS",
+                "name": "35 Biggest Hits",
+                "ratings_count": 4383,
+                "rating": "4.8",
+                "sale_price": "$15.82",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81iO5zDHRcL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Toby-Keith-35-Biggest-Hits/dp/B00144VBBS/ref=zg_bs_g_music_d_sccl_39/132-5443987-0130331?psc=1"
+            },
+            {
+                "rank": 40,
+                "asin": "B00Q5F3AN8",
+                "name": "Guardians Of The Galaxy: Awesome Mix Vol. 1Various Artists",
+                "ratings_count": 12323,
+                "rating": "4.8",
+                "sale_price": "$12.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71+t60t9HjL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Guardians-Galaxy-Awesome-Vol-Cassette/dp/B00Q5F3AN8/ref=zg_bs_g_music_d_sccl_40/132-5443987-0130331?psc=1"
+            },
+            {
+                "rank": 41,
+                "asin": "B004D7GU3M",
+                "name": "My Beautiful Dark Twisted Fantasy",
+                "ratings_count": 6050,
+                "rating": "4.6",
+                "sale_price": "$28.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71BjhQlaLPL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/My-Beautiful-Dark-Twisted-Fantasy/dp/B004D7GU3M/ref=zg_bs_g_music_d_sccl_41/132-5443987-0130331?psc=1"
+            },
+            {
+                "rank": 42,
+                "asin": "B0CZ9TV8D6",
+                "name": "BRAT",
+                "ratings_count": 214,
+                "rating": "4.6",
+                "sale_price": "$7.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/614TkS7FUcL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/BRAT-Charli-XCX/dp/B0CZ9TV8D6/ref=zg_bs_g_music_d_sccl_42/132-5443987-0130331?psc=1"
+            },
+            {
+                "rank": 43,
+                "asin": "B002Y1OAJU",
+                "name": "A Charlie Brown Christmas GreenVince Guaraldi Trio",
+                "ratings_count": 6771,
+                "rating": "4.9",
+                "sale_price": "$21.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61j5lGzh5UL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Charlie-Brown-Christmas-Green-Vinyl/dp/B002Y1OAJU/ref=zg_bs_g_music_d_sccl_43/132-5443987-0130331?psc=1"
+            },
+            {
+                "rank": 44,
+                "asin": "B08DSS7Y2M",
+                "name": "folklore [Beige 2 LP]Taylor Swift",
+                "ratings_count": 18236,
+                "rating": "4.7",
+                "sale_price": "$28.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/617oudVIaRL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/folklore-Deluxe-VINYL-Taylor-Swift/dp/B08DSS7Y2M/ref=zg_bs_g_music_d_sccl_44/132-5443987-0130331?psc=1"
+            },
+            {
+                "rank": 45,
+                "asin": "B0028ERC02",
+                "name": "Greatest Hits",
+                "ratings_count": 6136,
+                "rating": "4.8",
+                "sale_price": "$17.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/811N5sbh1RL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Greatest-Hits-Vinyl-Al-Green/dp/B0028ERC02/ref=zg_bs_g_music_d_sccl_45/132-5443987-0130331?psc=1"
+            },
+            {
+                "rank": 46,
+                "asin": "B0C8XWQ78X",
+                "name": "I've Tried Everything But Therapy Part 1Teddy Swims",
+                "ratings_count": 2651,
+                "rating": "4.8",
+                "sale_price": "$23.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/A1ujAFY3RgL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Ive-Tried-Everything-Therapy-Part/dp/B0C8XWQ78X/ref=zg_bs_g_music_d_sccl_46/132-5443987-0130331?psc=1"
+            },
+            {
+                "rank": 47,
+                "asin": "B0D82LBZ6T",
+                "name": "HIGHKeith Urban",
+                "ratings_count": 54,
+                "rating": "4.3",
+                "sale_price": "$11.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71+3plLVTJL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/HIGH-Keith-Urban/dp/B0D82LBZ6T/ref=zg_bs_g_music_d_sccl_47/132-5443987-0130331?psc=1"
+            },
+            {
+                "rank": 48,
+                "asin": "B00P11J770",
+                "name": "The Miseducation of Lauryn Hill",
+                "ratings_count": 7617,
+                "rating": "4.8",
+                "sale_price": "$26.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81Jr6DEe02L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Miseducation-Lauryn-Hill/dp/B00P11J770/ref=zg_bs_g_music_d_sccl_48/132-5443987-0130331?psc=1"
+            },
+            {
+                "rank": 49,
+                "asin": "B00NAKWUGY",
+                "name": "Christmas (Red Vinyl)Michael Bublé",
+                "ratings_count": 4116,
+                "rating": "4.8",
+                "sale_price": "$22.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71c-2KaAjRL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Christmas-Michael-Bubl%C3%A9/dp/B00NAKWUGY/ref=zg_bs_g_music_d_sccl_49/132-5443987-0130331?psc=1"
+            },
+            {
+                "rank": 50,
+                "asin": "B00U1Z5NAQ",
+                "name": "Ultimate Sinatra",
+                "ratings_count": 8572,
+                "rating": "4.8",
+                "sale_price": "$35.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51k6MVk7I-L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Ultimate-Sinatra-2-LP-Frank/dp/B00U1Z5NAQ/ref=zg_bs_g_music_d_sccl_50/132-5443987-0130331?psc=1"
+            }
+        ]
+    }
+}

@@ -1,0 +1,619 @@
+{
+    "200": {
+        "category": "Amazon Best SellersPatio, Lawn & Garden",
+        "category_hierarchy": [
+            {
+                "name": "Any Department",
+                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_lawn-garden_0_1"
+            },
+            {
+                "name": "Patio, Lawn & Garden",
+                "url": "https://www.amazon.com/Best-Sellers-Patio-Lawn-Garden/zgbs/lawn-garden/ref=zg_bs_nav_lawn-garden_0?pg=1"
+            }
+        ],
+        "child_categories": [
+            {
+                "category": "Farm & Ranch",
+                "url": "https://www.amazon.com/Best-Sellers-Patio-Lawn-Garden-Farm-Ranch/zgbs/lawn-garden/4619352011/ref=zg_bs_nav_lawn-garden_1"
+            },
+            {
+                "category": "Gardening",
+                "url": "https://www.amazon.com/Best-Sellers-Patio-Lawn-Garden-Gardening-Lawn-Care/zgbs/lawn-garden/3610851/ref=zg_bs_nav_lawn-garden_1"
+            },
+            {
+                "category": "Generators & Portable Power",
+                "url": "https://www.amazon.com/Best-Sellers-Patio-Lawn-Garden-Outdoor-Generators-Portable-Power/zgbs/lawn-garden/552808/ref=zg_bs_nav_lawn-garden_1"
+            },
+            {
+                "category": "Grills & Outdoor Cooking",
+                "url": "https://www.amazon.com/Best-Sellers-Patio-Lawn-Garden-Outdoor-Cooking/zgbs/lawn-garden/553760/ref=zg_bs_nav_lawn-garden_1"
+            },
+            {
+                "category": "Mowers & Outdoor Power Tools",
+                "url": "https://www.amazon.com/Best-Sellers-Patio-Lawn-Garden-Outdoor-Power-Lawn-Equipment/zgbs/lawn-garden/551242/ref=zg_bs_nav_lawn-garden_1"
+            },
+            {
+                "category": "Outdoor Décor",
+                "url": "https://www.amazon.com/Best-Sellers-Patio-Lawn-Garden-Outdoor-Dcor/zgbs/lawn-garden/553788/ref=zg_bs_nav_lawn-garden_1"
+            },
+            {
+                "category": "Outdoor Heating",
+                "url": "https://www.amazon.com/Best-Sellers-Patio-Lawn-Garden-Outdoor-Heating-Cooling/zgbs/lawn-garden/13638732011/ref=zg_bs_nav_lawn-garden_1"
+            },
+            {
+                "category": "Outdoor Storage",
+                "url": "https://www.amazon.com/Best-Sellers-Patio-Lawn-Garden-Outdoor-Storage-Housing/zgbs/lawn-garden/13400641/ref=zg_bs_nav_lawn-garden_1"
+            },
+            {
+                "category": "Patio Furniture & Accessories",
+                "url": "https://www.amazon.com/Best-Sellers-Patio-Lawn-Garden-Patio-Furniture-Accessories/zgbs/lawn-garden/553824/ref=zg_bs_nav_lawn-garden_1"
+            },
+            {
+                "category": "Pest Control",
+                "url": "https://www.amazon.com/Best-Sellers-Patio-Lawn-Garden-Pest-Control-Products/zgbs/lawn-garden/553844/ref=zg_bs_nav_lawn-garden_1"
+            },
+            {
+                "category": "Pools, Hot Tubs & Supplies",
+                "url": "https://www.amazon.com/Best-Sellers-Patio-Lawn-Garden-Pools-Hot-Tubs-Supplies/zgbs/lawn-garden/1272941011/ref=zg_bs_nav_lawn-garden_1"
+            },
+            {
+                "category": "Snow Removal",
+                "url": "https://www.amazon.com/Best-Sellers-Patio-Lawn-Garden-Snow-Removal-Tools/zgbs/lawn-garden/3043471/ref=zg_bs_nav_lawn-garden_1"
+            }
+        ],
+        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/Best-Sellers-Patio-Lawn-Garden/zgbs/lawn-garden/ref%3Dzg_bs_pg_2_lawn-garden%3F_encoding%3DUTF8%26pg%3D2",
+        "url": "https://www.amazon.com/Best-Sellers-Patio-Lawn-Garden/zgbs/lawn-garden/ref=zg_bs_nav_lawn-garden_0?pg=1",
+        "product_listings": [
+            {
+                "rank": 1,
+                "asin": "B0C3FTCYZL",
+                "name": "ZEVO Flying Insect Refills for Indoor Light Trap: 4 Light Trap Refill Cartridges Capture Fruit Flies, Gnats and Houseflies (4 Cartridges)",
+                "ratings_count": 9576,
+                "rating": "4.8",
+                "sale_price": "$13.47",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71pdJMZpB7L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/ZEVO-Flying-Insect-Refills-Indoor/dp/B0C3FTCYZL/ref=zg_bs_g_lawn-garden_d_sccl_1/146-5391294-3515447?psc=1"
+            },
+            {
+                "rank": 2,
+                "asin": "B07T869RNY",
+                "name": "Zevo Flying Insect Trap for Indoors: Light Trap Captures Fruit Flies, Gnats and Houseflies, Starter Kit (1 Plug-in Base + 1 Cartridge)",
+                "ratings_count": 17340,
+                "rating": "4.2",
+                "sale_price": "$19.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71HHm6ymvZL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Electric-Flying-Insect-Trap-Starter/dp/B07T869RNY/ref=zg_bs_g_lawn-garden_d_sccl_2/146-5391294-3515447?psc=1"
+            },
+            {
+                "rank": 3,
+                "asin": "B00E4GACB8",
+                "name": "TERRO T300B Liquid Ant Killer, 12 Bait Stations",
+                "ratings_count": 167394,
+                "rating": "4.5",
+                "sale_price": "$11.18",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81D3MYgXqLL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/TERRO-T300B-2-Pack-Liquid-Baits/dp/B00E4GACB8/ref=zg_bs_g_lawn-garden_d_sccl_3/146-5391294-3515447?psc=1"
+            },
+            {
+                "rank": 4,
+                "asin": "B01MRHXM0I",
+                "name": "Terro Fruit Fly Trap 4 Traps + 180 Days Lure Supply",
+                "ratings_count": 16284,
+                "rating": "4.0",
+                "sale_price": "$13.29",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81nZ+EBVJZL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Terro-Fruit-Trap-Traps-Supply/dp/B01MRHXM0I/ref=zg_bs_g_lawn-garden_d_sccl_4/146-5391294-3515447?psc=1"
+            },
+            {
+                "rank": 5,
+                "asin": "B09T3T1FYN",
+                "name": "Safer Home SH502 Indoor Plug-In Fly Trap for Flies, Fruit Flies, Moths, Gnats, and Other Flying Insects – 400 Sq Ft of Protection",
+                "ratings_count": 34231,
+                "rating": "4.2",
+                "sale_price": "$13.48",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71DEdxriBxL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Safer-Brand-SH502-Chemical-Insects/dp/B09T3T1FYN/ref=zg_bs_g_lawn-garden_d_sccl_5/146-5391294-3515447?psc=1"
+            },
+            {
+                "rank": 6,
+                "asin": "B00S93EQUK",
+                "name": "Alpha Grillers Instant Read Meat Thermometer for Cooking Grill and BBQ Griddle - Waterproof w/Backlight & Calibration for Food, Oven, Air Fryer Accessories, Kitchen Essentials, Stocking Stuffer Gifts",
+                "ratings_count": 69290,
+                "rating": "4.7",
+                "sale_price": "$15.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81bpKKv68-L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Thermometer-Cooking-BACKLIGHT-WATERPROOF-Temperature/dp/B00S93EQUK/ref=zg_bs_g_lawn-garden_d_sccl_6/146-5391294-3515447?psc=1"
+            },
+            {
+                "rank": 7,
+                "asin": "B007E83LUM",
+                "name": "Catchmaster Max-Catch Mouse & Insect Glue Trap 36Pk, Mouse Traps Indoor for Home, Sticky Pest Control Adhesive Tray for Catching Bugs, Rats & Rodents, Non Toxic Bulk Pre-Baited Glue Boards",
+                "ratings_count": 82848,
+                "rating": "4.3",
+                "sale_price": "$20.49",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/710J2Avv9AL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Sticky-Mouse-Traps-Indoor-Home-Bulk-72/dp/B007E83LUM/ref=zg_bs_g_lawn-garden_d_sccl_7/146-5391294-3515447?psc=1"
+            },
+            {
+                "rank": 8,
+                "asin": "B0C3PDTYYX",
+                "name": "Zevo Flying Insect Trap for Indoors: Light Trap Captures Fruit Flies, Gnats and Houseflies, Starter Kit Value Pack (2 Plug-in Bases + 2 Cartridges)",
+                "ratings_count": 9453,
+                "rating": "4.3",
+                "sale_price": "$36.49",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71ZIS+yhIFL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Flying-Insect-Fruit-Refill-Cartridges/dp/B0C3PDTYYX/ref=zg_bs_g_lawn-garden_d_sccl_8/146-5391294-3515447?psc=1"
+            },
+            {
+                "rank": 9,
+                "asin": "B07JMDYDVJ",
+                "name": "Grandpa Gus's Extra-Strength Mouse Repellent Pouches, Cinnamon/Peppermint Oils Repel Mice from Nesting & Freshen Air in Car/RV/Boat/Garage/Shed/Cabin, 1.75 oz (Pack of 10)",
+                "ratings_count": 14113,
+                "rating": "4.1",
+                "sale_price": "$31.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/619OGpxgYzL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Grandpa-Guss-Mouse-Repellent-Pouches/dp/B07JMDYDVJ/ref=zg_bs_g_lawn-garden_d_sccl_9/146-5391294-3515447?psc=1"
+            },
+            {
+                "rank": 10,
+                "asin": "B005BV0DD2",
+                "name": "Tomcat with Bromethalin Bait Chunx Pail, Rat and Mice Control for Agricultural Use and Professional Applicators, 4 lbs.",
+                "ratings_count": 27798,
+                "rating": "4.4",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71dX9tcic6L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Tomcat-Bait-Chunx-Pail-LB/dp/B005BV0DD2/ref=zg_bs_g_lawn-garden_d_sccl_10/146-5391294-3515447?psc=1"
+            },
+            {
+                "rank": 11,
+                "asin": "B00730QW70",
+                "name": "Advion Cockroach Gel Bait, 4 Tubes x 30-Grams, 4 Plunger and 4 Tips, German Roach Insect Pest Control, Indoor and Outdoor Use, Roach Killer Gel for American, German and Other Major Cockroach Species",
+                "ratings_count": 60441,
+                "rating": "4.5",
+                "sale_price": "$26.63",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71sGQGrxynL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Advion-Cockroach-30-Grams-Plunger-American/dp/B00730QW70/ref=zg_bs_g_lawn-garden_d_sccl_11/146-5391294-3515447?psc=1"
+            },
+            {
+                "rank": 12,
+                "asin": "B07YCSNLDG",
+                "name": "1400 sqft Halloween Spider Webs Decorations with 150 Extra Fake Spiders, Super Stretchy Cobwebs for Halloween Decor Indoor and Outdoor",
+                "ratings_count": 3448,
+                "rating": "4.5",
+                "sale_price": "$16.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91ZXNcE9RFL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Halloween-Decorations-Spiders-Stretchy-Cobwebs/dp/B07YCSNLDG/ref=zg_bs_g_lawn-garden_d_sccl_12/146-5391294-3515447?psc=1"
+            },
+            {
+                "rank": 13,
+                "asin": "B09K4SWZNY",
+                "name": "Back to the Roots 6qt Specialty Blend",
+                "ratings_count": 6957,
+                "rating": "4.3",
+                "sale_price": "$6.96",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61OrMgo8SoL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Back-Roots-Natural-All-Purpose-Peat-Free/dp/B09K4SWZNY/ref=zg_bs_g_lawn-garden_d_sccl_13/146-5391294-3515447?psc=1"
+            },
+            {
+                "rank": 14,
+                "asin": "B00CEFPWV6",
+                "name": "Catchmaster Glue Mouse Traps Indoor for Home 10PK, Bulk Traps for Mice and Rats, Pre-Baited Adhesive Plastic Trays for Inside House, Snake, Lizard, Insect, & Spider Traps, Pet Safe Pest Control",
+                "ratings_count": 28165,
+                "rating": "4.4",
+                "sale_price": "$18.89",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61HLx4V8dUL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Catchmaster-Baited-Mouse-Professional-Strength/dp/B00CEFPWV6/ref=zg_bs_g_lawn-garden_d_sccl_14/146-5391294-3515447?psc=1"
+            },
+            {
+                "rank": 15,
+                "asin": "B07HMRZSWT",
+                "name": "900 sqft Spider Webs Halloween Decorations Bonus with 30 Fake Spiders, Super Stretch Cobwebs for Halloween Indoor and Outdoor Party Supplies",
+                "ratings_count": 4309,
+                "rating": "4.5",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81JCNXXndQL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Halloween-Decorations-Spiders-Stretch-Supplies/dp/B07HMRZSWT/ref=zg_bs_g_lawn-garden_d_sccl_15/146-5391294-3515447?psc=1"
+            },
+            {
+                "rank": 16,
+                "asin": "B003TFE7ZM",
+                "name": "Flexzilla Garden Hose 5/8 in. x 50 ft, Heavy Duty, Lightweight, Drinking Water Safe, ZillaGreen - HFZG550YW-E",
+                "ratings_count": 87325,
+                "rating": "4.4",
+                "sale_price": "$39.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/511ucq6UzkL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Flexzilla-HFZG550YW-Garden-Lightweight-Drinking/dp/B003TFE7ZM/ref=zg_bs_g_lawn-garden_d_sccl_16/146-5391294-3515447?psc=1"
+            },
+            {
+                "rank": 17,
+                "asin": "B09T3SZ79V",
+                "name": "Safer Home SH503 Indoor Plug-In Fly Trap Refill Pack of Glue Cards for SH502 Indoor Fly Trap – 3 Count (Pack of 1)",
+                "ratings_count": 11886,
+                "rating": "4.6",
+                "sale_price": "$5.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61LokBvQZiL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Safer-Brand-SH503-Chemical-Refill/dp/B09T3SZ79V/ref=zg_bs_g_lawn-garden_d_sccl_17/146-5391294-3515447?psc=1"
+            },
+            {
+                "rank": 18,
+                "asin": "B0CQ8RSTC9",
+                "name": "Victor M150-12 Metal Pedal Sustainably Sourced FSC Wood Snap Mouse Trap - 12 Traps",
+                "ratings_count": 19193,
+                "rating": "4.3",
+                "sale_price": "$11.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/813MLzzHmbL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Victor-M150-12-Metal-Sustainably-Sourced/dp/B0CQ8RSTC9/ref=zg_bs_g_lawn-garden_d_sccl_18/146-5391294-3515447?psc=1"
+            },
+            {
+                "rank": 19,
+                "asin": "B0148W0WOE",
+                "name": "Advion Cockroach Gel Bait, 4 Tubes x 30-Grams, 1 Plunger and 2 Tips, German Roach Insect Pest Control, Indoor and Outdoor Use, Roach Killer Gel for American, German and Other Major Cockroach Species",
+                "ratings_count": 46284,
+                "rating": "4.6",
+                "sale_price": "$26.55",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71D+7sez6SL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Advion-Cockroach-Tubes-Control-Syngenta/dp/B0148W0WOE/ref=zg_bs_g_lawn-garden_d_sccl_19/146-5391294-3515447?psc=1"
+            },
+            {
+                "rank": 20,
+                "asin": "B0CKY689WQ",
+                "name": "Zevo Flying Insect Trap for Indoors: Light Trap Captures Fruit Flies, Gnats and Houseflies, Starter Kit + Refills (1 Plug-in Base + 3 Cartridges)",
+                "ratings_count": 13893,
+                "rating": "4.3",
+                "sale_price": "$26.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71Cj97guaUL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Flying-Insect-Refill-Cartridge-Cartridges/dp/B0CKY689WQ/ref=zg_bs_g_lawn-garden_d_sccl_20/146-5391294-3515447?psc=1"
+            },
+            {
+                "rank": 21,
+                "asin": "B000E28UQU",
+                "name": "Chapin 20000 Made in USA 1 -Gallon Lawn and Garden Pump Pressured Sprayer, for Spraying Plants, Garden Watering, Weeds and Pests, Polypropylene, Translucent White",
+                "ratings_count": 83513,
+                "rating": "4.5",
+                "sale_price": "$14.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61b9Ktrca9L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Chapin-International-20000-1-Gallon-Translucent/dp/B000E28UQU/ref=zg_bs_g_lawn-garden_d_sccl_21/146-5391294-3515447?psc=1"
+            },
+            {
+                "rank": 22,
+                "asin": "B0BDT4XZR4",
+                "name": "VEYOFLY Fly Trap Indoor, Fruit Fly Traps for Indoors, (2 Device + 6 Refills) Gnat Traps for House Indoor, Fly Catcher Indoor, Plug in Light Flying Insect Trap, Bug Light Killer, Fly Trap",
+                "ratings_count": 6336,
+                "rating": "4.0",
+                "sale_price": "$29.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/618xKVZ7MmL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/VEYOFLY-Flying-Insect-Catcher-Indoors/dp/B0BDT4XZR4/ref=zg_bs_g_lawn-garden_d_sccl_22/146-5391294-3515447?psc=1"
+            },
+            {
+                "rank": 23,
+                "asin": "B083LDKS6Z",
+                "name": "Feeke Mouse Traps, Mice Traps for House, Small Mice Trap Indoor Quick Effective Sanitary Safe Mousetrap Catcher for Family and Pet - 6 Pack, (M01-6Pack)",
+                "ratings_count": 27114,
+                "rating": "4.2",
+                "sale_price": "$10.78",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71qaRXm6raL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Indoor-Effective-Sanitary-Catcher-Family/dp/B083LDKS6Z/ref=zg_bs_g_lawn-garden_d_sccl_23/146-5391294-3515447?psc=1"
+            },
+            {
+                "rank": 24,
+                "asin": "B000I1M5OU",
+                "name": "Scotts Turf Builder WinterGuard Fall Lawn Fertilizer for All Grass Types, 5,000 sq. ft., 12.5 lbs.",
+                "ratings_count": 12083,
+                "rating": "4.6",
+                "sale_price": "$32.49",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81lQ+3XkBbL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Scotts-Turf-Builder-Lawn-Food/dp/B000I1M5OU/ref=zg_bs_g_lawn-garden_d_sccl_24/146-5391294-3515447?psc=1"
+            },
+            {
+                "rank": 25,
+                "asin": "B0D6DTWJVT",
+                "name": "24 Pcs Mouse Rodent Repellent, Safe for Humans & Pets",
+                "ratings_count": 25,
+                "rating": "5.0",
+                "sale_price": "$29.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81Pu1npbsfL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Mouse-Rodent-Repellent-Safe-Humans/dp/B0D6DTWJVT/ref=zg_bs_g_lawn-garden_d_sccl_25/146-5391294-3515447?psc=1"
+            },
+            {
+                "rank": 26,
+                "asin": "B01N7KSXHX",
+                "name": "Ortho 0220910 Home Defense Insect Killer for Indoor & Perimeter2 with Comfort Wand Bonus Size, 1 Pack",
+                "ratings_count": 69231,
+                "rating": "4.4",
+                "sale_price": "$14.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71QxsWZZVUL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Ortho-Defense-Insect-Perimeter2-Comfort/dp/B01N7KSXHX/ref=zg_bs_g_lawn-garden_d_sccl_26/146-5391294-3515447?psc=1"
+            },
+            {
+                "rank": 27,
+                "asin": "B0CQYH6LQ9",
+                "name": "8 Pack Refill Cartridge Compatible with ZEVO Plug-in Light M364 and Max, Replacement 100% Fit (Refill Cartridges, Counts, 8)",
+                "ratings_count": 3718,
+                "rating": "4.6",
+                "sale_price": "$17.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71iEIPz+JSL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Refill-Cartridge-Kit-Compatible-Replacement/dp/B0CQYH6LQ9/ref=zg_bs_g_lawn-garden_d_sccl_27/146-5391294-3515447?psc=1"
+            },
+            {
+                "rank": 28,
+                "asin": "B012VJLZOM",
+                "name": "Tomcat Glue Traps Mouse Size with Eugenol for Enhanced Stickiness for Mice, Cockroaches, and Spiders, 6 Traps",
+                "ratings_count": 40884,
+                "rating": "4.4",
+                "sale_price": "$5.30",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71-IaoKDnSL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Tomcat-Mouse-Glue-Trap-Eugenol/dp/B012VJLZOM/ref=zg_bs_g_lawn-garden_d_sccl_28/146-5391294-3515447?psc=1"
+            },
+            {
+                "rank": 29,
+                "asin": "B08DCYHSZN",
+                "name": "OWLTRA Indoor Electric Mouse Trap, Instant Eliminate Rodent Zapper with Pet Safe Trigger, Black, Small",
+                "ratings_count": 14671,
+                "rating": "4.0",
+                "sale_price": "$17.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61CZSjtVp2L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/OWLTRA-OW-2-Electric-Instant-Trigger/dp/B08DCYHSZN/ref=zg_bs_g_lawn-garden_d_sccl_29/146-5391294-3515447?psc=1"
+            },
+            {
+                "rank": 30,
+                "asin": "B00NES7LMU",
+                "name": "Raid® Ant & Roach Killer Spray, Fragrance-Free, 17.5 Oz, Pack Of 2",
+                "ratings_count": 9766,
+                "rating": "4.7",
+                "sale_price": "$9.12",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71CG8UQ7dXL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Raid-Roach-Killer-Fragrance-Free/dp/B00NES7LMU/ref=zg_bs_g_lawn-garden_d_sccl_30/146-5391294-3515447?psc=1"
+            },
+            {
+                "rank": 31,
+                "asin": "B007CRG4CW",
+                "name": "Bonide Captain Jack's Neem Oil, 32 oz Ready-to-Use Spray, Multi-Purpose Fungicide, Insecticide and Miticide for Organic Gardening",
+                "ratings_count": 38873,
+                "rating": "4.4",
+                "sale_price": "$11.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61pAcVYsuSL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Bonide-BND022-Pesticide-Organic-Gardening/dp/B007CRG4CW/ref=zg_bs_g_lawn-garden_d_sccl_31/146-5794284-0631644?psc=1"
+            },
+            {
+                "rank": 32,
+                "asin": "B084RRY8Z2",
+                "name": "Blackstone 4114 Griddle Seasoning and Cast Iron Conditioner, 6.5 Ounce",
+                "ratings_count": 8062,
+                "rating": "4.7",
+                "sale_price": "$9.19",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81-lHAFkV9L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Blackstone-Griddle-Seasoning-Conditioner-9-16-ZYQGM-0135/dp/B084RRY8Z2/ref=zg_bs_g_lawn-garden_d_sccl_32/146-5794284-0631644?psc=1"
+            },
+            {
+                "rank": 33,
+                "asin": "B00LHE5OSQ",
+                "name": "Wagner's 53002 Farmer's Delight Wild Bird Food with Cherry Flavor, 10-Pound Bag",
+                "ratings_count": 11271,
+                "rating": "4.5",
+                "sale_price": "$11.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61wrXmTl2eL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Wagners-53002-Farmers-Delight-10-Pound/dp/B00LHE5OSQ/ref=zg_bs_g_lawn-garden_d_sccl_33/146-5794284-0631644?psc=1"
+            },
+            {
+                "rank": 34,
+                "asin": "B0BLG8NL23",
+                "name": "LULUCATCH Mouse & Insect Traps 12 Pack, Heavier Sticky Traps with Non-Toxic Glue for Small Mice & Insects. Sticky Mouse Traps Indoor, Easy to Set, Safe to Children & Pets",
+                "ratings_count": 6037,
+                "rating": "4.3",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71hbDf-I3VL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/LULUCATCH-Heavier-Non-Toxic-Insects-Children/dp/B0BLG8NL23/ref=zg_bs_g_lawn-garden_d_sccl_34/146-5794284-0631644?psc=1"
+            },
+            {
+                "rank": 35,
+                "asin": "B002WKKEU2",
+                "name": "In The Swim Pool Closing Kit - Winterizing Chemicals for Above Ground and In-Ground Pools - Up to 15,000 Gallons",
+                "ratings_count": 16191,
+                "rating": "4.7",
+                "sale_price": "$54.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/713NTbv875L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Swim-Pool-Winterizing-Closing-Chemical/dp/B002WKKEU2/ref=zg_bs_g_lawn-garden_d_sccl_35/146-5794284-0631644?psc=1"
+            },
+            {
+                "rank": 36,
+                "asin": "B0742G9C3D",
+                "name": "HOOSUN Garden Flag Stand, Premium Garden Flag Pole Holder Metal Powder-Coated Weather-Proof Paint with one Tiger Clip and two Spring Stoppers without flag",
+                "ratings_count": 66235,
+                "rating": "4.4",
+                "sale_price": "$8.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71S5c4ihITL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Premium-Powder-Coated-Weather-Proof-Anti-Wind-Stoppers/dp/B0742G9C3D/ref=zg_bs_g_lawn-garden_d_sccl_36/146-5794284-0631644?psc=1"
+            },
+            {
+                "rank": 37,
+                "asin": "B000KL1LDE",
+                "name": "Combat Max 12 Month Roach Killing Bait, Small Roach Bait Station, Child-Resistant, 18 Count",
+                "ratings_count": 37260,
+                "rating": "4.2",
+                "sale_price": "$15.39",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/715CW0XxRBL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Combat-Month-Roach-Killing-Station/dp/B000KL1LDE/ref=zg_bs_g_lawn-garden_d_sccl_37/146-5794284-0631644?psc=1"
+            },
+            {
+                "rank": 38,
+                "asin": "B01H1R0K68",
+                "name": "ThermoPro TP50 Digital Hygrometer Indoor Thermometer Room Thermometer and Humidity Gauge with Temperature Monitor",
+                "ratings_count": 132926,
+                "rating": "4.6",
+                "sale_price": "$10.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61sk3L14n9L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/ThermoPro-TP50-Digital-Thermometer-Temperature/dp/B01H1R0K68/ref=zg_bs_g_lawn-garden_d_sccl_38/146-5794284-0631644?psc=1"
+            },
+            {
+                "rank": 39,
+                "asin": "B07W6SP4W1",
+                "name": "Grill Cover, 58 inch BBQ Gas Grill Cover for Outdoor Grill, Waterproof, Anti-UV, Rip-Proof, Fade Resistant Material, Barbecue Cover with Hook-and-Loop Straps & Adjustable Hem Drawstring, Black",
+                "ratings_count": 37274,
+                "rating": "4.4",
+                "sale_price": "$17.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71LiO1SychL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Waterproof-Resistant-Char-Broil-Nexgrill-VIBOOS/dp/B07W6SP4W1/ref=zg_bs_g_lawn-garden_d_sccl_39/146-5794284-0631644?psc=1"
+            },
+            {
+                "rank": 40,
+                "asin": "B00P7MZZAG",
+                "name": "Hot Shot Fogger With Odor Neutralizer, Kills Roaches, Ants, Spiders & Fleas, Controls Heavy Infestations, 6 count-2 oz - Pack of 2",
+                "ratings_count": 36563,
+                "rating": "4.3",
+                "sale_price": null,
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81v6LANmhaL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Neutralizer-Roaches-Spiders-Controls-Infestations/dp/B00P7MZZAG/ref=zg_bs_g_lawn-garden_d_sccl_40/146-5794284-0631644?psc=1"
+            },
+            {
+                "rank": 41,
+                "asin": "B00002N66H",
+                "name": "Fiskars Bypass Pruning Shears, 5/8-Inch Cut Capacity Garden Clippers, Gardening Scissors with Sharp, Rust Resistant Steel Blade",
+                "ratings_count": 46171,
+                "rating": "4.7",
+                "sale_price": "$13.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/712oOsznuxL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Fiskars-91095935J-Bypass-Pruning-Shears/dp/B00002N66H/ref=zg_bs_g_lawn-garden_d_sccl_41/146-5794284-0631644?psc=1"
+            },
+            {
+                "rank": 42,
+                "asin": "B08MZN1K2Y",
+                "name": "Fruit Fly Traps Fungus Gnat Traps Yellow Sticky Bug Traps 36 Pack Non-Toxic and Odorless for Indoor Outdoor Use Protect The Plant",
+                "ratings_count": 22833,
+                "rating": "4.4",
+                "sale_price": "$5.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71ptN0iopNL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Mosqueda-Fruit-Traps-Sticky-Pack/dp/B08MZN1K2Y/ref=zg_bs_g_lawn-garden_d_sccl_42/146-5794284-0631644?psc=1"
+            },
+            {
+                "rank": 43,
+                "asin": "B08GY7MZMC",
+                "name": "Miracle-Gro Succulent Potting Mix: Fertilized Soil with Premium Nutrition for Indoor Cactus Plants, Aloe Vera and More, 4 qt.",
+                "ratings_count": 16682,
+                "rating": "4.6",
+                "sale_price": "$10.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71Ik0bhYnwL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Miracle-Gro-Succulent-Potting-Mix-Fertilized/dp/B08GY7MZMC/ref=zg_bs_g_lawn-garden_d_sccl_43/146-5794284-0631644?psc=1"
+            },
+            {
+                "rank": 44,
+                "asin": "B07HF6YDYV",
+                "name": "AUTOMAN-Garden-Hose-Nozzle,ABS Water Spray Nozzle with Heavy Duty 7 Adjustable Watering Patterns,Slip Resistant for Plants,Lawn,Washing Cars,Cleaning,Showering Pets & Outdoor Fun.",
+                "ratings_count": 17593,
+                "rating": "4.3",
+                "sale_price": "$8.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71kCq9AkbhL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/AUTOMAN-Garden-Hose-Nozzle-Adjustable-Watering-Resistant-Showering/dp/B07HF6YDYV/ref=zg_bs_g_lawn-garden_d_sccl_44/146-5794284-0631644?psc=1"
+            },
+            {
+                "rank": 45,
+                "asin": "B08DFCQ7G7",
+                "name": "68Pcs Bat Wall Decor, Halloween Bats Decorations 3D Bats Wall Decor Realistic PVC Bats Stickers for Outdoor DIY Home Decor Party Supplies",
+                "ratings_count": 1536,
+                "rating": "4.4",
+                "sale_price": "$9.59",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61-8l5gMDUL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Halloween-Decorations-Supplies-Decoration-decorations/dp/B08DFCQ7G7/ref=zg_bs_g_lawn-garden_d_sccl_45/146-5794284-0631644?psc=1"
+            },
+            {
+                "rank": 46,
+                "asin": "B00P3SM7M8",
+                "name": "Thermacell Mosquito Repellent Refills; Compatible with Any Fuel-Powered Thermacell Repeller; Highly Effective, Long Lasting, No Spray or Mess; 15 Foot Zone of Mosquito Protection",
+                "ratings_count": 11767,
+                "rating": "4.7",
+                "sale_price": "$39.89",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71v2hJ2Y9uL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Thermacell-Cartridges-Compatible-Fuel-Powered-Alternative/dp/B00P3SM7M8/ref=zg_bs_g_lawn-garden_d_sccl_46/146-5794284-0631644?psc=1"
+            },
+            {
+                "rank": 47,
+                "asin": "B0BQ782XNW",
+                "name": "Meat Thermometer Digital for Grilling and Cooking - ANDAXIN Waterproof Ultra-Fast Instant Read Food thermometers with Backlight & Calibration for Kitchen, Deep Fry, BBQ, Grill(Red/Black), LCD",
+                "ratings_count": 6853,
+                "rating": "4.4",
+                "sale_price": "$8.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71oqTL-o3EL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Meat-Thermometer-Digital-Grilling-Cooking/dp/B0BQ782XNW/ref=zg_bs_g_lawn-garden_d_sccl_47/146-5794284-0631644?psc=1"
+            },
+            {
+                "rank": 48,
+                "asin": "B07WCR5Y4B",
+                "name": "ThermoPro TP49 Digital Hygrometer Indoor Thermometer Humidity Meter Room Thermometer with Temperature and Humidity Monitor Mini Hygrometer Thermometer",
+                "ratings_count": 64097,
+                "rating": "4.6",
+                "sale_price": "$8.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61Cme7jI2eL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/ThermoPro-TP49-Hygrometer-Thermometer-Temperature/dp/B07WCR5Y4B/ref=zg_bs_g_lawn-garden_d_sccl_48/146-5794284-0631644?psc=1"
+            },
+            {
+                "rank": 49,
+                "asin": "B0C9DJWH1L",
+                "name": "GKGG 900 sqft Halloween Spider Webs Decorations with 30 Extra Fake Spiders, Super Practical Spider Web for Halloween Decor Outdoor and Indoor",
+                "ratings_count": 393,
+                "rating": "4.6",
+                "sale_price": "$7.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/7110-oYiALL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/GKGG-Halloween-Decorations-Spiders-Practical/dp/B0C9DJWH1L/ref=zg_bs_g_lawn-garden_d_sccl_49/146-5794284-0631644?psc=1"
+            },
+            {
+                "rank": 50,
+                "asin": "B09YXPRQWW",
+                "name": "Mosalogic Flying Insect Trap Plug-in Mosquito Killer Indoor Gnat Moth Catcher Fly Tapper with Night Light UV Attractant Catcher for Home Office White-1PACK",
+                "ratings_count": 9253,
+                "rating": "3.9",
+                "sale_price": "$15.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61cX9mfnfzL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Mosalogic-Flying-Mosquito-Catcher-Attractant/dp/B09YXPRQWW/ref=zg_bs_g_lawn-garden_d_sccl_50/146-5794284-0631644?psc=1"
+            }
+        ]
+    }
+}

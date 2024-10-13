@@ -1,0 +1,667 @@
+{
+    "200": {
+        "category": "Amazon Best SellersAudible Books & Originals",
+        "category_hierarchy": [
+            {
+                "name": "Any Department",
+                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_audible_0_1"
+            },
+            {
+                "name": "Audible Books & Originals",
+                "url": "https://www.amazon.com/Best-Sellers-Audible-Books-Originals/zgbs/audible/ref=zg_bs_nav_audible_0?pg=1"
+            }
+        ],
+        "child_categories": [
+            {
+                "category": "Arts & Entertainment",
+                "url": "https://www.amazon.com/Best-Sellers-Audible-Books-Originals-Arts-Entertainment/zgbs/audible/18571910011/ref=zg_bs_nav_audible_1"
+            },
+            {
+                "category": "Biographies & Memoirs",
+                "url": "https://www.amazon.com/Best-Sellers-Audible-Books-Originals-Biographies-Memoirs/zgbs/audible/18571951011/ref=zg_bs_nav_audible_1"
+            },
+            {
+                "category": "Business & Careers",
+                "url": "https://www.amazon.com/Best-Sellers-Audible-Books-Originals-Business-Careers/zgbs/audible/18572029011/ref=zg_bs_nav_audible_1"
+            },
+            {
+                "category": "Children's Audiobooks",
+                "url": "https://www.amazon.com/Best-Sellers-Audible-Books-Originals-Audiobooks-for-Children/zgbs/audible/18572091011/ref=zg_bs_nav_audible_1"
+            },
+            {
+                "category": "Comedy & Humor",
+                "url": "https://www.amazon.com/Best-Sellers-Audible-Books-Originals-Comedy-Humor/zgbs/audible/24427740011/ref=zg_bs_nav_audible_1"
+            },
+            {
+                "category": "Computers & Technology",
+                "url": "https://www.amazon.com/Best-Sellers-Audible-Books-Originals-Computers-Technology/zgbs/audible/18573211011/ref=zg_bs_nav_audible_1"
+            },
+            {
+                "category": "Education & Learning",
+                "url": "https://www.amazon.com/Best-Sellers-Audible-Books-Originals-Education-Learning/zgbs/audible/18573267011/ref=zg_bs_nav_audible_1"
+            },
+            {
+                "category": "Erotica",
+                "url": "https://www.amazon.com/Best-Sellers-Audible-Books-Originals-Erotica/zgbs/audible/18573351011/ref=zg_bs_nav_audible_1"
+            },
+            {
+                "category": "Health & Wellness",
+                "url": "https://www.amazon.com/Best-Sellers-Audible-Books-Originals-Health-Wellness/zgbs/audible/18573370011/ref=zg_bs_nav_audible_1"
+            },
+            {
+                "category": "History",
+                "url": "https://www.amazon.com/Best-Sellers-Audible-Books-Originals-History/zgbs/audible/18573518011/ref=zg_bs_nav_audible_1"
+            },
+            {
+                "category": "Home & Garden",
+                "url": "https://www.amazon.com/Best-Sellers-Audible-Books-Originals-Home-Garden/zgbs/audible/18573701011/ref=zg_bs_nav_audible_1"
+            },
+            {
+                "category": "LGBTQ+",
+                "url": "https://www.amazon.com/Best-Sellers-Audible-Books-Originals-LGBTQ/zgbs/audible/18573743011/ref=zg_bs_nav_audible_1"
+            },
+            {
+                "category": "Literature & Fiction",
+                "url": "https://www.amazon.com/Best-Sellers-Audible-Books-Originals-Literature-Fiction/zgbs/audible/18574426011/ref=zg_bs_nav_audible_1"
+            },
+            {
+                "category": "Money & Finance",
+                "url": "https://www.amazon.com/Best-Sellers-Audible-Books-Originals-Money-Finance/zgbs/audible/18574547011/ref=zg_bs_nav_audible_1"
+            },
+            {
+                "category": "Mystery, Thriller & Suspense",
+                "url": "https://www.amazon.com/Best-Sellers-Audible-Books-Originals-Mystery-Thriller-Suspense/zgbs/audible/18574597011/ref=zg_bs_nav_audible_1"
+            },
+            {
+                "category": "Politics & Social Sciences",
+                "url": "https://www.amazon.com/Best-Sellers-Audible-Books-Originals-Politics-Social-Sciences/zgbs/audible/18574641011/ref=zg_bs_nav_audible_1"
+            },
+            {
+                "category": "Relationships, Parenting & Personal Development",
+                "url": "https://www.amazon.com/Best-Sellers-Audible-Books-Originals-Relationships-Parenting-Personal-Development/zgbs/audible/18574784011/ref=zg_bs_nav_audible_1"
+            },
+            {
+                "category": "Religion & Spirituality",
+                "url": "https://www.amazon.com/Best-Sellers-Audible-Books-Originals-Religion-Spirituality/zgbs/audible/18574839011/ref=zg_bs_nav_audible_1"
+            },
+            {
+                "category": "Romance",
+                "url": "https://www.amazon.com/Best-Sellers-Audible-Books-Originals-Romance/zgbs/audible/18580518011/ref=zg_bs_nav_audible_1"
+            },
+            {
+                "category": "Science & Engineering",
+                "url": "https://www.amazon.com/Best-Sellers-Audible-Books-Originals-Science-Engineering/zgbs/audible/18580540011/ref=zg_bs_nav_audible_1"
+            },
+            {
+                "category": "Science Fiction & Fantasy",
+                "url": "https://www.amazon.com/Best-Sellers-Audible-Books-Originals-Science-Fiction-Fantasy/zgbs/audible/18580606011/ref=zg_bs_nav_audible_1"
+            },
+            {
+                "category": "Sports & Outdoors",
+                "url": "https://www.amazon.com/Best-Sellers-Audible-Books-Originals-Sports-Outdoors/zgbs/audible/18580648011/ref=zg_bs_nav_audible_1"
+            },
+            {
+                "category": "Teen & Young Adult",
+                "url": "https://www.amazon.com/Best-Sellers-Audible-Books-Originals-Teen-Young-Adult/zgbs/audible/18580715011/ref=zg_bs_nav_audible_1"
+            },
+            {
+                "category": "Travel & Tourism",
+                "url": "https://www.amazon.com/Best-Sellers-Audible-Books-Originals-Travel-Tourism/zgbs/audible/18581095011/ref=zg_bs_nav_audible_1"
+            }
+        ],
+        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/Best-Sellers-Audible-Books-Originals/zgbs/audible/ref%3Dzg_bs_pg_2_audible%3F_encoding%3DUTF8%26pg%3D2",
+        "url": "https://www.amazon.com/Best-Sellers-Audible-Books-Originals/zgbs/audible/ref=zg_bs_nav_audible_0?pg=1",
+        "product_listings": [
+            {
+                "rank": 1,
+                "asin": "B0CRSDK1Q8",
+                "name": "From Here to the Great Unknown: A MemoirLisa Marie Presley",
+                "ratings_count": 748,
+                "rating": "4.7",
+                "sale_price": "$19.69",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/814R5hw4vAL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Audible-Here-Great-Memoir/dp/B0CRSDK1Q8/ref=zg_bs_g_audible_d_sccl_1/139-9366737-8842903?isALC=true"
+            },
+            {
+                "rank": 2,
+                "asin": "B0D3QNT4T2",
+                "name": "The BoyfriendFreida McFadden",
+                "ratings_count": 19932,
+                "rating": "4.4",
+                "sale_price": "$17.50",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/711N-cyvoNL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Audible-The-Boyfriend/dp/B0D3QNT4T2/ref=zg_bs_g_audible_d_sccl_2/139-9366737-8842903?isALC=true"
+            },
+            {
+                "rank": 3,
+                "asin": "B0D1D5FN2L",
+                "name": "The MessageTa-Nehisi Coates",
+                "ratings_count": 377,
+                "rating": "4.5",
+                "sale_price": "$15.75",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/A18t7l00mGL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Audible-The-Message/dp/B0D1D5FN2L/ref=zg_bs_g_audible_d_sccl_3/139-9366737-8842903?isALC=true"
+            },
+            {
+                "rank": 4,
+                "asin": "B0D5RFG8KQ",
+                "name": "Revenge of the Tipping Point: Overstories, Superspreaders, and the Rise of Social EngineeringMalcolm Gladwell",
+                "ratings_count": 151,
+                "rating": "4.3",
+                "sale_price": "$17.05",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71xR0nlUMLL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Revenge-Tipping-Point-Overstories-Superspreaders/dp/B0D5RFG8KQ/ref=zg_bs_g_audible_d_sccl_4/139-9366737-8842903?isALC=true"
+            },
+            {
+                "rank": 5,
+                "asin": "B09XRF2SWN",
+                "name": "The HousemaidFreida McFadden",
+                "ratings_count": 377049,
+                "rating": "4.5",
+                "sale_price": "$17.46",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81Y1TlywXDL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Audible-The-Housemaid/dp/B09XRF2SWN/ref=zg_bs_g_audible_d_sccl_5/139-9366737-8842903?isALC=true"
+            },
+            {
+                "rank": 6,
+                "asin": "B0DCDGH164",
+                "name": "WarBob Woodward",
+                "ratings_count": null,
+                "rating": null,
+                "sale_price": "$18.18",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71cXiyqo0cL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Audible-War/dp/B0DCDGH164/ref=zg_bs_g_audible_d_sccl_6/139-9366737-8842903?isALC=true"
+            },
+            {
+                "rank": 7,
+                "asin": "B0CVSJJLW4",
+                "name": "Here One MomentLiane Moriarty",
+                "ratings_count": 5204,
+                "rating": "4.4",
+                "sale_price": "$21.66",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81jCu6zd27L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Audible-Here-One-Moment/dp/B0CVSJJLW4/ref=zg_bs_g_audible_d_sccl_7/139-9366737-8842903?isALC=true"
+            },
+            {
+                "rank": 8,
+                "asin": "B0CNJ97S76",
+                "name": "The WitchstoneHenry H. Neff",
+                "ratings_count": 177,
+                "rating": "4.7",
+                "sale_price": "$4.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71+gmuvhhhL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Audible-The-Witchstone/dp/B0CNJ97S76/ref=zg_bs_g_audible_d_sccl_8/139-9366737-8842903?isALC=true"
+            },
+            {
+                "rank": 9,
+                "asin": "B0C9V75P93",
+                "name": "Iron Flame: Empyrean, Book 2Rebecca Yarros",
+                "ratings_count": 200536,
+                "rating": "4.7",
+                "sale_price": "$26.33",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/A19tBquzlPL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Iron-Flame-Empyrean-Book-2/dp/B0C9V75P93/ref=zg_bs_g_audible_d_sccl_9/139-9366737-8842903?isALC=true"
+            },
+            {
+                "rank": 10,
+                "asin": "B0D7WYQ5X3",
+                "name": "Lights Out: An Into Darkness NovelNavessa Allen",
+                "ratings_count": 12401,
+                "rating": "4.6",
+                "sale_price": "$23.88",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91kZAiW7P0L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Lights-Out-Into-Darkness-Novel/dp/B0D7WYQ5X3/ref=zg_bs_g_audible_d_sccl_10/139-9366737-8842903?isALC=true"
+            },
+            {
+                "rank": 11,
+                "asin": "B07RFSSYBH",
+                "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad OnesJames Clear",
+                "ratings_count": 133633,
+                "rating": "4.8",
+                "sale_price": "$15.75",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71F4+7rk2eL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Atomic-Habits-James-Clear-audiobook/dp/B07RFSSYBH/ref=zg_bs_g_audible_d_sccl_11/139-9366737-8842903?isALC=true"
+            },
+            {
+                "rank": 12,
+                "asin": "B0CWMNP1S4",
+                "name": "Be Ready When the Luck Happens: A MemoirIna Garten",
+                "ratings_count": 883,
+                "rating": "4.7",
+                "sale_price": "$19.69",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91BX+mhkfoL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Be-Ready-When-Luck-Happens/dp/B0CWMNP1S4/ref=zg_bs_g_audible_d_sccl_12/139-9366737-8842903?isALC=true"
+            },
+            {
+                "rank": 13,
+                "asin": "B0C4QD5VPB",
+                "name": "The Women: A NovelKristin Hannah",
+                "ratings_count": 189692,
+                "rating": "4.7",
+                "sale_price": "$21.65",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91I78fRFUTL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Audible-The-Women-A-Novel/dp/B0C4QD5VPB/ref=zg_bs_g_audible_d_sccl_13/139-9366737-8842903?isALC=true"
+            },
+            {
+                "rank": 14,
+                "asin": "B0CPKXGL6Q",
+                "name": "All the Colors of the DarkChris Whitaker",
+                "ratings_count": 23442,
+                "rating": "4.6",
+                "sale_price": "$19.69",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91oSP-pAk1L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Audible-All-Colors-Dark/dp/B0CPKXGL6Q/ref=zg_bs_g_audible_d_sccl_14/139-9366737-8842903?isALC=true"
+            },
+            {
+                "rank": 15,
+                "asin": "B0CKKZX6JF",
+                "name": "Good Energy: The Surprising Connection Between Metabolism and Limitless HealthCasey Means MD",
+                "ratings_count": 1612,
+                "rating": "4.6",
+                "sale_price": "$17.72",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71I-yYonEcL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Good-Energy-Surprising-Connection-Metabolism/dp/B0CKKZX6JF/ref=zg_bs_g_audible_d_sccl_15/139-9366737-8842903?isALC=true"
+            },
+            {
+                "rank": 16,
+                "asin": "B0BVDJ293G",
+                "name": "Fourth Wing: Empyrean, Book 1Rebecca Yarros",
+                "ratings_count": 252682,
+                "rating": "4.8",
+                "sale_price": "$22.57",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/A15A7wamBML._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Fourth-Wing-Empyrean-Book-1/dp/B0BVDJ293G/ref=zg_bs_g_audible_d_sccl_16/139-9366737-8842903?isALC=true"
+            },
+            {
+                "rank": 17,
+                "asin": "B01DYO4MVG",
+                "name": "A Court of Mist and FurySarah J. Maas",
+                "ratings_count": 215606,
+                "rating": "4.8",
+                "sale_price": "$22.57",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81rXZ3NDrKL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/A-Court-of-Mist-and-Fury-audiobook/dp/B01DYO4MVG/ref=zg_bs_g_audible_d_sccl_17/139-9366737-8842903?isALC=true"
+            },
+            {
+                "rank": 18,
+                "asin": "B0C9N2L56X",
+                "name": "The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental IllnessJonathan Haidt",
+                "ratings_count": 3682,
+                "rating": "4.6",
+                "sale_price": "$17.72",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81N4drWaxuL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Anxious-Generation-Rewiring-Childhood-Epidemic/dp/B0C9N2L56X/ref=zg_bs_g_audible_d_sccl_18/139-9366737-8842903?isALC=true"
+            },
+            {
+                "rank": 19,
+                "asin": "B071RR4DPV",
+                "name": "A Court of Wings and RuinSarah J. Maas",
+                "ratings_count": 199967,
+                "rating": "4.8",
+                "sale_price": "$26.33",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81kScfXoFbL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/A-Court-of-Wings-and-Ruin-audiobook/dp/B071RR4DPV/ref=zg_bs_g_audible_d_sccl_19/139-9366737-8842903?isALC=true"
+            },
+            {
+                "rank": 20,
+                "asin": "B0CT3Y5LL9",
+                "name": "Nexus: A Brief History of Information Networks from the Stone Age to AIYuval Noah Harari",
+                "ratings_count": 647,
+                "rating": "4.5",
+                "sale_price": "$21.66",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71J3aTLJfrL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Nexus-Brief-History-Information-Networks/dp/B0CT3Y5LL9/ref=zg_bs_g_audible_d_sccl_20/139-9366737-8842903?isALC=true"
+            },
+            {
+                "rank": 21,
+                "asin": "B0CW2345TV",
+                "name": "Not Till We Are Lost: Bobiverse, Book 5Dennis E. Taylor",
+                "ratings_count": 56,
+                "rating": "4.1",
+                "sale_price": "$29.66",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81DXzK0i3KL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Not-Till-Are-Lost-Bobiverse/dp/B0CW2345TV/ref=zg_bs_g_audible_d_sccl_21/139-9366737-8842903?isALC=true"
+            },
+            {
+                "rank": 22,
+                "asin": "B0CRZF2LKJ",
+                "name": "Counting Miracles: A NovelNicholas Sparks",
+                "ratings_count": 3162,
+                "rating": "4.6",
+                "sale_price": "$19.69",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91pA1MqCOKL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Audible-Counting-Miracles-A-Novel/dp/B0CRZF2LKJ/ref=zg_bs_g_audible_d_sccl_22/139-9366737-8842903?isALC=true"
+            },
+            {
+                "rank": 23,
+                "asin": "B01GGU0XWC",
+                "name": "It Ends with UsColleen Hoover",
+                "ratings_count": 370364,
+                "rating": "4.7",
+                "sale_price": "$17.71",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/815GWEqlkOL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/It-Ends-with-Us-Colleen-Hoover-audiobook/dp/B01GGU0XWC/ref=zg_bs_g_audible_d_sccl_23/139-9366737-8842903?isALC=true"
+            },
+            {
+                "rank": 24,
+                "asin": "B08T1NR1Q7",
+                "name": "Throne of Glass: Throne of Glass, Book 1Sarah J. Maas",
+                "ratings_count": 117910,
+                "rating": "4.4",
+                "sale_price": "$20.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81NUJN4cE4L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Throne-of-Glass/dp/B08T1NR1Q7/ref=zg_bs_g_audible_d_sccl_24/139-9366737-8842903?isALC=true"
+            },
+            {
+                "rank": 25,
+                "asin": "B0CQ2WYS21",
+                "name": "Wind and Truth: Book Five of the Stormlight ArchiveBrandon Sanderson",
+                "ratings_count": null,
+                "rating": null,
+                "sale_price": "$41.34",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91Hbnk1kOhL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Wind-Truth-Book-Stormlight-Archive/dp/B0CQ2WYS21/ref=zg_bs_g_audible_d_sccl_25/139-9366737-8842903?isALC=true"
+            },
+            {
+                "rank": 26,
+                "asin": "B01AKPER5I",
+                "name": "The Vegetarian: A NovelHan Kang",
+                "ratings_count": 9390,
+                "rating": "3.7",
+                "sale_price": "$11.81",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81eaGlg0G7L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/The-Vegetarian-Han-Kang-audiobook/dp/B01AKPER5I/ref=zg_bs_g_audible_d_sccl_26/139-9366737-8842903?isALC=true"
+            },
+            {
+                "rank": 27,
+                "asin": "B08FCXG1SB",
+                "name": "A Court of Silver FlamesSarah J. Maas",
+                "ratings_count": 177208,
+                "rating": "4.8",
+                "sale_price": "$26.33",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91dvInY9WWL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/A-Court-of-Silver-Flames/dp/B08FCXG1SB/ref=zg_bs_g_audible_d_sccl_27/139-9366737-8842903?isALC=true"
+            },
+            {
+                "rank": 28,
+                "asin": "B013GXDRKC",
+                "name": "How to Talk to Anyone: 92 Little Tricks for Big Success in RelationshipsLeil Lowndes",
+                "ratings_count": 14290,
+                "rating": "4.5",
+                "sale_price": "$17.50",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71sKs5Ivf4L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/How-to-Talk-to-Anyone-audiobook/dp/B013GXDRKC/ref=zg_bs_g_audible_d_sccl_28/139-9366737-8842903?isALC=true"
+            },
+            {
+                "rank": 29,
+                "asin": "B0BC9YDM8R",
+                "name": "Haunting Adeline: Cat and Mouse Duet, Book 1H. D. Carlton",
+                "ratings_count": 118386,
+                "rating": "4.4",
+                "sale_price": "$21.83",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91F4ku0sviL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Haunting-Adeline-Mouse-Duet-Book/dp/B0BC9YDM8R/ref=zg_bs_g_audible_d_sccl_29/139-9366737-8842903?isALC=true"
+            },
+            {
+                "rank": 30,
+                "asin": "B0CLH8D891",
+                "name": "The God of the Woods: A NovelLiz Moore",
+                "ratings_count": 19001,
+                "rating": "4.4",
+                "sale_price": "$19.69",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91WvkZFZq9L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Audible-God-Woods-Novel/dp/B0CLH8D891/ref=zg_bs_g_audible_d_sccl_30/139-9366737-8842903?isALC=true"
+            },
+            {
+                "rank": 31,
+                "asin": "B017V4IMVQ",
+                "name": "Harry Potter and the Sorcerer's Stone, Book 1J.K. Rowling",
+                "ratings_count": 136427,
+                "rating": "4.8",
+                "sale_price": "$29.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91eopoUCjLL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Harry-Potter-Sorcerers-Stone-Book/dp/B017V4IMVQ/ref=zg_bs_g_audible_d_sccl_31/139-2089736-7636010?isALC=true"
+            },
+            {
+                "rank": 32,
+                "asin": "B0BSVFGW4M",
+                "name": "The Housemaid's SecretFreida McFadden",
+                "ratings_count": 207287,
+                "rating": "4.4",
+                "sale_price": "$17.46",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/913TDZlxG8L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Audible-The-Housemaids-Secret/dp/B0BSVFGW4M/ref=zg_bs_g_audible_d_sccl_32/139-2089736-7636010?isALC=true"
+            },
+            {
+                "rank": 33,
+                "asin": "B08D9WJ9G8",
+                "name": "The Psychology of Money: Timeless Lessons on Wealth, Greed, and HappinessMorgan Housel",
+                "ratings_count": 55890,
+                "rating": "4.7",
+                "sale_price": "$17.46",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81PGh4Jx+wL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Psychology-Money-Timeless-Lessons-Happiness/dp/B08D9WJ9G8/ref=zg_bs_g_audible_d_sccl_33/139-2089736-7636010?isALC=true"
+            },
+            {
+                "rank": 34,
+                "asin": "B012BQ4GQE",
+                "name": "Queen of ShadowsSarah J. Maas",
+                "ratings_count": 95873,
+                "rating": "4.8",
+                "sale_price": "$30.57",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81POIkf0bAL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Queen-of-Shadows-Sarah-J-Maas-audiobook/dp/B012BQ4GQE/ref=zg_bs_g_audible_d_sccl_34/139-2089736-7636010?isALC=true"
+            },
+            {
+                "rank": 35,
+                "asin": "B09SBP5F76",
+                "name": "It Starts with Us: A NovelColleen Hoover",
+                "ratings_count": 195165,
+                "rating": "4.5",
+                "sale_price": "$16.40",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81ZEMiQ6B9L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Audible-Starts-Us-Novel/dp/B09SBP5F76/ref=zg_bs_g_audible_d_sccl_35/139-2089736-7636010?isALC=true"
+            },
+            {
+                "rank": 36,
+                "asin": "B0CKLZGC6V",
+                "name": "The Wedding People: A NovelAlison Espach",
+                "ratings_count": 12258,
+                "rating": "4.3",
+                "sale_price": "$17.71",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91vslEy2cFL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/The-Wedding-People-A-Novel/dp/B0CKLZGC6V/ref=zg_bs_g_audible_d_sccl_36/139-2089736-7636010?isALC=true"
+            },
+            {
+                "rank": 37,
+                "asin": "B07BFFHCR7",
+                "name": "A Court of Frost and StarlightSarah J. Maas",
+                "ratings_count": 133824,
+                "rating": "4.3",
+                "sale_price": "$15.04",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81EFLNROzaL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Court-of-Frost-and-Starlight-audiobook/dp/B07BFFHCR7/ref=zg_bs_g_audible_d_sccl_37/139-2089736-7636010?isALC=true"
+            },
+            {
+                "rank": 38,
+                "asin": "B08V5H41F1",
+                "name": "Crown of Midnight: Throne of Glass, Book 2Sarah J. Maas",
+                "ratings_count": 99166,
+                "rating": "4.7",
+                "sale_price": "$20.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81GLpveESWL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Crown-of-Midnight/dp/B08V5H41F1/ref=zg_bs_g_audible_d_sccl_38/139-2089736-7636010?isALC=true"
+            },
+            {
+                "rank": 39,
+                "asin": "B08TX585RN",
+                "name": "The Body Keeps the Score: Brain, Mind, and Body in the Healing of TraumaBessel van der Kolk M.D.",
+                "ratings_count": 76825,
+                "rating": "4.8",
+                "sale_price": "$19.69",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81olnaENh0L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Body-Keeps-Score-Healing-Trauma/dp/B08TX585RN/ref=zg_bs_g_audible_d_sccl_39/139-2089736-7636010?isALC=true"
+            },
+            {
+                "rank": 40,
+                "asin": "B08GB58KD5",
+                "name": "Project Hail MaryAndy Weir",
+                "ratings_count": 131150,
+                "rating": "4.7",
+                "sale_price": "$26.21",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91vS2L5YfEL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Project-Hail-Mary/dp/B08GB58KD5/ref=zg_bs_g_audible_d_sccl_40/139-2089736-7636010?isALC=true"
+            },
+            {
+                "rank": 41,
+                "asin": "B00NY8OTR0",
+                "name": "The NightingaleKristin Hannah",
+                "ratings_count": 325839,
+                "rating": "4.7",
+                "sale_price": "$21.65",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81MSoBp+PAL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/The-Nightingale-Kristin-Hannah-audiobook/dp/B00NY8OTR0/ref=zg_bs_g_audible_d_sccl_41/139-2089736-7636010?isALC=true"
+            },
+            {
+                "rank": 42,
+                "asin": "B01KIQV5EU",
+                "name": "Empire of StormsSarah J. Maas",
+                "ratings_count": 84749,
+                "rating": "4.8",
+                "sale_price": "$34.96",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81OF0qoTKQL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Empire-of-Storms-Sarah-J-Maas-audiobook/dp/B01KIQV5EU/ref=zg_bs_g_audible_d_sccl_42/139-2089736-7636010?isALC=true"
+            },
+            {
+                "rank": 43,
+                "asin": "B09CH915FH",
+                "name": "Heir of Fire: Throne of Glass, Book 3Sarah J. Maas",
+                "ratings_count": 91408,
+                "rating": "4.7",
+                "sale_price": "$21.88",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91SMNQ7OuBL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Heir-Fire-Throne-Glass-Book/dp/B09CH915FH/ref=zg_bs_g_audible_d_sccl_43/139-2089736-7636010?isALC=true"
+            },
+            {
+                "rank": 44,
+                "asin": "B01I29Y344",
+                "name": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good LifeMark Manson",
+                "ratings_count": 148008,
+                "rating": "4.5",
+                "sale_price": "$16.53",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81A5jQHA+lL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/B01I29Y344/ref=zg_bs_g_audible_d_sccl_44/139-2089736-7636010?isALC=true"
+            },
+            {
+                "rank": 45,
+                "asin": "B0C3PCKQGX",
+                "name": "Listen for the Lie: A NovelAmy Tintera",
+                "ratings_count": 18763,
+                "rating": "4.3",
+                "sale_price": "$17.71",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81Ln7A2uGYL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Audible-Listen-Lie-Novel/dp/B0C3PCKQGX/ref=zg_bs_g_audible_d_sccl_45/139-2089736-7636010?isALC=true"
+            },
+            {
+                "rank": 46,
+                "asin": "B07J66Q8BM",
+                "name": "Kingdom of AshSarah J. Maas",
+                "ratings_count": 89531,
+                "rating": "4.8",
+                "sale_price": "$34.96",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81F3RCewJ7L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Kingdom-of-Ash-Sarah-J-Maas-audiobook/dp/B07J66Q8BM/ref=zg_bs_g_audible_d_sccl_46/139-2089736-7636010?isALC=true"
+            },
+            {
+                "rank": 47,
+                "asin": "B0CK8KXT4J",
+                "name": "The Pumpkin Spice Café: The Dream Harbour, Book 1Laurie Gilmore",
+                "ratings_count": 25364,
+                "rating": "3.8",
+                "sale_price": "$20.32",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91jhGDLmEyL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Audible-The-Pumpkin-Spice-Caf%C3%A9/dp/B0CK8KXT4J/ref=zg_bs_g_audible_d_sccl_47/139-2089736-7636010?isALC=true"
+            },
+            {
+                "rank": 48,
+                "asin": "B0CYJW3L7H",
+                "name": "Iron Flame (Part 1 of 2) (Dramatized Adaptation): The Empyrean, Book 2Rebecca Yarros",
+                "ratings_count": 15,
+                "rating": "4.4",
+                "sale_price": "$24.07",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/A1hsfukbQoL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Iron-Flame-Part-Dramatized-Adaptation/dp/B0CYJW3L7H/ref=zg_bs_g_audible_d_sccl_48/139-2089736-7636010?isALC=true"
+            },
+            {
+                "rank": 49,
+                "asin": "B09WXLQM7J",
+                "name": "The Mountain Is You: Transforming Self-Sabotage into Self-MasteryBrianna Wiest",
+                "ratings_count": 19805,
+                "rating": "4.7",
+                "sale_price": "$17.46",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61UC-FYP3gL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Mountain-You-Transforming-Self-Sabotage-Self-Mastery/dp/B09WXLQM7J/ref=zg_bs_g_audible_d_sccl_49/139-2089736-7636010?isALC=true"
+            },
+            {
+                "rank": 50,
+                "asin": "B0CTN29L42",
+                "name": "The Housemaid Is WatchingFreida McFadden",
+                "ratings_count": 136634,
+                "rating": "4.2",
+                "sale_price": "$21.83",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91SMFFD6MgL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Audible-The-Housemaid-Is-Watching/dp/B0CTN29L42/ref=zg_bs_g_audible_d_sccl_50/139-2089736-7636010?isALC=true"
+            }
+        ]
+    }
+}

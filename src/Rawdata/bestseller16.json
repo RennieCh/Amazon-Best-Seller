@@ -1,0 +1,635 @@
+{
+    "200": {
+        "category": "Amazon Best SellersComputers & Accessories",
+        "category_hierarchy": [
+            {
+                "name": "Any Department",
+                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_pc_0_1"
+            },
+            {
+                "name": "Computers & Accessories",
+                "url": "https://www.amazon.com/Best-Sellers-Computers-Accessories/zgbs/pc/ref=zg_bs_nav_pc_0?pg=1"
+            }
+        ],
+        "child_categories": [
+            {
+                "category": "Computer Accessories & Peripherals",
+                "url": "https://www.amazon.com/Best-Sellers-Computers-Accessories-Computer-Accessories-Peripherals/zgbs/pc/172456/ref=zg_bs_nav_pc_1"
+            },
+            {
+                "category": "Computer Components",
+                "url": "https://www.amazon.com/Best-Sellers-Computers-Accessories-Computer-Components/zgbs/pc/193870011/ref=zg_bs_nav_pc_1"
+            },
+            {
+                "category": "Data Storage",
+                "url": "https://www.amazon.com/Best-Sellers-Computers-Accessories-Data-Storage/zgbs/pc/1292110011/ref=zg_bs_nav_pc_1"
+            },
+            {
+                "category": "Desktops",
+                "url": "https://www.amazon.com/Best-Sellers-Computers-Accessories-Desktop-Computers/zgbs/pc/565098/ref=zg_bs_nav_pc_1"
+            },
+            {
+                "category": "External Components",
+                "url": "https://www.amazon.com/Best-Sellers-Computers-Accessories-Computer-External-Components/zgbs/pc/3012292011/ref=zg_bs_nav_pc_1"
+            },
+            {
+                "category": "Laptop Accessories",
+                "url": "https://www.amazon.com/Best-Sellers-Computers-Accessories-Laptop-Accessories/zgbs/pc/3011391011/ref=zg_bs_nav_pc_1"
+            },
+            {
+                "category": "Laptops",
+                "url": "https://www.amazon.com/Best-Sellers-Computers-Accessories-Laptop-Computers/zgbs/pc/565108/ref=zg_bs_nav_pc_1"
+            },
+            {
+                "category": "Monitors",
+                "url": "https://www.amazon.com/Best-Sellers-Computers-Accessories-Computer-Monitors/zgbs/pc/1292115011/ref=zg_bs_nav_pc_1"
+            },
+            {
+                "category": "Networking Products",
+                "url": "https://www.amazon.com/Best-Sellers-Computers-Accessories-Computer-Networking/zgbs/pc/172504/ref=zg_bs_nav_pc_1"
+            },
+            {
+                "category": "Printers",
+                "url": "https://www.amazon.com/Best-Sellers-Computers-Accessories-Computer-Printers/zgbs/pc/172635/ref=zg_bs_nav_pc_1"
+            },
+            {
+                "category": "Routers",
+                "url": "https://www.amazon.com/Best-Sellers-Computers-Accessories-Computer-Routers/zgbs/pc/300189/ref=zg_bs_nav_pc_1"
+            },
+            {
+                "category": "Scanners",
+                "url": "https://www.amazon.com/Best-Sellers-Computers-Accessories-Computer-Scanners/zgbs/pc/172584/ref=zg_bs_nav_pc_1"
+            },
+            {
+                "category": "Servers",
+                "url": "https://www.amazon.com/Best-Sellers-Computers-Accessories-Computer-Servers/zgbs/pc/11036071/ref=zg_bs_nav_pc_1"
+            },
+            {
+                "category": "Tablet Accessories",
+                "url": "https://www.amazon.com/Best-Sellers-Computers-Accessories-Tablet-Accessories/zgbs/pc/2348628011/ref=zg_bs_nav_pc_1"
+            },
+            {
+                "category": "Tablets",
+                "url": "https://www.amazon.com/Best-Sellers-Computers-Accessories-Computer-Tablets/zgbs/pc/1232597011/ref=zg_bs_nav_pc_1"
+            },
+            {
+                "category": "Warranties & Services",
+                "url": "https://www.amazon.com/Best-Sellers-Computers-Accessories-Computer-Warranties-Services/zgbs/pc/16285851/ref=zg_bs_nav_pc_1"
+            }
+        ],
+        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/Best-Sellers-Computers-Accessories/zgbs/pc/ref%3Dzg_bs_pg_2_pc%3F_encoding%3DUTF8%26pg%3D2",
+        "url": "https://www.amazon.com/Best-Sellers-Computers-Accessories/zgbs/pc/ref=zg_bs_nav_pc_0?pg=1",
+        "product_listings": [
+            {
+                "rank": 1,
+                "asin": "B096WJFX8M",
+                "name": "Amazon Fire 7 tablet (newest model) 7” display, read and watch, under $80 with 10-hour battery life, 32 GB, Black",
+                "ratings_count": 17549,
+                "rating": "4.4",
+                "sale_price": "$49.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51092zEMKaL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Fire-7-Tablet/dp/B096WJFX8M/ref=zg_bs_g_pc_d_sccl_1/146-6073391-3548753?psc=1"
+            },
+            {
+                "rank": 2,
+                "asin": "B0BHZT5S12",
+                "name": "Amazon Fire HD 10 tablet (newest model) built for relaxation, 10.1\" vibrant Full HD screen, octa-core processor, 3 GB RAM, 32 GB, Black",
+                "ratings_count": 15093,
+                "rating": "4.5",
+                "sale_price": "$139.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/5160oIUsG8L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon_Fire_HD_10/dp/B0BHZT5S12/ref=zg_bs_g_pc_d_sccl_2/146-6073391-3548753?psc=1"
+            },
+            {
+                "rank": 3,
+                "asin": "B0B1HJ666G",
+                "name": "Mac Book Pro Charger - 118W USB C Charger Fast Charger Compatible with USB C Port MacBook pro/Air, ipad Pro, Samsung Galaxy and All USB C Device, Include Charge Cable",
+                "ratings_count": 4236,
+                "rating": "4.5",
+                "sale_price": "$35.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51cpWg2Ay7L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Mac-Book-Pro-Charger-Cable%EF%BC%887-2ft/dp/B0B1HJ666G/ref=zg_bs_g_pc_d_sccl_3/146-6073391-3548753?psc=1"
+            },
+            {
+                "rank": 4,
+                "asin": "B0B1VQ1ZQY",
+                "name": "Amazon Fire Max 11 tablet (newest model) vivid 11” display, all-in-one for streaming, reading, and gaming, 14-hour battery life, optional stylus and keyboard, 64 GB, Gray",
+                "ratings_count": 10028,
+                "rating": "4.4",
+                "sale_price": "$149.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51gj5oQXbnL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-powerful-display-octa-core-processor/dp/B0B1VQ1ZQY/ref=zg_bs_g_pc_d_sccl_4/146-6073391-3548753?psc=1"
+            },
+            {
+                "rank": 5,
+                "asin": "B0BL6DCNGR",
+                "name": "Amazon Fire HD 10 Kids Pro tablet (newest model) ages 6-12 | Bright 10.1\" HD screen | Slim case for older kids, ad-free content, parental controls, 13-hr battery, 32 GB, Nebula",
+                "ratings_count": 3517,
+                "rating": "4.6",
+                "sale_price": "$189.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61y4r+61JwL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon_Fire_HD_10_Kids_Pro/dp/B0BL6DCNGR/ref=zg_bs_g_pc_d_sccl_5/146-6073391-3548753?psc=1"
+            },
+            {
+                "rank": 6,
+                "asin": "B0B3BVWJ6Y",
+                "name": "Apple 2022 MacBook Air Laptop with M2 chip: Built for Apple Intelligence, 13.6-inch Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera; Midnight",
+                "ratings_count": 3103,
+                "rating": "4.7",
+                "sale_price": "$749.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/719C6bJv8jL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/2022-Apple-MacBook-Laptop-chip/dp/B0B3BVWJ6Y/ref=zg_bs_g_pc_d_sccl_6/146-6073391-3548753?psc=1"
+            },
+            {
+                "rank": 7,
+                "asin": "B0BL5C43SL",
+                "name": "Amazon Fire HD 10 Kids Pro tablet (newest model) ages 6-12 | Bright 10.1\" HD screen | Slim case for older kids, ad-free content, parental controls, 13-hr battery, 32 GB, Happy Day",
+                "ratings_count": 3517,
+                "rating": "4.6",
+                "sale_price": "$189.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/715gL9zjzGL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon_Fire_HD_10_Kids_Pro/dp/B0BL5C43SL/ref=zg_bs_g_pc_d_sccl_7/146-6073391-3548753?psc=1"
+            },
+            {
+                "rank": 8,
+                "asin": "B09PRB1MZM",
+                "name": "TP-Link Deco AX3000 WiFi 6 Mesh System(Deco X55) - Covers up to 6500 Sq.Ft. , Replaces Wireless Router and Extender, 3 Gigabit ports per unit, supports Ethernet Backhaul (3-pack)",
+                "ratings_count": 12330,
+                "rating": "4.5",
+                "sale_price": "$169.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61D7vtclcsL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/WiFi-6-Mesh-System-AX3000/dp/B09PRB1MZM/ref=zg_bs_g_pc_d_sccl_8/146-6073391-3548753?psc=1"
+            },
+            {
+                "rank": 9,
+                "asin": "B0BL8WSCH3",
+                "name": "Amazon Fire 7 Kids tablet (newest model) ages 3-7. Top-selling 7\" kids tablet on Amazon | ad-free content with parental controls included, 10-hr battery, 16 GB, Purple",
+                "ratings_count": 20943,
+                "rating": "4.5",
+                "sale_price": "$109.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51wD-xrtyWL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-Fire-Kids-tablet-Top-selling/dp/B0BL8WSCH3/ref=zg_bs_g_pc_d_sccl_9/146-6073391-3548753?psc=1"
+            },
+            {
+                "rank": 10,
+                "asin": "B0BL5XPDR6",
+                "name": "Amazon Fire HD 10 tablet (newest model) built for relaxation, 10.1\" vibrant Full HD screen, octa-core processor, 3 GB RAM, 32 GB, Ocean",
+                "ratings_count": 15093,
+                "rating": "4.5",
+                "sale_price": "$139.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51-6uBmjPqL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon_Fire_HD_10/dp/B0BL5XPDR6/ref=zg_bs_g_pc_d_sccl_10/146-6073391-3548753?psc=1"
+            },
+            {
+                "rank": 11,
+                "asin": "B089T1SX32",
+                "name": "Charger for HP Laptop Computer 65W 45W Smart Blue Tip Power Adapter",
+                "ratings_count": 4492,
+                "rating": "4.6",
+                "sale_price": "$9.90",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71nwcDS1+tL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Charger-Computer-Pavilion-Elitebook-touchsmart/dp/B089T1SX32/ref=zg_bs_g_pc_d_sccl_11/146-6073391-3548753?psc=1"
+            },
+            {
+                "rank": 12,
+                "asin": "B09G5W9R6R",
+                "name": "TP-Link AX3000 WiFi 6 Router – 802.11ax Wireless Router, Gigabit, Dual Band Internet Router, VPN Router, OneMesh Compatible (Archer AX55)",
+                "ratings_count": 8248,
+                "rating": "4.5",
+                "sale_price": "$99.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61dElQsduAL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/TP-Link-WiFi-AX3000-Smart-Router/dp/B09G5W9R6R/ref=zg_bs_g_pc_d_sccl_12/146-6073391-3548753?psc=1"
+            },
+            {
+                "rank": 13,
+                "asin": "B08ZK2BHP2",
+                "name": "Amazon eero 6+ mesh Wi-Fi router | 1.0 Gbps Ethernet | Coverage up to 4,500 sq. ft. | Connect 75+ devices | 3-Pack | 2022 release",
+                "ratings_count": 8088,
+                "rating": "4.4",
+                "sale_price": "$299.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41oSlpuNDmL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/eero-reliable-gigabit-connect-Coverage/dp/B08ZK2BHP2/ref=zg_bs_g_pc_d_sccl_13/146-6073391-3548753?psc=1"
+            },
+            {
+                "rank": 14,
+                "asin": "B0B2SFTGQ6",
+                "name": "Amazon Fire Max 11 tablet (newest model) vivid 11” display, all-in-one for streaming, reading, and gaming, 14-hour battery life, optional stylus and keyboard, 128 GB, Gray, without lockscreen ads",
+                "ratings_count": 10028,
+                "rating": "4.4",
+                "sale_price": "$169.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51gj5oQXbnL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-powerful-octa-core-processor-lockscreen/dp/B0B2SFTGQ6/ref=zg_bs_g_pc_d_sccl_14/146-6073391-3548753?psc=1"
+            },
+            {
+                "rank": 15,
+                "asin": "B0B4SBR4RN",
+                "name": "65W Surface Pro Laptop Charger for Microsoft Surface Pro 10, 9, 8, 7+, 7, 6, 5, 4, 3, X, Windows Surface Laptop 6, 5, 4, 3, 2, 1, Surface Go Tablet, Surface Book 3, 2, 1, Support 44W, 36W, LED, 10FT",
+                "ratings_count": 2637,
+                "rating": "4.6",
+                "sale_price": "$26.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61i2cWnohUL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Surface-Charger-Microsoft-Windows-Support/dp/B0B4SBR4RN/ref=zg_bs_g_pc_d_sccl_15/146-6073391-3548753?psc=1"
+            },
+            {
+                "rank": 16,
+                "asin": "B0BL5PYD69",
+                "name": "Amazon Fire HD 10 tablet (newest model) built for relaxation, 10.1\" vibrant Full HD screen, octa-core processor, 3 GB RAM, 64 GB, Black",
+                "ratings_count": 15093,
+                "rating": "4.5",
+                "sale_price": "$179.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/5160oIUsG8L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon_Fire_HD_10/dp/B0BL5PYD69/ref=zg_bs_g_pc_d_sccl_16/146-6073391-3548753?psc=1"
+            },
+            {
+                "rank": 17,
+                "asin": "B09BVKYWJ5",
+                "name": "NSPENCM 85W Mac Book Pro Charger, Replacement AC 85w 2T-Tip Connector Power Adapter,Laptop Charger Compatible with MacBook pro & Mac Book Pro 13 inch-15 inch Retina After Mid 2012",
+                "ratings_count": 4317,
+                "rating": "4.4",
+                "sale_price": "$18.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51wJT3UEt9L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/NSPENCM-Charger-Replacement-Connector-Compatible/dp/B09BVKYWJ5/ref=zg_bs_g_pc_d_sccl_17/146-6073391-3548753?psc=1"
+            },
+            {
+                "rank": 18,
+                "asin": "B07TVHM47L",
+                "name": "Charger for Dell Laptop Computer 65W 45W Round Tip Power Adapter",
+                "ratings_count": 2522,
+                "rating": "4.5",
+                "sale_price": "$9.90",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71D17Wn+c8L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Charger-Laptop-Computer-Round-Adapter/dp/B07TVHM47L/ref=zg_bs_g_pc_d_sccl_18/146-6073391-3548753?psc=1"
+            },
+            {
+                "rank": 19,
+                "asin": "B0BLBLRLJB",
+                "name": "Amazon Fire 7 Kids tablet (newest model) ages 3-7. Top-selling 7\" kids tablet on Amazon | ad-free content with parental controls included, 10-hr battery, 16 GB, Blue",
+                "ratings_count": 20943,
+                "rating": "4.5",
+                "sale_price": "$109.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51K354iYh0L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-Fire-Kids-tablet-Top-selling/dp/B0BLBLRLJB/ref=zg_bs_g_pc_d_sccl_19/146-6073391-3548753?psc=1"
+            },
+            {
+                "rank": 20,
+                "asin": "B0CVDN4QS6",
+                "name": "New Amazon Fire HD 8 tablet, 8” HD Display, 3GB memory, 32GB, designed for portable entertainment, Black, (2024 release)",
+                "ratings_count": 25,
+                "rating": "3.8",
+                "sale_price": "$99.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71+l3bvTqTL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Fire-HD-8-Tablet-Black-32GB/dp/B0CVDN4QS6/ref=zg_bs_g_pc_d_sccl_20/146-6073391-3548753?psc=1"
+            },
+            {
+                "rank": 21,
+                "asin": "B0BL5SZ3VV",
+                "name": "Amazon Fire 10 Kids tablet (newest model) ages 3-7 | Bright 10.1\" HD screen with ad-free content and parental controls included, 13-hr battery, 32 GB, Blue",
+                "ratings_count": 3115,
+                "rating": "4.6",
+                "sale_price": "$189.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51cS34m7B0L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon_Fire_HD_10_Kids/dp/B0BL5SZ3VV/ref=zg_bs_g_pc_d_sccl_21/146-6073391-3548753?psc=1"
+            },
+            {
+                "rank": 22,
+                "asin": "B0C8C2NZMQ",
+                "name": "Amazon Fire 7 Kids tablet (newest model) ages 3-7. Top-selling 7\" kids tablet on Amazon | 6-months of ad-free content with parental controls included, 10-hr battery, 16 GB, Blue",
+                "ratings_count": 20943,
+                "rating": "4.5",
+                "sale_price": "$99.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51K354iYh0L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-Fire-Kids-tablet-Top-selling/dp/B0C8C2NZMQ/ref=zg_bs_g_pc_d_sccl_22/146-6073391-3548753?psc=1"
+            },
+            {
+                "rank": 23,
+                "asin": "B08LVD89GV",
+                "name": "Charger for MacBook Air MacBook Pro 13 14 15 16 inch 2024 2023 2022 2021 2020, M1 M2 M3 Laptop 70W USB C Power Adapter, iPad, LED, 6.6FT USB-C Cable, Charging as Fast as Original Quality",
+                "ratings_count": 3637,
+                "rating": "4.6",
+                "sale_price": "$27.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41SIsUJa8JL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Charger-Adapter-Compatible-Thunderbolt-Foldable/dp/B08LVD89GV/ref=zg_bs_g_pc_d_sccl_23/146-6073391-3548753?psc=1"
+            },
+            {
+                "rank": 24,
+                "asin": "B07YMKD6SM",
+                "name": "Google Nest Wifi - AC2200 - Mesh WiFi System - Wifi Router - 2200 Sq Ft Coverage - 1 pack",
+                "ratings_count": 13048,
+                "rating": "4.3",
+                "sale_price": "$38.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41R76eHf+iL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Google-Nest-WiFi-Router-Generation/dp/B07YMKD6SM/ref=zg_bs_g_pc_d_sccl_24/146-6073391-3548753?psc=1"
+            },
+            {
+                "rank": 25,
+                "asin": "B0CV5ZSR17",
+                "name": "Acer Aspire Go 15 Slim Laptop | 15.6\" Full HD IPS 1080P Display | Intel Core i3-N305| Intel UHD Graphics | 8GB LPDDR5 | 128GB HD | Wi-Fi 6 | AI PC | Windows 11 Home in S Mode | AG15-31P-3947",
+                "ratings_count": 1239,
+                "rating": "4.2",
+                "sale_price": "$259.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71wKJVtV-+L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Display-i3-N305-Graphics-Windows-AG15-31P-3947/dp/B0CV5ZSR17/ref=zg_bs_g_pc_d_sccl_25/146-6073391-3548753?psc=1"
+            },
+            {
+                "rank": 26,
+                "asin": "B00NNMB3KS",
+                "name": "havit HV-F2056 15.6\"-17\" Laptop Cooler Cooling Pad - Slim Portable USB Powered (3 Fans), Black/Blue",
+                "ratings_count": 41880,
+                "rating": "4.5",
+                "sale_price": "$27.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71jUT5npz-L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/HV-F2056-15-6-17-Laptop-Cooler-Cooling/dp/B00NNMB3KS/ref=zg_bs_g_pc_d_sccl_26/146-6073391-3548753?psc=1"
+            },
+            {
+                "rank": 27,
+                "asin": "B0BL5WZ6HF",
+                "name": "Amazon Fire HD 10 tablet (newest model) built for relaxation, 10.1\" vibrant Full HD screen, octa-core processor, 3 GB RAM, 32 GB, Lilac",
+                "ratings_count": 15093,
+                "rating": "4.5",
+                "sale_price": "$139.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51XL4VuXC3L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon_Fire_HD_10/dp/B0BL5WZ6HF/ref=zg_bs_g_pc_d_sccl_27/146-6073391-3548753?psc=1"
+            },
+            {
+                "rank": 28,
+                "asin": "B07V3JYVQH",
+                "name": "Charger for Lenovo Laptop Computer 65W 45W Round Tip Power Supply AC Adapter for Lenovo IdeaPad 330-14, 330-15, 330-17, 510-15, 330s-14, 330s-15 Lenovo Flex 6-14 Laptop Charger",
+                "ratings_count": 7602,
+                "rating": "4.6",
+                "sale_price": "$9.90",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61VhL0HjTML._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/IdeaPad-Charger-Adapter-330s-14-330s-15/dp/B07V3JYVQH/ref=zg_bs_g_pc_d_sccl_28/146-6073391-3548753?psc=1"
+            },
+            {
+                "rank": 29,
+                "asin": "B0C7BKZ883",
+                "name": "Gogoonike Adjustable Laptop Stand for Desk, Metal Foldable Laptop Riser, Portable Laptop Holder Mount, Ventilated Cooling Computer Notebook Stand Compatible with 10-15.6” Laptops",
+                "ratings_count": 548,
+                "rating": "4.4",
+                "sale_price": "$15.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71Api8I7QML._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Gogoonike-Adjustable-Foldable-Ventilated-Compatible/dp/B0C7BKZ883/ref=zg_bs_g_pc_d_sccl_29/146-6073391-3548753?psc=1"
+            },
+            {
+                "rank": 30,
+                "asin": "B096WHY23G",
+                "name": "Amazon Fire 7 tablet (newest model) 7” display, read and watch, under $80 with 10-hour battery life, 32 GB, Denim",
+                "ratings_count": 17549,
+                "rating": "4.4",
+                "sale_price": "$49.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51iOU2HtdnL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Fire-7-Tablet/dp/B096WHY23G/ref=zg_bs_g_pc_d_sccl_30/146-6073391-3548753?psc=1"
+            },
+            {
+                "rank": 31,
+                "asin": "B0B3C7MJX3",
+                "name": "Apple 2022 MacBook Air Laptop with M2 chip: Built for Apple Intelligence, 13.6-inch Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera; Starlight",
+                "ratings_count": 3103,
+                "rating": "4.7",
+                "sale_price": "$749.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/710TJuHTMhL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/2022-Apple-MacBook-Laptop-chip/dp/B0B3C7MJX3/ref=zg_bs_g_pc_d_sccl_31/130-7460732-8199735?psc=1"
+            },
+            {
+                "rank": 32,
+                "asin": "B09688VRYZ",
+                "name": "Universal Chromebook Charger USB C for Hp 65W 45W USB-C Laptop Charger,Replacement for Lenovo Thinkpad/Yoga,Dell Chromebook 3100,Latitude 5420,Asus,Samsung,Acer,Google Series Type C Power Cord",
+                "ratings_count": 7931,
+                "rating": "4.3",
+                "sale_price": "$15.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61N1eNFtxFL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Universal-Laptop-Charger-laptops-Chargeable/dp/B09688VRYZ/ref=zg_bs_g_pc_d_sccl_32/130-7460732-8199735?psc=1"
+            },
+            {
+                "rank": 33,
+                "asin": "B0B6FTFJ9R",
+                "name": "Apakkai Stickers for Kids, 600Pcs Water Bottle Stickers for Teens, Cute Vinyl Waterproof Aesthetic Scrapbook Halloween Stickers Pack for Laptop Computer, Kawaii Animal Stickers for Boys Girls Adults",
+                "ratings_count": 2504,
+                "rating": "4.4",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81kL0VvEFmL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Waterproof-Aesthetic-Scrapbook-Halloween-Skateboard/dp/B0B6FTFJ9R/ref=zg_bs_g_pc_d_sccl_33/130-7460732-8199735?psc=1"
+            },
+            {
+                "rank": 34,
+                "asin": "B0BL5TKDVG",
+                "name": "Amazon Fire 10 HD Kids tablet (newest model) ages 3-7 | Bright 10.1\" HD screen with ad-free content and parental controls included, 13-hr battery, 32 GB, Pink",
+                "ratings_count": 3115,
+                "rating": "4.6",
+                "sale_price": "$189.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51juU1rDgNL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon_Fire_HD_10_Kids/dp/B0BL5TKDVG/ref=zg_bs_g_pc_d_sccl_34/130-7460732-8199735?psc=1"
+            },
+            {
+                "rank": 35,
+                "asin": "B085VQVPJK",
+                "name": "Amazon eero 6 dual-band mesh Wi-Fi 6 extender - expands existing eero network",
+                "ratings_count": 6352,
+                "rating": "4.5",
+                "sale_price": "$79.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41zvtCymtnL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Eero-6-Extender/dp/B085VQVPJK/ref=zg_bs_g_pc_d_sccl_35/130-7460732-8199735?psc=1"
+            },
+            {
+                "rank": 36,
+                "asin": "B07WGJ8ZD3",
+                "name": "Amazon eero mesh WiFi router",
+                "ratings_count": 12835,
+                "rating": "4.3",
+                "sale_price": "$69.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41fu0zjxqQL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Introducing-Amazon-eero-mesh-router/dp/B07WGJ8ZD3/ref=zg_bs_g_pc_d_sccl_36/130-7460732-8199735?psc=1"
+            },
+            {
+                "rank": 37,
+                "asin": "B0874M3KW4",
+                "name": "Anker 553 USB-C Hub, 8-in-1 USB C Dock, Dual 4K HDMI USB C to USB Adapter, 1 Gbps Ethernet USB Hub, 100W Power Delivery, SD Card Reader for MacBook Pro, XPS and More",
+                "ratings_count": 4389,
+                "rating": "4.3",
+                "sale_price": "$53.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61QrhwZfefL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Anker-PowerExpand-Adapter-Delivery-Ethernet/dp/B0874M3KW4/ref=zg_bs_g_pc_d_sccl_37/130-7460732-8199735?psc=1"
+            },
+            {
+                "rank": 38,
+                "asin": "B086PT5298",
+                "name": "Charger for HP Laptop Computer 65W 45W Smart Blue Tip Power Adapter",
+                "ratings_count": 2307,
+                "rating": "4.6",
+                "sale_price": "$9.90",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61XroYgP+0L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Charger-Laptop-Computer-Smart-Adapter/dp/B086PT5298/ref=zg_bs_g_pc_d_sccl_38/130-7460732-8199735?psc=1"
+            },
+            {
+                "rank": 39,
+                "asin": "B0C8BZ7QG7",
+                "name": "Amazon Fire 7 Kids tablet (newest model) ages 3-7. Top-selling 7\" kids tablet on Amazon | 6-months ad-free content with parental controls included, 10-hr battery, 16 GB, Purple",
+                "ratings_count": 20943,
+                "rating": "4.5",
+                "sale_price": "$99.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51wD-xrtyWL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-Fire-Kids-tablet-Top-selling/dp/B0C8BZ7QG7/ref=zg_bs_g_pc_d_sccl_39/130-7460732-8199735?psc=1"
+            },
+            {
+                "rank": 40,
+                "asin": "B0BL61V5QC",
+                "name": "Amazon Fire HD 10 Kids Pro tablet (newest model) ages 6-12 | Bright 10.1\" HD screen | Slim case for older kids, ad-free content, parental controls, 13-hr battery, 32 GB, Mint",
+                "ratings_count": 3517,
+                "rating": "4.6",
+                "sale_price": "$189.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71K+4ilcKkL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon_Fire_HD_10_Kids_Pro/dp/B0BL61V5QC/ref=zg_bs_g_pc_d_sccl_40/130-7460732-8199735?psc=1"
+            },
+            {
+                "rank": 41,
+                "asin": "B0C23ZHVQL",
+                "name": "2024 New 45W Samsung Charger Type C Super Fast Charging USB C Android Charger for Samsung Galaxy S24 Ultra/S24/S24+/S23 Ultra/S23/S23+/S22 Ultra/S22+/S22, Galaxy Tab, PPS Charger & 6ft C Cable",
+                "ratings_count": 1718,
+                "rating": "4.4",
+                "sale_price": "$14.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61yGmjxxulL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Samsung-Charger-Charging-Android-Galaxy/dp/B0C23ZHVQL/ref=zg_bs_g_pc_d_sccl_41/130-7460732-8199735?psc=1"
+            },
+            {
+                "rank": 42,
+                "asin": "B099Z93WD9",
+                "name": "Amazon Fire HD 8 Plus tablet, 8” HD Display, 32 GB, 30% faster processor, 3GB RAM, wireless charging, (2022 release), Gray",
+                "ratings_count": 4493,
+                "rating": "4.5",
+                "sale_price": "$119.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61Fa6H20UGL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-Official-Site-Fire-HD-8-Pro-Tablet-8-inch-Display-2022-release/dp/B099Z93WD9/ref=zg_bs_g_pc_d_sccl_42/130-7460732-8199735?psc=1"
+            },
+            {
+                "rank": 43,
+                "asin": "B08JPHHV61",
+                "name": "Mac Book Pro 85W Charger Replacement for Mac Pro 15-Inch 13-Inch 2012-2017 Retina Display Ac 85W 2 T Connector Power Adapter, Laptop Charger Compatible with Mac Pro(Late 2012-2017)",
+                "ratings_count": 4732,
+                "rating": "4.2",
+                "sale_price": "$18.59",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51p7Ha9LfrL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/SiliconV-Charger-Replacement-Magnetic-Connector/dp/B08JPHHV61/ref=zg_bs_g_pc_d_sccl_43/130-7460732-8199735?psc=1"
+            },
+            {
+                "rank": 44,
+                "asin": "B09BG6DSBY",
+                "name": "Amazon Fire HD 8 Kids Pro tablet- 2022, ages 6-12 | 8\" HD screen, slim case for older kids, ad-free content, parental controls, 13-hr battery, 32 GB, Hello Teal",
+                "ratings_count": 8400,
+                "rating": "4.5",
+                "sale_price": "$149.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61mEX0UlHZL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-Official-Site-Fire-HD-Kids-8-Pro-Tablet-8-inch-Display-2022-release/dp/B09BG6DSBY/ref=zg_bs_g_pc_d_sccl_44/130-7460732-8199735?psc=1"
+            },
+            {
+                "rank": 45,
+                "asin": "B0B3SQK74L",
+                "name": "TP-Link AXE5400 Tri-Band WiFi 6E Router (Archer AXE75)- Gigabit Wireless Internet Router, ax Router for Gaming, VPN Router, OneMesh, WPA3",
+                "ratings_count": 2994,
+                "rating": "4.4",
+                "sale_price": "$179.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61H4eNHnzcL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/TP-Link-Tri-Band-Archer-AXE75-Wireless/dp/B0B3SQK74L/ref=zg_bs_g_pc_d_sccl_45/130-7460732-8199735?psc=1"
+            },
+            {
+                "rank": 46,
+                "asin": "B0B3C2R8MP",
+                "name": "Apple 2022 MacBook Air Laptop with M2 chip: Built for Apple Intelligence, 13.6-inch Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera; Space Gray",
+                "ratings_count": 3103,
+                "rating": "4.7",
+                "sale_price": "$749.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71f5Eu5lJSL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/2022-Apple-MacBook-Laptop-chip/dp/B0B3C2R8MP/ref=zg_bs_g_pc_d_sccl_46/130-7460732-8199735?psc=1"
+            },
+            {
+                "rank": 47,
+                "asin": "B0C2Y22XM5",
+                "name": "Amazon Fire HD 10 tablet (newest model) built for relaxation, 10.1\" vibrant Full HD screen, octa-core processor, 3 GB RAM, 64 GB, Ocean",
+                "ratings_count": 15093,
+                "rating": "4.5",
+                "sale_price": "$179.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51-6uBmjPqL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon_Fire_HD_10/dp/B0C2Y22XM5/ref=zg_bs_g_pc_d_sccl_47/130-7460732-8199735?psc=1"
+            },
+            {
+                "rank": 48,
+                "asin": "B08ZK39NSL",
+                "name": "Amazon eero 6+ mesh Wi-Fi router | 1.0 Gbps Ethernet | Coverage up to 1,500 sq. ft. | Connect 75+ devices | 1-Pack",
+                "ratings_count": 8088,
+                "rating": "4.4",
+                "sale_price": "$139.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/416tBH-CwXL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-eero-Wi-Fi-router-newest/dp/B08ZK39NSL/ref=zg_bs_g_pc_d_sccl_48/130-7460732-8199735?psc=1"
+            },
+            {
+                "rank": 49,
+                "asin": "B0B2D77YB8",
+                "name": "HP Newest 14\" Ultral Light Laptop for Students and Business, Intel Quad-Core N4120, 8GB RAM, 192GB Storage(64GB eMMC+128GB Micro SD), 1 Year Office 365, Webcam, HDMI, WiFi, USB-A&C, Win 11 S",
+                "ratings_count": 2036,
+                "rating": "4.1",
+                "sale_price": "$249.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81divYKpeTL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/HP-Students-Business-Quad-Core-Storage/dp/B0B2D77YB8/ref=zg_bs_g_pc_d_sccl_49/130-7460732-8199735?psc=1"
+            },
+            {
+                "rank": 50,
+                "asin": "B08ZSMMPBD",
+                "name": "65W USB C Laptop Charger Replacement for Lenovo Thinkpad/Yoga/Chromebook, ADLX65YDC2A Lenovo Laptop Charger",
+                "ratings_count": 1258,
+                "rating": "4.5",
+                "sale_price": "$16.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61HCXe5em2L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Charger-Thinkpad-Samsung-Chromebook-Chargeable/dp/B08ZSMMPBD/ref=zg_bs_g_pc_d_sccl_50/130-7460732-8199735?psc=1"
+            }
+        ]
+    }
+}

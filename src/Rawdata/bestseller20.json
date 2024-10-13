@@ -1,0 +1,643 @@
+{
+    "200": {
+        "category": "Amazon Best SellersGrocery & Gourmet Food",
+        "category_hierarchy": [
+            {
+                "name": "Any Department",
+                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_grocery_0_1"
+            },
+            {
+                "name": "Grocery & Gourmet Food",
+                "url": "https://www.amazon.com/Best-Sellers-Grocery-Gourmet-Food/zgbs/grocery/ref=zg_bs_nav_grocery_0?pg=1"
+            }
+        ],
+        "child_categories": [
+            {
+                "category": "Alcoholic Beverages",
+                "url": "https://www.amazon.com/Best-Sellers-Grocery-Gourmet-Food-Alcoholic-Beverages/zgbs/grocery/2983371011/ref=zg_bs_nav_grocery_1"
+            },
+            {
+                "category": "Baby Foods",
+                "url": "https://www.amazon.com/Best-Sellers-Grocery-Gourmet-Food-Baby-Foods/zgbs/grocery/16323111/ref=zg_bs_nav_grocery_1"
+            },
+            {
+                "category": "Beverages",
+                "url": "https://www.amazon.com/Best-Sellers-Grocery-Gourmet-Food-Beverages/zgbs/grocery/16310231/ref=zg_bs_nav_grocery_1"
+            },
+            {
+                "category": "Breads & Bakery",
+                "url": "https://www.amazon.com/Best-Sellers-Grocery-Gourmet-Food-Breads-Bakery/zgbs/grocery/16318751/ref=zg_bs_nav_grocery_1"
+            },
+            {
+                "category": "Breakfast Cereal",
+                "url": "https://www.amazon.com/Best-Sellers-Grocery-Gourmet-Food-Breakfast-Cereal/zgbs/grocery/118518014011/ref=zg_bs_nav_grocery_1"
+            },
+            {
+                "category": "Breakfast Foods",
+                "url": "https://www.amazon.com/Best-Sellers-Grocery-Gourmet-Food-Breakfast-Foods/zgbs/grocery/16310251/ref=zg_bs_nav_grocery_1"
+            },
+            {
+                "category": "Dairy, Eggs & Plant-Based Alternatives",
+                "url": "https://www.amazon.com/Best-Sellers-Grocery-Gourmet-Food-Dairy-Eggs-Plant-Based-Alternatives/zgbs/grocery/371460011/ref=zg_bs_nav_grocery_1"
+            },
+            {
+                "category": "Deli & Prepared Foods",
+                "url": "https://www.amazon.com/Best-Sellers-Grocery-Gourmet-Food-Deli-Prepared-Foods/zgbs/grocery/18773724011/ref=zg_bs_nav_grocery_1"
+            },
+            {
+                "category": "Food & Beverage Gifts",
+                "url": "https://www.amazon.com/Best-Sellers-Grocery-Gourmet-Food-Food-Beverage-Gifts/zgbs/grocery/2255571011/ref=zg_bs_nav_grocery_1"
+            },
+            {
+                "category": "Fresh Flowers & Live Indoor Plants",
+                "url": "https://www.amazon.com/Best-Sellers-Grocery-Gourmet-Food-Fresh-Flowers-Live-Indoor-Plants/zgbs/grocery/3745171/ref=zg_bs_nav_grocery_1"
+            },
+            {
+                "category": "Fresh Meal Kits",
+                "url": "https://www.amazon.com/Best-Sellers-Grocery-Gourmet-Food-Fresh-Meal-Ingredient-Kits/zgbs/grocery/15709227011/ref=zg_bs_nav_grocery_1"
+            },
+            {
+                "category": "Frozen",
+                "url": "https://www.amazon.com/Best-Sellers-Grocery-Gourmet-Food-Frozen-Foods/zgbs/grocery/6459122011/ref=zg_bs_nav_grocery_1"
+            },
+            {
+                "category": "Home Brewing & Winemaking",
+                "url": "https://www.amazon.com/Best-Sellers-Grocery-Gourmet-Food-Home-Brewing-Winemaking/zgbs/grocery/979861011/ref=zg_bs_nav_grocery_1"
+            },
+            {
+                "category": "Meat & Seafood",
+                "url": "https://www.amazon.com/Best-Sellers-Grocery-Gourmet-Food-Meat-Seafood/zgbs/grocery/371469011/ref=zg_bs_nav_grocery_1"
+            },
+            {
+                "category": "Meat Substitutes",
+                "url": "https://www.amazon.com/Best-Sellers-Grocery-Gourmet-Food-Meat-Substitutes/zgbs/grocery/6518859011/ref=zg_bs_nav_grocery_1"
+            },
+            {
+                "category": "Pantry Staples",
+                "url": "https://www.amazon.com/Best-Sellers-Grocery-Gourmet-Food-Pantry-Staples/zgbs/grocery/18787303011/ref=zg_bs_nav_grocery_1"
+            },
+            {
+                "category": "Produce",
+                "url": "https://www.amazon.com/Best-Sellers-Grocery-Gourmet-Food-Fresh-Produce/zgbs/grocery/6506977011/ref=zg_bs_nav_grocery_1"
+            },
+            {
+                "category": "Snacks & Sweets",
+                "url": "https://www.amazon.com/Best-Sellers-Grocery-Gourmet-Food-Snacks-Sweets/zgbs/grocery/23759921011/ref=zg_bs_nav_grocery_1"
+            }
+        ],
+        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/Best-Sellers-Grocery-Gourmet-Food/zgbs/grocery/ref%3Dzg_bs_pg_2_grocery%3F_encoding%3DUTF8%26pg%3D2",
+        "url": "https://www.amazon.com/Best-Sellers-Grocery-Gourmet-Food/zgbs/grocery/ref=zg_bs_nav_grocery_0?pg=1",
+        "product_listings": [
+            {
+                "rank": 1,
+                "asin": "B07MJL8NXR",
+                "name": "Premier Protein Shake, Chocolate, 30g Protein 1g Sugar 24 Vitamins Minerals Nutrients to Support Immune Health, 11.5 fl oz (Pack of 12)",
+                "ratings_count": 221450,
+                "rating": "4.5",
+                "sale_price": "$31.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/719eDVmYeYL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Premier-Protein-Shake-Chocolate-11-5/dp/B07MJL8NXR/ref=zg_bs_g_grocery_d_sccl_1/132-5856385-2629132?psc=1"
+            },
+            {
+                "rank": 2,
+                "asin": "B06X6J5266",
+                "name": "CELSIUS Assorted Flavors Official Variety Pack, Functional Essential Energy Drinks, 12 Fl Oz (Pack of 12)",
+                "ratings_count": 99217,
+                "rating": "4.6",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61VfvfV69lL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/CELSIUS-Fitness-Energy-Standard-Variety/dp/B06X6J5266/ref=zg_bs_g_grocery_d_sccl_2/132-5856385-2629132?psc=1"
+            },
+            {
+                "rank": 3,
+                "asin": "B01N05APQY",
+                "name": "Nespresso Capsules Vertuo, Variety Pack, Medium and Dark Roast Coffee, 30 Count Coffee Pods, Brews 7.8 oz.",
+                "ratings_count": 111557,
+                "rating": "4.8",
+                "sale_price": "$37.50",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61J0e7d0GEL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Nespresso-Vertuoline-Seller-Assortment-Count/dp/B01N05APQY/ref=zg_bs_g_grocery_d_sccl_3/132-5856385-2629132?psc=1"
+            },
+            {
+                "rank": 4,
+                "asin": "B07LD2NV9X",
+                "name": "Core Power Fairlife 26g Protein Milk Shakes, Liquid Ready To Drink for Workout Recovery, Chocolate, 14 Fl Oz Bottle (Pack of 12)",
+                "ratings_count": 19405,
+                "rating": "4.8",
+                "sale_price": "$38.40",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81U1j+Ni3BL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Core-Power-Protein-Shake-Chocolate/dp/B07LD2NV9X/ref=zg_bs_g_grocery_d_sccl_4/132-5856385-2629132?psc=1"
+            },
+            {
+                "rank": 5,
+                "asin": "B003P02EGU",
+                "name": "Sparkling Ice, Black Raspberry Sparkling Water, Zero Sugar Flavored Water, with Vitamins and Antioxidants, Low Calorie Beverage, 17 fl oz Bottles (Pack of 12)",
+                "ratings_count": 95974,
+                "rating": "4.7",
+                "sale_price": "$10.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/814XtD1-71L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Sparkling-Raspberry-Antioxidants-Vitamins-Bottles/dp/B003P02EGU/ref=zg_bs_g_grocery_d_sccl_5/132-5856385-2629132?psc=1"
+            },
+            {
+                "rank": 6,
+                "asin": "B094LFK6DF",
+                "name": "POPPI Sparkling Prebiotic Soda, Beverages w/Apple Cider Vinegar, Seltzer Water & Fruit Juice, Fun Favorites Variety, 12oz (12 Pack) (Packaging May Vary)",
+                "ratings_count": 29886,
+                "rating": "4.3",
+                "sale_price": null,
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81tZ6sImVgL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Sparkling-Prebiotic-Immunity-Benefits-Beverages/dp/B094LFK6DF/ref=zg_bs_g_grocery_d_sccl_6/132-5856385-2629132?psc=1"
+            },
+            {
+                "rank": 7,
+                "asin": "B0BL7316GD",
+                "name": "Monster Energy Zero Ultra, Sugar Free Energy Drink, 16 Fl oz (Pack of 15)",
+                "ratings_count": 71710,
+                "rating": "4.7",
+                "sale_price": "$24.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71mgBpijzML._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Monster-Energy-Ultra-Sugar-Drink/dp/B0BL7316GD/ref=zg_bs_g_grocery_d_sccl_7/132-5856385-2629132?psc=1"
+            },
+            {
+                "rank": 8,
+                "asin": "B01DDIRDZA",
+                "name": "Core Power Fairlife Elite 42g High Protein Milk Shakes For kosher diet, Ready to Drink for Workout Recovery, Chocolate, 14 Fl Oz (Pack of 12), Liquid, Bottle",
+                "ratings_count": 19341,
+                "rating": "4.6",
+                "sale_price": "$45.38",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81gd0FxLYYL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Core-Power-fairlife-Protein-Chocolate/dp/B01DDIRDZA/ref=zg_bs_g_grocery_d_sccl_8/132-5856385-2629132?psc=1"
+            },
+            {
+                "rank": 9,
+                "asin": "B002U58PRI",
+                "name": "Propel, Kiwi Strawberry, Zero Calorie Sports Drinking Water with Electrolytes and Vitamins C&E, 16.9 Fl Oz (Pack of 12) - Packaging May Vary",
+                "ratings_count": 58171,
+                "rating": "4.7",
+                "sale_price": "$8.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81ca3M+VQAL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Propel-Strawberry-Flavored-Electrolytes-Vitamins/dp/B002U58PRI/ref=zg_bs_g_grocery_d_sccl_9/132-5856385-2629132?psc=1"
+            },
+            {
+                "rank": 10,
+                "asin": "B07M8P8F73",
+                "name": "Nespresso Capsules Vertuo, Double Espresso Chiaro, Medium Roast Espresso Coffee, 30-Count Coffee Pods, Brews 2.7oz.",
+                "ratings_count": 31119,
+                "rating": "4.8",
+                "sale_price": "$34.50",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61MqSic7o9L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Nespresso-VertuoLine-Double-Espresso-Chiaro/dp/B07M8P8F73/ref=zg_bs_g_grocery_d_sccl_10/132-5856385-2629132?psc=1"
+            },
+            {
+                "rank": 11,
+                "asin": "B000SDKDM4",
+                "name": "Lavazza Super Crema Whole Bean Coffee Blend, light-Medium Espresso Roast, 2.2 Pound (Pack of 1) ,Premium Quality, Aromatic, Mild and creamy",
+                "ratings_count": 47621,
+                "rating": "4.6",
+                "sale_price": "$22.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61Ol4uT5pkL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Lavazza-Coffee-Medium-Espresso-2-2-Pound/dp/B000SDKDM4/ref=zg_bs_g_grocery_d_sccl_11/132-5856385-2629132?psc=1"
+            },
+            {
+                "rank": 12,
+                "asin": "B07XB745PC",
+                "name": "CELSIUS® On-the-Go Powder Sticks Dragonfruit Lime, Essential Energy 2.8 Oz (14 Sticks per Pack)",
+                "ratings_count": 27621,
+                "rating": "4.6",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71+rlj0ZZSL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/CELSIUS-Dragonfruit-Powder-Stick-Sticks/dp/B07XB745PC/ref=zg_bs_g_grocery_d_sccl_12/132-5856385-2629132?psc=1"
+            },
+            {
+                "rank": 13,
+                "asin": "B06X8Z2W7W",
+                "name": "PUR Gum | Aspartame Free Chewing Gum | 100% Xylitol | Natural Spearmint Flavored Gum, 55 Pieces (Pack of 3)",
+                "ratings_count": 71491,
+                "rating": "4.4",
+                "sale_price": "$12.69",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71tA6XFkkzL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/PUR-Gum-Spearmint-165-pieces/dp/B06X8Z2W7W/ref=zg_bs_g_grocery_d_sccl_13/132-5856385-2629132?psc=1"
+            },
+            {
+                "rank": 14,
+                "asin": "B0BZJVFFNM",
+                "name": "Nespresso Capsules Vertuo, Barista Flavored Pack, Medium Roast Coffee, 30 Count Coffee Pods, Brews 7.8oz.",
+                "ratings_count": 50215,
+                "rating": "4.7",
+                "sale_price": "$37.50",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71HUNCsDlaL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Nespresso-Capsules-Vertuo-Barista-Flavored/dp/B0BZJVFFNM/ref=zg_bs_g_grocery_d_sccl_14/132-5856385-2629132?psc=1"
+            },
+            {
+                "rank": 15,
+                "asin": "B009LJO3X6",
+                "name": "Campbell's Condensed Chicken Noodle Soup, 10.75 Ounce Can (Pack of 4)",
+                "ratings_count": 101882,
+                "rating": "4.6",
+                "sale_price": null,
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71lIm0JtGBL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Campbells-Condensed-Chicken-Noodle-10-75/dp/B009LJO3X6/ref=zg_bs_g_grocery_d_sccl_15/132-5856385-2629132?psc=1"
+            },
+            {
+                "rank": 16,
+                "asin": "B079V8CKDM",
+                "name": "Amazon Brand - Solimo Dark Roast Coffee Pods, Compatible with Keurig 2.0 K-Cup Brewers 100 Count(Pack of 1)",
+                "ratings_count": 161122,
+                "rating": "4.3",
+                "sale_price": "$33.57",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/610TN-4nYjL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-Brand-Solimo-Compatible-Brewers/dp/B079V8CKDM/ref=zg_bs_g_grocery_d_sccl_16/132-5856385-2629132?psc=1"
+            },
+            {
+                "rank": 17,
+                "asin": "B08QLWY7ZG",
+                "name": "Doritos Flavored Tortilla Chips, Favorites Variety Pack (Nacho Cheese and Cool Ranch), 1 Ounce (Pack of 40)",
+                "ratings_count": 44752,
+                "rating": "4.5",
+                "sale_price": "$14.90",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/812U+3TeC9L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Doritos-Flavored-Tortilla-Chips/dp/B08QLWY7ZG/ref=zg_bs_g_grocery_d_sccl_17/132-5856385-2629132?psc=1"
+            },
+            {
+                "rank": 18,
+                "asin": "B07P1ZFBRS",
+                "name": "Amazon Brand - Happy Belly Medium Roast Coffee Pods, Donut Style, Compatible with Keurig 2.0 K-Cup Brewers, 100 Count",
+                "ratings_count": 63120,
+                "rating": "4.3",
+                "sale_price": "$30.18",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81m9lidzZBL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Amazon-Brand-Medium-Light-Compatible-Brewers/dp/B07P1ZFBRS/ref=zg_bs_g_grocery_d_sccl_18/132-5856385-2629132?psc=1"
+            },
+            {
+                "rank": 19,
+                "asin": "B07PNKZ4Y8",
+                "name": "Starbucks K-Cup Coffee Pods, Medium Roast Coffee, Pike Place Roast for Keurig Brewers, 100% Arabica, 6 boxes (60 pods total)",
+                "ratings_count": 42126,
+                "rating": "4.7",
+                "sale_price": "$35.82",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81f2MlFXx0L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Starbucks-Medium-Single-Coffee-Brewers/dp/B07PNKZ4Y8/ref=zg_bs_g_grocery_d_sccl_19/132-5856385-2629132?psc=1"
+            },
+            {
+                "rank": 20,
+                "asin": "B08LGD7WRZ",
+                "name": "NERDS Gummy Clusters, Candy, Rainbow, Crunchy and Gummy, 8 oz",
+                "ratings_count": 19493,
+                "rating": "4.8",
+                "sale_price": "$2.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81ZCHnOcX6L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Nerds-Gummy-Clusters-8-oz/dp/B08LGD7WRZ/ref=zg_bs_g_grocery_d_sccl_20/132-5856385-2629132?psc=1"
+            },
+            {
+                "rank": 21,
+                "asin": "B076H2J9TZ",
+                "name": "Frito Lay Party Mix Variety Pack, (Pack of 40)",
+                "ratings_count": 155213,
+                "rating": "4.6",
+                "sale_price": "$22.43",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81j68d7Jh3L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Frito-Lay-Party-Variety-Pack-Count/dp/B076H2J9TZ/ref=zg_bs_g_grocery_d_sccl_21/132-5856385-2629132?psc=1"
+            },
+            {
+                "rank": 22,
+                "asin": "B0BJ3CJJ4G",
+                "name": "Liquid Death, Still Mountain Water, 8-Pack (King Size 19.2oz Cans), Real Mountain Source",
+                "ratings_count": 36177,
+                "rating": "4.5",
+                "sale_price": "$12.47",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/711HRYOW4sL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Liquid-Death-Mountain-Water-8-Pack/dp/B0BJ3CJJ4G/ref=zg_bs_g_grocery_d_sccl_22/132-5856385-2629132?psc=1"
+            },
+            {
+                "rank": 23,
+                "asin": "B0017L4PH0",
+                "name": "Airheads Candy Bars, Variety Bulk Box, Chewy Full Size Fruit Taffy, Gifts, Holiday, Parties, Concessions, Pantry, Non Melting, Party, 60 Individually Wrapped Full Size Bars",
+                "ratings_count": 76007,
+                "rating": "4.8",
+                "sale_price": "$9.84",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81jq232DzCL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/AirHeads-Chewy-Fruit-Variety-Packaging/dp/B0017L4PH0/ref=zg_bs_g_grocery_d_sccl_23/132-5856385-2629132?psc=1"
+            },
+            {
+                "rank": 24,
+                "asin": "B071FC8VPH",
+                "name": "Trident Spearmint Sugar Free Gum, 12 Packs of 14 Pieces (168 Total Pieces)",
+                "ratings_count": 36923,
+                "rating": "4.7",
+                "sale_price": "$11.19",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91qMVbNOaQL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Trident-Spearmint-Sugar-Free-Gum/dp/B071FC8VPH/ref=zg_bs_g_grocery_d_sccl_24/132-5856385-2629132?psc=1"
+            },
+            {
+                "rank": 25,
+                "asin": "B06XGNL1RX",
+                "name": "Ring Pop Halloween Bulk Variety Candy - 20 Ct Individually Wrapped Lollipops w/ Assorted Flavors - Fun Candy For Party Favors, Halloween Parties, Trick or Treat Goodie Bags, Bachelorette Parties",
+                "ratings_count": 80273,
+                "rating": "4.8",
+                "sale_price": "$7.72",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81VRAP5PxsL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Ring-Pop-Individually-Lollipop-Assorted/dp/B06XGNL1RX/ref=zg_bs_g_grocery_d_sccl_25/132-5856385-2629132?psc=1"
+            },
+            {
+                "rank": 26,
+                "asin": "B0BWSKYV63",
+                "name": "Welch's Fruit Snacks, Mixed Fruit, Perfect Halloween Candy Bulk Pack, Gluten Free, Individual Single Serve Bags, 0.8 oz (Pack of 40)",
+                "ratings_count": 11722,
+                "rating": "4.7",
+                "sale_price": "$8.48",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81vxpnstihL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Welchs-Snacks-Gluten-Individual-Single/dp/B0BWSKYV63/ref=zg_bs_g_grocery_d_sccl_26/132-5856385-2629132?psc=1"
+            },
+            {
+                "rank": 27,
+                "asin": "B001GM60LE",
+                "name": "Twinings English Breakfast Black Tea Individually Wrapped Bags, 100 Count (Pack of 1), Smooth, Flavourful, and Robust, Caffeinated, Enjoy Hot or Iced | Packaging May Vary",
+                "ratings_count": 80515,
+                "rating": "4.7",
+                "sale_price": "$11.42",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81ckgHGO3WL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Twinings-London-English-Breakfast-Black/dp/B001GM60LE/ref=zg_bs_g_grocery_d_sccl_27/132-5856385-2629132?psc=1"
+            },
+            {
+                "rank": 28,
+                "asin": "B01E6WOVX4",
+                "name": "Hint Water Best Sellers Pack, 3 Bottles Each of: Watermelon, Blackberry, Cherry, and Pineapple, Zero Calories, Zero Sugar and Zero Sweeteners, 16 Fl Oz (Pack of 12)",
+                "ratings_count": 60006,
+                "rating": "4.4",
+                "sale_price": "$12.49",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/718KDgBIJDL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Hint-Fruit-Infused-Variety-Bottles/dp/B01E6WOVX4/ref=zg_bs_g_grocery_d_sccl_28/132-5856385-2629132?psc=1"
+            },
+            {
+                "rank": 29,
+                "asin": "B00XA1075Y",
+                "name": "Dunkin' Original Blend Medium Roast Coffee, 60 Keurig K-Cup Pods",
+                "ratings_count": 45027,
+                "rating": "4.7",
+                "sale_price": "$28.50",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81tiCD9VomL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Dunkin-Donuts-Original-Medium-Brewers/dp/B00XA1075Y/ref=zg_bs_g_grocery_d_sccl_29/132-5856385-2629132?psc=1"
+            },
+            {
+                "rank": 30,
+                "asin": "B01N0DSRJC",
+                "name": "Victor Allen's Coffee Variety Pack (Morning Blend, 100% Colombian, Donut Shop Blend, and French Roast), 42 Count, Single Serve Coffee Pods for Keurig K-Cup Brewers",
+                "ratings_count": 93796,
+                "rating": "4.4",
+                "sale_price": "$17.49",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/719uhUMV3mL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Victor-Allen-Variety-Compatible-Brewers/dp/B01N0DSRJC/ref=zg_bs_g_grocery_d_sccl_30/132-5856385-2629132?psc=1"
+            },
+            {
+                "rank": 31,
+                "asin": "B006H7YDU8",
+                "name": "Starbucks K-Cup Coffee Pods, Dark Roast Coffee, French Roast for Keurig Brewers, 100% Arabica, 4 boxes (96 pods total)",
+                "ratings_count": 7618,
+                "rating": "4.7",
+                "sale_price": "$53.31",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81Ao00oVFDL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Starbucks-French-Single-Coffee-Brewers/dp/B006H7YDU8/ref=zg_bs_g_grocery_d_sccl_31/139-1369010-6838623?psc=1"
+            },
+            {
+                "rank": 32,
+                "asin": "B09DZ1FH8B",
+                "name": "DaVinci Gourmet Lavender Syrup, 25.4 fl oz (Pack of 1)",
+                "ratings_count": 17436,
+                "rating": "4.3",
+                "sale_price": "$8.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71u9g9ENFyL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/DaVinci-Gourmet-Lavender-Syrup-Ounces/dp/B09DZ1FH8B/ref=zg_bs_g_grocery_d_sccl_32/139-1369010-6838623?psc=1"
+            },
+            {
+                "rank": 33,
+                "asin": "B07XSKK6Z4",
+                "name": "Wonderful Pistachios No Shells, Roasted & Salted Nuts, 0.75 Ounce Bag (Pack of 9), Protein Snacks, Gluten Free, On-the-Go, Individually Wrapped Healthy Snacks",
+                "ratings_count": 35979,
+                "rating": "4.7",
+                "sale_price": "$7.48",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81SZKYpS5lL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Wonderful-Pistachios-Shells-Roasted-Salted/dp/B07XSKK6Z4/ref=zg_bs_g_grocery_d_sccl_33/139-1369010-6838623?psc=1"
+            },
+            {
+                "rank": 34,
+                "asin": "B001NI0MQ0",
+                "name": "EXTRA Spearmint Sugarfree Chewing Gum, 15 Pieces (Pack of 10)",
+                "ratings_count": 51132,
+                "rating": "4.8",
+                "sale_price": "$10.74",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61oQldbfcsL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Extra-Spearmint-Sugarfree-Gum-Piece/dp/B001NI0MQ0/ref=zg_bs_g_grocery_d_sccl_34/139-1369010-6838623?psc=1"
+            },
+            {
+                "rank": 35,
+                "asin": "B006MB7NSS",
+                "name": "Red Bull Sugar Free Energy Drink with 80mg Caffeine plus Taurine & B Vitamins, 8.4 Fl Oz, 6 Packs of 4 Cans (Pack of 24)",
+                "ratings_count": 19205,
+                "rating": "4.8",
+                "sale_price": "$28.33",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71Wb50wYH7L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Red-Bull-Energy-Drink-Sugarfree/dp/B006MB7NSS/ref=zg_bs_g_grocery_d_sccl_35/139-1369010-6838623?psc=1"
+            },
+            {
+                "rank": 36,
+                "asin": "B007TGDXNO",
+                "name": "San Francisco Bay Compostable Coffee Pods - French Roast (80 Ct) K Cup Compatible including Keurig 2.0, Dark Roast",
+                "ratings_count": 88296,
+                "rating": "4.4",
+                "sale_price": "$28.79",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61jxQzdcTXS._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Francisco-OneCup-French-Compatible-Brewers/dp/B007TGDXNO/ref=zg_bs_g_grocery_d_sccl_36/139-1369010-6838623?psc=1"
+            },
+            {
+                "rank": 37,
+                "asin": "B00KAWSJYC",
+                "name": "Zipfizz Daily Energy Drink Powder, Fruit Punch, 20 Pack 3-in-1 Sustained Energy, Rapid Hydration, and Essential Vitamins Sugar-Free Electrolyte Powder Contains Vitamin B-12 & Antioxidants",
+                "ratings_count": 40360,
+                "rating": "4.6",
+                "sale_price": "$21.58",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81sZwm5yRiL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Zipfizz-Sustained-Sugar-Free-Electrolyte-Antioxidants/dp/B00KAWSJYC/ref=zg_bs_g_grocery_d_sccl_37/139-1369010-6838623?psc=1"
+            },
+            {
+                "rank": 38,
+                "asin": "B09FXVQ8WN",
+                "name": "Cellucor C4 Performance Energy Drink | STARBUST‚Ѣ Strawberry | Zero Sugar Carbonated Preworkout Energy | 200mg Caffeine with Beta Alanine | 16 Fl Oz (12 Pack)",
+                "ratings_count": 22894,
+                "rating": "4.6",
+                "sale_price": null,
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81m0h8qJfzL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Cellucor-Strawberry-Carbonated-Performance-Artificial/dp/B09FXVQ8WN/ref=zg_bs_g_grocery_d_sccl_38/139-1369010-6838623?psc=1"
+            },
+            {
+                "rank": 39,
+                "asin": "B01N2KFHRS",
+                "name": "Peet's Coffee, Dark Roast K-Cup Pods for Keurig Brewers - Major Dickason's Blend 75 Count (1 Box of 75 K-Cup Pods)",
+                "ratings_count": 30716,
+                "rating": "4.8",
+                "sale_price": "$28.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81tZmTkj28L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Peets-Coffee-Dickasons-Complex-Layered/dp/B01N2KFHRS/ref=zg_bs_g_grocery_d_sccl_39/139-1369010-6838623?psc=1"
+            },
+            {
+                "rank": 40,
+                "asin": "B00451SGZ6",
+                "name": "Nestle Coffee mate Coffee Creamer, Original, Liquid Creamer Singles, Non Dairy, No Refrigeration, 0.375 fl oz Tubs (Pack of 180)",
+                "ratings_count": 42682,
+                "rating": "4.6",
+                "sale_price": "$12.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81YC24WihRL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/COFFEE-MATE-Coffee-Creamer-Original-creamer/dp/B00451SGZ6/ref=zg_bs_g_grocery_d_sccl_40/139-1369010-6838623?psc=1"
+            },
+            {
+                "rank": 41,
+                "asin": "B0015068PA",
+                "name": "Atkins Milk Chocolate Delight Protein Shake, 15g Protein, Low Glycemic, 2g Net Carb, 1g Sugar, Keto Friendly, 12 Count",
+                "ratings_count": 37454,
+                "rating": "4.6",
+                "sale_price": "$19.48",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81yNRw-FqBL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Atkins-Protein-Rich-Chocolate-Delight-Friendly/dp/B0015068PA/ref=zg_bs_g_grocery_d_sccl_41/139-1369010-6838623?psc=1"
+            },
+            {
+                "rank": 42,
+                "asin": "B0756D1D39",
+                "name": "Four Sigmatic Think Mushroom Coffee | Organic Ground Coffee with Lion's Mane Mushroom and Chaga Mushroom | Nootropic Mushroom Coffee for Better Focus and Immune Support | 12oz Bag",
+                "ratings_count": 21882,
+                "rating": "4.4",
+                "sale_price": "$13.08",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71BcPVov36L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Four-Sigmatic-Mushroom-Ground-Coffee/dp/B0756D1D39/ref=zg_bs_g_grocery_d_sccl_42/139-1369010-6838623?psc=1"
+            },
+            {
+                "rank": 43,
+                "asin": "B000MTST70",
+                "name": "Red Bull Energy Drink with 80mg Caffeine plus Taurine & B Vitamins, 8.4 Fl Oz, 6 Packs of 4 Cans (Pack of 24)",
+                "ratings_count": 16091,
+                "rating": "4.8",
+                "sale_price": "$34.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81Kvy57PdAL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Red-Bull-Energy-Drink-Pack/dp/B000MTST70/ref=zg_bs_g_grocery_d_sccl_43/139-1369010-6838623?psc=1"
+            },
+            {
+                "rank": 44,
+                "asin": "B0B8F29SP8",
+                "name": "Sparkling Ice +Caffeine Variety Pack, Flavored Sparkling Water, Zero Sugar, with Vitamins and Antioxidants, 16 fl oz, 12 count (Citrus Twist, Black Raspberry, Blue Raspberry, Strawberry Citrus)",
+                "ratings_count": 34009,
+                "rating": "4.6",
+                "sale_price": "$16.71",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81SUDavFJML._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Sparkling-Caffeine-Pack-Black-Raspberry-Strawberry/dp/B0B8F29SP8/ref=zg_bs_g_grocery_d_sccl_44/139-1369010-6838623?psc=1"
+            },
+            {
+                "rank": 45,
+                "asin": "B086XMKL5H",
+                "name": "IQBAR Brain and Body Plant Protein Bars - 7 Bar Sampler Pack - Low Carb, High Fiber, Gluten Free, Healthy Vegan Snacks - Low Sugar Keto Energy Bars",
+                "ratings_count": 19733,
+                "rating": "4.1",
+                "sale_price": "$14.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91zOyhQF10L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Protein-Sampler-Friendly-Gluten-Alcohols/dp/B086XMKL5H/ref=zg_bs_g_grocery_d_sccl_45/139-1369010-6838623?psc=1"
+            },
+            {
+                "rank": 46,
+                "asin": "B00MPQ5ZOS",
+                "name": "BetterBody Foods Organic Chia Seeds 2 lbs, 32 Oz, with Omega-3, Non-GMO, Gluten Free, Keto Diet Friendly, Vegan, Good Source of Fiber",
+                "ratings_count": 97748,
+                "rating": "4.7",
+                "sale_price": "$9.58",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71+oPiyKNDL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/BetterBody-Foods-Contains-Gluten-free-Smoothies/dp/B00MPQ5ZOS/ref=zg_bs_g_grocery_d_sccl_46/139-1369010-6838623?psc=1"
+            },
+            {
+                "rank": 47,
+                "asin": "B002HQCWYM",
+                "name": "Twinings English Breakfast Black Tea K-Cup Pods for Keurig, 24 Count (Pack of 1), Smooth, Flavourful, Robust, Caffeinated, Enjoy Hot or Iced | Packaging May Vary",
+                "ratings_count": 46654,
+                "rating": "4.7",
+                "sale_price": "$15.89",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81cJ6chYvPL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Twinings-London-English-Breakfast-K-Cups/dp/B002HQCWYM/ref=zg_bs_g_grocery_d_sccl_47/139-1369010-6838623?psc=1"
+            },
+            {
+                "rank": 48,
+                "asin": "B00KR7PKTC",
+                "name": "Cheez-It Cheese Crackers, Baked Snack Crackers, Lunch Snacks, Variety Pack, 12.1oz Box (12 Packs)",
+                "ratings_count": 42349,
+                "rating": "4.7",
+                "sale_price": "$5.82",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81zyPDmi-SL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Cheez-Crackers-Variety-Original-Cheddar/dp/B00KR7PKTC/ref=zg_bs_g_grocery_d_sccl_48/139-1369010-6838623?psc=1"
+            },
+            {
+                "rank": 49,
+                "asin": "B00F9VCQ2A",
+                "name": "Sparkling Ice Purple Variety Pack, Flavored Water, Zero Sugar, with Vitamins and Antioxidants, 17 fl oz, 12 count (Black Raspberry, Cherry Limeade, Orange Mango, Kiwi Strawberry)",
+                "ratings_count": 45566,
+                "rating": "4.7",
+                "sale_price": "$10.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81kcfPwmqcL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Sparkling-Ice-Variety-Pack-Fl/dp/B00F9VCQ2A/ref=zg_bs_g_grocery_d_sccl_49/139-1369010-6838623?psc=1"
+            },
+            {
+                "rank": 50,
+                "asin": "B006BHRU9U",
+                "name": "Nature's Bakery Whole Wheat Fig Bars, Blueberry, Real Fruit, Vegan, Non-GMO, Snack bar, Twin packs- 12 count",
+                "ratings_count": 51670,
+                "rating": "4.6",
+                "sale_price": "$10.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51MpnnxCb2L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Natures-Bakery-Whole-Non-GMO-Blueberry/dp/B006BHRU9U/ref=zg_bs_g_grocery_d_sccl_50/139-1369010-6838623?psc=1"
+            }
+        ]
+    }
+}

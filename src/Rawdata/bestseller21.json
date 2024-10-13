@@ -1,0 +1,570 @@
+{
+    "200": {
+        "category": "Amazon Best SellersHandmade Products",
+        "category_hierarchy": [
+            {
+                "name": "Any Department",
+                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_handmade_0_2"
+            },
+            {
+                "name": "Handmade Products",
+                "url": "https://www.amazon.com/Best-Sellers-Handmade-Products/zgbs/handmade/ref=zg_bs_nav_handmade_0?pg=1"
+            }
+        ],
+        "child_categories": [],
+        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/Best-Sellers-Handmade-Products/zgbs/handmade/ref%3Dzg_bs_pg_2_handmade%3F_encoding%3DUTF8%26pg%3D2",
+        "url": "https://www.amazon.com/Best-Sellers-Handmade-Products/zgbs/handmade/ref=zg_bs_nav_handmade_0?pg=1",
+        "product_listings": [
+            {
+                "rank": 1,
+                "asin": "B0BJMSH4JX",
+                "name": "Hearth and Homestead: Handmade Whipped Tallow Balm (Unscented/Herb-Infused) - Organic Body Butter with Infused Olive Oil, for Eczema, Rosacea, Baby - 1.3 oz",
+                "ratings_count": 3011,
+                "rating": "4.8",
+                "sale_price": "$29.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71wP5NyribL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Hearth-Homestead-Handmade-Whipped-Unscented/dp/B0BJMSH4JX/ref=zg_bs_g_handmade_d_sccl_1/136-6996159-6097713?psc=1"
+            },
+            {
+                "rank": 2,
+                "asin": "B0CKXM5LJM",
+                "name": "Massive Beads Black Tourmaline - Super Protection - Handmade Yoga Stretch Elastic Bracelet Natural Stone Crystal Healing Power Energy Gifts for Unisex Adult 8mm",
+                "ratings_count": 1205,
+                "rating": "4.2",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81ciGJQQ7SL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Massive-Beads-Black-Tourmaline-Protection/dp/B0CKXM5LJM/ref=zg_bs_g_handmade_d_sccl_2/136-6996159-6097713?psc=1"
+            },
+            {
+                "rank": 3,
+                "asin": "B07GX1JKNB",
+                "name": "Locsanity Daily Moisturizing Refreshing Spray for Locs, Dreadlocks - Rose Water and Peppermint Hair Scalp Moisturizer, Dreadlock Spray - Natural Loc Care and Maintenance (8oz)",
+                "ratings_count": 6796,
+                "rating": "4.4",
+                "sale_price": "$21.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61ShS+8IWqL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Locsanity-Peppermint-Moisturizing-Sisterlocks-Micorlocks/dp/B07GX1JKNB/ref=zg_bs_g_handmade_d_sccl_3/136-6996159-6097713?psc=1"
+            },
+            {
+                "rank": 4,
+                "asin": "B096G34R6P",
+                "name": "Cats Dogs ID Tags Personalized Lovely Symbols Pets Collar Name Accessories Simple Custom Engraved Products for Extra Small Four Legged Child Necklace Chain Anti-Lost Shiny Stainless Steel Charm",
+                "ratings_count": 23327,
+                "rating": "4.7",
+                "sale_price": "$5.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61pFszChatL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Personalized-Accessories-Engraved-Anti-Lost-Stainless/dp/B096G34R6P/ref=zg_bs_g_handmade_d_sccl_4/136-6996159-6097713?psc=1"
+            },
+            {
+                "rank": 5,
+                "asin": "B08FHS3537",
+                "name": "14K Gold Filled Small Hoop Earrings for Cartilage Nose, Tiny Thin 7mm Piercing Hoop Ring 22 Gauge",
+                "ratings_count": 7949,
+                "rating": "4.0",
+                "sale_price": "$9.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41X2KGEmUjL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Filled-Small-Earrings-Cartilage-Piercing/dp/B08FHS3537/ref=zg_bs_g_handmade_d_sccl_5/136-6996159-6097713?psc=1"
+            },
+            {
+                "rank": 6,
+                "asin": "B0DFX6GCKP",
+                "name": "Custom Inside our Feeling 2 Characters Out costumes Emotional Shirt Design Custom Tees, Funny Characters",
+                "ratings_count": 11,
+                "rating": "4.2",
+                "sale_price": "$13.89",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81RYr70iqEL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Custom-Feeling-Characters-costumes-Emotional/dp/B0DFX6GCKP/ref=zg_bs_g_handmade_d_sccl_6/136-6996159-6097713?psc=1"
+            },
+            {
+                "rank": 7,
+                "asin": "B0BVQCW7J4",
+                "name": "3mm Tiny CZ Screw on Flat Back Stud Earrings,Gold Plated Flat Back Cubic Zirconia Earrings for Helix Cartilage Tragus Earlobe Piercing Jewelry Gift for Women Men(3mm CZ, Gold)",
+                "ratings_count": 3078,
+                "rating": "4.4",
+                "sale_price": "$10.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/31S5sIKbkiL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Earrings-Zirconia-Cartilage-Piercing-Toddlers/dp/B0BVQCW7J4/ref=zg_bs_g_handmade_d_sccl_7/136-6996159-6097713?psc=1"
+            },
+            {
+                "rank": 8,
+                "asin": "B09VTNCFKL",
+                "name": "Sweet Water Decor Salt & Sea Reed Diffuser Set - Sea Salt Citrus & Musk Amber Scent Diffuser - Reed Diffusers for Home with Long Lasting Fragrance - Non-Toxic Oil Reed Diffuser - Made in the USA",
+                "ratings_count": 1369,
+                "rating": "4.2",
+                "sale_price": "$23.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61k+lWIxGgL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Diffuser-Scented-Housewarming-Freshener-Aromatherapy/dp/B09VTNCFKL/ref=zg_bs_g_handmade_d_sccl_8/136-6996159-6097713?psc=1"
+            },
+            {
+                "rank": 9,
+                "asin": "B0C28S8CY8",
+                "name": "Sweet Water Decor Warm and Cozy Soy Candle - Orange Peel, Cinnamon, Ginger and Clove Scented Candles for Home - 9oz Amber Jar + Black Lid, 40+ Hour Burn Time, Made in the USA",
+                "ratings_count": 3218,
+                "rating": "4.3",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61nujuqCxeL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Sweet-Water-Decor-Cinnamon-Scented/dp/B0C28S8CY8/ref=zg_bs_g_handmade_d_sccl_9/136-6996159-6097713?psc=1"
+            },
+            {
+                "rank": 10,
+                "asin": "B0B37JXX8Y",
+                "name": "Lipfidence Lip Lightening Cream for Dark Lips|Lip Lightener for Smokers and Non-Smokers | Help fade lip discoloration with Alpha Arbutin & Licorice Extract | Scented+Soothing Mint 10ml/0.33fl.oz",
+                "ratings_count": 1597,
+                "rating": "4.2",
+                "sale_price": "$22.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/614stU-0NUL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Lightening-Brightener-Smokers-Treatment-Lightener/dp/B0B37JXX8Y/ref=zg_bs_g_handmade_d_sccl_10/136-6996159-6097713?psc=1"
+            },
+            {
+                "rank": 11,
+                "asin": "B0C597SKFP",
+                "name": "Sereney 10th Birthday Gifts for Girls S925 Sterling Silver Pink Pearl Necklace as Gifts for 10 Year Old Girl, Adjustable Length 10 Birthday Ideas for Girls Trendy 2024",
+                "ratings_count": 1717,
+                "rating": "4.4",
+                "sale_price": "$15.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81fBbbTXHHL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Sereney-Birthday-Sterling-Necklace-Adjustable/dp/B0C597SKFP/ref=zg_bs_g_handmade_d_sccl_11/136-6996159-6097713?psc=1"
+            },
+            {
+                "rank": 12,
+                "asin": "B09891VNFX",
+                "name": "Small Gold Nose Ring Hoop for Women, Tiny Thin 14k Gold Filled Nose Piercing Hoop Jewelry 7mm 22G",
+                "ratings_count": 2157,
+                "rating": "4.1",
+                "sale_price": "$9.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61glCD+Yb8L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Small-Women-Filled-Piercing-Jewelry/dp/B09891VNFX/ref=zg_bs_g_handmade_d_sccl_12/136-6996159-6097713?psc=1"
+            },
+            {
+                "rank": 13,
+                "asin": "B0CBCYRQMS",
+                "name": "Sweet Water Decor Hello Fall Soy Candles - Fall Candle with Hot Cider, Cinnamon, Cloves, and Nutmeg Scent for Home - Soy Candle with 40 Hours Burn Time - 9Oz Black Lid Amber Jar Candles Fall Scents",
+                "ratings_count": 359,
+                "rating": "4.4",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/614VAufEAWL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Sweet-Water-Decor-Cinnamon-Scented/dp/B0CBCYRQMS/ref=zg_bs_g_handmade_d_sccl_13/136-6996159-6097713?psc=1"
+            },
+            {
+                "rank": 14,
+                "asin": "B0CXPD96WM",
+                "name": "Sereney 7 Year Old Girl Birthday Gifts, Adjustable Beaded 7th Birthday Bracelet as 7th Birthday Gifts for 7 Year Old Girls Seven Year Old Girl Birthday Gifts for Daughter Niece Granddaughter Girl",
+                "ratings_count": 400,
+                "rating": "4.8",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81O4EmfD8NL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Sereney-Birthday-Adjustable-Bracelet-Granddaughter/dp/B0CXPD96WM/ref=zg_bs_g_handmade_d_sccl_14/136-6996159-6097713?psc=1"
+            },
+            {
+                "rank": 15,
+                "asin": "B0CXJ5NB3K",
+                "name": "SmileBelle Daisy Pearl Necklace, Dainty Pearl Choker Necklace for Women as Flower Necklace, Trendy Gold Necklaces as Pearl Jewelry Teen Girls Daisy Costume Gift as Bride Necklace Wedding Jewelry",
+                "ratings_count": 199,
+                "rating": "4.2",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61PtesbTvTL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/SmileBelle-Necklace-Necklaces-Jewelry-Wedding/dp/B0CXJ5NB3K/ref=zg_bs_g_handmade_d_sccl_15/136-6996159-6097713?psc=1"
+            },
+            {
+                "rank": 16,
+                "asin": "B0D24YC54W",
+                "name": "AD Beads Handmade Gemstone Stretch Elastic Bracelet Crystal Healing Reiki Nature's Beauty and Spiritual Essence Unisex (4mm, Lapis Lazuli)",
+                "ratings_count": 100,
+                "rating": "4.4",
+                "sale_price": "$5.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71AelHXWw6L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/AD-Beads-Handmade-Gemstone-Spiritual/dp/B0D24YC54W/ref=zg_bs_g_handmade_d_sccl_16/136-6996159-6097713?psc=1"
+            },
+            {
+                "rank": 17,
+                "asin": "B0D3LM83KH",
+                "name": "Bible Verse Jar, Christian Gifts For Women, Christmas Gifts For Women, Bible Jar, Bible Accessories Women, Prayer Jar, Religious Gifts For Women, Christmas Gifts For Kids, Christmas Gifts 2024",
+                "ratings_count": 16,
+                "rating": "4.6",
+                "sale_price": "$15.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81ssZ4wDYFL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Christian-Christmas-Accessories-Prayer-Religious/dp/B0D3LM83KH/ref=zg_bs_g_handmade_d_sccl_17/136-6996159-6097713?psc=1"
+            },
+            {
+                "rank": 18,
+                "asin": "B0CPTGSHZL",
+                "name": "Engagement Gift, Engagement Gifts for Couples -'Engaged 2024' Candle, w/Peony & Rose Wedding Bouquet I Engagement Gifts for Her I Fiance Gifts for Women I Engaged Gifts I 50Hr Burn, USA Made",
+                "ratings_count": 1516,
+                "rating": "4.7",
+                "sale_price": "$19.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81tNWOPaTZL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Engagement-Couples-Engaged-Wedding-Bouquet/dp/B0CPTGSHZL/ref=zg_bs_g_handmade_d_sccl_18/136-6996159-6097713?psc=1"
+            },
+            {
+                "rank": 19,
+                "asin": "B0BHF89GW6",
+                "name": "Discovered Designs – Premium Individual 3D Acrylic Mailbox Number – Self Stick – Long Lasting – Weatherproof – Made in USA (White 3 inch, Number 1)",
+                "ratings_count": 780,
+                "rating": "4.6",
+                "sale_price": "$3.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61npKpLut7L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Discovered-Designs-Mailbox-Premium-Acrylic/dp/B0BHF89GW6/ref=zg_bs_g_handmade_d_sccl_19/136-6996159-6097713?psc=1"
+            },
+            {
+                "rank": 20,
+                "asin": "B0DHT6T3M1",
+                "name": "Custom Inside our Feeling 2 Characters costumes Emotional Shirt Design Custom Tees, Funny Characters",
+                "ratings_count": null,
+                "rating": null,
+                "sale_price": "$13.89",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81jZziM5kJL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Custom-Feeling-Characters-costumes-Emotional/dp/B0DHT6T3M1/ref=zg_bs_g_handmade_d_sccl_20/136-6996159-6097713?psc=1"
+            },
+            {
+                "rank": 21,
+                "asin": "B0CKQDZ6J2",
+                "name": "Trinckle Pearl Earrings for Women, 14k Gold Pearl Drop Dangle Earrings White Adjustable Dainty Boho Pearl Tassel Earrings Statement Wedding Bridal Earrings as Birthday Jewelry Gifts for Teen Girls",
+                "ratings_count": 287,
+                "rating": "4.5",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71soD4XpzML._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Trinckle-Earrings-Adjustable-Statement-Graduation/dp/B0CKQDZ6J2/ref=zg_bs_g_handmade_d_sccl_21/136-6996159-6097713?psc=1"
+            },
+            {
+                "rank": 22,
+                "asin": "B0DC5STVTB",
+                "name": "Inside Out Shirt - Custom Inside Out 2 Character T-Shirt - Personalized Inside Out Emotions T-shirts for Kids Youth & Adults",
+                "ratings_count": 4,
+                "rating": "5.0",
+                "sale_price": "$13.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71V2X9auylL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Inside-Out-Shirt-Character-Personalized/dp/B0DC5STVTB/ref=zg_bs_g_handmade_d_sccl_22/136-6996159-6097713?psc=1"
+            },
+            {
+                "rank": 23,
+                "asin": "B07CLDC856",
+                "name": "SniffElixir - Peppermint Nasal Inhaler Aromatherapy Stick, Non Drowsy Motion Sickness Nausea Stick w/Peppermint Oil for Migraine Stick, and Headache Stick, Portable Peppermint Essential Oil Inhaler",
+                "ratings_count": 2781,
+                "rating": "4.3",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81MqNOQYVsL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Aromatherapy-Peppermint-Essential-HEADACHES-QUEASINESS/dp/B07CLDC856/ref=zg_bs_g_handmade_d_sccl_23/136-6996159-6097713?psc=1"
+            },
+            {
+                "rank": 24,
+                "asin": "B07TJKD2BK",
+                "name": "Sweet Water Decor Hello Fall Candle - Cinnamon Apples & Clove Autumn Fall Scented Candle for Home Decor - 100% Cotton Wick Soy Wax Candles with 40 Hour Burn Time - Made in the USA - 9oz Clear Jar",
+                "ratings_count": 2041,
+                "rating": "4.3",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71dDBB8YelL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Cinnamon-Farmhouse-Decor-Bathroom-Accessories/dp/B07TJKD2BK/ref=zg_bs_g_handmade_d_sccl_24/136-6996159-6097713?psc=1"
+            },
+            {
+                "rank": 25,
+                "asin": "B08TMKWPJS",
+                "name": "Sweet Water Decor, OMG, You're Engaged! | Tropical Fruits, Sugared Citrus, Mountain Green Scented Soy Wax Candle for Home | Engagement Gift | 9oz Clear Jar, 40 Hour Burn Time, Made in the USA",
+                "ratings_count": 7466,
+                "rating": "4.7",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51xoeocvOpL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Sweet-Water-Decor-Sandalwood-Engagement/dp/B08TMKWPJS/ref=zg_bs_g_handmade_d_sccl_25/136-6996159-6097713?psc=1"
+            },
+            {
+                "rank": 26,
+                "asin": "B0CZPDBTKF",
+                "name": "Mini knit pumpkins set of 5, hygge decor, cozy gifts for women, autumn bowl fillers fall farmhouse tier tray decor, decorative pumpkins for friend (Mini Autumn Set)",
+                "ratings_count": 44,
+                "rating": "4.5",
+                "sale_price": "$17.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/815sDZ+1ltL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/pumpkins-autumn-fillers-farmhouse-decorative/dp/B0CZPDBTKF/ref=zg_bs_g_handmade_d_sccl_26/136-6996159-6097713?psc=1"
+            },
+            {
+                "rank": 27,
+                "asin": "B0BPBLMP1T",
+                "name": "Turmeric and Kojic Acid Skin Brightening Soap All Natural Gentle Cleanser for All Skin Types. Fights Acne, Reduces Dark Spots & Fades Scars. Face & Body Cleanser for Men, Women & Teens. (1 Pack)",
+                "ratings_count": 343,
+                "rating": "4.1",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71VAHqYiYyL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Turmeric-Brightening-Natural-Cleanser-Reduces/dp/B0BPBLMP1T/ref=zg_bs_g_handmade_d_sccl_27/136-6996159-6097713?psc=1"
+            },
+            {
+                "rank": 28,
+                "asin": "B0BFX6JTS6",
+                "name": "Earrings for Women Spiral threader earrings 14K gold earrings hand bent dangle earrings for women，suitable for gift giving, perfect for your birthday party, Christmas, gift giving.",
+                "ratings_count": 2639,
+                "rating": "4.2",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51H0wYp+XSL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Earrings-threader-earrings-women%EF%BC%8Csuitable-Christmas/dp/B0BFX6JTS6/ref=zg_bs_g_handmade_d_sccl_28/136-6996159-6097713?psc=1"
+            },
+            {
+                "rank": 29,
+                "asin": "B09PMF1H3P",
+                "name": "14k Gold Filled 20G Double Hoop Nose Ring for Single Piercing, 20 Gauge Small Thin 8mm Spiral Nose Jewelry for Women Men",
+                "ratings_count": 6291,
+                "rating": "3.8",
+                "sale_price": "$9.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51Dx7Na9rHL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Filled-Double-Single-Piercing-Jewelry/dp/B09PMF1H3P/ref=zg_bs_g_handmade_d_sccl_29/136-6996159-6097713?psc=1"
+            },
+            {
+                "rank": 30,
+                "asin": "B077CWRBQZ",
+                "name": "Fake Clip On Nose Ring 20g - 925 Sterling Silver Tiny Faux Piercing Hoop - No Piercing Needed",
+                "ratings_count": 7268,
+                "rating": "4.0",
+                "sale_price": "$6.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51Y9NFbwWhL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Faux-Clip-Nose-Ring-20g/dp/B077CWRBQZ/ref=zg_bs_g_handmade_d_sccl_30/136-6996159-6097713?psc=1"
+            },
+            {
+                "rank": 31,
+                "asin": "B0CYZM8TYX",
+                "name": "Sereney Happy 18th Birthday Gifts for Boys, Triple Protection Bracelet As Cool Gifts for 18 Year Old Boy, 18th Bday Decoration Jewelry As Gifts for Him Boys Men Male Son Grandson Friend Birthday",
+                "ratings_count": 551,
+                "rating": "4.4",
+                "sale_price": "$13.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71MbOrmRfML._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Sereney-Birthday-Protection-Bracelet-Decoration/dp/B0CYZM8TYX/ref=zg_bs_g_handmade_d_sccl_31/136-5067770-7341543?psc=1"
+            },
+            {
+                "rank": 32,
+                "asin": "B0D2J4DTCC",
+                "name": "4 Pairs Gold Hoop Earrings Set for Women, 14k Gold Plated Cartilage Hoop Earring Hypoallergenic Non Tarnish Small Hoop Earrings for 2nd 3rd Hole Gold Huggie Hoop Earrings for Women Men Gifts (Gold)",
+                "ratings_count": 198,
+                "rating": "4.3",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61GU-QjZ07L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Earrings-Cartilage-Earring-Hypoallergenic-Tarnish/dp/B0D2J4DTCC/ref=zg_bs_g_handmade_d_sccl_32/136-5067770-7341543?psc=1"
+            },
+            {
+                "rank": 33,
+                "asin": "B0BWVFPFGV",
+                "name": "Camp Half-Blood Orange Shirt (Youth Large)",
+                "ratings_count": 107,
+                "rating": "4.7",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71uPVhc4A8L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Half-Blood-Olympian-Training-Magical-Matching/dp/B0BWVFPFGV/ref=zg_bs_g_handmade_d_sccl_33/136-5067770-7341543?psc=1"
+            },
+            {
+                "rank": 34,
+                "asin": "B0CNCHWQLR",
+                "name": "Katie Doodle - Super Cute, 40th Birthday Card, (Handmade in USA), 40th Birthday Gifts Women, 40th Birthday Decorations Man, 40th Birthday Decorations Woman, 40th Birthday Gifts Men, 1984",
+                "ratings_count": 1579,
+                "rating": "4.8",
+                "sale_price": "$7.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71wRB-qjr7L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Katie-Doodle-Birthday-Handmade-Decorations/dp/B0CNCHWQLR/ref=zg_bs_g_handmade_d_sccl_34/136-5067770-7341543?psc=1"
+            },
+            {
+                "rank": 35,
+                "asin": "B0C3GKCF8L",
+                "name": "Uno Card Costume Shirts, Uno Costume Group Matching, Halloween Uno Card Friends Shirt, Board Game Matching Group, Uno Card Friends Shirt, Family Matching Costume T-Shirt",
+                "ratings_count": 14,
+                "rating": "3.7",
+                "sale_price": "$16.49",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71+CBXVniSL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Costume-Matching-Halloween-Friends-T-Shirt/dp/B0C3GKCF8L/ref=zg_bs_g_handmade_d_sccl_35/136-5067770-7341543?psc=1"
+            },
+            {
+                "rank": 36,
+                "asin": "B07RM75XNW",
+                "name": "Pumpkin Spice Latte Reed Diffuser Set | Handmade in the USA by American Workers | Lasts For 2-3 Months |",
+                "ratings_count": 2341,
+                "rating": "4.2",
+                "sale_price": "$16.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71r1ncRIo-L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Diffuser-Handmade-Lorenzen-Candle-Co/dp/B07RM75XNW/ref=zg_bs_g_handmade_d_sccl_36/136-5067770-7341543?psc=1"
+            },
+            {
+                "rank": 37,
+                "asin": "B0BZQXYZC8",
+                "name": "Camp Half Blood Shirt (Youth Large, Orange)",
+                "ratings_count": 217,
+                "rating": "4.6",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71uPVhc4A8L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Blood-Shirt-Youth-Large-Orange/dp/B0BZQXYZC8/ref=zg_bs_g_handmade_d_sccl_37/136-5067770-7341543?psc=1"
+            },
+            {
+                "rank": 38,
+                "asin": "B0DJ6HTB9H",
+                "name": "Custom Emotional Shirts, Funny Characters Costumes For Adults (Design Set-1)",
+                "ratings_count": null,
+                "rating": null,
+                "sale_price": "$15.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81g-ZxaoO1L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Custom-Emotional-Shirts-Characters-Costumes/dp/B0DJ6HTB9H/ref=zg_bs_g_handmade_d_sccl_38/136-5067770-7341543?psc=1"
+            },
+            {
+                "rank": 39,
+                "asin": "B08XYCBSC6",
+                "name": "Beeswax & Propolis Magic Salve | Boils Treatment | Chalazion | Hidradenitis Suppurativa Abscesses | Wound Care | Fissures | Relieves Skin from Discomfort | Solution for Problematic Skin (4 oz)",
+                "ratings_count": 1061,
+                "rating": "4.3",
+                "sale_price": "$59.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81n5WiRptLL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Treatment-Hidradenitis-Suppurativa-Discomfort-Problematic/dp/B08XYCBSC6/ref=zg_bs_g_handmade_d_sccl_39/136-5067770-7341543?psc=1"
+            },
+            {
+                "rank": 40,
+                "asin": "B09TJNL15Z",
+                "name": "Personalized Custom Wood Name Sign, Nursery Name Sign, Family Name Signs, Choice of Size & Fonts!",
+                "ratings_count": 3212,
+                "rating": "4.4",
+                "sale_price": "$5.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71BOzLCe4GL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Personalized-Custom-Nursery-Family-Choice/dp/B09TJNL15Z/ref=zg_bs_g_handmade_d_sccl_40/136-5067770-7341543?psc=1"
+            },
+            {
+                "rank": 41,
+                "asin": "B0CSXJXWBQ",
+                "name": "925 Sterling Silver Small Silver Hoop Earrings for Women Men,White Gold Plated Hinge Huggie Hoop Earrings Cartilage, Helix, Tragus, Sung, Earlobe Lightweight Hypoallergenic Earrings (1 Pair - 6mm)",
+                "ratings_count": 294,
+                "rating": "4.3",
+                "sale_price": "$12.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71J0AU45wDL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Sterling-Earrings-Cartilage-Lightweight-Hypoallergenic/dp/B0CSXJXWBQ/ref=zg_bs_g_handmade_d_sccl_41/136-5067770-7341543?psc=1"
+            },
+            {
+                "rank": 42,
+                "asin": "B0D7425DCM",
+                "name": "Personalized Stanley Cup Name Plate for Lids, Sparkling Name Tag for Stanley Tumbler 40 30 20 OZ, Custom Name Stanley Cup Accessories, Customize Gilttering Name Tag for Stanley Quencher H2.0",
+                "ratings_count": 118,
+                "rating": "4.1",
+                "sale_price": "$6.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81t5XZYeb5L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Personalized-Sparkling-Accessories-Customize-Gilttering/dp/B0D7425DCM/ref=zg_bs_g_handmade_d_sccl_42/136-5067770-7341543?psc=1"
+            },
+            {
+                "rank": 43,
+                "asin": "B0CX1NWKZQ",
+                "name": "CHCCOYE 4mm Natural Healing Gemstone Bracelet Handmade Yoga Stretch Elastic Bracelet Stress Relief Crystal Jewelry for Men and Women (4mm, Red Jasper)",
+                "ratings_count": 179,
+                "rating": "4.3",
+                "sale_price": "$6.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/817tumFfBUL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/CHCCOYE-Natural-Gemstone-Bracelet-Handmade/dp/B0CX1NWKZQ/ref=zg_bs_g_handmade_d_sccl_43/136-5067770-7341543?psc=1"
+            },
+            {
+                "rank": 44,
+                "asin": "B0DDPLS6RJ",
+                "name": "Wild Yam Cream - Natural Balance for Women, 4 oz (Unscented/Herb-Infused), Organic Wild Yam Cream for Balance - Made With Chaste Tree Berry and Red Clover",
+                "ratings_count": 35,
+                "rating": "5.0",
+                "sale_price": "$35.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71ARMuQzZsL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Wild-Yam-Cream-Unscented-Herb-Infused/dp/B0DDPLS6RJ/ref=zg_bs_g_handmade_d_sccl_44/136-5067770-7341543?psc=1"
+            },
+            {
+                "rank": 45,
+                "asin": "B0D42FRKRB",
+                "name": "Luxury Mop Soap (Blue Volcanic)",
+                "ratings_count": 10,
+                "rating": "4.3",
+                "sale_price": "$17.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/7172PGYI29L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Luxury-Mop-Soap-Blue-Volcanic/dp/B0D42FRKRB/ref=zg_bs_g_handmade_d_sccl_45/136-5067770-7341543?psc=1"
+            },
+            {
+                "rank": 46,
+                "asin": "B0CC3W4GV6",
+                "name": "Sweet Water Decor Hello Fall Reed Diffuser Set - Hot Cider, Cinnamon, Cloves, Apple, and Nutmeg Fall Scented Diffuser - Scent Diffusers for Home, Fall Home Decor Long Lasting Fragrance Made in the USA",
+                "ratings_count": 178,
+                "rating": "4.4",
+                "sale_price": "$23.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/516NPRvFQ4L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Sweet-Water-Decor-Amber-Diffuser/dp/B0CC3W4GV6/ref=zg_bs_g_handmade_d_sccl_46/136-5067770-7341543?psc=1"
+            },
+            {
+                "rank": 47,
+                "asin": "B0822RPRVM",
+                "name": "Fake Clip On Nose Ring 24g - No Piercing Needed - Smooth Tiny 925 Silver Fake Nose Piercing",
+                "ratings_count": 3008,
+                "rating": "4.0",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51CNircLEjL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Faux-Clip-Nose-Ring-24g/dp/B0822RPRVM/ref=zg_bs_g_handmade_d_sccl_47/136-5067770-7341543?psc=1"
+            },
+            {
+                "rank": 48,
+                "asin": "B0C3QB5D8K",
+                "name": "Trinckle Gold Pearl Necklace, 6 mm Pearl Choker Necklace 15 in Pearl Necklaces for Women Dainty Gold Choker Adjustable Beach Jewelry Necklaces for Girls as Bride Bridesmaid Wedding Birthday Gifts",
+                "ratings_count": 651,
+                "rating": "4.5",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61JcT-8wG+L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Trinckle-Necklace-Necklaces-Jewelry-Adjustable/dp/B0C3QB5D8K/ref=zg_bs_g_handmade_d_sccl_48/136-5067770-7341543?psc=1"
+            },
+            {
+                "rank": 49,
+                "asin": "B0CGTPP4VR",
+                "name": "DAYANEY Halloween Earrings for Women Ghostface Earrings as Spectre Before Christmas Gifts Green Ghost Earrings for Girls Cute Boogcy Earrings Halloween Accessories Basket Stuffers Christmas Jewelry",
+                "ratings_count": 80,
+                "rating": "4.5",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71Ro5Aot0rL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Earrings-Halloween-Nightmare-Christmas-Accessories/dp/B0CGTPP4VR/ref=zg_bs_g_handmade_d_sccl_49/136-5067770-7341543?psc=1"
+            },
+            {
+                "rank": 50,
+                "asin": "B09X62QGQN",
+                "name": "Beeswax & Propolis Magic Salve | Boils & Infected Cyst Treatment | Cystic Acne | Hidradenitis Suppurativa Abscesses | Pulls Out the Pus | Relieves Skin from Discomfort (4 oz)",
+                "ratings_count": 317,
+                "rating": "4.5",
+                "sale_price": "$59.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81n5WiRptLL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Treatment-Hidradenitis-Suppurativa-Inflammation-Discomfort/dp/B09X62QGQN/ref=zg_bs_g_handmade_d_sccl_50/136-5067770-7341543?psc=1"
+            }
+        ]
+    }
+}

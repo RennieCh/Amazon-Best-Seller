@@ -1,0 +1,635 @@
+{
+    "200": {
+        "category": "Amazon Best SellersSoftware",
+        "category_hierarchy": [
+            {
+                "name": "Any Department",
+                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_software_0_1"
+            },
+            {
+                "name": "Software",
+                "url": "https://www.amazon.com/best-sellers-software/zgbs/software/ref=zg_bs_nav_software_0?pg=1"
+            }
+        ],
+        "child_categories": [
+            {
+                "category": "Accounting & Finance",
+                "url": "https://www.amazon.com/Best-Sellers-Software-Accounting-Finance/zgbs/software/5223260011/ref=zg_bs_nav_software_1"
+            },
+            {
+                "category": "Antivirus & Security",
+                "url": "https://www.amazon.com/Best-Sellers-Software-Antivirus-Security/zgbs/software/229677/ref=zg_bs_nav_software_1"
+            },
+            {
+                "category": "Business & Office",
+                "url": "https://www.amazon.com/Best-Sellers-Software-Business-Office/zgbs/software/229535/ref=zg_bs_nav_software_1"
+            },
+            {
+                "category": "Children's Software",
+                "url": "https://www.amazon.com/Best-Sellers-Software-Childrens-Software/zgbs/software/229548/ref=zg_bs_nav_software_1"
+            },
+            {
+                "category": "Design & Illustration",
+                "url": "https://www.amazon.com/Best-Sellers-Software-Photography-Graphic-Design/zgbs/software/229614/ref=zg_bs_nav_software_1"
+            },
+            {
+                "category": "Education & Reference",
+                "url": "https://www.amazon.com/Best-Sellers-Software-Education-Reference/zgbs/software/229563/ref=zg_bs_nav_software_1"
+            },
+            {
+                "category": "Lifestyle & Hobbies",
+                "url": "https://www.amazon.com/Best-Sellers-Software-Home-Hobbies/zgbs/software/229624/ref=zg_bs_nav_software_1"
+            },
+            {
+                "category": "Mac Software",
+                "url": "https://www.amazon.com/Best-Sellers-Software-Mac-Software/zgbs/software/120225784011/ref=zg_bs_nav_software_1"
+            },
+            {
+                "category": "Music",
+                "url": "https://www.amazon.com/Best-Sellers-Software-Music/zgbs/software/497022/ref=zg_bs_nav_software_1"
+            },
+            {
+                "category": "Networking & Servers",
+                "url": "https://www.amazon.com/Best-Sellers-Software-Networking-Servers/zgbs/software/229637/ref=zg_bs_nav_software_1"
+            },
+            {
+                "category": "Operating Systems",
+                "url": "https://www.amazon.com/Best-Sellers-Software-Operating-Systems/zgbs/software/229653/ref=zg_bs_nav_software_1"
+            },
+            {
+                "category": "Photography",
+                "url": "https://www.amazon.com/Best-Sellers-Software-Photography/zgbs/software/229621/ref=zg_bs_nav_software_1"
+            },
+            {
+                "category": "Programming & Web Development",
+                "url": "https://www.amazon.com/Best-Sellers-Software-Programming-Web-Development/zgbs/software/5223262011/ref=zg_bs_nav_software_1"
+            },
+            {
+                "category": "Tax Preparation",
+                "url": "https://www.amazon.com/Best-Sellers-Software-Tax-Preparation/zgbs/software/229545/ref=zg_bs_nav_software_1"
+            },
+            {
+                "category": "Utilities",
+                "url": "https://www.amazon.com/Best-Sellers-Software-Utilities/zgbs/software/229672/ref=zg_bs_nav_software_1"
+            },
+            {
+                "category": "Video",
+                "url": "https://www.amazon.com/Best-Sellers-Software-Digital-Video/zgbs/software/290542/ref=zg_bs_nav_software_1"
+            }
+        ],
+        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/best-sellers-software/zgbs/software/ref%3Dzg_bs_pg_2_software%3F_encoding%3DUTF8%26pg%3D2",
+        "url": "https://www.amazon.com/best-sellers-software/zgbs/software/ref=zg_bs_nav_software_0?pg=1",
+        "product_listings": [
+            {
+                "rank": 1,
+                "asin": "B0CLC5MKTP",
+                "name": "TurboTax Home & Business 2023 Tax Software, Federal & State Tax Return [Amazon Exclusive] [PC/Mac Download]IntuitWindows 10 / 11, Mac OS Monterey 12",
+                "ratings_count": 4423,
+                "rating": "4.4",
+                "sale_price": "$119.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71K4wikrrkL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/TurboTax-Business-Software-Exclusive-Download/dp/B0CLC5MKTP/ref=zg_bs_g_software_d_sccl_1/130-4180459-9701019?psc=1"
+            },
+            {
+                "rank": 2,
+                "asin": "B07Q33SJDW",
+                "name": "Norton 360 Deluxe 2024, Antivirus software for 5 Devices with Auto Renewal - Includes VPN, PC Cloud Backup & Dark Web Monitoring [Download]NortonWindows 8.1 / 10 / 11 / 7, Mac OS Sierra 10.12, Mac OS X El Capitan 10.11",
+                "ratings_count": 14964,
+                "rating": "4.1",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71wMGGsiQHL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/NEW-Norton-360-Deluxe-Monitoring/dp/B07Q33SJDW/ref=zg_bs_g_software_d_sccl_2/130-4180459-9701019?psc=1"
+            },
+            {
+                "rank": 3,
+                "asin": "B0CLBV27N2",
+                "name": "TurboTax Deluxe 2023 Tax Software, Federal & State Tax Return [Amazon Exclusive] [PC/Mac Download]IntuitWindows 10 / 11, Mac OS Monterey 12",
+                "ratings_count": 15086,
+                "rating": "4.4",
+                "sale_price": "$69.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/719rCYQpjdL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/TurboTax-Software-Federal-Exclusive-Download/dp/B0CLBV27N2/ref=zg_bs_g_software_d_sccl_3/130-4180459-9701019?psc=1"
+            },
+            {
+                "rank": 4,
+                "asin": "B0DGVQMGBB",
+                "name": "Microsoft Office Home 2024 | Classic Apps: Word, Excel, PowerPoint | One-Time Purchase for 1 PC/MAC | Instant Download | Formerly Home & Student 2021 [PC/Mac Online Code]MicrosoftWindows 10 / 11, Mac OS X",
+                "ratings_count": 1888,
+                "rating": "3.8",
+                "sale_price": "$149.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61phY52G-OL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Microsoft-Office-Home-2024-Classic/dp/B0DGVQMGBB/ref=zg_bs_g_software_d_sccl_4/130-4180459-9701019?psc=1"
+            },
+            {
+                "rank": 5,
+                "asin": "B0BB2N69J8",
+                "name": "McAfee Total Protection 2024 | 3 Device | Cybersecurity Software Includes Antivirus, Secure VPN, Password Manager, Dark Web Monitoring | DownloadMcAfeeWindows 8.1 / 10 / 11, iOS, Android, Mac OS Catalina 10.15",
+                "ratings_count": 5050,
+                "rating": "4.0",
+                "sale_price": "$14.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71KwjkEdXaL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/McAfee-Protection-Exclusive-Monitoring-Subscription/dp/B0BB2N69J8/ref=zg_bs_g_software_d_sccl_5/130-4180459-9701019?psc=1"
+            },
+            {
+                "rank": 6,
+                "asin": "B0823GT5JG",
+                "name": "iFit Train - Monthly MembershipIFitWindows, Mac OS X, Android",
+                "ratings_count": 560,
+                "rating": "3.9",
+                "sale_price": "$15.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/518nPPYk0iL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/iFit-1-Month-Individual-Membership-Subscription/dp/B0823GT5JG/ref=zg_bs_g_software_d_sccl_6/130-4180459-9701019?psc=1"
+            },
+            {
+                "rank": 7,
+                "asin": "B07K98XDX8",
+                "name": "McAfee Total Protection 2024 | 3 Device | Cybersecurity Software Includes Antivirus, Secure VPN, Password Manager, Dark Web MonitoringMcAfeeWindows 8.1 / 8 / 10 / 11, Mac OS X, Mac OS Catalina 10.15",
+                "ratings_count": 5050,
+                "rating": "4.0",
+                "sale_price": "$99.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71qzG0gtV2L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/McAfee-Total-Protection-Devices-Subscription/dp/B07K98XDX8/ref=zg_bs_g_software_d_sccl_7/130-4180459-9701019?psc=1"
+            },
+            {
+                "rank": 8,
+                "asin": "B0CLBVVRF3",
+                "name": "TurboTax Premier 2023 Tax Software, Federal & State Tax Return [Amazon Exclusive] [PC/Mac Download]IntuitWindows 10 / 11, Mac OS Monterey 12",
+                "ratings_count": 6042,
+                "rating": "4.3",
+                "sale_price": "$104.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71ABLSmFI3L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/TurboTax-Premier-Software-Exclusive-Download/dp/B0CLBVVRF3/ref=zg_bs_g_software_d_sccl_8/130-4180459-9701019?psc=1"
+            },
+            {
+                "rank": 9,
+                "asin": "B07Q8JGCSQ",
+                "name": "Norton 360 Deluxe 2024, Antivirus software for 3 Devices with Auto Renewal - Includes VPN, PC Cloud Backup & Dark Web Monitoring [Download]NortonWindows 8.1 / 10 / 11 / 7, Mac OS Sierra 10.12, Mac OS X El Capitan 10.11",
+                "ratings_count": 5196,
+                "rating": "4.0",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71uuBMzSgrL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/NEW-Norton-360-Deluxe-Monitoring/dp/B07Q8JGCSQ/ref=zg_bs_g_software_d_sccl_9/130-4180459-9701019?psc=1"
+            },
+            {
+                "rank": 10,
+                "asin": "B07F3TQ6DQ",
+                "name": "Microsoft 365 Personal | 12-Month Subscription, 1 person | Word, Excel, PowerPoint | 1TB OneDrive cloud storage | PC/Mac Instant Download | Activation RequiredMicrosoftiOS, Windows, Android",
+                "ratings_count": 10914,
+                "rating": "4.4",
+                "sale_price": "$69.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61pCCojbi-L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Microsoft-Personal-12-month-subscription-Auto-renewal/dp/B07F3TQ6DQ/ref=zg_bs_g_software_d_sccl_10/130-4180459-9701019?psc=1"
+            },
+            {
+                "rank": 11,
+                "asin": "B0CJCWHXH2",
+                "name": "H&R Block Tax Software Deluxe + State 2023 with Refund Bonus Offer (Amazon Exclusive) (PC/MAC Download)H&R BlockWindows 10 / 11, Mac OS Catalina 10.15",
+                "ratings_count": 4213,
+                "rating": "4.1",
+                "sale_price": "$39.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51WNth-N57L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Block-Software-Deluxe-Exclusive-Download/dp/B0CJCWHXH2/ref=zg_bs_g_software_d_sccl_11/130-4180459-9701019?psc=1"
+            },
+            {
+                "rank": 12,
+                "asin": "B09MYJ1R6L",
+                "name": "Microsoft System Builder | Windоws 11 Home | Intended use for new systems | Install on a new PC | Branded by MicrosoftMicrosoftWindows 11",
+                "ratings_count": 1430,
+                "rating": "4.3",
+                "sale_price": "$119.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61JfosHunyL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Microsoft-Wind%D0%BEws-Home-OEM-DVD/dp/B09MYJ1R6L/ref=zg_bs_g_software_d_sccl_12/130-4180459-9701019?psc=1"
+            },
+            {
+                "rank": 13,
+                "asin": "B07Q6B5YL5",
+                "name": "Norton 360 Premium 2024, Antivirus software for 10 Devices with Auto Renewal - Includes VPN, PC Cloud Backup & Dark Web Monitoring [Download]NortonWindows 8.1 / 10 / 11 / 7, Mac OS Sierra 10.12, Mac OS X El Capitan 10.11",
+                "ratings_count": 4847,
+                "rating": "4.2",
+                "sale_price": "$44.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/718a2Fg9VCL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/NEW-Norton-360-Premium-Monitoring/dp/B07Q6B5YL5/ref=zg_bs_g_software_d_sccl_13/130-4180459-9701019?psc=1"
+            },
+            {
+                "rank": 14,
+                "asin": "B07CYFFH4H",
+                "name": "Bitdefender Total Security - 5 Devices | 1 year Subscription | PC/Mac | Activation Code by emailBitdefenderWindows 10, Mac OS Sierra 10.12",
+                "ratings_count": 2336,
+                "rating": "4.3",
+                "sale_price": "$44.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/714clBtOSiL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Bitdefender-Total-Security-Download-Online/dp/B07CYFFH4H/ref=zg_bs_g_software_d_sccl_14/130-4180459-9701019?psc=1"
+            },
+            {
+                "rank": 15,
+                "asin": "B07BFRVMMN",
+                "name": "McAfee Total Protection 2024 | Unlimited Devices | Cybersecurity Software Includes Antivirus, Secure VPN, Password Manager, Dark Web Monitoring | DownloadMcAfeeWindows 8.1 / 8 / 10 / 11, Mac OS Sierra 10.12, Mac OS Catalina 10.15",
+                "ratings_count": 2713,
+                "rating": "4.2",
+                "sale_price": "$149.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/711Xo6nGdML._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/McAfee-Protection-Unlimited-Device-Download/dp/B07BFRVMMN/ref=zg_bs_g_software_d_sccl_15/130-4180459-9701019?psc=1"
+            },
+            {
+                "rank": 16,
+                "asin": "B0CLBPQX99",
+                "name": "TurboTax Business 2023 Tax Software, Federal Tax Return [PC Download]IntuitWindows 10 / 11",
+                "ratings_count": 902,
+                "rating": "4.2",
+                "sale_price": "$179.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71yyAB8-OPL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/TurboTax-Business-Software-Federal-Download/dp/B0CLBPQX99/ref=zg_bs_g_software_d_sccl_16/130-4180459-9701019?psc=1"
+            },
+            {
+                "rank": 17,
+                "asin": "B07Q4QZGFR",
+                "name": "Adobe Acrobat Pro | 12-Month Subscription | PDF Software |Convert, Edit, E-Sign, Protect |Activation Required [PC/Mac Online Code]AdobeWindows 8.1 / 10, Mac OS X",
+                "ratings_count": 1050,
+                "rating": "4.2",
+                "sale_price": "$148.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51XI9kYWK8L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Acrobat-Subscription-Software-Activation-Required/dp/B07Q4QZGFR/ref=zg_bs_g_software_d_sccl_17/130-4180459-9701019?psc=1"
+            },
+            {
+                "rank": 18,
+                "asin": "B07DDNL2BJ",
+                "name": "Webroot Antivirus Software 2024 | 3 Device | 1 Year Download for PC/MacWebrootWindows 8.1 / 8 / 10 / 11 / 7, Mac OS X",
+                "ratings_count": 2914,
+                "rating": "4.3",
+                "sale_price": "$14.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71564zohGmL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Webroot-Antivirus-Protection-Internet-Subscription/dp/B07DDNL2BJ/ref=zg_bs_g_software_d_sccl_18/130-4180459-9701019?psc=1"
+            },
+            {
+                "rank": 19,
+                "asin": "B0BB2GF9WW",
+                "name": "McAfee Total Protection 2024 | 5 Device | Cybersecurity Software Includes Antivirus, Secure VPN, Password Manager, Dark Web Monitoring | DownloadMcAfeeWindows 8.1 / 10 / 11, iOS, Android, Mac OS Catalina 10.15",
+                "ratings_count": 1216,
+                "rating": "4.1",
+                "sale_price": "$22.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71-PAHwakhL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/McAfee-Protection-Exclusive-Monitoring-Subscription/dp/B0BB2GF9WW/ref=zg_bs_g_software_d_sccl_19/130-4180459-9701019?psc=1"
+            },
+            {
+                "rank": 20,
+                "asin": "B09C1RQQ2Z",
+                "name": "Norton 360 for Amazon 2024, Antivirus software for up to 5 Devices with Auto Renewal [Subscription]NortonWindows 8.1 / 8 / 10 / 11 / 7, Mac OS X",
+                "ratings_count": 511,
+                "rating": "4.0",
+                "sale_price": "$34.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/710R2j7jEQL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Norton-360-Amazon-Antivirus-Subscription/dp/B09C1RQQ2Z/ref=zg_bs_g_software_d_sccl_20/130-4180459-9701019?psc=1"
+            },
+            {
+                "rank": 21,
+                "asin": "B0CJDFTC7T",
+                "name": "H&R Block Tax Software Premium 2023 with Refund Bonus Offer (Amazon Exclusive) (PC/MAC Download)H&R BlockWindows 10 / 11, Mac OS Catalina 10.15",
+                "ratings_count": 816,
+                "rating": "4.0",
+                "sale_price": "$59.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51N4PQO2AmL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Block-Software-Premium-Exclusive-Download/dp/B0CJDFTC7T/ref=zg_bs_g_software_d_sccl_21/130-4180459-9701019?psc=1"
+            },
+            {
+                "rank": 22,
+                "asin": "B07K98LLVV",
+                "name": "McAfee Total Protection 2024 | 5 Device | Cybersecurity Software Includes Antivirus, Secure VPN, Password Manager, Dark Web MonitoringMcAfeeWindows 8.1 / 8 / 10 / 11, Mac OS X, Mac OS Catalina 10.15",
+                "ratings_count": 1216,
+                "rating": "4.1",
+                "sale_price": "$119.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71FVm3ki6NL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/McAfee-Total-Protection-Devices-Subscription/dp/B07K98LLVV/ref=zg_bs_g_software_d_sccl_22/130-4180459-9701019?psc=1"
+            },
+            {
+                "rank": 23,
+                "asin": "B0BB2N2YQ9",
+                "name": "McAfee AntiVirus Protection 2024 | 1 PC (Windows)| Cybersecurity software includes Antivirus Protection, Internet Security Software | 1 Year Subscription | DownloadMcAfeeWindows 8.1 / 8 / 10 / 11",
+                "ratings_count": 780,
+                "rating": "4.1",
+                "sale_price": "$12.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61Iy7n2u-jL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/McAfee-AntiVirus-Protection-Antivirus-Subscription/dp/B0BB2N2YQ9/ref=zg_bs_g_software_d_sccl_23/130-4180459-9701019?psc=1"
+            },
+            {
+                "rank": 24,
+                "asin": "B09H7F77JR",
+                "name": "Microsoft Office Home & Business 2021 | Word, Excel, PowerPoint, Outlook | One-time purchase for 1 PC or Mac | Instant DownloadMicrosoftiOS, Windows, Android",
+                "ratings_count": 865,
+                "rating": "4.2",
+                "sale_price": "$229.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61hSSVPvT3L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Microsoft-Business-One-time-purchase-Download/dp/B09H7F77JR/ref=zg_bs_g_software_d_sccl_24/130-4180459-9701019?psc=1"
+            },
+            {
+                "rank": 25,
+                "asin": "B09WCTTXQ6",
+                "name": "Windows 11 Pro Upgrade, from Windows 11 Home (Digital Download)MicrosoftWindows 11",
+                "ratings_count": 520,
+                "rating": "3.8",
+                "sale_price": "$99.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61R6ivLSfrL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Windows-Upgrade-Home-Digital-Download/dp/B09WCTTXQ6/ref=zg_bs_g_software_d_sccl_25/130-4180459-9701019?psc=1"
+            },
+            {
+                "rank": 26,
+                "asin": "B076VQ4Y4J",
+                "name": "Laplink PCmover Ultimate 11 - Easily Transfer Files to New Computer - Efficient Migration of Applications from Old PC to a New PC - Data Transfer Software - Includes Optional Ethernet Cable - 1 UseLAPLINKWindows Vista / 8.1 / 8 / 10 / 11 / XP / 7",
+                "ratings_count": 5125,
+                "rating": "4.1",
+                "sale_price": "$39.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51MC+P+rEpL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Laplink-PCmover-Ultimate-Ethernet-Cable/dp/B076VQ4Y4J/ref=zg_bs_g_software_d_sccl_26/130-4180459-9701019?psc=1"
+            },
+            {
+                "rank": 27,
+                "asin": "B07VGCN1K2",
+                "name": "Norton 360 Platinum 2024, Antivirus software for 20 Devices with Auto Renewal - 3 Months FREE - Includes VPN, PC Cloud Backup & Dark Web Monitoring [Download]NortonWindows 8.1 / 10 / 11 / 7, Mac OS Sierra 10.12, Mac OS X El Capitan 10.11",
+                "ratings_count": 2090,
+                "rating": "4.4",
+                "sale_price": "$49.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71eJpfjaDLL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/EXCLUSIVE-Norton-360-Platinum-Subscription/dp/B07VGCN1K2/ref=zg_bs_g_software_d_sccl_27/130-4180459-9701019?psc=1"
+            },
+            {
+                "rank": 28,
+                "asin": "B084L8X5VV",
+                "name": "Malwarebytes | Amazon Exclusive | 18 Months, 2 Devices | PC, Mac, Android [Online Code]MalwarebytesWindows, Mac OS X, Android",
+                "ratings_count": 726,
+                "rating": "4.5",
+                "sale_price": "$39.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51ar4vgTBCL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Malwarebytes-Amazon-Exclusive-Devices-Android/dp/B084L8X5VV/ref=zg_bs_g_software_d_sccl_28/130-4180459-9701019?psc=1"
+            },
+            {
+                "rank": 29,
+                "asin": "B07Q6ZPC1Q",
+                "name": "Acrobat Pro | 1-Month Subscription | PDF Software |Convert, Edit, E-Sign, Protect |Activation Required [PC/Mac Online Code]AdobeWindows 8.1 / 10, Mac OS X",
+                "ratings_count": 1444,
+                "rating": "3.9",
+                "sale_price": "$29.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/517ul+lt2GL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/12-Month-Subscription-Software-Activation-Required/dp/B07Q6ZPC1Q/ref=zg_bs_g_software_d_sccl_29/130-4180459-9701019?psc=1"
+            },
+            {
+                "rank": 30,
+                "asin": "B09MYBD79G",
+                "name": "Microsoft OEM System Builder | Windоws 11 Pro | Intended use for new systems | Authorized by MicrosoftMicrosoftWindows 11",
+                "ratings_count": 1430,
+                "rating": "4.3",
+                "sale_price": "$142.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61p-Ylv5vtL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Microsoft-Wind%D0%BEws-Pro-OEM-DVD/dp/B09MYBD79G/ref=zg_bs_g_software_d_sccl_30/130-4180459-9701019?psc=1"
+            },
+            {
+                "rank": 31,
+                "asin": "B0CLCC3GSN",
+                "name": "TurboTax Deluxe 2023 Tax Software, Federal Tax Return [Amazon Exclusive] [PC/Mac Download]IntuitWindows 10 / 11, Mac OS Monterey 12",
+                "ratings_count": 1751,
+                "rating": "4.3",
+                "sale_price": "$59.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61LncjXdK2L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/TurboTax-Software-Federal-Exclusive-Download/dp/B0CLCC3GSN/ref=zg_bs_g_software_d_sccl_31/146-3873623-7314555?psc=1"
+            },
+            {
+                "rank": 32,
+                "asin": "B00MEO1G08",
+                "name": "Sony Movie Studio 13- 30 Day Free Trial [Download]SonyWindows 8 / 10 / 7, Windows",
+                "ratings_count": 92,
+                "rating": "3.0",
+                "sale_price": "$0.01",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/813NgbhuOdL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Sony-Movie-Studio-Trial-Download/dp/B00MEO1G08/ref=zg_bs_g_software_d_sccl_32/146-3873623-7314555?psc=1"
+            },
+            {
+                "rank": 33,
+                "asin": "B09VLYKW94",
+                "name": "Norton Utilities Ultimate – cleans and speeds up your PC, Windows PCs only [Download]NortonWindows 8.1 / 8 / 10 / 7, Windows",
+                "ratings_count": 628,
+                "rating": "4.1",
+                "sale_price": "$39.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61zuLMONS9L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Norton-Utilities-Ultimate-Windows-Download/dp/B09VLYKW94/ref=zg_bs_g_software_d_sccl_33/146-3873623-7314555?psc=1"
+            },
+            {
+                "rank": 34,
+                "asin": "B0BH5MZ7VT",
+                "name": "[Old Version] TurboTax Deluxe 2022 Tax Software, Federal and State Tax Return, [Amazon Exclusive] [PC/MAC Download]IntuitWindows 10 / 11, Mac OS Big Sur 11, Mac OS Monterey 12",
+                "ratings_count": 10845,
+                "rating": "4.3",
+                "sale_price": "$69.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71IgMkror-L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/TurboTax-Software-Federal-Exclusive-Download/dp/B0BH5MZ7VT/ref=zg_bs_g_software_d_sccl_34/146-3873623-7314555?psc=1"
+            },
+            {
+                "rank": 35,
+                "asin": "B092M5G1G7",
+                "name": "Mullvad VPN | 12 Months for 5 Devices | Protect Your Privacy with Easy-To-Use Security VPN ServiceMullvad VPNLinux, Windows, Android",
+                "ratings_count": 803,
+                "rating": "4.8",
+                "sale_price": "$57.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/31QJJ68ENgL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Mullvad-VPN-Windows-Android-SCRATCH/dp/B092M5G1G7/ref=zg_bs_g_software_d_sccl_35/146-3873623-7314555?psc=1"
+            },
+            {
+                "rank": 36,
+                "asin": "B0CJCVFLSZ",
+                "name": "H&R Block Tax Software Premium & Business 2023 with Refund Bonus Offer (Amazon Exclusive) (PC Download)H&R BlockWindows 10 / 11",
+                "ratings_count": 481,
+                "rating": "3.7",
+                "sale_price": "$76.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/512B6Ew347L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Block-Software-Business-Exclusive-Download/dp/B0CJCVFLSZ/ref=zg_bs_g_software_d_sccl_36/146-3873623-7314555?psc=1"
+            },
+            {
+                "rank": 37,
+                "asin": "B0B9VY13PM",
+                "name": "McAfee Total Protection 2024 | 3 Device | Cybersecurity Software Includes Antivirus, Secure VPN, Password Manager, Dark Web Monitoring | Key CardMcAfeeWindows 8.1 / 10 / 11, iOS, Mac OS Catalina 10.15",
+                "ratings_count": 348,
+                "rating": "4.0",
+                "sale_price": "$46.64",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71xhk2FWwNL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/McAfee-Protection-Exclusive-Monitoring-Subscription/dp/B0B9VY13PM/ref=zg_bs_g_software_d_sccl_37/146-3873623-7314555?psc=1"
+            },
+            {
+                "rank": 38,
+                "asin": "B07QFXSQFP",
+                "name": "Norton 360 Deluxe 2024, Antivirus software for 3 Devices with Auto Renewal - Includes VPN, PC Cloud Backup & Dark Web Monitoring [Key Card]NortonWindows 8.1 / 10 / 11 / 7, Mac OS Sierra 10.12, Mac OS X El Capitan 10.11",
+                "ratings_count": 2842,
+                "rating": "4.1",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71wzSyueOpL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/NEW-Norton-360-Deluxe-Monitoring/dp/B07QFXSQFP/ref=zg_bs_g_software_d_sccl_38/146-3873623-7314555?psc=1"
+            },
+            {
+                "rank": 39,
+                "asin": "B07QCVZW81",
+                "name": "Norton 360 Premium 2024, Antivirus software for 10 Devices with Auto Renewal - Includes VPN, PC Cloud Backup & Dark Web Monitoring [Key card]NortonWindows 8.1 / 10 / 11 / 7, Mac OS Sierra 10.12, Mac OS X El Capitan 10.11",
+                "ratings_count": 6514,
+                "rating": "4.4",
+                "sale_price": "$29.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71+0sewCxOL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/NEW-Norton-360-Premium-Monitoring/dp/B07QCVZW81/ref=zg_bs_g_software_d_sccl_39/146-3873623-7314555?psc=1"
+            },
+            {
+                "rank": 40,
+                "asin": "B082DZBFP7",
+                "name": "Rosetta Stone Learn UNLIMITED Languages | Lifetime Access - Learn 24 Languages | PC/Mac/iOS/Android Online CodeRosetta StoneWindows 8 / 10 / 11 / 7, Mac OS X, Android, Mac OS Catalina 10.15, Mac OS X 10.9 Mavericks",
+                "ratings_count": 1476,
+                "rating": "4.3",
+                "sale_price": "$189.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51nheJ4PQAL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Rosetta-Stone-UNLIMITED-Languages-Activation/dp/B082DZBFP7/ref=zg_bs_g_software_d_sccl_40/146-3873623-7314555?psc=1"
+            },
+            {
+                "rank": 41,
+                "asin": "B0BH5P7142",
+                "name": "[Old Version] TurboTax Home & Business 2022 Tax Software, Federal and State Tax Return, [Amazon Exclusive] [PC/MAC Download]IntuitWindows 10 / 11, Mac OS Big Sur 11, Mac OS Monterey 12",
+                "ratings_count": 3405,
+                "rating": "4.4",
+                "sale_price": "$119.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71SKL1biC-L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/TurboTax-Business-Software-Exclusive-Download/dp/B0BH5P7142/ref=zg_bs_g_software_d_sccl_41/146-3873623-7314555?psc=1"
+            },
+            {
+                "rank": 42,
+                "asin": "B07DDL3N69",
+                "name": "Webroot Internet Security Complete | Antivirus Software 2024 | 5 Device | 1 Year Download for PC/Mac/Chromebook/Android/IOS + Password Manager, Performance Optimizer and Cloud BackupWebrootWindows 8.1 / 8 / 10 / 11 / 7, Mac OS X",
+                "ratings_count": 1777,
+                "rating": "4.5",
+                "sale_price": "$29.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71dSKXXc54L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Webroot-Internet-Antivirus-Protection-Subscription/dp/B07DDL3N69/ref=zg_bs_g_software_d_sccl_42/146-3873623-7314555?psc=1"
+            },
+            {
+                "rank": 43,
+                "asin": "B092M55HJ2",
+                "name": "Mullvad VPN | 5 Devices for 6 Months | Protect Your Privacy with Easy-To-Use Security VPN ServiceMullvad VPN",
+                "ratings_count": 803,
+                "rating": "4.8",
+                "sale_price": "$29.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61+MBtXYA1L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Mullvad-VPN-Devices-Protect-Security/dp/B092M55HJ2/ref=zg_bs_g_software_d_sccl_43/146-3873623-7314555?psc=1"
+            },
+            {
+                "rank": 44,
+                "asin": "B07G8RQGHL",
+                "name": "Bitdefender Total Security 2024 – Complete Antivirus and Internet Security Suite – 5 Devices | 2 year Subscription | PC/Mac | Activation Code by MailBitdefenderWindows 8, Mac, Windows, Android",
+                "ratings_count": 3485,
+                "rating": "4.4",
+                "sale_price": "$74.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71ClkhVTSbL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Bitdefender-Total-Security-Device-license/dp/B07G8RQGHL/ref=zg_bs_g_software_d_sccl_44/146-3873623-7314555?psc=1"
+            },
+            {
+                "rank": 45,
+                "asin": "B07F3SNQT5",
+                "name": "Microsoft 365 Family | 12-Month Subscription, Up to 6 People | Word, Excel, PowerPoint | 1TB OneDrive Cloud Storage | PC/MAC Instant Download | Activation RequiredMicrosoftiOS, Windows, Android",
+                "ratings_count": 2761,
+                "rating": "4.4",
+                "sale_price": "$99.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61qISsi8rAL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/MICROSOFT-12-MONTH-SUBSCRIPTION-PowerPoint-ACTIVATION/dp/B07F3SNQT5/ref=zg_bs_g_software_d_sccl_45/146-3873623-7314555?psc=1"
+            },
+            {
+                "rank": 46,
+                "asin": "B0CJYL7JYV",
+                "name": "TurboTax Deluxe 2023 [Disc]IntuitWindows 10 / 11, Mac OS Monterey 12",
+                "ratings_count": 15086,
+                "rating": "4.4",
+                "sale_price": null,
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71Eulvi6neL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/TurboTax-Deluxe-Software-Federal-Exclusive/dp/B0CJYL7JYV/ref=zg_bs_g_software_d_sccl_46/146-3873623-7314555?psc=1"
+            },
+            {
+                "rank": 47,
+                "asin": "B07DDJRKWV",
+                "name": "Webroot Internet Security Plus | Antivirus Software 2024 | 3 Device | 1 Year Download for PC/Mac/Chromebook/Android/IOS + Password ManagerWebrootWindows 8.1 / 8 / 10 / 11 / 7, Mac OS X",
+                "ratings_count": 1131,
+                "rating": "4.2",
+                "sale_price": "$23.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71KhybsqehL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Webroot-Internet-Antivirus-Protection-Subscription/dp/B07DDJRKWV/ref=zg_bs_g_software_d_sccl_47/146-3873623-7314555?psc=1"
+            },
+            {
+                "rank": 48,
+                "asin": "B0BZ2K72LD",
+                "name": "McAfee Total Protection 2024 Ready | 3 Devices | 15 Month Subscription | Cybersecurity software includes Antivirus, Secure VPN, Password Manager, Dark Web Monitoring | Amazon Exclusive | DownloadMcAfeeiOS, Windows, Android, Mac OS Catalina 10.15",
+                "ratings_count": 306,
+                "rating": "4.4",
+                "sale_price": "$21.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61E+VTq9d9L._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/McAfee-Protection-Subscription-Antivirus-Monitoring/dp/B0BZ2K72LD/ref=zg_bs_g_software_d_sccl_48/146-3873623-7314555?psc=1"
+            },
+            {
+                "rank": 49,
+                "asin": "B0CLBPM8HZ",
+                "name": "TurboTax Basic 2023 Tax Software, Federal Tax Return [PC/Mac Download]IntuitWindows 10 / 11, Mac OS Monterey 12",
+                "ratings_count": 329,
+                "rating": "4.1",
+                "sale_price": "$39.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61dNj+m5PXL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/TurboTax-Software-Federal-Return-Download/dp/B0CLBPM8HZ/ref=zg_bs_g_software_d_sccl_49/146-3873623-7314555?psc=1"
+            },
+            {
+                "rank": 50,
+                "asin": "B0CJDF53FT",
+                "name": "H&R Block Tax Software Deluxe 2023 with Refund Bonus Offer (Amazon Exclusive) (PC/MAC Download)H&R BlockWindows 10 / 11, Mac OS Catalina 10.15",
+                "ratings_count": 829,
+                "rating": "4.2",
+                "sale_price": "$30.93",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51QHSXb9alL._AC_UL300_SR300,200_.jpg",
+                "is_prime": false,
+                "product_url": "https://www.amazon.com/Block-Software-Deluxe-Exclusive-Download/dp/B0CJDF53FT/ref=zg_bs_g_software_d_sccl_50/146-3873623-7314555?psc=1"
+            }
+        ]
+    }
+}
