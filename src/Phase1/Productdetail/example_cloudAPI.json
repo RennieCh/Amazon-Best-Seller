@@ -1,0 +1,169 @@
+{
+    "200": {
+        "asin": "B07MJL8NXR",
+        "name": "Premier Protein Shake, Chocolate, 30g Protein 1g Sugar 24 Vitamins Minerals Nutrients to Support Immune Health, 11.5 fl oz (Pack of 12)",
+        "brand": "Premier Protein",
+        "price": "$31.98",
+        "regular_price": "$31.98",
+        "total_reviews": "221,527",
+        "average_rating": 4.5,
+        "rating_histogram": {
+            "five_star": "76%",
+            "four_star": "11%",
+            "three_star": "6%",
+            "two_star": "2%",
+            "one_star": "4%"
+        },
+        "seller": "Amazon.com",
+        "seller_url": null,
+        "availability_status": "In Stock",
+        "availability_quantity": null,
+        "shipping_charge": null,
+        "is_prime": true,
+        "author": null,
+        "available_book_formats": null,
+        "is_aplus_page": true,
+        "small_description": "Chocolately goodness: Smooth and creamy, rich chocolate flavored shake; Winner of American Masters of Taste Gold Medal for SUPERIOR TASTING ready-to-drink protein beverages. - 30g of protein to help curb your hunger as a mid-day snack or for post workout recovery; includes all essential amino acids - 24 Vitamins and Minerals: Support a healthy immune system as part of a healthy diet and lifestyle (Antioxidants Vitamins C and E plus Zinc), 50 percent daily value of calcium and 30 percent daily value of Vitamin D to help maintain healthy bones - Guilt free indulgence: 1g Sugar, 5g Carbs, 160 Calories and Low Fat; Gluten Free, Keto and Bariatric Friendly, Kosher - Try all eleven (11) delicious smooth and creamy flavors: Chocolate, Vanilla, Caramel, Cookies & Cream, Cafe Latte, Strawberries & Cream, Peaches & Cream, Bananas & Cream, Cinnamon Roll, Chocolate Peanut Butter and Cake Batter Delight",
+        "full_description": "Packaged in a 11.5oz bottle, each Premier Protein Shake contains 30 grams of protein, complete with all the essential amino acids, 1g of sugar, 3-5g carbs (depending on flavor), 160 calories, 24 vitamins & minerals, and is also low in fat. We use a blend of milk protein and casein in our shakes to help fuel muscles quickly and for several hours to help support your goals. Enjoy a shake as a healthy snack, a breakfast on-the-go, an afternoon snack, or as pre- or post-workout fuel. They are delicious as is but are also highly customizable. Try blending with your favorite fruits and vegetables for a delicious smoothie or adding to cereal or oatmeal. Available in 9 delicious flavors: Cinnamon Roll, Chocolate, Vanilla, Cafe Latte, Caramel, Cookies & Cream, Strawberries & Cream, Bananas & Cream, and Peaches & Cream.",
+        "images": [
+            "https://m.media-amazon.com/images/I/719eDVmYeYL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71InoNb1aQL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71T-I-0uyPL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71zlRDiYaSL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61+Otyk74RL.jpg",
+            "https://m.media-amazon.com/images/I/917Ra0DIBOL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/714ChQyu1qL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61P7Vz1dzoL._SL1500_.jpg"
+        ],
+        "video_count": 10,
+        "productCategory": "Grocery & Gourmet Food > Beverages > Bottled Beverages, Water & Drink Mixes > Meal Replacement & Protein Drinks > Protein Drinks",
+        "url": "https://www.amazon.com/-/dp/B07MJL8NXR?_encoding=UTF8&th=1&psc=1&pf_rd_i=desktop&ref_=pd_gw_unk",
+        "attributes": "size: 11.5 Fl Oz (Pack of 12), flavor: Chocolate",
+        "size": "11.5 Fl Oz (Pack of 12)",
+        "color": null,
+        "model": "71714",
+        "product_information": {
+            "Product Dimensions": "10.13 x 7.69 x 7.25 inches; 10.7 Pounds",
+            "Item model number": "71714",
+            "UPC": "643843717140",
+            "Manufacturer": "Premier Nutrition",
+            "ASIN": "B07MJL8NXR",
+            "Country of Origin": "USA",
+            "Amazon Best Sellers Rank": "#1 in Grocery & Gourmet Food , #1 in Protein Drinks"
+        },
+        "parent_asin": "B0D4BGWTR7",
+        "variation_asin": [
+            {
+                "size_name": "11.5 Fl Oz (Pack of 12)",
+                "flavor_name": "Chocolate",
+                "asin": "B07MJL8NXR"
+            },
+            {
+                "size_name": "11.5 Fl Oz (Pack of 12)",
+                "flavor_name": "Cookies & Cream",
+                "asin": "B07MFYYZ5B"
+            },
+            {
+                "size_name": "11.5 Fl Oz (Pack of 12)",
+                "flavor_name": "Vanilla",
+                "asin": "B07MCCVZYC"
+            },
+            {
+                "size_name": "11.5 Fl Oz (Pack of 12)",
+                "flavor_name": "Chocolate Peanut Butter",
+                "asin": "B08SRSRN7G"
+            },
+            {
+                "size_name": "11.5 Fl Oz (Pack of 12)",
+                "flavor_name": "Cafe Latte",
+                "asin": "B07W8KHTGL"
+            },
+            {
+                "size_name": "11.5 Fl Oz (Pack of 12)",
+                "flavor_name": "Root Beer Float",
+                "asin": "B09VX8WLQQ"
+            },
+            {
+                "size_name": "11.5 Fl Oz (Pack of 12)",
+                "flavor_name": "Caramel",
+                "asin": "B07MJL8TPK"
+            },
+            {
+                "size_name": "11.5 Fl Oz (Pack of 12)",
+                "flavor_name": "Pumpkin Spice",
+                "asin": "B07W6B8ZLZ"
+            },
+            {
+                "size_name": "11.5 Fl Oz (Pack of 12)",
+                "flavor_name": "Cookie Dough",
+                "asin": "B0CK9QNYZW"
+            },
+            {
+                "size_name": "11.5 Fl Oz (Pack of 12)",
+                "flavor_name": "Cake Batter",
+                "asin": "B09B155JX8"
+            },
+            {
+                "size_name": "11.5 Fl Oz (Pack of 12)",
+                "flavor_name": "Mint Chocolate",
+                "asin": "B0CZ4KLN8Q"
+            },
+            {
+                "size_name": "11.5 Fl Oz (Pack of 12)",
+                "flavor_name": "Banana",
+                "asin": "B07ZP4FZNF"
+            },
+            {
+                "size_name": "11.5 Fl Oz (Pack of 12)",
+                "flavor_name": "Cinnamon Roll",
+                "asin": "B08FY6SCR8"
+            },
+            {
+                "size_name": "11.5 Fl Oz (Pack of 12)",
+                "flavor_name": "Strawberries & Cream",
+                "asin": "B07ZP461TY"
+            },
+            {
+                "size_name": "11.5 Fl Oz (Pack of 12)",
+                "flavor_name": "Peaches & Cream",
+                "asin": "B07ZP4HBXS"
+            }
+        ],
+        "product_variations": {
+            "size_name": [
+                "11.5 Fl Oz (Pack of 12)"
+            ],
+            "flavor_name": [
+                "Banana",
+                "Cafe Latte",
+                "Cake Batter",
+                "Caramel",
+                "Chocolate",
+                "Chocolate Peanut Butter",
+                "Cinnamon Roll",
+                "Cookie Dough",
+                "Cookies & Cream",
+                "Mint Chocolate",
+                "Peaches & Cream",
+                "Pumpkin Spice",
+                "Root Beer Float",
+                "Strawberries & Cream",
+                "Vanilla"
+            ]
+        },
+        "product_condition": "new",
+        "frequently_bought_together": [
+            {
+                "title": "Premier Protein, Protein Shake, 8 Flavor Variety Pack, 30g Protein, 1g Sugar, 24 Vitamins & Minerals, Nutrients to Support Immune Health 11.5 Fl Oz (8 Pack)",
+                "link": "https://www.amazon.com/Premier-Protein-Vitamins-Minerals-Nutrients/dp/B08Y73HJF4/ref=pd_bxgy_d_sccl_1/000-0000000-0000000?pd_rd_w=DylQX&content-id=amzn1.sym.3858a394-39a9-4946-90e6-86a3153d2546&pf_rd_p=3858a394-39a9-4946-90e6-86a3153d2546&pf_rd_r=ECSAXPV4NCFF19DQ3D7J&pd_rd_wg=QGsra&pd_rd_r=8f92b34b-f06c-4060-903f-a43cbdf29665&pd_rd_i=B08Y73HJF4&psc=1",
+                "price": "$27.98"
+            },
+            {
+                "title": "Premier Protein Shake, Limited Edition Root Beer Float, 30g Protein, 1g Supar, 24 Vitamins & Minerals, Nutrients to Support Immune Health, 11.5 oz, 12 Pack - Artwork Case, Packaging May Vary",
+                "link": "https://www.amazon.com/Premier-Protein-Vitamins-Minerals-Nutrients/dp/B0DF44CLY8/ref=pd_bxgy_d_sccl_2/000-0000000-0000000?pd_rd_w=DylQX&content-id=amzn1.sym.3858a394-39a9-4946-90e6-86a3153d2546&pf_rd_p=3858a394-39a9-4946-90e6-86a3153d2546&pf_rd_r=ECSAXPV4NCFF19DQ3D7J&pd_rd_wg=QGsra&pd_rd_r=8f92b34b-f06c-4060-903f-a43cbdf29665&pd_rd_i=B0DF44CLY8&psc=1",
+                "price": "$22.39"
+            }
+        ],
+        "product_badges": []
+    }
+}
