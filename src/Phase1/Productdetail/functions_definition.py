@@ -1,9 +1,9 @@
+import os
 import pandas as pd
 import requests
 import http.client
 import json
 import time
-import os
 
 def extract_unique_asins(csv_file_path):
     """
@@ -16,12 +16,8 @@ def extract_unique_asins(csv_file_path):
         list: A list of unique 'asin' values.
     """
     try:
-        # Read the CSV file into a Pandas DataFrame
         df = pd.read_csv(csv_file_path)
-        
-        # Check if 'asin' column exists
         if 'asin' in df.columns:
-            # Extract unique ASINs from the 'asin' column
             unique_asins = df['asin'].unique().tolist()
             return unique_asins
         else:
@@ -29,6 +25,7 @@ def extract_unique_asins(csv_file_path):
             return []
     except FileNotFoundError:
         print(f"Error: The file {csv_file_path} does not exist.")
+        return []
     except Exception as e:
         print(f"An error occurred: {e}")
         return []
@@ -42,38 +39,24 @@ def get_product_details(asin, api_key):
         api_key (str): The API key for authentication.
     
     Returns:
-        dict: The product details as a Python dictionary (parsed from the JSON response).
+        dict: The product details as a Python dictionary (parsed from the JSON response), or None if failed.
     """
     try:
-        # Establish HTTPS connection
         conn = http.client.HTTPSConnection("get.scrapehero.com")
-        
-        # Build the URL with query parameters
         url = f"/amz/product-details/?x-api-key={api_key}&asin={asin}&country_code=US"
-        
-        # Make the GET request
         conn.request("GET", url)
-        
-        # Get the response
         res = conn.getresponse()
-        
-        # Check if the request was successful
+
         if res.status == 200:
-            # Read and decode the response
             data = res.read().decode("utf-8")
-            
-            # Close the connection
             conn.close()
-            
-            # Parse the response as JSON and return it
             return json.loads(data)
         else:
-            print(f"Error: Request failed with status code {res.status}")
+            print(f"Error: Request failed with status code {res.status} for ASIN {asin}.")
             return None
     except Exception as e:
-        print(f"An error occurred: {e}")
+        print(f"An error occurred with ASIN {asin}: {e}")
         return None
-
 
 def json_to_dataframe(json_dict):
     """
@@ -86,137 +69,91 @@ def json_to_dataframe(json_dict):
     Returns:
         pd.DataFrame: A Pandas DataFrame containing the product details with 'product_information' nested.
     """
-    # Flattening the 'rating_histogram' into the main dictionary but keeping 'product_information' as is
     rating_histogram = json_dict.pop('rating_histogram', {})
-    
-    # Add the rating histogram keys to the main dictionary
     flattened_data = {**json_dict, **rating_histogram}
-    
-    # Keep 'product_information' as a nested dictionary inside the DataFrame
     flattened_data['product_information'] = json_dict.get('product_information', {})
-    
-    # Convert the flattened data into a DataFrame with one row
     df = pd.DataFrame([flattened_data])
-    
     return df
 
-def get_all_product_details(api_key, unique_asins):
+def get_asin_batch_details(api_key, asin_batch, output_file_name, output_path):
     """
-    This function processes a list of ASINs, retrieves product details via the API,
-    and concatenates all the data into a single DataFrame.
+    This function processes a batch of ASINs (up to 20), retrieves product details via the API,
+    and exports the results to a CSV file once the batch is completed.
     
     Parameters:
         api_key (str): The API key for authentication.
-        unique_asins (list): A list of unique ASINs to retrieve product details for.
-    
-    Returns:
-        pd.DataFrame: A concatenated DataFrame containing product details for all ASINs.
+        asin_batch (list): A batch of ASINs (max 20) to retrieve product details for.
+        output_file_name (str): The name of the output CSV file.
+        output_path (str): The directory where the CSV file will be saved.
     """
-    dataframes = []  # List to store individual DataFrames
-    count = 0  # Track the number of requests made
-    
-    for asin in unique_asins:
-        # Get product details using the API
+    dataframes = []
+    errors = []
+
+    for asin in asin_batch:
         product_details = get_product_details(asin, api_key)
         
         if product_details:
-            # Convert the JSON data to a DataFrame
             df = json_to_dataframe(product_details)
-            dataframes.append(df)  # Append the DataFrame to the list
-        
-        # Increment the request count and sleep if limit is reached
-        count += 1
-        if count % 50 == 0:
-            print("Reached 50 requests. Sleeping for 60 seconds...")
-            time.sleep(60)  # Sleep for 60 seconds to avoid exceeding the request limit
+            dataframes.append(df)
+        else:
+            errors.append(asin)  # Track ASINs that encountered errors
     
-    # Concatenate all DataFrames into one
+    # If we got any data, concatenate and export to CSV
     if dataframes:
         final_df = pd.concat(dataframes, ignore_index=True)
-        return final_df
+        if not os.path.exists(output_path):
+            os.makedirs(output_path)
+        output_file = os.path.join(output_path, output_file_name)
+        final_df.to_csv(output_file, index=False)
+        print(f"Data for batch saved to {output_file}")
     else:
-        print("No product details were retrieved.")
-        return pd.DataFrame()  # Return an empty DataFrame if no data
+        print("No product details were retrieved for this batch.")
+    
+    # Report any ASINs that failed
+    if errors:
+        print(f"The following ASINs encountered errors and were not processed: {errors}")
 
-def export_dataframe_to_csv(dataframe, file_name, destination_path):
+def process_asin_batches(api_key, unique_asins, start_index, batch_size=20, output_path=None, output_file_name=None):
     """
-    This function exports a given Pandas DataFrame to a CSV file at the specified destination path.
+    Processes ASINs in batches of 20, retrieves product details, and saves the result to a CSV file.
     
     Parameters:
-        dataframe (pd.DataFrame): The Pandas DataFrame to be exported.
-        file_name (str): The name of the output CSV file. For example "output.csv"
-        destination_path (str): The directory where the CSV file should be saved. For example "src/Output"
+        api_key (str): The API key for the product details API.
+        unique_asins (list): A list of unique ASINs.
+        start_index (int): The starting index for the batch of ASINs.
+        batch_size (int): The size of each batch, defaults to 20.
+        output_path (str): The directory where the CSV file will be saved (default: src/Phase1/Productdetail).
+        output_file_name (str): The name of the output CSV file (optional, generated automatically if not provided).
     
     Returns:
-        str: The full path of the saved CSV file.
+        None
     """
-    # Ensure the destination path exists, create it if not
-    if not os.path.exists(destination_path):
-        os.makedirs(destination_path)
+    # Determine the batch of ASINs to process
+    asin_batch = unique_asins[start_index:start_index + batch_size]
+
+    # If no ASINs to process, exit
+    if len(asin_batch) == 0:
+        print("No more ASINs to process.")
+        return
     
-    # Construct the full file path
-    file_path = os.path.join(destination_path, file_name)
+    # Default output path if not provided
+    if output_path is None:
+        output_path = "src/Phase1/Productdetail"
+
+    # Ensure the output directory exists
+    if not os.path.exists(output_path):
+        os.makedirs(output_path)
+
+    # Generate the default file name if not provided
+    if output_file_name is None:
+        output_file_name = f"productdetails_batch_{start_index + 1}_to_{start_index + len(asin_batch)}.csv"
     
-    # Export the DataFrame to CSV
-    try:
-        dataframe.to_csv(file_path, index=False)  # `index=False` to avoid saving the index as a column
-        print(f"DataFrame exported successfully to {file_path}")
-    except Exception as e:
-        print(f"An error occurred while exporting the DataFrame: {e}")
+    # Full path to the output file
+    output_file = os.path.join(output_path, output_file_name)
 
-def export_dataframe_to_csv(dataframe, file_name, destination_path):
-    """
-    This function exports a given Pandas DataFrame to a CSV file at the specified destination path.
-    
-    Parameters:
-        dataframe (pd.DataFrame): The Pandas DataFrame to be exported.
-        file_name (str): The name of the output CSV file. For example "output.csv"
-        destination_path (str): The directory where the CSV file should be saved. For example "src/Output"
-    
-    Returns:
-        str: The full path of the saved CSV file.
-    """
-    # Ensure the destination path exists, create it if not
-    if not os.path.exists(destination_path):
-        os.makedirs(destination_path)
-    
-    # Construct the full file path
-    file_path = os.path.join(destination_path, file_name)
-    
-    # Export the DataFrame to CSV
-    try:
-        dataframe.to_csv(file_path, index=False)  # `index=False` to avoid saving the index as a column
-        print(f"DataFrame exported successfully to {file_path}")
-    except Exception as e:
-        print(f"An error occurred while exporting the DataFrame: {e}")
+    print(f"Processing ASINs from index {start_index} to {start_index + len(asin_batch)}...")
+    print(f"Output will be saved to {output_file}")
 
+    # Process the batch of ASINs and save the result to the output file
+    get_asin_batch_details(api_key, asin_batch, output_file_name, output_path)
 
-"""
-# Example usage with a small list of ASINs to test the function
-test_asins = ['B0CJM1GNFQ', 'B0B1N5FK48', 'B08C1W5N87']
-api_key = "7EUuD86LmdAoJv9KvezY5AxGcLNlCkNY"  # Replace with your actual API key
-
-# Test the function with the 3 ASINs
-test_dataframe = get_all_product_details(api_key, test_asins)
-
-# Display the resulting DataFrame
-print(test_dataframe.head())
-"""
-
-
-"""
-# Example usage
-api_key = "7EUuD86LmdAoJv9KvezY5AxGcLNlCkNY"  # Replace with your actual API key
-asin = "B079Y45KTJ"  # Replace with the ASIN you want to query
-
-product_details = get_product_details(asin, api_key)
-print(product_details)
-"""
-
-
-"""
-# Example usage
-csv_file_path = 'src/Phase1/Bestsellers/bestsellers.csv'
-unique_asins = extract_unique_asins(csv_file_path)
-print(f"Unique ASINs: {unique_asins}")
-"""
