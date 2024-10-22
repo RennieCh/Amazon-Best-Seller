@@ -3,7 +3,7 @@ from functions_definition import extract_unique_asins, process_asin_batches
 
 # Paths and API key
 csv_file_path = 'src/Phase1/Bestsellers/bestsellers.csv'  # Path to the CSV file with ASINs
-api_key = ""  # My API key
+api_key = ""  # My api key is removed after the data are retreived
 
 # Step 1: Extract unique ASINs from the CSV
 unique_asins = extract_unique_asins(csv_file_path)
@@ -30,6 +30,7 @@ else:
     output_file_name = "productdetails_batch_21_to_40.csv"
     process_asin_batches(api_key, unique_asins, start_index, output_path=output_path, output_file_name=output_file_name)
     """
+
 
     """
     # For the 3rd batch
