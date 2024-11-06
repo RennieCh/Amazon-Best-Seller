@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a web app (Dashboard) that displays the most recent best-selling products across 40 categories from Amazon. The dashboard aims to make it easier for shoppers to browse and analyze bestsellers by summarizing and presenting products with high ratings (four and five stars). The data is collected using APIs, aggregated into a unified format, and displayed in a user-friendly interface.
+This project is a web app (Dashboard) that displays the most recent best-selling products across 36 categories from Amazon. The dashboard aims to make it easier for shoppers to browse and analyze bestsellers by summarizing and presenting products with high ratings (four and five stars). The data is collected using APIs, aggregated into a unified format, and displayed in a user-friendly interface.
 
 The dashboard is built using **React** and styled with **HTML** and **CSS**. It provides insights into product popularity and trends across different categories, enabling users to make informed shopping decisions.
 
@@ -24,7 +24,7 @@ The dashboard is built using **React** and styled with **HTML** and **CSS**. It 
   - Home & Kitchen
   - And many more (40 categories in total).
 
-- **ASIN Data API**: Each product's ASIN is used to pull detailed product-specific information from the ASIN Data API.
+- **ScrapeHero API**: Each product's ASIN is used to pull detailed product-specific information also from the ScrapeHero API.
 
 ## Features
 
@@ -69,4 +69,4 @@ It correctly bundles React in production mode and optimizes the build for the be
 ## Learn More
 
 To learn more about React, check out the [React documentation](https://reactjs.org/).\
-To learn more about the APIs used, check out the [ScrapeHero API](https://app.scrapehero.com/home) and [ASIN Data API](https://app.asindataapi.com/playground).
+To learn more about the APIs used, check out the [ScrapeHero API](https://app.scrapehero.com/home).
