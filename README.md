@@ -61,8 +61,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 ## Technologies Used
 
 - **React**: A JavaScript library for building user interfaces.
-- **ScrapeHero API**: For collecting best-seller data.
-- **ASIN Data API**: For fetching detailed product information using ASINs.
+- **ScrapeHero API**: For collecting best-seller data and fetching detailed product information.
 - **HTML/CSS**: For building and styling the user interface.
 - **GitHub**: For version control and collaboration.
 
