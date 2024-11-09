@@ -47,8 +47,7 @@ const WordCloudComponent: React.FC = () => {
 
     // Custom font size mapper
     const fontSizeMapper = (word: WordData, index: number) => {
-        // Make top 10 items significantly larger
-        return index < 10 ? word.value * 1.5 : word.value * 1;
+        return index < 10 ? word.value * 1.5 : word.value * 1; // Larger size for top 10
     };
 
     const renderWordCloud = (data: WordData[]) => (
@@ -63,33 +62,92 @@ const WordCloudComponent: React.FC = () => {
         />
     );
 
+    useEffect(() => {
+        const bootstrap = require('bootstrap');
+        const carouselElement = document.getElementById('wordCloudCarousel');
+        if (carouselElement) {
+            new bootstrap.Carousel(carouselElement, {
+                interval: 3000,
+                ride: 'carousel',
+            });
+        }
+    }, []);
+
     return (
-        <div className="container mt-4">
-            <h3 className="mb-4">Amazon Best Sellers Word Clouds</h3>
+        <div className="container mt-5">
+            <h3 className="mb-4 text-center">Amazon Best Sellers Word Clouds</h3>
 
-            {/* Single Words Word Cloud */}
-            <div className="row mb-5">
-                <div className="col-12">
-                    <h5>Single Words</h5>
-                    {renderWordCloud(singleWords)}
+            <div id="wordCloudCarousel" className="carousel slide" data-bs-ride="carousel" style={{ position: 'relative' }}>
+                {/* Carousel Indicators */}
+                <div className="carousel-indicators">
+                    <button type="button" data-bs-target="#wordCloudCarousel" data-bs-slide-to="0" className="active" aria-label="Single Words"></button>
+                    <button type="button" data-bs-target="#wordCloudCarousel" data-bs-slide-to="1" aria-label="Pair Words"></button>
+                    <button type="button" data-bs-target="#wordCloudCarousel" data-bs-slide-to="2" aria-label="Triple Words"></button>
                 </div>
+
+                {/* Carousel Inner */}
+                <div className="carousel-inner">
+                    {/* Single Words Word Cloud */}
+                    <div className="carousel-item active">
+                        {renderWordCloud(singleWords)}
+                    </div>
+                    {/* Pair Words Word Cloud */}
+                    <div className="carousel-item">
+                        {renderWordCloud(pairWords)}
+                    </div>
+                    {/* Triple Words Word Cloud */}
+                    <div className="carousel-item">
+                        {renderWordCloud(tripleWords)}
+                    </div>
+                </div>
+
+                {/* Previous Button */}
+                <button
+                    className="carousel-control-prev"
+                    type="button"
+                    data-bs-target="#wordCloudCarousel"
+                    data-bs-slide="prev"
+                    style={{
+                        position: 'absolute',
+                        bottom: '50px', // Adjust this value to move the button lower
+                        left: '20px',
+                        display: 'flex',
+                        alignItems: 'center',
+                        justifyContent: 'center',
+                        width: '50px',
+                        height: '50px',
+                        backgroundColor: 'rgba(0, 0, 0, 0.5)',
+                        borderRadius: '50%',
+                    }}
+                >
+                    <span className="carousel-control-prev-icon" aria-hidden="true" style={{ filter: 'invert(1)' }}></span>
+                    <span className="visually-hidden">Previous</span>
+                </button>
+
+                {/* Next Button */}
+                <button
+                    className="carousel-control-next"
+                    type="button"
+                    data-bs-target="#wordCloudCarousel"
+                    data-bs-slide="next"
+                    style={{
+                        position: 'absolute',
+                        bottom: '50px', // Adjust this value to move the button lower
+                        right: '20px',
+                        display: 'flex',
+                        alignItems: 'center',
+                        justifyContent: 'center',
+                        width: '50px',
+                        height: '50px',
+                        backgroundColor: 'rgba(0, 0, 0, 0.5)',
+                        borderRadius: '50%',
+                    }}
+                >
+                    <span className="carousel-control-next-icon" aria-hidden="true" style={{ filter: 'invert(1)' }}></span>
+                    <span className="visually-hidden">Next</span>
+                </button>
             </div>
 
-            {/* Pair Words Word Cloud */}
-            <div className="row mb-5">
-                <div className="col-12">
-                    <h5>Pair Words</h5>
-                    {renderWordCloud(pairWords)}
-                </div>
-            </div>
-
-            {/* Triple Words Word Cloud */}
-            <div className="row mb-5">
-                <div className="col-12">
-                    <h5>Triple Words</h5>
-                    {renderWordCloud(tripleWords)}
-                </div>
-            </div>
         </div>
     );
 };
