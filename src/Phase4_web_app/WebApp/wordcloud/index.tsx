@@ -25,14 +25,15 @@ const WordCloudComponent: React.FC = () => {
             header: true,
             skipEmptyLines: true,
             complete: (results) => {
-                const words: WordData[] = results.data
+                const words = results.data
                     .map((item: any) => ({
                         text: item.word,
-                        value: parseInt(item.count, 10) + 50, // Adjust value to control font size
+                        value: parseInt(item.count, 10),
                     }))
                     .filter((item: WordData) => !isNaN(item.value))
                     .sort((a: WordData, b: WordData) => b.value - a.value)
-                    .slice(0, 250); // Select top 30 words
+                    .slice(0, 250); // Select top 250 words
+
                 setData(words);
             },
         });
@@ -44,19 +45,33 @@ const WordCloudComponent: React.FC = () => {
         loadCSV('/database/triple_words.csv', setTripleWords);
     }, []);
 
+    // Custom font size mapper
+    const fontSizeMapper = (word: WordData, index: number) => {
+        // Make top 10 items significantly larger
+        return index < 10 ? word.value * 1.5 : word.value * 1;
+    };
+
+    const renderWordCloud = (data: WordData[]) => (
+        <WordCloud
+            data={data}
+            width={1000}
+            height={600}
+            fontWeight="bold"
+            font={(word) => 'Arial'}
+            fontSize={fontSizeMapper}
+            rotate={() => 0} // No rotation
+        />
+    );
+
     return (
         <div className="container mt-4">
             <h3 className="mb-4">Amazon Best Sellers Word Clouds</h3>
-            
+
             {/* Single Words Word Cloud */}
             <div className="row mb-5">
                 <div className="col-12">
                     <h5>Single Words</h5>
-                    <WordCloud
-                        data={singleWords}
-                        width={1000}
-                        height={600}
-                    />
+                    {renderWordCloud(singleWords)}
                 </div>
             </div>
 
@@ -64,11 +79,7 @@ const WordCloudComponent: React.FC = () => {
             <div className="row mb-5">
                 <div className="col-12">
                     <h5>Pair Words</h5>
-                    <WordCloud
-                        data={pairWords}
-                        width={1000}
-                        height={600}
-                    />
+                    {renderWordCloud(pairWords)}
                 </div>
             </div>
 
@@ -76,11 +87,7 @@ const WordCloudComponent: React.FC = () => {
             <div className="row mb-5">
                 <div className="col-12">
                     <h5>Triple Words</h5>
-                    <WordCloud
-                        data={tripleWords}
-                        width={1000}
-                        height={600}
-                    />
+                    {renderWordCloud(tripleWords)}
                 </div>
             </div>
         </div>
