@@ -11,6 +11,7 @@
     "@types/react": "^18.3.11",
     "@types/react-dom": "^18.3.1",
     "bootstrap": "^5.3.3",
+    "d3": "^7.9.0",
     "datatables.net": "^2.1.8",
     "datatables.net-bs5": "^2.1.8",
     "jquery": "^3.7.1",
@@ -50,6 +51,7 @@
     ]
   },
   "devDependencies": {
+    "@types/d3": "^7.4.3",
     "@types/jquery": "^3.5.32",
     "@types/papaparse": "^5.3.15"
   }
