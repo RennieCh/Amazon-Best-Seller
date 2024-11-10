@@ -1,686 +1,622 @@
 {
     "200": {
-        "category": "Amazon Best SellersSports Collectibles",
+        "category": "Amazon Best SellersTools & Home Improvement",
         "category_hierarchy": [
             {
                 "name": "Any Department",
-                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_sports-collectibles_0_1"
+                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_hi_0_1"
             },
             {
-                "name": "Sports Collectibles",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles/zgbs/sports-collectibles/ref=zg_bs_nav_sports-collectibles_0?pg=1"
+                "name": "Tools & Home Improvement",
+                "url": "https://www.amazon.com/Best-Sellers-Tools-Home-Improvement/zgbs/hi/ref=zg_bs_nav_hi_0?pg=1"
             }
         ],
         "child_categories": [
             {
-                "category": "Balls",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Balls/zgbs/sports-collectibles/3311044011/ref=zg_bs_nav_sports-collectibles_1"
+                "category": "Air Tools",
+                "url": "https://www.amazon.com/Best-Sellers-Tools-Home-Improvement-Air-Powered-Tools/zgbs/hi/120225786011/ref=zg_bs_nav_hi_1"
             },
             {
-                "category": "Baseball Bases",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Baseball-Bases/zgbs/sports-collectibles/5395827011/ref=zg_bs_nav_sports-collectibles_1"
+                "category": "Appliances",
+                "url": "https://www.amazon.com/Best-Sellers-Tools-Home-Improvement-Home-Appliances/zgbs/hi/13397451/ref=zg_bs_nav_hi_1"
             },
             {
-                "category": "Bats",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Bats/zgbs/sports-collectibles/3311045011/ref=zg_bs_nav_sports-collectibles_1"
+                "category": "Building Supplies",
+                "url": "https://www.amazon.com/Best-Sellers-Tools-Home-Improvement-Building-Supplies/zgbs/hi/551240/ref=zg_bs_nav_hi_1"
             },
             {
-                "category": "Bobbleheads",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Bobbleheads/zgbs/sports-collectibles/3311046011/ref=zg_bs_nav_sports-collectibles_1"
+                "category": "Electrical",
+                "url": "https://www.amazon.com/Best-Sellers-Tools-Home-Improvement-Electrical-Equipment/zgbs/hi/495266/ref=zg_bs_nav_hi_1"
             },
             {
-                "category": "Books",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Books/zgbs/sports-collectibles/3311047011/ref=zg_bs_nav_sports-collectibles_1"
+                "category": "Hardware",
+                "url": "https://www.amazon.com/Best-Sellers-Tools-Home-Improvement-Hardware/zgbs/hi/511228/ref=zg_bs_nav_hi_1"
             },
             {
-                "category": "Clothing & Uniforms",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Clothing-Uniforms/zgbs/sports-collectibles/7702506011/ref=zg_bs_nav_sports-collectibles_1"
+                "category": "Kitchen & Bath Fixtures",
+                "url": "https://www.amazon.com/Best-Sellers-Tools-Home-Improvement-Kitchen-Bath-Fixtures/zgbs/hi/3754161/ref=zg_bs_nav_hi_1"
             },
             {
-                "category": "Cut Signatures",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Memorabilia-Cut-Signatures/zgbs/sports-collectibles/5931158011/ref=zg_bs_nav_sports-collectibles_1"
+                "category": "Lighting & Ceiling Fans",
+                "url": "https://www.amazon.com/Best-Sellers-Tools-Home-Improvement-Lighting-Ceiling-Fans/zgbs/hi/495224/ref=zg_bs_nav_hi_1"
             },
             {
-                "category": "Diecast Cars",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Diecast-Cars/zgbs/sports-collectibles/7702514011/ref=zg_bs_nav_sports-collectibles_1"
+                "category": "Measuring & Layout Tools",
+                "url": "https://www.amazon.com/Best-Sellers-Tools-Home-Improvement-Measuring-Layout/zgbs/hi/553244/ref=zg_bs_nav_hi_1"
             },
             {
-                "category": "Figurines",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Figurines/zgbs/sports-collectibles/7702516011/ref=zg_bs_nav_sports-collectibles_1"
+                "category": "Paint, Wall Treatments & Supplies",
+                "url": "https://www.amazon.com/Best-Sellers-Tools-Home-Improvement-Paint-Wall-Treatments-Supplies/zgbs/hi/228899/ref=zg_bs_nav_hi_1"
             },
             {
-                "category": "Flags & Banners",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Flags-Banners/zgbs/sports-collectibles/3311048011/ref=zg_bs_nav_sports-collectibles_1"
+                "category": "Plumbing",
+                "url": "https://www.amazon.com/Best-Sellers-Tools-Home-Improvement-Pumps-Plumbing-Equipment/zgbs/hi/13749581/ref=zg_bs_nav_hi_1"
             },
             {
-                "category": "Gloves",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Gloves/zgbs/sports-collectibles/3311051011/ref=zg_bs_nav_sports-collectibles_1"
+                "category": "Power & Hand Tools",
+                "url": "https://www.amazon.com/Best-Sellers-Tools-Home-Improvement-Power-Tools-Hand-Tools/zgbs/hi/328182011/ref=zg_bs_nav_hi_1"
             },
             {
-                "category": "Golf Clubs",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Golf-Clubs/zgbs/sports-collectibles/3311052011/ref=zg_bs_nav_sports-collectibles_1"
+                "category": "Safety & Security",
+                "url": "https://www.amazon.com/Best-Sellers-Tools-Home-Improvement-Safety-Security/zgbs/hi/3180231/ref=zg_bs_nav_hi_1"
             },
             {
-                "category": "Hats",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Hats/zgbs/sports-collectibles/3311053011/ref=zg_bs_nav_sports-collectibles_1"
-            },
-            {
-                "category": "Helmets",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Helmets/zgbs/sports-collectibles/3311054011/ref=zg_bs_nav_sports-collectibles_1"
-            },
-            {
-                "category": "Hockey Pucks",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Hockey-Pucks/zgbs/sports-collectibles/3311057011/ref=zg_bs_nav_sports-collectibles_1"
-            },
-            {
-                "category": "Hockey Sticks & Blades",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Hockey-Sticks-Blades/zgbs/sports-collectibles/3311058011/ref=zg_bs_nav_sports-collectibles_1"
-            },
-            {
-                "category": "Jerseys",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Jerseys/zgbs/sports-collectibles/3311061011/ref=zg_bs_nav_sports-collectibles_1"
-            },
-            {
-                "category": "Lineup Cards",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Lineup-Cards/zgbs/sports-collectibles/5395826011/ref=zg_bs_nav_sports-collectibles_1"
-            },
-            {
-                "category": "Magazines",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Magazines/zgbs/sports-collectibles/3311062011/ref=zg_bs_nav_sports-collectibles_1"
-            },
-            {
-                "category": "Personal Checks",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Personal-Checks/zgbs/sports-collectibles/5395829011/ref=zg_bs_nav_sports-collectibles_1"
-            },
-            {
-                "category": "Photographs",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Photographs/zgbs/sports-collectibles/3311063011/ref=zg_bs_nav_sports-collectibles_1"
-            },
-            {
-                "category": "Postcards & Index Cards",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Postcards-Index-Cards/zgbs/sports-collectibles/3311064011/ref=zg_bs_nav_sports-collectibles_1"
-            },
-            {
-                "category": "Prints & Posters",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Prints-Posters/zgbs/sports-collectibles/3311067011/ref=zg_bs_nav_sports-collectibles_1"
-            },
-            {
-                "category": "Publications & Media",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Publications-Media/zgbs/sports-collectibles/7702507011/ref=zg_bs_nav_sports-collectibles_1"
-            },
-            {
-                "category": "Shoes",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Shoes/zgbs/sports-collectibles/3311068011/ref=zg_bs_nav_sports-collectibles_1"
-            },
-            {
-                "category": "Stadium Components",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Stadium-Components/zgbs/sports-collectibles/5395825011/ref=zg_bs_nav_sports-collectibles_1"
-            },
-            {
-                "category": "Ticket Stubs",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Ticket-Stubs/zgbs/sports-collectibles/3311069011/ref=zg_bs_nav_sports-collectibles_1"
-            },
-            {
-                "category": "Trading Cards",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Collectible-Sports-Trading-Cards/zgbs/sports-collectibles/3311070011/ref=zg_bs_nav_sports-collectibles_1"
-            },
-            {
-                "category": "Trophies",
-                "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles-Sports-Collectible-Trophies/zgbs/sports-collectibles/5395823011/ref=zg_bs_nav_sports-collectibles_1"
+                "category": "Storage & Home Organization",
+                "url": "https://www.amazon.com/Best-Sellers-Tools-Home-Improvement-Home-Storage-Organization/zgbs/hi/13400631/ref=zg_bs_nav_hi_1"
             }
         ],
-        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/Best-Sellers-Sports-Collectibles/zgbs/sports-collectibles/ref%3Dzg_bs_pg_2_sports-collectibles%3F_encoding%3DUTF8%26pg%3D2",
-        "url": "https://www.amazon.com/Best-Sellers-Sports-Collectibles/zgbs/sports-collectibles/ref=zg_bs_nav_sports-collectibles_0?pg=1",
+        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/Best-Sellers-Tools-Home-Improvement/zgbs/hi/ref%3Dzg_bs_pg_2_hi%3F_encoding%3DUTF8%26pg%3D2",
+        "url": "https://www.amazon.com/Best-Sellers-Tools-Home-Improvement/zgbs/hi/ref=zg_bs_nav_hi_0?pg=1",
         "product_listings": [
             {
                 "rank": 1,
-                "asin": "B0DHDD6X8R",
-                "name": "2024 Panini Score Football NFL Trading Card Blaster Box",
-                "ratings_count": 5,
-                "rating": "4.1",
-                "sale_price": "$33.50",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71lGFzE7xgL._AC_UL300_SR300,200_.jpg",
+                "asin": "B00UXG4WR8",
+                "name": "everydrop by Whirlpool Ice and Water Refrigerator Filter 1, EDR1RXD1, Single-Pack , Purple",
+                "ratings_count": 99572,
+                "rating": "4.7",
+                "sale_price": "$59.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41ENMmwPWqL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Panini-Score-Football-Trading-Blaster/dp/B0DHDD6X8R/ref=zg_bs_g_sports-collectibles_d_sccl_1/135-4766424-6544615?psc=1"
+                "product_url": "https://www.amazon.com/Homall-everydrop-Refrigerator-EDR1RXD1-Single-Pack/dp/B00UXG4WR8/ref=zg_bs_g_hi_d_sccl_1/132-4919864-3079205?psc=1"
             },
             {
                 "rank": 2,
-                "asin": "B0D98TP9PQ",
-                "name": "2024 Topps Baseball Complete Set Factory Sealed Box Set - Baseball Complete Sets",
-                "ratings_count": 10,
-                "rating": "5.0",
+                "asin": "B08SG2MS3V",
+                "name": "Blink Video Doorbell | Two-way audio, HD video, motion and chime app alerts and Alexa enabled — wired or wire-free (Black)",
+                "ratings_count": 150355,
+                "rating": "4.2",
                 "sale_price": "$59.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71jVkkMCIiL._AC_UL300_SR300,200_.jpg",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41te-uzWxDL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Topps-Baseball-Complete-Factory-Sealed/dp/B0D98TP9PQ/ref=zg_bs_g_sports-collectibles_d_sccl_2/135-4766424-6544615?psc=1"
+                "product_url": "https://www.amazon.com/Blink-Video-Doorbell/dp/B08SG2MS3V/ref=zg_bs_g_hi_d_sccl_2/132-4919864-3079205?psc=1"
             },
             {
                 "rank": 3,
-                "asin": "B0DD5KSQ6Z",
-                "name": "2024 Panini NFL Score-A-Treat Football Halloween Bundle 40 Packs",
-                "ratings_count": 9,
-                "rating": "3.9",
-                "sale_price": "$27.01",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71A6CU5B6zL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07FNXPGLG",
+                "name": "Filtrete 20x25x1 AC Furnace Air Filter, MERV 5, MPR 300, Capture Unwanted Particles, 3-Month Pleated 1-Inch Electrostatic Air Cleaning Filter, 6-Pack (Actual Size19.69x24.69x0.81 in)",
+                "ratings_count": 171171,
+                "rating": "4.7",
+                "sale_price": "$36.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81omgnD2JCL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Panini-Score-Treat-Football-Halloween/dp/B0DD5KSQ6Z/ref=zg_bs_g_sports-collectibles_d_sccl_3/135-4766424-6544615?psc=1"
+                "product_url": "https://www.amazon.com/Filtrete-Unwanted-Particles-Electrostatic-Size19-69x24-69x0-81/dp/B07FNXPGLG/ref=zg_bs_g_hi_d_sccl_3/132-4919864-3079205?psc=1"
             },
             {
                 "rank": 4,
-                "asin": "B0DDZC6H5G",
-                "name": "2023-24 Panini Mosaic Basketball NBA Blaster Box",
-                "ratings_count": 4,
-                "rating": "5.0",
-                "sale_price": "$34.97",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71BxA+4cKoL._AC_UL300_SR300,200_.jpg",
+                "asin": "B071NFVVNG",
+                "name": "SAMSUNG Genuine Filter for Refrigerator Water and Ice, Carbon Block Filtration, Reduces 99% of Harmful Contaminants for Clean, Clear Drinking Water, 6-Month Life, HAF-QIN/EXP, 1 Pack",
+                "ratings_count": 34767,
+                "rating": "4.7",
+                "sale_price": "$23.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51VPr-MTxvL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/2023-24-Panini-Mosaic-Basketball-Blaster/dp/B0DDZC6H5G/ref=zg_bs_g_sports-collectibles_d_sccl_4/135-4766424-6544615?psc=1"
+                "product_url": "https://www.amazon.com/DA97-17376B-Refrigerator-HAF-QIN-EXP-packaging/dp/B071NFVVNG/ref=zg_bs_g_hi_d_sccl_4/132-4919864-3079205?psc=1"
             },
             {
                 "rank": 5,
-                "asin": "B0D7TXZ7DY",
-                "name": "2024 Topps Chrome Baseball Factory Sealed Value Box - Sports Memorabilia",
-                "ratings_count": 63,
-                "rating": "4.2",
-                "sale_price": "$38.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/818BrjlcpLL._AC_UL300_SR300,200_.jpg",
+                "asin": "B01EDKGFGU",
+                "name": "Homemory 12-Pack Flameless LED Tea Lights Candles Battery Operated, 200+Hour Fake Electric Candles TeaLights for Votive, Aniversary, Wedding Centerpiece Table Decor, Funeral, Halloween, Christmas",
+                "ratings_count": 65539,
+                "rating": "4.7",
+                "sale_price": "$6.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/617Ai2XeEoL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Topps-Chrome-Baseball-Factory-Sealed/dp/B0D7TXZ7DY/ref=zg_bs_g_sports-collectibles_d_sccl_5/135-4766424-6544615?psc=1"
+                "product_url": "https://www.amazon.com/Homemory-Realistic-Flickering-Flameless-Celebration/dp/B01EDKGFGU/ref=zg_bs_g_hi_d_sccl_5/132-4919864-3079205?psc=1"
             },
             {
                 "rank": 6,
-                "asin": "B00CFXUAIW",
-                "name": "100 Vintage Football Cards in Old Sealed Wax Packs - Perfect for New Collectors",
-                "ratings_count": 4931,
-                "rating": "4.3",
-                "sale_price": "$14.22",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61ix1lvC6WL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0BDF8CVBN",
+                "name": "Under Cabinet Lights,40 LED Rechargeable Battery Operated Motion Sensor Light Indoor, 2 Pack Magnetic Dimmable Closet Lights, Wireless Under Counter Lights for Kitchen, Stairs",
+                "ratings_count": 19627,
+                "rating": "4.5",
+                "sale_price": "$23.80",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/616ybfz9OUL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Vintage-Football-Cards-Sealed-Packs/dp/B00CFXUAIW/ref=zg_bs_g_sports-collectibles_d_sccl_6/135-4766424-6544615?psc=1"
+                "product_url": "https://www.amazon.com/Rechargeable-Operated-Magnetic-Dimmable-Wireless/dp/B0BDF8CVBN/ref=zg_bs_g_hi_d_sccl_6/132-4919864-3079205?psc=1"
             },
             {
                 "rank": 7,
-                "asin": "B00BX8PO6I",
-                "name": "100 Vintage Baseball Cards in Old Sealed Wax Packs - Perfect for New Collectors",
-                "ratings_count": 2768,
-                "rating": "4.3",
-                "sale_price": "$12.45",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/A1uiIPYkt0L._AC_UL300_SR300,200_.jpg",
+                "asin": "B0882ZJ48W",
+                "name": "GE XWFE Refrigerator Water Filter, Genuine Replacement Filter, Certified to Reduce Lead, Sulfur, and 50+ Other Impurities, Replace Every 6 Months for Best Results, Pack of 1",
+                "ratings_count": 30200,
+                "rating": "4.6",
+                "sale_price": "$49.46",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61vkyvWbmEL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Vintage-Baseball-Cards-Sealed-Packs/dp/B00BX8PO6I/ref=zg_bs_g_sports-collectibles_d_sccl_7/135-4766424-6544615?psc=1"
+                "product_url": "https://www.amazon.com/GE-Appliances-XWFE-Refrigerator-Filter/dp/B0882ZJ48W/ref=zg_bs_g_hi_d_sccl_7/132-4919864-3079205?psc=1"
             },
             {
                 "rank": 8,
-                "asin": "B0DGQVTJPH",
-                "name": "2024 2025 Upper Deck M V P Hockey Series Unopened Blaster Box of 15 Packs with Chance for Rookies Plus #1 Draft Picks Cards and Blaster Exclusive Gold Scripts",
-                "ratings_count": 2,
-                "rating": "5.0",
-                "sale_price": "$29.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81ls1TrMPKL._AC_UL300_SR300,200_.jpg",
+                "asin": "B002BWOS5I",
+                "name": "Rust-Oleum 334029 Painter's Touch 2X Ultra Cover Spray Paint, 12 oz, Gloss Clear",
+                "ratings_count": 75454,
+                "rating": "4.7",
+                "sale_price": "$5.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61V9gAYOuvL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Upper-Deck-Unopened-Blaster-Exclusive/dp/B0DGQVTJPH/ref=zg_bs_g_sports-collectibles_d_sccl_8/135-4766424-6544615?psc=1"
+                "product_url": "https://www.amazon.com/Rust-Oleum-249117-Painters-Purpose-12-Ounce/dp/B002BWOS5I/ref=zg_bs_g_hi_d_sccl_8/132-4919864-3079205?psc=1"
             },
             {
                 "rank": 9,
-                "asin": "B0DJ2CK81J",
-                "name": "2024 Panini Score Football Series Blaster Box of Packs with 33 Rookies and 22 Insert Cards Per Box Possible Green Rookie Signatures Jayden Daniels, Xavier Worthy, Caleb Williams, Marvin Harrison Plus",
-                "ratings_count": null,
-                "rating": null,
-                "sale_price": "$36.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71zAaCpaAAL._AC_UL300_SR300,200_.jpg",
+                "asin": "B00004SU18",
+                "name": "Brita Standard Water Filter for Pitchers and Dispensers, BPA-Free, Reduces Copper, Cadmium and Mercury Impurities, Lasts Two Months or 40 Gallons, Includes 3 Filters for Pitchers",
+                "ratings_count": 211501,
+                "rating": "4.8",
+                "sale_price": "$17.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71szdaKo7tL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Football-Possible-Signatures-Williams-Harrison/dp/B0DJ2CK81J/ref=zg_bs_g_sports-collectibles_d_sccl_9/135-4766424-6544615?psc=1"
+                "product_url": "https://www.amazon.com/Brita-35503-Standard-Replacement-Filters/dp/B00004SU18/ref=zg_bs_g_hi_d_sccl_9/132-4919864-3079205?psc=1"
             },
             {
                 "rank": 10,
-                "asin": "B0D5JKXGSK",
-                "name": "2024 Topps Series 2 Baseball Retail Value Box",
-                "ratings_count": 65,
-                "rating": "4.4",
-                "sale_price": "$36.88",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81JJaIvpYvL._AC_UL300_SR300,200_.jpg",
+                "asin": "B00VBP8QPO",
+                "name": "Everydrop by Whirlpool Ice and Water Refrigerator Filter 2, EDR2RXD1, Single-Pack",
+                "ratings_count": 41634,
+                "rating": "4.7",
+                "sale_price": "$41.18",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41BBhKG-jUL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/2024-Topps-Baseball-Retail-Value/dp/B0D5JKXGSK/ref=zg_bs_g_sports-collectibles_d_sccl_10/135-4766424-6544615?psc=1"
+                "product_url": "https://www.amazon.com/EveryDrop-Whirlpool-Refrigerator-Water-Filter/dp/B00VBP8QPO/ref=zg_bs_g_hi_d_sccl_10/132-4919864-3079205?psc=1"
             },
             {
                 "rank": 11,
-                "asin": "B0D9SNM3H1",
-                "name": "2023 Panini Donruss Optic Football NFL Trading Card Fat Pack",
-                "ratings_count": 3,
-                "rating": "4.6",
-                "sale_price": "$15.96",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81dEdV-ummL._AC_UL300_SR300,200_.jpg",
+                "asin": "B004Q6D02E",
+                "name": "Filtrete 16x25x1 AC Furnace Air Filter, MERV 11, MPR 1000, Micro Allergen Defense, 3-Month Pleated 1-Inch Electrostatic Air Cleaning Filter, 2 Pack (Actual Size 15.719 x 24.72 x 0.84 in)",
+                "ratings_count": 48871,
+                "rating": "4.8",
+                "sale_price": "$23.49",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81HpzbGKllL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Panini-Donruss-Optic-Football-Trading/dp/B0D9SNM3H1/ref=zg_bs_g_sports-collectibles_d_sccl_11/135-4766424-6544615?psc=1"
+                "product_url": "https://www.amazon.com/Filtrete-Allergen-Defense-Furnace-Filter/dp/B004Q6D02E/ref=zg_bs_g_hi_d_sccl_11/132-4919864-3079205?psc=1"
             },
             {
                 "rank": 12,
-                "asin": "B0CBG3YNRP",
-                "name": "PSA Football Graded Card Mystery Pack + | PSA Graded Football Card + 1 Sealed Pack of Football Cards | Grade 8+ Guaranteed | Contains One Graded Vintage, Rookie, Legend or Current Star | by Zoo Packs",
-                "ratings_count": 84,
-                "rating": "3.3",
-                "sale_price": "$39.95",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81WYNjfyauL._AC_UL300_SR300,200_.jpg",
+                "asin": "B001CUQ1C8",
+                "name": "Culligan ZeroWater Official Replacement Filter - 5-Stage 0 TDS Filter Replacement - System IAPMO Certified to Reduce Lead, Chromium, and PFOA/PFOS, 2-Pack",
+                "ratings_count": 84659,
+                "rating": "4.6",
+                "sale_price": "$29.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71rvw5HeoSL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Football-Mystery-Guaranteed-Contains-Vintage/dp/B0CBG3YNRP/ref=zg_bs_g_sports-collectibles_d_sccl_12/135-4766424-6544615?psc=1"
+                "product_url": "https://www.amazon.com/ZeroWater-Replacement-BPA-Free-Dispensers-Certified/dp/B001CUQ1C8/ref=zg_bs_g_hi_d_sccl_12/132-4919864-3079205?psc=1"
             },
             {
                 "rank": 13,
-                "asin": "B0CVCHKRRT",
-                "name": "2024 Topps Series 1 Retail Value Box",
-                "ratings_count": 284,
-                "rating": "4.6",
-                "sale_price": "$27.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/818fxs+4fUL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0932M1666",
+                "name": "Tenmiro Led Lights for Bedroom 100ft (2 Rolls of 50ft) Music Sync Color Changing Strip Lights with Remote and App Control RGB Strip, for Room Home Party Decoration",
+                "ratings_count": 140517,
+                "rating": "4.4",
+                "sale_price": "$11.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71hrEz6LYvL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/2024-Topps-Retail-Value-Box/dp/B0CVCHKRRT/ref=zg_bs_g_sports-collectibles_d_sccl_13/135-4766424-6544615?psc=1"
+                "product_url": "https://www.amazon.com/Bedroom-Control-Changing-Festival-Decoration/dp/B0932M1666/ref=zg_bs_g_hi_d_sccl_13/132-4919864-3079205?psc=1"
             },
             {
                 "rank": 14,
-                "asin": "B0D7TMD793",
-                "name": "2023-24 Panini Donruss Optic Basketball Mega Box (56 Cards/Box) Hyper Parallels Sealed",
-                "ratings_count": 8,
-                "rating": "4.3",
-                "sale_price": "$55.00",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61k5-7sr3wL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07WNRN9WQ",
+                "name": "Glocusent Book Light, 3-Color & 6-Brightness Reading Light, Bendable Neck Light, 80-hr Lasting Rechargeable Lamp, Perfect Book Light for Reading in Bed, Knitting, Camping, Repairing, Book Lovers Gifts",
+                "ratings_count": 122827,
+                "rating": "4.7",
+                "sale_price": "$20.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/614xoTCz--L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/2023-24-Panini-Donruss-Basketball-Parallels/dp/B0D7TMD793/ref=zg_bs_g_sports-collectibles_d_sccl_14/135-4766424-6544615?psc=1"
+                "product_url": "https://www.amazon.com/Glocusent-Brightness-Bendable-Rechargeable-Repairing/dp/B07WNRN9WQ/ref=zg_bs_g_hi_d_sccl_14/132-4919864-3079205?psc=1"
             },
             {
                 "rank": 15,
-                "asin": "B000SJONZQ",
-                "name": "Topps, Upper deck, Donruss, Fleer, Score, Upperdeck 600 Baseball Cards Including Babe Ruth, Unopened Packs, Many Stars, and Hall-of-Famers. Ships in White Box Perfect for Gift Giving.",
-                "ratings_count": 2406,
-                "rating": "4.0",
-                "sale_price": "$18.95",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/91DcnUTilZL._AC_UL300_SR300,200_.jpg",
+                "asin": "B08TYT543Y",
+                "name": "Prepared Hero Emergency Fire Blanket - 2 Pack - Fire Suppression Blanket for Kitchen, 40” x 40” Fire Blanket for Home, Fiberglass Fire Blanket",
+                "ratings_count": 17075,
+                "rating": "4.8",
+                "sale_price": "$49.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71Ja4j-hJML._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Baseball-Including-Unopened-famers-Topps/dp/B000SJONZQ/ref=zg_bs_g_sports-collectibles_d_sccl_15/135-4766424-6544615?psc=1"
+                "product_url": "https://www.amazon.com/Prepared-Hero-Emergency-Fire-Blanket/dp/B08TYT543Y/ref=zg_bs_g_hi_d_sccl_15/132-4919864-3079205?psc=1"
             },
             {
                 "rank": 16,
-                "asin": "B0CDNL5W3K",
-                "name": "2023 Score Football Trading Card Cello Fat Pack (30 Cards)",
-                "ratings_count": 431,
-                "rating": "4.7",
-                "sale_price": "$14.48",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/614nL-aaJPL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0BZWRSRWV",
+                "name": "All-new Ring Battery Doorbell — Now with 66% more coverage, Head-to-Toe Video, Live View with Two-Way Talk, and Motion Detection & Alerts (2024 release), Satin Nickel",
+                "ratings_count": 181,
+                "rating": "4.3",
+                "sale_price": "$99.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61vE894jVGL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Score-Football-Trading-Cello-Cards/dp/B0CDNL5W3K/ref=zg_bs_g_sports-collectibles_d_sccl_16/135-4766424-6544615?psc=1"
+                "product_url": "https://www.amazon.com/Ring-Battery-Doorbell-Head-to-Toe-Video-Satin-Nickel/dp/B0BZWRSRWV/ref=zg_bs_g_hi_d_sccl_16/132-4919864-3079205?psc=1"
             },
             {
                 "rank": 17,
-                "asin": "B0B7FFH1XH",
-                "name": "NHL Upper Deck 2020-21 SP Hockey Trading Card HANGER Box [3 Packs]",
-                "ratings_count": 64,
-                "rating": "4.4",
-                "sale_price": "$6.11",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/713YxHNuQ0L._AC_UL300_SR300,200_.jpg",
+                "asin": "B07G2KT7FN",
+                "name": "Simply Filters 20x20x1 MERV 8, MPR 600, Air Filter (6 Pack) - Actual Size: 19.75\"x19.75\"x0.75\" HVAC, AC Furnace Air Filter",
+                "ratings_count": 34981,
+                "rating": "4.7",
+                "sale_price": "$38.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/815IQp1rCRL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Upper-Deck-2020-21-Hockey-Trading/dp/B0B7FFH1XH/ref=zg_bs_g_sports-collectibles_d_sccl_17/135-4766424-6544615?psc=1"
+                "product_url": "https://www.amazon.com/20x20x1-MERV-Pleated-Filters-Compatibility/dp/B07G2KT7FN/ref=zg_bs_g_hi_d_sccl_17/132-4919864-3079205?psc=1"
             },
             {
                 "rank": 18,
-                "asin": "B089DJXWNX",
-                "name": "DREAM LOT OF OLD UNOPENED BASKETBALL CARDS IN PACKS 60 Cards in Packs from the Late 80s and Early 90s",
-                "ratings_count": 462,
-                "rating": "3.8",
-                "sale_price": "$19.95",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/5197Q2Odp2L._AC_UL300_SR300,200_.jpg",
+                "asin": "B075BMVZ2N",
+                "name": "Amazon Basics Indoor Extension Cord, 13 Amps, 125V, 10 Foot, Black",
+                "ratings_count": 53782,
+                "rating": "4.8",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61giskL9XuL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/DREAM-UNOPENED-BASKETBALL-CARDS-Cards/dp/B089DJXWNX/ref=zg_bs_g_sports-collectibles_d_sccl_18/135-4766424-6544615?psc=1"
+                "product_url": "https://www.amazon.com/AmazonBasics-Extension-Cord-feet-Black/dp/B075BMVZ2N/ref=zg_bs_g_hi_d_sccl_18/132-4919864-3079205?psc=1"
             },
             {
                 "rank": 19,
-                "asin": "B0BPZ2D85K",
-                "name": "2022 Topps MLB Chrome Updates Baseball Trading Card Mega Box",
-                "ratings_count": 51,
-                "rating": "4.1",
-                "sale_price": "$39.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71ltKrSnMyL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0BZWRLRLK",
+                "name": "All-new Ring Battery Doorbell — Now with 66% more coverage, Head-to-Toe Video, Live View with Two-Way Talk, and Motion Detection & Alerts (2024 release), Venetian Bronze",
+                "ratings_count": 133,
+                "rating": "4.3",
+                "sale_price": null,
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61TLneKHd+L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Topps-Chrome-Updates-Baseball-Trading/dp/B0BPZ2D85K/ref=zg_bs_g_sports-collectibles_d_sccl_19/135-4766424-6544615?psc=1"
+                "product_url": "https://www.amazon.com/Ring-Battery-Doorbell-Head-to-Toe-Video-Venetian-Bronze/dp/B0BZWRLRLK/ref=zg_bs_g_hi_d_sccl_19/132-4919864-3079205?psc=1"
             },
             {
                 "rank": 20,
-                "asin": "B0C9PN5DZM",
-                "name": "Topps 2023 Baseball Factory Sealed Hobby Complete Set - Baseball Complete Sets",
-                "ratings_count": 29,
-                "rating": "4.5",
-                "sale_price": "$44.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61wT+NAPSdL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0B5X5DQPT",
+                "name": "Surge Protector Outlet Extender - with Rotating Plug, 6 AC Multi Plug Outlet with 3 USB Ports (1 USB C), 1800J Wall Charger, 3-Sided Power Strip with Spaced Outlet Splitter for Home, Office, Travel",
+                "ratings_count": 7488,
+                "rating": "4.6",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51BpRG3LD1L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Topps-Baseball-Factory-Sealed-Complete/dp/B0C9PN5DZM/ref=zg_bs_g_sports-collectibles_d_sccl_20/135-4766424-6544615?psc=1"
+                "product_url": "https://www.amazon.com/Surge-Protector-Outlet-Extender-Rotating/dp/B0B5X5DQPT/ref=zg_bs_g_hi_d_sccl_20/132-4919864-3079205?psc=1"
             },
             {
                 "rank": 21,
-                "asin": "B0D79S8MCN",
-                "name": "Shohei Ohtani 2024 Topps Base #500 NM-MT MLB Baseball Series 2 Dodgers",
-                "ratings_count": 7,
-                "rating": "5.0",
-                "sale_price": "$6.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61n3I3ZuMgL._AC_UL300_SR300,200_.jpg",
+                "asin": "B00UB38V2A",
+                "name": "Everydrop by Whirlpool Ice and Water Refrigerator Filter 4, EDR4RXD1, Single-Pack",
+                "ratings_count": 38112,
+                "rating": "4.7",
+                "sale_price": "$49.04",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51KWC1huK6L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Shohei-Ohtani-Topps-Baseball-Dodgers/dp/B0D79S8MCN/ref=zg_bs_g_sports-collectibles_d_sccl_21/135-4766424-6544615?psc=1"
+                "product_url": "https://www.amazon.com/EveryDrop-Whirlpool-Refrigerator-Filter-Packaging/dp/B00UB38V2A/ref=zg_bs_g_hi_d_sccl_21/132-4919864-3079205?psc=1"
             },
             {
                 "rank": 22,
-                "asin": "B0CPTQCBXP",
-                "name": "2023/24 Panini Hoops NBA Basketball BLASTER box",
-                "ratings_count": 50,
-                "rating": "4.8",
-                "sale_price": "$44.95",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71Djlh29AyL._AC_UL300_SR300,200_.jpg",
+                "asin": "B01MUBU0YC",
+                "name": "AquaBliss High Output Revitalizing Shower Filter - Reduces Dry Itchy Skin, Dandruff, Eczema, and Dramatically Improves The Condition of Your Skin, Hair and Nails - Chrome (SF100)",
+                "ratings_count": 55493,
+                "rating": "4.4",
+                "sale_price": "$35.86",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61wN3sOvcoL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/2023-Panini-Hoops-Basketball-BLASTER/dp/B0CPTQCBXP/ref=zg_bs_g_sports-collectibles_d_sccl_22/135-4766424-6544615?psc=1"
+                "product_url": "https://www.amazon.com/AquaBliss-Output-12-Stage-Shower-Filter/dp/B01MUBU0YC/ref=zg_bs_g_hi_d_sccl_22/132-4919864-3079205?psc=1"
             },
             {
                 "rank": 23,
-                "asin": "B0CLWJ1423",
-                "name": "2023 Bowman Chrome Baseball Mega Box",
-                "ratings_count": 40,
-                "rating": "3.7",
-                "sale_price": "$57.28",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71GLeQD758L._AC_UL300_SR300,200_.jpg",
+                "asin": "B01MU7973W",
+                "name": "Brita Elite Water Filter Replacements for Pitchers and Dispensers, BPA-Free, Reduces 99% of Lead, Lasts Six Months or 120 Gallons, Includes 2 Pitcher Replacement Filters",
+                "ratings_count": 47861,
+                "rating": "4.6",
+                "sale_price": "$34.88",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71GKk6Q6C-L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/2023-Bowman-Chrome-Baseball-Mega/dp/B0CLWJ1423/ref=zg_bs_g_sports-collectibles_d_sccl_23/135-4766424-6544615?psc=1"
+                "product_url": "https://www.amazon.com/Brita-Longlast-Replacement-Filters-Dispensers/dp/B01MU7973W/ref=zg_bs_g_hi_d_sccl_23/132-4919864-3079205?psc=1"
             },
             {
                 "rank": 24,
-                "asin": "B0D1SCQDSC",
-                "name": "Topps 2024 Bowman Baseball Retail Value Box",
-                "ratings_count": 40,
-                "rating": "4.2",
-                "sale_price": "$37.70",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81-aRYyRVpL._AC_UL300_SR300,200_.jpg",
+                "asin": "B08WPQ12XX",
+                "name": "AquaCare High Pressure 8-mode Handheld Shower Head - Anti-clog Nozzles, Built-in Power Wash to Clean Tub, Tile & Pets, Extra Long 6 ft. Stainless Steel Hose, Wall & Overhead Brackets",
+                "ratings_count": 56000,
+                "rating": "4.6",
+                "sale_price": "$29.94",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91Lr056h7VL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Topps-Bowman-Baseball-Retail-Value/dp/B0D1SCQDSC/ref=zg_bs_g_sports-collectibles_d_sccl_24/135-4766424-6544615?psc=1"
+                "product_url": "https://www.amazon.com/AquaCare-Pressure-8-mode-Handheld-Shower/dp/B08WPQ12XX/ref=zg_bs_g_hi_d_sccl_24/132-4919864-3079205?psc=1"
             },
             {
                 "rank": 25,
-                "asin": "B0DGHM3YRQ",
-                "name": "2023/24 Topps Chrome Basketball Trading Card Blaster Box (Pink Refractors)",
-                "ratings_count": null,
-                "rating": null,
-                "sale_price": "$39.95",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71-IYEXa5VL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0C3BC4QG2",
+                "name": "Gritin 19 LED Rechargeable Book Light for Reading in Bed with Memory Function- Eye Caring 3 Color Temperatures,Stepless Dimming Brightness,80 Hrs Runtime Lightweight Clip On Light for Book Lovers",
+                "ratings_count": 14568,
+                "rating": "4.8",
+                "sale_price": "$14.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/711p9Q6p0vL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Topps-Basketball-Trading-Blaster-Refractors/dp/B0DGHM3YRQ/ref=zg_bs_g_sports-collectibles_d_sccl_25/135-4766424-6544615?psc=1"
+                "product_url": "https://www.amazon.com/Gritin-Rechargeable-Temperatures-Brightness-Lightweight/dp/B0C3BC4QG2/ref=zg_bs_g_hi_d_sccl_25/132-4919864-3079205?psc=1"
             },
             {
                 "rank": 26,
-                "asin": "B0B675HY7Y",
-                "name": "Zoo Packs MLB Baseball PSA Graded Card Mystery Power Pack - Amazon Exclusive",
-                "ratings_count": 127,
-                "rating": "3.0",
-                "sale_price": "$29.95",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71VuXSiKH4L._AC_UL300_SR300,200_.jpg",
+                "asin": "B0991Q94KP",
+                "name": "Govee RGBIC LED Strip Lights, Smart LED Lights for Bedroom, Bluetooth LED Lights APP Control, DIY Multiple Colors on One Line, Color Changing LED Strip Lighting Music Sync, Halloween Decor, 16.4ft",
+                "ratings_count": 15365,
+                "rating": "4.5",
+                "sale_price": "$14.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71tjdZg28vL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Packs-Baseball-Graded-Mystery-Power/dp/B0B675HY7Y/ref=zg_bs_g_sports-collectibles_d_sccl_26/135-4766424-6544615?psc=1"
+                "product_url": "https://www.amazon.com/Govee-Control-Segmented-Bluetooth-Changing/dp/B0991Q94KP/ref=zg_bs_g_hi_d_sccl_26/132-4919864-3079205?psc=1"
             },
             {
                 "rank": 27,
-                "asin": "B0B9W168H2",
-                "name": "2022 Panini Prestige NFL Football Blaster Box (66 cards/bx) Look for Blaster Exclusive Diamond Parallel and Rookie Cards and Autos Superior Sports Investments Exclusive !",
-                "ratings_count": 371,
-                "rating": "4.4",
-                "sale_price": "$28.44",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81Kl3Qur3kL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0BQJ5BDB6",
+                "name": "KOABY 12/24/50/100/200/400 Pack Battery Operated Tea Lights Candles, Flickering Flameless LED Lights, Last 200H+, for Decoration(12 Pack, Warm White)",
+                "ratings_count": 2842,
+                "rating": "4.6",
+                "sale_price": "$4.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/6199ifhM5GL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Panini-Prestige-Football-Exclusive-Investments/dp/B0B9W168H2/ref=zg_bs_g_sports-collectibles_d_sccl_27/135-4766424-6544615?psc=1"
+                "product_url": "https://www.amazon.com/KOABY-Flickering-Flameless-Operated-Decoration/dp/B0BQJ5BDB6/ref=zg_bs_g_hi_d_sccl_27/132-4919864-3079205?psc=1"
             },
             {
                 "rank": 28,
-                "asin": "B0CCX2PCDR",
-                "name": "2023 Panini Score Football Trading Card Blaster Box (132 Cards)",
-                "ratings_count": 334,
-                "rating": "4.6",
-                "sale_price": "$43.50",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71mwdYOWF2L._AC_UL300_SR300,200_.jpg",
+                "asin": "B0BJDPJNN3",
+                "name": "Cobbe Filtered Shower Head with Handheld, High Pressure 6 Spray Mode Showerhead with Filters, Water Softener Filters Beads for Hard Water - Remove Chlorine - Reduces Dry Itchy Skin, Chrome",
+                "ratings_count": 12413,
+                "rating": "4.4",
+                "sale_price": "$25.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81Inraitg5L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Panini-Score-Football-Trading-Blaster/dp/B0CCX2PCDR/ref=zg_bs_g_sports-collectibles_d_sccl_28/135-4766424-6544615?psc=1"
+                "product_url": "https://www.amazon.com/Cobbe-Handheld-Pressure-Showerhead-Substance/dp/B0BJDPJNN3/ref=zg_bs_g_hi_d_sccl_28/132-4919864-3079205?psc=1"
             },
             {
                 "rank": 29,
-                "asin": "B0CDN3VMJM",
-                "name": "2023 Prizm Baseball Blaster",
-                "ratings_count": 42,
-                "rating": "4.3",
-                "sale_price": "$19.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61xTebKP-6L._AC_UL300_SR300,200_.jpg",
+                "asin": "B00002ND64",
+                "name": "Kidde FA110 Multi Purpose Fire Extinguisher 1A10BC, 1 Pack, red",
+                "ratings_count": 23236,
+                "rating": "4.7",
+                "sale_price": "$18.96",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71UmhDqm1ZL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Panini-746134155000-Prizm-Baseball-Blaster/dp/B0CDN3VMJM/ref=zg_bs_g_sports-collectibles_d_sccl_29/135-4766424-6544615?psc=1"
+                "product_url": "https://www.amazon.com/Kidde-FA110-Purpose-Extinguisher-1A10BC/dp/B00002ND64/ref=zg_bs_g_hi_d_sccl_29/132-4919864-3079205?psc=1"
             },
             {
                 "rank": 30,
-                "asin": "B0CQRXZBR8",
-                "name": "Topps 2024 Baseball Series 1 Hanger Pack",
-                "ratings_count": 5,
-                "rating": "4.1",
-                "sale_price": "$21.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71nHgezPRvL._AC_UL300_SR300,200_.jpg",
+                "asin": "B08V6JB9R7",
+                "name": "Frigidaire FPPWFU01 PurePour PWF-1 Water Filter 1 Count (Pack of 1)",
+                "ratings_count": 7945,
+                "rating": "4.7",
+                "sale_price": "$25.64",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51PvTQS-RiL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Topps-2024-Baseball-Hanger-Pack/dp/B0CQRXZBR8/ref=zg_bs_g_sports-collectibles_d_sccl_30/135-4766424-6544615?psc=1"
+                "product_url": "https://www.amazon.com/Frigidaire-FPPWFU01-PurePour-PWF-1-Filter/dp/B08V6JB9R7/ref=zg_bs_g_hi_d_sccl_30/132-4919864-3079205?psc=1"
             },
             {
                 "rank": 31,
-                "asin": "B0D8BZYJPT",
-                "name": "2023 Leaf Trinity Football Trading Card Mega Box 1 Memorbalia Card Per Box",
-                "ratings_count": 3,
-                "rating": "5.0",
-                "sale_price": "$30.44",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/717lF9KW+HL._AC_UL300_SR300,200_.jpg",
+                "asin": "B09F3DJNGF",
+                "name": "Tuffenough Solar Outdoor Lights 2500LM 210 LED Security Lights with Remote Control,3 Heads Motion Sensor Lights, IP65 Waterproof,270° Wide Angle Flood Wall Lights with 3 Modes(2 Packs)",
+                "ratings_count": 26905,
+                "rating": "4.3",
+                "sale_price": "$35.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71fofutDdgL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Leaf-Trinity-Football-Trading-Memorbalia/dp/B0D8BZYJPT/ref=zg_bs_g_sports-collectibles_d_sccl_31/136-8770153-5600701?psc=1"
+                "product_url": "https://www.amazon.com/Outdoor-Tuffenough-Security-Control-Waterproof/dp/B09F3DJNGF/ref=zg_bs_g_hi_d_sccl_31/136-9854883-8042938?psc=1"
             },
             {
                 "rank": 32,
-                "asin": "B0BSRH9YXV",
-                "name": "2022 2023 Panini HOOPS Basketball Blaster Box of Packs (90 Cards) with Possible Exclusive Inserts including Rise and Shine Memorabilia Cards",
-                "ratings_count": 214,
-                "rating": "4.6",
-                "sale_price": "$33.33",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71g-aqIg67L._AC_UL300_SR300,200_.jpg",
+                "asin": "B07ZSC6TNB",
+                "name": "HMCITY Solar Lights Outdoor 120 LED with Lights Reflector and 3 Lighting Modes, Motion Sensor Wall Lights,IP65 Waterproof Solar Powered for Garden Patio Yard (2Pack)",
+                "ratings_count": 58678,
+                "rating": "4.4",
+                "sale_price": "$17.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61XT-WF0dAL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Basketball-Possible-Exclusive-including-Memorabilia/dp/B0BSRH9YXV/ref=zg_bs_g_sports-collectibles_d_sccl_32/136-8770153-5600701?psc=1"
+                "product_url": "https://www.amazon.com/Outdoor-Reflector-Security-Waterproof-Wireless/dp/B07ZSC6TNB/ref=zg_bs_g_hi_d_sccl_32/136-9854883-8042938?psc=1"
             },
             {
                 "rank": 33,
-                "asin": "B088XVMWNR",
-                "name": "NBA Superstar- (50) Card Pack NBA Basketball Superstars Starter Kit all Different cards. Comes in Custom Souvenir Case! Perfect for the Ultimate NBA Fan! by 3bros",
-                "ratings_count": 374,
-                "rating": "4.3",
-                "sale_price": "$14.25",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/A1DfoEeY6KS._AC_UL300_SR300,200_.jpg",
+                "asin": "B09N6XCCQH",
+                "name": "PROMEDIX P Nitrile Gloves, 4mil-100 Count, Gloves Disposable Latex Free, Disposable Gloves for Cooking,Household,Food safe",
+                "ratings_count": 11022,
+                "rating": "4.6",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71SHxiSt5nL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Football-Superstar-Different-Souvenir-Ultimate/dp/B088XVMWNR/ref=zg_bs_g_sports-collectibles_d_sccl_33/136-8770153-5600701?psc=1"
+                "product_url": "https://www.amazon.com/PROMEDIX-Nitrile-Gloves-Disposable-Househode/dp/B09N6XCCQH/ref=zg_bs_g_hi_d_sccl_33/136-9854883-8042938?psc=1"
             },
             {
                 "rank": 34,
-                "asin": "B0DG71JHYY",
-                "name": "2024 Topps Bowman Chrome Baseball Factory Sealed Mega Box - Baseball Complete Sets",
-                "ratings_count": null,
-                "rating": null,
-                "sale_price": "$66.00",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/91nrhiDQwdL._AC_UL300_SR300,200_.jpg",
+                "asin": "B08F6GPQQ7",
+                "name": "Ring Floodlight Cam Wired Plus with motion-activated 1080p HD video, White (2021 release)",
+                "ratings_count": 37126,
+                "rating": "4.7",
+                "sale_price": "$199.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51TdAAWxGnS._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Topps-Bowman-Chrome-Baseball-Factory/dp/B0DG71JHYY/ref=zg_bs_g_sports-collectibles_d_sccl_34/136-8770153-5600701?psc=1"
+                "product_url": "https://www.amazon.com/Ring-Floodlight-Cam-Wired-Plus/dp/B08F6GPQQ7/ref=zg_bs_g_hi_d_sccl_34/136-9854883-8042938?psc=1"
             },
             {
                 "rank": 35,
-                "asin": "B0D7QQR7J6",
-                "name": "2023 Panini Contenders Football Trading Card Blaster Box with 5 Packs, 1 Autograph OR Memorabilia Card",
-                "ratings_count": 5,
-                "rating": "3.0",
-                "sale_price": "$38.94",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/41fmxuLhJOL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0D4DJ6BRR",
+                "name": "DAYBETTER LED Strip Lights 130ft (2 Rolls of 65.6ft), Color Changing Lights Strip for Bedroom, Desk, Indoor, Room Bedroom, Girl Boy Brithday Gifts RGB Decor with Remote and 24V Power Supply",
+                "ratings_count": 28526,
+                "rating": "4.5",
+                "sale_price": "$11.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/813vxzjiChL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Contenders-Football-Trading-Autograph-Memorabilia/dp/B0D7QQR7J6/ref=zg_bs_g_sports-collectibles_d_sccl_35/136-8770153-5600701?psc=1"
+                "product_url": "https://www.amazon.com/DAYBETTER-Lights-Changing-Bedroom-Brithday/dp/B0D4DJ6BRR/ref=zg_bs_g_hi_d_sccl_35/136-9854883-8042938?psc=1"
             },
             {
                 "rank": 36,
-                "asin": "B0CQRWST5M",
-                "name": "Topps 2024 Series 1 Baseball Factory Sealed Monster Box - Baseball Complete Sets",
-                "ratings_count": 114,
-                "rating": "4.6",
-                "sale_price": "$74.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81feKxP-pvL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07S8DZ1T5",
+                "name": "Sleek Socket Original & Patented Ultra-Thin Outlet Concealer with Cord Concealer Kit, 3-Foot Flat Extension Cord with Multiple Outlets, Safety Certified, Ideal for Kitchens and Behind Furniture",
+                "ratings_count": 62782,
+                "rating": "4.7",
+                "sale_price": "$23.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61JTWVXIHGL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Topps-Baseball-Factory-Sealed-Monster/dp/B0CQRWST5M/ref=zg_bs_g_sports-collectibles_d_sccl_36/136-8770153-5600701?psc=1"
+                "product_url": "https://www.amazon.com/Socket-Ultra-Thin-Electrical-Oversized-Certified/dp/B07S8DZ1T5/ref=zg_bs_g_hi_d_sccl_36/136-9854883-8042938?psc=1"
             },
             {
                 "rank": 37,
-                "asin": "B0CLMYGB21",
-                "name": "2023 Bowman Platinum Major League Baseball 4 exclusive Ice Foil Parallel Cards inside, 32 cards total Blaster box.",
-                "ratings_count": 46,
-                "rating": "4.3",
-                "sale_price": "$32.44",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81PfEOetk-L._AC_UL300_SR300,200_.jpg",
+                "asin": "B01BKWSHHE",
+                "name": "Frigidaire EPTWFU01 Water Filtration Filter, 1 Count, White",
+                "ratings_count": 33528,
+                "rating": "4.7",
+                "sale_price": "$49.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41rdK0KSNPL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Platinum-Baseball-exclusive-Parallel-Blaster/dp/B0CLMYGB21/ref=zg_bs_g_sports-collectibles_d_sccl_37/136-8770153-5600701?psc=1"
+                "product_url": "https://www.amazon.com/Frigidaire-EPTWFU01-Water-Filtration-Filter/dp/B01BKWSHHE/ref=zg_bs_g_hi_d_sccl_37/136-9854883-8042938?psc=1"
             },
             {
                 "rank": 38,
-                "asin": "B0D3CZRKFC",
-                "name": "2024 Topps Heritage #371 Shohei Ohtani Los Angeles Dodgers Official MLB Baseball Card in Raw (NM or Better) Condition",
-                "ratings_count": 1,
-                "rating": "5.0",
-                "sale_price": "$5.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61LV2V5FneL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07JHQ4L4F",
+                "name": "Pro Grade- Paint Brushes - 5 Piece Flat and Angle, Paint Brush for All Latex and Oil Paints & Stains - Home Improvement - Interior & Exterior Use Paint Brush",
+                "ratings_count": 63011,
+                "rating": "4.6",
+                "sale_price": "$7.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61v55RVzuxL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Topps-Heritage-Official-Card-Condition/dp/B0D3CZRKFC/ref=zg_bs_g_sports-collectibles_d_sccl_38/136-8770153-5600701?psc=1"
+                "product_url": "https://www.amazon.com/Pro-Grade-Professional-Painting-Commercial-Paintbrush/dp/B07JHQ4L4F/ref=zg_bs_g_hi_d_sccl_38/136-9854883-8042938?psc=1"
             },
             {
                 "rank": 39,
-                "asin": "B0C1L1648Z",
-                "name": "2022 Contenders NFL Football Blaster Value Box 8 Cards Per Pack 5 Packs Per Box 1 Autograph or Rookie Ticket Swatch Per Box on Average",
-                "ratings_count": 64,
-                "rating": "4.3",
-                "sale_price": null,
-                "image": "https://images-na.ssl-images-amazon.com/images/I/51tlMQnyOHL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07YT16TMS",
+                "name": "Amazon Basics Replacement Water Filters for Pitchers, Compatible with Brita, 3-Pack",
+                "ratings_count": 33655,
+                "rating": "4.6",
+                "sale_price": "$12.49",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51gPRggQhPL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Contenders-Football-Blaster-Autograph-Average/dp/B0C1L1648Z/ref=zg_bs_g_sports-collectibles_d_sccl_39/136-8770153-5600701?psc=1"
+                "product_url": "https://www.amazon.com/AmazonBasics-Replacement-Water-Filters-Pitchers/dp/B07YT16TMS/ref=zg_bs_g_hi_d_sccl_39/136-9854883-8042938?psc=1"
             },
             {
                 "rank": 40,
-                "asin": "B0DG71YVVY",
-                "name": "2023-24 Topps UEFA Club Competitons Merlin Value Box",
-                "ratings_count": null,
-                "rating": null,
-                "sale_price": "$29.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71l+F7t8vwL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0C3SSXL4K",
+                "name": "Inspire Black Nitrile Gloves HEAVY DUTY 6 Mil Nitrile Chemical Resistant Medical Cooking Cleaning Disposable Black Gloves",
+                "ratings_count": 3395,
+                "rating": "4.7",
+                "sale_price": "$16.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61kCN4+40RL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/2023-24-Topps-Competitons-Merlin-Value/dp/B0DG71YVVY/ref=zg_bs_g_sports-collectibles_d_sccl_40/136-8770153-5600701?psc=1"
+                "product_url": "https://www.amazon.com/Inspire-Nitrile-ORIGINAL-Cleaning-Disposable/dp/B0C3SSXL4K/ref=zg_bs_g_hi_d_sccl_40/136-9854883-8042938?psc=1"
             },
             {
                 "rank": 41,
-                "asin": "B0CP2VZ37C",
-                "name": "Kobe Bryant Gold & Michael Jordan Decade Fleer Rookie Cards Set - Gem-Mint 10 Condition (Set of 2)",
-                "ratings_count": 18,
-                "rating": "4.8",
-                "sale_price": "$39.00",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81Ix4oQRS-L._AC_UL300_SR300,200_.jpg",
+                "asin": "B072WHQFJ7",
+                "name": "GearLight LED Flashlights - Mini Camping Flashlights with High Lumens, 5 Modes, Zoomable Beam - Powerful, Bright, and Versatile Tactical Flash Light for Outdoor and Home Use",
+                "ratings_count": 79798,
+                "rating": "4.6",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91sJrlO6eSL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Bryant-Michael-Jordan-Decade-Rookie/dp/B0CP2VZ37C/ref=zg_bs_g_sports-collectibles_d_sccl_41/136-8770153-5600701?psc=1"
+                "product_url": "https://www.amazon.com/led-tactical-flashlight-rechargable/dp/B072WHQFJ7/ref=zg_bs_g_hi_d_sccl_41/136-9854883-8042938?psc=1"
             },
             {
                 "rank": 42,
-                "asin": "B07WDT4MMV",
-                "name": "NFL Superstar- (50) Card Pack NFL Football Superstars Starter Kit all Different cards. Comes in Custom Souvenir Case! Perfect for the Ultimate Football Fan! by 3bros",
-                "ratings_count": 389,
-                "rating": "4.4",
-                "sale_price": "$14.25",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/A1BKCsJAZiL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07PB6ZX9Y",
+                "name": "TubShroom Ultra Revolutionary Bath Tub Drain Protector Hair Catcher/Strainer/Snare Stainless Steel, 1-Pack, Silver",
+                "ratings_count": 58161,
+                "rating": "4.7",
+                "sale_price": "$13.49",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81s5ng0S12L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Football-Guaranteed-Superstars-Souvenir-collectors/dp/B07WDT4MMV/ref=zg_bs_g_sports-collectibles_d_sccl_42/136-8770153-5600701?psc=1"
+                "product_url": "https://www.amazon.com/TubShroom-Revolutionary-Protector-Strainer-Stainless/dp/B07PB6ZX9Y/ref=zg_bs_g_hi_d_sccl_42/136-9854883-8042938?psc=1"
             },
             {
                 "rank": 43,
-                "asin": "B0D4Q5M5QW",
-                "name": "ONLY MINT Ultimate Quarterback Guaranteed NFL Card All-Time Legend or Superstar Graded 8-10 Mint Football Card | Top QB in Each Mystery Pack | Grades by PSA BGS SGC CGC | Blind Bag Contains 1 NFL Card",
-                "ratings_count": 13,
-                "rating": "3.9",
-                "sale_price": "$29.98",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81O4+BHuP7L._AC_UL300_SR300,200_.jpg",
+                "asin": "B09WGVV6TB",
+                "name": "NYMPHY Solar Lights Outdoor Waterproof IP68, 56 LED 3 Lighting Modes Solar Powered Garden Yard Spot Solar Lights for Outside Landscape- 4 Pack (Cool White)",
+                "ratings_count": 11884,
+                "rating": "4.4",
+                "sale_price": "$39.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61ALVCsMJcL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/ONLY-MINT-Quarterback-Guaranteed-Superstar/dp/B0D4Q5M5QW/ref=zg_bs_g_sports-collectibles_d_sccl_43/136-8770153-5600701?psc=1"
+                "product_url": "https://www.amazon.com/Outdoor-Waterproof-Lighting-Powered-Pathway/dp/B09WGVV6TB/ref=zg_bs_g_hi_d_sccl_43/136-9854883-8042938?psc=1"
             },
             {
                 "rank": 44,
-                "asin": "B0C3WQC454",
-                "name": "2022-23 Topps UEFA Club Competitions Soccer (Football) Blaster Box - 42 Trading Cards - Look for Lionel Messi Cards & Randomly Inserted Autographs",
-                "ratings_count": 100,
-                "rating": "4.6",
-                "sale_price": "$35.70",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71VMcCK6K0L._AC_UL300_SR300,200_.jpg",
+                "asin": "B0B27HX6P7",
+                "name": "2 Pack European Travel Plug Adapter USB C, TESSAN US to Europe Plug Adapter with 4 Outlets 3 USB Charger (1 USB C Port), Type C Power Adaptor to Italy Spain France Portugal Iceland Germany, white gray",
+                "ratings_count": 4273,
+                "rating": "4.7",
+                "sale_price": "$23.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51qtA0QWjgL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/2022-23-Topps-Competitions-Football-Blaster/dp/B0C3WQC454/ref=zg_bs_g_sports-collectibles_d_sccl_44/136-8770153-5600701?psc=1"
+                "product_url": "https://www.amazon.com/European-Adapter-TESSAN-Outlets-International/dp/B0B27HX6P7/ref=zg_bs_g_hi_d_sccl_44/136-9854883-8042938?psc=1"
             },
             {
                 "rank": 45,
-                "asin": "B08W1CG811",
-                "name": "Topps 2021 Heritage Baseball Blaster Box 8 Packs Per Box",
-                "ratings_count": 449,
-                "rating": "4.3",
-                "sale_price": "$19.95",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71d3jatg0IL._AC_UL300_SR300,200_.jpg",
+                "asin": "B09PR1BTM7",
+                "name": "Glocusent USB Rechargeable Book Light for Reading in Bed, Portable Clip-on LED Reading Light, 3 Amber Colors & 5 Brightness Dimmable, Compact & Long Lasting, Perfect for Book Lovers, Kids",
+                "ratings_count": 18617,
+                "rating": "4.7",
+                "sale_price": "$14.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61KDpa+vM6L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Topps-Heritage-Baseball-Blaster-Packs/dp/B08W1CG811/ref=zg_bs_g_sports-collectibles_d_sccl_45/136-8770153-5600701?psc=1"
+                "product_url": "https://www.amazon.com/Glocusent-Rechargeable-Portable-Brightness-Dimmable/dp/B09PR1BTM7/ref=zg_bs_g_hi_d_sccl_45/136-9854883-8042938?psc=1"
             },
             {
                 "rank": 46,
-                "asin": "B0DH1FSY6N",
-                "name": "New York Mets 2024 Topps Complete Mint 24 Card Hand Collated Team Set Featuring Francisco Lindor and Pete Alonso with Rookie Cards of Ronny Mauricio and Grant Hartwig Plus",
-                "ratings_count": null,
-                "rating": null,
-                "sale_price": "$14.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81NyPbAY5fL._AC_UL300_SR300,200_.jpg",
+                "asin": "B09JZ5BG26",
+                "name": "Ring Spotlight Cam Plus, Battery | Two-Way Talk, Color Night Vision, and Security Siren (2022 release) - White",
+                "ratings_count": 13536,
+                "rating": "4.5",
+                "sale_price": "$169.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61ZtK6Lp4NL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Topps-Complete-Collated-Featuring-Francisco/dp/B0DH1FSY6N/ref=zg_bs_g_sports-collectibles_d_sccl_46/136-8770153-5600701?psc=1"
+                "product_url": "https://www.amazon.com/Ring-Spotlight-Cam-Plus-Battery-White/dp/B09JZ5BG26/ref=zg_bs_g_hi_d_sccl_46/136-9854883-8042938?psc=1"
             },
             {
                 "rank": 47,
-                "asin": "B0BS1WCFCN",
-                "name": "2022-23 Upper Deck Series 1 Hockey Retail Box",
-                "ratings_count": 48,
+                "asin": "B074HLRXMP",
+                "name": "LG LT1000P - 6 Month / 200 Gallon Capacity Replacement Refrigerator Water Filter (NSF42, NSF53, and NSF401) ADQ74793501, ADQ75795105, AGF80300704, or AGF80300705 White",
+                "ratings_count": 22999,
                 "rating": "4.7",
-                "sale_price": "$39.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/616Rebw+qlL._AC_UL300_SR300,200_.jpg",
+                "sale_price": "$52.48",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/31N4Ybl5JUL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/2022-23-Upper-Deck-Hockey-Retail/dp/B0BS1WCFCN/ref=zg_bs_g_sports-collectibles_d_sccl_47/136-8770153-5600701?psc=1"
+                "product_url": "https://www.amazon.com/LG-LT1000P-Refrigerator-Compatible-Refrigerators/dp/B074HLRXMP/ref=zg_bs_g_hi_d_sccl_47/136-9854883-8042938?psc=1"
             },
             {
                 "rank": 48,
-                "asin": "B0DGZ5SMLX",
-                "name": "Los Angeles Dodgers 2024 Topps Complete Mint 29 Card Hand Collated Team Set Shohei Ohtani Card #500, Freddie Freeman and Mookie Betts with Rookie Cards of Jonny Deluca and Yoshinobu Yamamoto Plus",
-                "ratings_count": null,
-                "rating": null,
-                "sale_price": "$24.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81ufO1OLrIL._AC_UL300_SR300,200_.jpg",
+                "asin": "B005GZ89WU",
+                "name": "Filtrete 16x25x1 AC Furnace Air Filter, MERV 11, MPR 1000, Micro Allergen Defense, 3-Month Pleated 1-Inch Electrostatic Air Cleaning Filter, 4 Pack (Actual Size 15.69 x 24.69 x 0.81 in)",
+                "ratings_count": 19531,
+                "rating": "4.8",
+                "sale_price": "$43.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81C1DwIdYYL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Topps-Complete-Collated-Yoshinobu-Yamamoto/dp/B0DGZ5SMLX/ref=zg_bs_g_sports-collectibles_d_sccl_48/136-8770153-5600701?psc=1"
+                "product_url": "https://www.amazon.com/Filtrete-Allergen-Defense-Delivers-Throughout/dp/B005GZ89WU/ref=zg_bs_g_hi_d_sccl_48/136-9854883-8042938?psc=1"
             },
             {
                 "rank": 49,
-                "asin": "B07L8CDHH8",
-                "name": "1990 Hoops Basketball Card (1990-91) #205 Mark Jackson Near Mint/Mint Menendez Brothers",
-                "ratings_count": 61,
+                "asin": "B003N1ZSYG",
+                "name": "SAMSUNG Genuine Filter for Refrigerator Water and Ice, Carbon Block Filtration for Clean, Clear Drinking Water, 6-Month Life, HAF-CIN/EXP, 1 Pack",
+                "ratings_count": 49022,
                 "rating": "4.7",
-                "sale_price": "$39.95",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/51JwDfc6W7L._AC_UL300_SR300,200_.jpg",
+                "sale_price": "$24.56",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71NLuRemiSL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Hoops-Basketball-1990-91-Menendez-Brothers/dp/B07L8CDHH8/ref=zg_bs_g_sports-collectibles_d_sccl_49/136-8770153-5600701?psc=1"
+                "product_url": "https://www.amazon.com/SAMSUNG-Genuine-Refrigerator-Filtration-Drinking/dp/B003N1ZSYG/ref=zg_bs_g_hi_d_sccl_49/136-9854883-8042938?psc=1"
             },
             {
                 "rank": 50,
-                "asin": "B0CBD4G6XH",
-                "name": "2022/23 Panini Select NBA Basketball BLASTER box (6 pks/bx)",
-                "ratings_count": 32,
-                "rating": "4.1",
-                "sale_price": "$36.19",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61BUOIpdF-L._AC_UL300_SR300,200_.jpg",
+                "asin": "B002JAKRAM",
+                "name": "Frigidaire ULTRAWF PureSource Ultra Water and Ice Refrigerator Filter, Original, 1 Count",
+                "ratings_count": 44640,
+                "rating": "4.7",
+                "sale_price": "$40.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/616-QsAC19L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/2022-Panini-Select-Basketball-BLASTER/dp/B0CBD4G6XH/ref=zg_bs_g_sports-collectibles_d_sccl_50/136-8770153-5600701?psc=1"
+                "product_url": "https://www.amazon.com/Frigidaire-FBA_ULTRAWF-Filter-inches-White/dp/B002JAKRAM/ref=zg_bs_g_hi_d_sccl_50/136-9854883-8042938?psc=1"
             }
         ]
     }

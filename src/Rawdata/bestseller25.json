@@ -1,602 +1,618 @@
 {
     "200": {
-        "category": "Amazon Best SellersKindle Store",
+        "category": "Amazon Best SellersKitchen & Dining",
         "category_hierarchy": [
             {
                 "name": "Any Department",
-                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_digital-text_0_1"
+                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_kitchen_0_1"
             },
             {
-                "name": "Kindle Store",
-                "url": "https://www.amazon.com/Best-Sellers-Kindle-Store/zgbs/digital-text/ref=zg_bs_nav_digital-text_0?pg=1"
+                "name": "Kitchen & Dining",
+                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining/zgbs/kitchen/ref=zg_bs_nav_kitchen_0?pg=1"
             }
         ],
         "child_categories": [
             {
-                "category": "Kindle Newsstand",
-                "url": "https://www.amazon.com/Best-Sellers-Kindle-Store-Kindle-Newsstand/zgbs/digital-text/3000678011/ref=zg_bs_nav_digital-text_1"
+                "category": "Bakeware",
+                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Bakeware/zgbs/kitchen/289668/ref=zg_bs_nav_kitchen_1"
             },
             {
-                "category": "Kindle Nonfiction Singles",
-                "url": "https://www.amazon.com/Best-Sellers-Kindle-Store-Kindle-Nonfiction-Singles/zgbs/digital-text/5688113011/ref=zg_bs_nav_digital-text_1"
+                "category": "Bar Tools & Drinkware",
+                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Bar-Tools-Drinkware/zgbs/kitchen/289728/ref=zg_bs_nav_kitchen_1"
             },
             {
-                "category": "Kindle Short Reads",
-                "url": "https://www.amazon.com/Best-Sellers-Kindle-Store-Kindle-Short-Reads/zgbs/digital-text/8584457011/ref=zg_bs_nav_digital-text_1"
+                "category": "Coffee, Tea & Espresso Appliances",
+                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Coffee-Tea-Espresso-Appliances/zgbs/kitchen/289742/ref=zg_bs_nav_kitchen_1"
             },
             {
-                "category": "Kindle Singles",
-                "url": "https://www.amazon.com/Best-Sellers-Kindle-Store-Kindle-Singles/zgbs/digital-text/2486013011/ref=zg_bs_nav_digital-text_1"
+                "category": "Cookware",
+                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Kitchen-Cookware/zgbs/kitchen/289814/ref=zg_bs_nav_kitchen_1"
             },
             {
-                "category": "Kindle Vella",
-                "url": "https://www.amazon.com/Best-Sellers-Kindle-Store-Kindle-Vella/zgbs/digital-text/21165462011/ref=zg_bs_nav_digital-text_1"
+                "category": "Dining & Entertaining",
+                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Dining-Entertaining/zgbs/kitchen/13162311/ref=zg_bs_nav_kitchen_1"
             },
             {
-                "category": "Kindle eBooks",
-                "url": "https://www.amazon.com/Best-Sellers-Kindle-Store-Kindle-eBooks/zgbs/digital-text/154606011/ref=zg_bs_nav_digital-text_1"
+                "category": "Glassware & Drinkware",
+                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Glassware-Drinkware/zgbs/kitchen/13217501/ref=zg_bs_nav_kitchen_1"
             },
             {
-                "category": "Prime Reading",
-                "url": "https://www.amazon.com/Best-Sellers-Kindle-Store-Prime-Reading/zgbs/digital-text/15195176011/ref=zg_bs_nav_digital-text_1"
+                "category": "Home Brewing & Wine Making",
+                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Home-Brewing-Wine-Making/zgbs/kitchen/979832011/ref=zg_bs_nav_kitchen_1"
             },
             {
-                "category": "Whispersync for Voice",
-                "url": "https://www.amazon.com/Best-Sellers-Kindle-Store-Whispersync-for-Voice/zgbs/digital-text/5744819011/ref=zg_bs_nav_digital-text_1"
+                "category": "Kitchen & Table Linens",
+                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Kitchen-Table-Linens/zgbs/kitchen/1063916/ref=zg_bs_nav_kitchen_1"
+            },
+            {
+                "category": "Kitchen Utensils & Gadgets",
+                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Kitchen-Utensils-Gadgets/zgbs/kitchen/289754/ref=zg_bs_nav_kitchen_1"
+            },
+            {
+                "category": "Small Appliances",
+                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Kitchen-Small-Appliances/zgbs/kitchen/289913/ref=zg_bs_nav_kitchen_1"
+            },
+            {
+                "category": "Storage & Organization",
+                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Kitchen-Storage-Organization/zgbs/kitchen/510136/ref=zg_bs_nav_kitchen_1"
+            },
+            {
+                "category": "Wine Accessories",
+                "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining-Wine-Accessories/zgbs/kitchen/13299291/ref=zg_bs_nav_kitchen_1"
             }
         ],
-        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/Best-Sellers-Kindle-Store/zgbs/digital-text/ref%3Dzg_bs_pg_2_digital-text%3F_encoding%3DUTF8%26pg%3D2",
-        "url": "https://www.amazon.com/Best-Sellers-Kindle-Store/zgbs/digital-text/ref=zg_bs_nav_digital-text_0?pg=1",
+        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/Best-Sellers-Kitchen-Dining/zgbs/kitchen/ref%3Dzg_bs_pg_2_kitchen%3F_encoding%3DUTF8%26pg%3D2",
+        "url": "https://www.amazon.com/Best-Sellers-Kitchen-Dining/zgbs/kitchen/ref=zg_bs_nav_kitchen_0?pg=1",
         "product_listings": [
             {
                 "rank": 1,
-                "asin": "B0CY337Q77",
-                "name": "The Boyfriend: A Psychological Thriller",
-                "ratings_count": 19932,
-                "rating": "4.4",
-                "sale_price": "$3.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71WHWGojSJL._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B0CJZMP7L1",
+                "name": "Stanley Quencher H2.0 FlowState Stainless Steel Vacuum Insulated Tumbler with Lid and Straw for Water, Iced Tea or Coffee, Smoothie and More, Lilac, 30oz",
+                "ratings_count": 42947,
+                "rating": "4.7",
+                "sale_price": "$35.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51zaCVh6SIL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Boyfriend-Psychological-Thriller-Freida-McFadden-ebook/dp/B0CY337Q77/ref=zg_bs_g_digital-text_d_sccl_1/144-6144794-2471421?psc=1"
+                "product_url": "https://www.amazon.com/Quencher-FlowState-Stainless-Insulated-Smoothie/dp/B0CJZMP7L1/ref=zg_bs_g_kitchen_d_sccl_1/132-0910105-0920347?psc=1"
             },
             {
                 "rank": 2,
-                "asin": "B09TWSRMCB",
-                "name": "The Housemaid: An absolutely addictive psychological thriller with a jaw-dropping twist",
-                "ratings_count": 377049,
-                "rating": "4.5",
-                "sale_price": "$3.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/8105fcMAVyL._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B085DTZQNZ",
+                "name": "Owala FreeSip Insulated Stainless Steel Water Bottle with Straw for Sports and Travel, BPA-Free, 24-oz, Very, Very Dark",
+                "ratings_count": 58198,
+                "rating": "4.7",
+                "sale_price": "$27.94",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/718RbhzhVbL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Housemaid-absolutely-addictive-psychological-jaw-dropping-ebook/dp/B09TWSRMCB/ref=zg_bs_g_digital-text_d_sccl_2/144-6144794-2471421?psc=1"
+                "product_url": "https://www.amazon.com/Owala-Insulated-Stainless-Steel-Push-Button-24-Ounce/dp/B085DTZQNZ/ref=zg_bs_g_kitchen_d_sccl_2/132-0910105-0920347?psc=1"
             },
             {
                 "rank": 3,
-                "asin": "B0CXNJDB4B",
-                "name": "Phantasma: A dark fantasy romance (Wicked Games Book 1)",
-                "ratings_count": 5140,
-                "rating": "4.4",
-                "sale_price": "$2.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/91Vq7joiPfL._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B003OAJGJO",
+                "name": "Crock-Pot 7 Quart Oval Manual Slow Cooker, Stainless Steel (SCV700-S-BR), Versatile Cookware for Large Families or Entertaining",
+                "ratings_count": 32997,
+                "rating": "4.7",
+                "sale_price": "$29.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81s15a8-lGL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Phantasma-fantasy-romance-Wicked-Games-ebook/dp/B0CXNJDB4B/ref=zg_bs_g_digital-text_d_sccl_3/144-6144794-2471421?psc=1"
+                "product_url": "https://www.amazon.com/Crock-Pot-SCV700SS-Stainless-7-Quart-Manual/dp/B003OAJGJO/ref=zg_bs_g_kitchen_d_sccl_3/132-0910105-0920347?psc=1"
             },
             {
                 "rank": 4,
-                "asin": "B0DGHFXML7",
-                "name": "Anathema (The Eating Woods)",
-                "ratings_count": 1386,
-                "rating": "4.6",
-                "sale_price": "$5.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81V3z7X9UnL._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B0764HS4SL",
+                "name": "Fullstar Vegetable Chopper - Food Chopper - Onion Chopper - Vegetable Slicer & Spiralizer - Veggie Chopper with Container - Kitchen Gadgets - Home Essentials - Kitchen Accessories (4 in 1, White)",
+                "ratings_count": 110821,
+                "rating": "4.5",
+                "sale_price": "$29.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81Lv7sV-6-L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Anathema-Eating-Woods-Keri-Lake-ebook/dp/B0DGHFXML7/ref=zg_bs_g_digital-text_d_sccl_4/144-6144794-2471421?psc=1"
+                "product_url": "https://www.amazon.com/Vegetable-Chopper-Spiralizer-Slicer-Choppers/dp/B0764HS4SL/ref=zg_bs_g_kitchen_d_sccl_4/132-0910105-0920347?psc=1"
             },
             {
                 "rank": 5,
-                "asin": "B0BGDM197Q",
-                "name": "Fourth Wing (The Empyrean Book 1)",
-                "ratings_count": 252683,
-                "rating": "4.8",
-                "sale_price": "$14.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/914HWd0RxsL._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B0CGRGRXPY",
+                "name": "SURETIVIAN Chicken Shredder Large Chicken Breast Shredder Tool Twist with Brush&Fork, Visible Meat Shredder Machine, Strong Anti-Slip Strip, Ergonomic Handle, BPA Free, Suitable for Pork Beef Chicken",
+                "ratings_count": 5600,
+                "rating": "4.7",
+                "sale_price": "$22.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71d6vBNDknL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Fourth-Wing-Empyrean-Book-1-ebook/dp/B0BGDM197Q/ref=zg_bs_g_digital-text_d_sccl_5/144-6144794-2471421?psc=1"
+                "product_url": "https://www.amazon.com/SURETIVIAN-Shredder-Anti-Slip-Ergonomic-Suitable/dp/B0CGRGRXPY/ref=zg_bs_g_kitchen_d_sccl_5/132-0910105-0920347?psc=1"
             },
             {
                 "rank": 6,
-                "asin": "B0CP8H981Z",
-                "name": "A Very Bad Thing",
-                "ratings_count": 1438,
-                "rating": "4.5",
-                "sale_price": "$1.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/716Bxm0vVdL._UX300__PJafr-sticker-v3,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B0BHBP1X1B",
+                "name": "Simple Modern 40 oz Tumbler with Handle and Straw Lid | Insulated Cup Reusable Stainless Steel Water Bottle Travel Mug Cupholder Friendly | Gifts for Women Men Him Her | Trek Collection | Almond Birch",
+                "ratings_count": 36389,
+                "rating": "4.8",
+                "sale_price": "$29.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71nhPE7vxHL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Very-Bad-Thing-J-T-Ellison-ebook/dp/B0CP8H981Z/ref=zg_bs_g_digital-text_d_sccl_6/144-6144794-2471421?psc=1"
+                "product_url": "https://www.amazon.com/Simple-Modern-Tumbler-Handle-Insulated/dp/B0BHBP1X1B/ref=zg_bs_g_kitchen_d_sccl_6/132-0910105-0920347?psc=1"
             },
             {
                 "rank": 7,
-                "asin": "B0D4YYKBC7",
-                "name": "My Rules (Kingston Lane Book 2)",
-                "ratings_count": 6995,
-                "rating": "4.4",
-                "sale_price": "$3.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81oJhQqPzfL._UX300__PJku-headphones-v2,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B0113UZJE2",
+                "name": "Etekcity Food Kitchen Scale, Digital Grams and Ounces for Weight Loss, Baking, Cooking, Keto and Meal Prep, LCD Display, Medium, 304 Stainless Steel",
+                "ratings_count": 160952,
+                "rating": "4.6",
+                "sale_price": "$13.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91YrLTBnMcL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/My-Rules-Kingston-Lane-Book-ebook/dp/B0D4YYKBC7/ref=zg_bs_g_digital-text_d_sccl_7/144-6144794-2471421?psc=1"
+                "product_url": "https://www.amazon.com/Etekcity-Multifunction-Stainless-Batteries-Included/dp/B0113UZJE2/ref=zg_bs_g_kitchen_d_sccl_7/132-0910105-0920347?psc=1"
             },
             {
                 "rank": 8,
-                "asin": "B0DHHHK7G2",
-                "name": "Scarred King (Adamov Bratva Book 1)",
-                "ratings_count": 1988,
-                "rating": "4.5",
-                "sale_price": "$2.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81zsdL1B1xL._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B00S93EQUK",
+                "name": "Alpha Grillers Instant Read Meat Thermometer for Cooking Grill and BBQ Griddle - Waterproof w/Backlight & Calibration for Food, Oven, Air Fryer Accessories, Kitchen Essentials, Stocking Stuffer Gifts",
+                "ratings_count": 69290,
+                "rating": "4.7",
+                "sale_price": "$15.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81bpKKv68-L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Scarred-King-Adamov-Bratva-Book-ebook/dp/B0DHHHK7G2/ref=zg_bs_g_digital-text_d_sccl_8/144-6144794-2471421?psc=1"
+                "product_url": "https://www.amazon.com/Thermometer-Cooking-BACKLIGHT-WATERPROOF-Temperature/dp/B00S93EQUK/ref=zg_bs_g_kitchen_d_sccl_8/132-0910105-0920347?psc=1"
             },
             {
                 "rank": 9,
-                "asin": "B0CV2Y8CQC",
-                "name": "Truly Madly Deeply: A Grumpy x Sunshine Romance (Forbidden Love Book 1)",
-                "ratings_count": 9173,
-                "rating": "4.4",
-                "sale_price": "$4.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81M0afh+A1L._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B07FDJMC9Q",
+                "name": "Ninja Air Fryer, Roast, Bake, Air Fry, Roast, Broil, Reheats, & Dehydrates, 4-in-1, Fries, Frozen Food, Veggies, and Juicy Meat, Less Oil, Easy Meals, Healthy Meals, Compact, 4 QT, Grey, AF101",
+                "ratings_count": 81935,
+                "rating": "4.7",
+                "sale_price": "$89.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71+8uTMDRFL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Truly-Madly-Deeply-Enemies-Lovers-ebook/dp/B0CV2Y8CQC/ref=zg_bs_g_digital-text_d_sccl_9/144-6144794-2471421?psc=1"
+                "product_url": "https://www.amazon.com/Ninja-AF101-Fryer-Black-gray/dp/B07FDJMC9Q/ref=zg_bs_g_kitchen_d_sccl_9/132-0910105-0920347?psc=1"
             },
             {
                 "rank": 10,
-                "asin": "B0D5JS9LV6",
-                "name": "Secret Love : A Small Town, Single Dad, Sports Romance (The Single Dad Playbook Book 2)",
-                "ratings_count": 534,
+                "asin": "B0C9ZQ434J",
+                "name": "YARRAMATE Oil Sprayer for Cooking, 2 in 1 Olive Oil Dispenser Bottle for Kitchen, 16oz/470ml Premium Glass Oil Bottle, Food-grade Oil Mister for Air Fryer, Salad, Frying, BBQ (Creamy White)",
+                "ratings_count": 11097,
                 "rating": "4.4",
-                "sale_price": "$4.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81rrfOXRifL._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "sale_price": "$8.77",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71FxPbViEyL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Secret-Love-Single-Romance-Playbook-ebook/dp/B0D5JS9LV6/ref=zg_bs_g_digital-text_d_sccl_10/144-6144794-2471421?psc=1"
+                "product_url": "https://www.amazon.com/YARRAMATE-Sprayer-Cooking-Dispenser-Food-grade/dp/B0C9ZQ434J/ref=zg_bs_g_kitchen_d_sccl_10/132-0910105-0920347?psc=1"
             },
             {
                 "rank": 11,
-                "asin": "B0CJ7FZZKJ",
-                "name": "Chase Our Forever: A Small Town Single Dad Romance (Sutten Mountain)",
-                "ratings_count": 511,
-                "rating": "4.5",
-                "sale_price": "$5.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/8192641RObL._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B06X9NQ8GX",
+                "name": "Amazon Basics Digital Kitchen Scale with LCD Display, Batteries Included, Weighs up to 11 pounds, Black and Stainless Steel",
+                "ratings_count": 94698,
+                "rating": "4.7",
+                "sale_price": "$11.49",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71mcRfq5GsL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Chase-Our-Forever-Billionaire-Mountain-ebook/dp/B0CJ7FZZKJ/ref=zg_bs_g_digital-text_d_sccl_11/144-6144794-2471421?psc=1"
+                "product_url": "https://www.amazon.com/AmazonBasics-Stainless-Digital-Batteries-Included/dp/B06X9NQ8GX/ref=zg_bs_g_kitchen_d_sccl_11/132-0910105-0920347?psc=1"
             },
             {
                 "rank": 12,
-                "asin": "B0DD357DWQ",
-                "name": "The Wingman: a relationship coach hockey romance (Vancouver Storm Book 3)",
-                "ratings_count": 5162,
-                "rating": "4.3",
-                "sale_price": "$4.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81RWtolJu2L._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B07XXSYLL8",
+                "name": "ThermoPro TP19H Digital Meat Thermometer for Cooking with Ambidextrous Backlit and Motion Sensing Kitchen Cooking Food Thermometer for BBQ Grill Smoker Oil Fry Candy Instant Read Thermometer",
+                "ratings_count": 42060,
+                "rating": "4.7",
+                "sale_price": "$16.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61Qs4ZJXsXL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Wingman-relationship-hockey-romance-Vancouver-ebook/dp/B0DD357DWQ/ref=zg_bs_g_digital-text_d_sccl_12/144-6144794-2471421?psc=1"
+                "product_url": "https://www.amazon.com/ThermoPro-Thermometer-Grilling-Waterproof-Ambidextrous/dp/B07XXSYLL8/ref=zg_bs_g_kitchen_d_sccl_12/132-0910105-0920347?psc=1"
             },
             {
                 "rank": 13,
-                "asin": "B0DDKHNVWF",
-                "name": "Quicksilver",
-                "ratings_count": 37785,
-                "rating": "4.7",
-                "sale_price": "$5.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81HmV4VuVKL._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B07YP2VH4B",
+                "name": "KitchenAid Classic Multifunction Can Opener / Bottle Opener",
+                "ratings_count": 86389,
+                "rating": "4.6",
+                "sale_price": "$11.94",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51yO+bt+mqL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Quicksilver-Callie-Hart-ebook/dp/B0DDKHNVWF/ref=zg_bs_g_digital-text_d_sccl_13/144-6144794-2471421?psc=1"
+                "product_url": "https://www.amazon.com/KitchenAid-KE199OHOBA-Classic-Multifunction-Opener/dp/B07YP2VH4B/ref=zg_bs_g_kitchen_d_sccl_13/132-0910105-0920347?psc=1"
             },
             {
                 "rank": 14,
-                "asin": "B089S72XBK",
-                "name": "Hour of the Witch: A Novel",
-                "ratings_count": 9470,
-                "rating": "4.3",
-                "sale_price": "$1.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71dsx3-bdKL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0CJF94M8J",
+                "name": "TrendPlain 16oz Oil Dispenser Bottle for Kitchen - 2 in 1 Olive Oil Dispenser and Oil Sprayer - BPA-Free - 470ml Olive Oil Bottle - Oil Sprayer for Cooking, Kitchen, Salad, Barbecue Black",
+                "ratings_count": 7342,
+                "rating": "4.5",
+                "sale_price": "$8.77",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/717UVXCru6L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Hour-Witch-Novel-Chris-Bohjalian-ebook/dp/B089S72XBK/ref=zg_bs_g_digital-text_d_sccl_14/144-6144794-2471421?psc=1"
+                "product_url": "https://www.amazon.com/TrendPlain-16oz-Dispenser-Bottle-Kitchen/dp/B0CJF94M8J/ref=zg_bs_g_kitchen_d_sccl_14/132-0910105-0920347?psc=1"
             },
             {
                 "rank": 15,
-                "asin": "B0BGXYL3BZ",
-                "name": "The Housemaid's Secret: A totally gripping psychological thriller with a shocking twist",
-                "ratings_count": 207287,
-                "rating": "4.4",
-                "sale_price": "$4.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81kZT7aHGIL._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B0CYC9RKSV",
+                "name": "Egg Topper Cutter Tool Egg Cracker Tool Egg Shell OpenerHard Boiled Egg Peeler Egg Cracker Tool For Eggs Kitchen Gadgets Egg Cracking Tool Handheld Egg Slicer Egg Peeler Tool For Hard Boiled Eggs (3)",
+                "ratings_count": 4,
+                "rating": "5.0",
+                "sale_price": "$8.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71PMudWL4xL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Housemaids-Secret-gripping-psychological-thriller-ebook/dp/B0BGXYL3BZ/ref=zg_bs_g_digital-text_d_sccl_15/144-6144794-2471421?psc=1"
+                "product_url": "https://www.amazon.com/Cracker-Kitchen-Gadgets-Cracking-Handheld/dp/B0CYC9RKSV/ref=zg_bs_g_kitchen_d_sccl_15/132-0910105-0920347?psc=1"
             },
             {
                 "rank": 16,
-                "asin": "B0D3J69G2Y",
-                "name": "Drop Dead Sisters (The Finch Sisters Book 1)",
-                "ratings_count": 1458,
-                "rating": "4.1",
-                "sale_price": "$1.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71bFOQxoysL._UX300__PJafr-sticker-v3,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B08Z6QSWVQ",
+                "name": "THERMOS FUNTAINER Water Bottle with Straw - 12 Ounce, Pokémon - Kids Stainless Steel Vacuum Insulated Water Bottle with Lid",
+                "ratings_count": 68218,
+                "rating": "4.7",
+                "sale_price": "$12.93",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61qBGuZfyiL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Drop-Dead-Sisters-Finch-Book-ebook/dp/B0D3J69G2Y/ref=zg_bs_g_digital-text_d_sccl_16/144-6144794-2471421?psc=1"
+                "product_url": "https://www.amazon.com/THERMOS-FUNTAINER-Stainless-Insulated-Pokemon/dp/B08Z6QSWVQ/ref=zg_bs_g_kitchen_d_sccl_16/132-0910105-0920347?psc=1"
             },
             {
                 "rank": 17,
-                "asin": "B09CLVJJ77",
-                "name": "Haunting Adeline (Cat and Mouse Duet Book 1)",
-                "ratings_count": 118386,
-                "rating": "4.4",
-                "sale_price": "$4.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/919CJILxYOL._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B0CRLHDKS1",
+                "name": "BrüMate Era 40 oz Tumbler with Handle and Straw | 100% Leakproof Insulated Tumbler with Lid and Straw | Made of Stainless Steel | Cup Holder Friendly Base | 40oz (Lilac Dusk)",
+                "ratings_count": 346,
+                "rating": "4.7",
+                "sale_price": "$44.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51lVmYVNYhL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Haunting-Adeline-Mouse-Duet-Book-ebook/dp/B09CLVJJ77/ref=zg_bs_g_digital-text_d_sccl_17/144-6144794-2471421?psc=1"
+                "product_url": "https://www.amazon.com/Br%C3%BCMate-Leakproof-Insulated-Stainless-Friendly/dp/B0CRLHDKS1/ref=zg_bs_g_kitchen_d_sccl_17/132-0910105-0920347?psc=1"
             },
             {
                 "rank": 18,
-                "asin": "B0D9QBHRNT",
-                "name": "The Bonus",
-                "ratings_count": 18225,
-                "rating": "4.4",
-                "sale_price": "$4.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/816cGQFkp2L._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B079M8FPTW",
+                "name": "Rubbermaid Brilliance Food Storage Containers, BPA Free, Airtight Lids, Ideal for Lunch, Meal Prep & Leftovers, Set of 5 (3.2 Cup)",
+                "ratings_count": 103117,
+                "rating": "4.7",
+                "sale_price": "$30.16",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/818i3AJdNdL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Bonus-T-L-Swan-ebook/dp/B0D9QBHRNT/ref=zg_bs_g_digital-text_d_sccl_18/144-6144794-2471421?psc=1"
+                "product_url": "https://www.amazon.com/Rubbermaid-Brilliance-Storage-Container-BPA-free/dp/B079M8FPTW/ref=zg_bs_g_kitchen_d_sccl_18/132-0910105-0920347?psc=1"
             },
             {
                 "rank": 19,
-                "asin": "B004IZLRU0",
-                "name": "Night Road: A Novel",
-                "ratings_count": 48331,
-                "rating": "4.5",
-                "sale_price": "$11.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71aExAbHsVL._UX300__PJku-headphones-v2,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B0B6PLG6G2",
+                "name": "Air Fryer Paper Liners,125Pcs Parchment Paper, Air Fryer Disposable Paper Liner for Microwave, Non-Stick Air Fryer Liners Square Free of Bleach (8IN)",
+                "ratings_count": 22835,
+                "rating": "4.6",
+                "sale_price": "$12.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81esmIBZIJL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Night-Road-Novel-Kristin-Hannah-ebook/dp/B004IZLRU0/ref=zg_bs_g_digital-text_d_sccl_19/144-6144794-2471421?psc=1"
+                "product_url": "https://www.amazon.com/Air-Fryer-Paper-Liners-Disposable/dp/B0B6PLG6G2/ref=zg_bs_g_kitchen_d_sccl_19/132-0910105-0920347?psc=1"
             },
             {
                 "rank": 20,
-                "asin": "B0D6MG4KFQ",
-                "name": "Promise Me Not",
-                "ratings_count": 3123,
-                "rating": "4.1",
-                "sale_price": "$5.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81zSeQS4-UL._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B0BNYR7MQV",
+                "name": "Stanley IceFlow Stainless Steel Tumbler with Straw - Vacuum Insulated Water Bottle for Home, Office or Car Reusable Cup with Straw Leak Resistant Flip Cold for 12 Hrs or Iced for 2 Days (Rose Quartz)",
+                "ratings_count": 36588,
+                "rating": "4.6",
+                "sale_price": "$35.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41Ai-GLQzQL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Promise-Me-Not-Meagan-Brandy-ebook/dp/B0D6MG4KFQ/ref=zg_bs_g_digital-text_d_sccl_20/144-6144794-2471421?psc=1"
+                "product_url": "https://www.amazon.com/Stanley-IceFlow-Stainless-Steel-Tumbler/dp/B0BNYR7MQV/ref=zg_bs_g_kitchen_d_sccl_20/132-0910105-0920347?psc=1"
             },
             {
                 "rank": 21,
-                "asin": "B0CXCM16S6",
-                "name": "The Fake Wedding Project: A Novel",
-                "ratings_count": 514,
-                "rating": "4.5",
-                "sale_price": "$4.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71NMV3xmRVL._UX300__PJku-headphones-v2,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B0CQVWW5QK",
+                "name": "HydroJug Traveler - 40 oz Water Bottle with Handle & Flip Straw - Fits in Cup Holder, Leak Resistant Tumbler-Reusable Insulated Stainless Steel & Rubber Base - Gifts for Women & Men, Cream",
+                "ratings_count": 4118,
+                "rating": "4.4",
+                "sale_price": "$39.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/31y1VC+JsML._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Fake-Wedding-Project-Novel-ebook/dp/B0CXCM16S6/ref=zg_bs_g_digital-text_d_sccl_21/144-6144794-2471421?psc=1"
+                "product_url": "https://www.amazon.com/HydroJug-Traveler-Resistant-Bottle-Reusable-Insulated/dp/B0CQVWW5QK/ref=zg_bs_g_kitchen_d_sccl_21/132-0910105-0920347?psc=1"
             },
             {
                 "rank": 22,
-                "asin": "B0D47S2DGG",
-                "name": "Slap Shot Surprise (Cherry Tree Harbor Book 5)",
-                "ratings_count": 4130,
-                "rating": "4.5",
-                "sale_price": "$4.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81ru-kAfv6L._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B07PZF3QS3",
+                "name": "KitchenAid All Purpose Kitchen Shears with Protective Sheath for Everyday use, Dishwasher Safe Stainless Steel Scissors with Comfort Grip, 8.72-Inch, Black",
+                "ratings_count": 77439,
+                "rating": "4.8",
+                "sale_price": "$8.44",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41E7ALk+uXL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Slap-Shot-Surprise-Cherry-Harbor-ebook/dp/B0D47S2DGG/ref=zg_bs_g_digital-text_d_sccl_22/144-6144794-2471421?psc=1"
+                "product_url": "https://www.amazon.com/KitchenAid-Protective-Dishwasher-Stainless-8-72-Inch/dp/B07PZF3QS3/ref=zg_bs_g_kitchen_d_sccl_22/132-0910105-0920347?psc=1"
             },
             {
                 "rank": 23,
-                "asin": "B0CK4YL5FM",
-                "name": "The Housemaid Is Watching: An absolutely gripping psychological thriller packed with twists",
-                "ratings_count": 136634,
-                "rating": "4.2",
-                "sale_price": "$7.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81Y7GUVMvKL._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B08N9Q24M9",
+                "name": "Mueller Pro-Series 10-in-1, 8 Blade Vegetable Chopper, Onion Mincer, Cutter, Dicer, Egg Slicer with Container, French Fry Cutter, Potato Slicer, Home Essentials & Kitchen Gadgets, Salad Chopper",
+                "ratings_count": 30464,
+                "rating": "4.5",
+                "sale_price": "$29.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91Ulir9wKXL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Housemaid-Watching-absolutely-gripping-psychological-ebook/dp/B0CK4YL5FM/ref=zg_bs_g_digital-text_d_sccl_23/144-6144794-2471421?psc=1"
+                "product_url": "https://www.amazon.com/Mueller-Austria-Chopper-Vegetable-Container/dp/B08N9Q24M9/ref=zg_bs_g_kitchen_d_sccl_23/132-0910105-0920347?psc=1"
             },
             {
                 "rank": 24,
-                "asin": "B0BP8JRWLP",
-                "name": "In the Likely Event",
-                "ratings_count": 63381,
-                "rating": "4.5",
-                "sale_price": "$4.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71lTm0YqBUL._UX300__PJku-headphones-v2,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B012T634SM",
+                "name": "Magic Bullet Blender, Small, Silver, 11 Piece Set",
+                "ratings_count": 109902,
+                "rating": "4.4",
+                "sale_price": "$39.88",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61w2Tj7r0BL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Likely-Event-Rebecca-Yarros-ebook/dp/B0BP8JRWLP/ref=zg_bs_g_digital-text_d_sccl_24/144-6144794-2471421?psc=1"
+                "product_url": "https://www.amazon.com/Magic-Bullet-Blender-Small-Silver/dp/B012T634SM/ref=zg_bs_g_kitchen_d_sccl_24/132-0910105-0920347?psc=1"
             },
             {
                 "rank": 25,
-                "asin": "B0CF399F43",
-                "name": "Pike Island: A Thriller",
-                "ratings_count": 1262,
-                "rating": "4.1",
-                "sale_price": "$1.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/91rh4QatezL._UX300__PJafr-sticker-v3,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B0D8VH4MKS",
+                "name": "40 oz Tumbler Flip Straw Lid Compatible with Stanley Cup 40oz Tumbler Tumbler Cover Compatible with Stanley Cup Quencher (Cream White, 2 Pack)",
+                "ratings_count": 77,
+                "rating": "3.9",
+                "sale_price": "$17.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61jGGllPckL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Pike-Island-Thriller-Tony-Wirt-ebook/dp/B0CF399F43/ref=zg_bs_g_digital-text_d_sccl_25/144-6144794-2471421?psc=1"
+                "product_url": "https://www.amazon.com/Tumbler-Straw-Compatible-Stanley-Quencher/dp/B0D8VH4MKS/ref=zg_bs_g_kitchen_d_sccl_25/132-0910105-0920347?psc=1"
             },
             {
                 "rank": 26,
-                "asin": "B0CRKBMD53",
-                "name": "From Here to the Great Unknown: Oprah's Book Club: A Memoir",
-                "ratings_count": 748,
+                "asin": "B08J8GZXKZ",
+                "name": "KitchenAid Ribbed Soft Silicone Oven Mitt Set, 7\"x13\", Milkshake 2 Count",
+                "ratings_count": 6621,
                 "rating": "4.7",
-                "sale_price": "$14.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81OOQQ+8C9L._AC_UL300_SR300,200_.jpg",
+                "sale_price": "$20.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/617z6N3l59L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Here-Great-Lisa-Marie-Presley-ebook/dp/B0CRKBMD53/ref=zg_bs_g_digital-text_d_sccl_26/144-6144794-2471421?psc=1"
+                "product_url": "https://www.amazon.com/KitchenAid-Ribbed-Soft-Silicone-Milkshake/dp/B08J8GZXKZ/ref=zg_bs_g_kitchen_d_sccl_26/132-0910105-0920347?psc=1"
             },
             {
                 "rank": 27,
-                "asin": "B0CW1BCJYX",
-                "name": "Arran's Obsession (Body Count, #1)",
-                "ratings_count": 2469,
-                "rating": "4.3",
-                "sale_price": "$4.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81I5f1tlUxL._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B086PHS2V8",
+                "name": "SENSARTE Nonstick Frying Pan Skillet, Swiss Granite Coating Omelette Pan, Healthy Stone Cookware Chef's Pan, PFOA Free (8/9.5/10/11/12.5 Inch) (9.5 Inch)",
+                "ratings_count": 22672,
+                "rating": "4.6",
+                "sale_price": "$23.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61b-tqU2xoL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Arrans-Obsession-Body-Count-1-ebook/dp/B0CW1BCJYX/ref=zg_bs_g_digital-text_d_sccl_27/144-6144794-2471421?psc=1"
+                "product_url": "https://www.amazon.com/SENSARTE-Nonstick-Frying-Pan-Skillet/dp/B086PHS2V8/ref=zg_bs_g_kitchen_d_sccl_27/132-0910105-0920347?psc=1"
             },
             {
                 "rank": 28,
-                "asin": "B0BMF2M8Z6",
-                "name": "The Lost Bookshop: The most charming and uplifting novel for 2024 and the perfect gift for book lovers!",
-                "ratings_count": 101800,
+                "asin": "B0C5DBMYZF",
+                "name": "REALINN Under Sink Organizer and Storage, 2 Pack Pull Out Cabinet Organizer Slide Out Sink Shelf Cabinet Storage Shelves, Under Sink Storage for Kitchen Bathroom Cabinet",
+                "ratings_count": 8330,
                 "rating": "4.4",
-                "sale_price": "$13.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/91Sy3S-198L._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "sale_price": "$45.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71WSQb57yRL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Lost-Bookshop-charming-uplifting-perfect-ebook/dp/B0BMF2M8Z6/ref=zg_bs_g_digital-text_d_sccl_28/144-6144794-2471421?psc=1"
+                "product_url": "https://www.amazon.com/Organizer-Storage-Cabinet-Shelves-Bathroom/dp/B0C5DBMYZF/ref=zg_bs_g_kitchen_d_sccl_28/132-0910105-0920347?psc=1"
             },
             {
                 "rank": 29,
-                "asin": "B0C1LJS1XX",
-                "name": "The Perfect Fit",
-                "ratings_count": 27238,
-                "rating": "4.4",
-                "sale_price": "$4.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81c7k4wRgkL._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B07FVQLBL3",
+                "name": "Kitchen Mama Auto Electric Can Opener: Open Your Cans with A Simple Press of Button - Automatic, Hands Free, Smooth Edge, Food-Safe, Battery Operated, YES YOU CAN (Red)",
+                "ratings_count": 105460,
+                "rating": "4.2",
+                "sale_price": "$29.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61eqNRPW8mL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Perfect-Fit-stand-alone-choose-romance-ebook/dp/B0C1LJS1XX/ref=zg_bs_g_digital-text_d_sccl_29/144-6144794-2471421?psc=1"
+                "product_url": "https://www.amazon.com/Kitchen-Mama-Automatic-Electric-Opener/dp/B07FVQLBL3/ref=zg_bs_g_kitchen_d_sccl_29/132-0910105-0920347?psc=1"
             },
             {
                 "rank": 30,
-                "asin": "B0CLN9CRMF",
-                "name": "The Unwanted Bride: An Arranged Marriage Romance (The Lasker Brothers)",
-                "ratings_count": 2426,
-                "rating": "4.5",
-                "sale_price": "$4.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61AC+CvKnOL._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B09NXMDPS1",
+                "name": "The Original Gorilla Grip Heavy Duty Stainless Steel Smooth Edge Manual Can Opener and Bottle Openers, Soft Handle, Rust Proof Oversized Handheld Easy Turn Knob, Multifunctional Kitchen Tool, Black",
+                "ratings_count": 21253,
+                "rating": "4.4",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51Hy3m8JdgL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Huxleys-Story-Lasker-Brothers-Nadia-ebook/dp/B0CLN9CRMF/ref=zg_bs_g_digital-text_d_sccl_30/144-6144794-2471421?psc=1"
+                "product_url": "https://www.amazon.com/Gorilla-Grip-Handheld-Comfortable-Oversized/dp/B09NXMDPS1/ref=zg_bs_g_kitchen_d_sccl_30/132-0910105-0920347?psc=1"
             },
             {
                 "rank": 31,
-                "asin": "B0DHHGBBQC",
-                "name": "Scarred Queen (Adamov Bratva Book 2)",
-                "ratings_count": 1665,
+                "asin": "B07WMQP4SF",
+                "name": "Homaxy 100% Cotton Waffle Weave Kitchen Dish Cloths, Ultra Soft Absorbent Quick Drying Dish Towels, 12x12 Inches, 6-Pack, Dark Grey",
+                "ratings_count": 29972,
                 "rating": "4.5",
-                "sale_price": "$7.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81i9kQONbML._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81YlKeBDwML._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Scarred-Queen-Adamov-Bratva-Book-ebook/dp/B0DHHGBBQC/ref=zg_bs_g_digital-text_d_sccl_31/130-1325303-5807162?psc=1"
+                "product_url": "https://www.amazon.com/Homaxy-Cotton-Waffle-Kitchen-Absorbent/dp/B07WMQP4SF/ref=zg_bs_g_kitchen_d_sccl_31/132-0522728-8629165?psc=1"
             },
             {
                 "rank": 32,
-                "asin": "B0DJ1L9XMM",
-                "name": "Dark Seduction: An Age Gap, Office Romance (Chicago Bratva Series)",
-                "ratings_count": 430,
-                "rating": "4.5",
-                "sale_price": "$2.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81-WGOPceNL._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B00006JSUA",
+                "name": "Lodge 10.25 Inch Cast Iron Pre-Seasoned Skillet – Signature Teardrop Handle - Use in the Oven, on the Stove, on the Grill, or Over a Campfire, Black",
+                "ratings_count": 121312,
+                "rating": "4.7",
+                "sale_price": "$19.90",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51hSkgFqVqL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Dark-Seduction-Office-Romance-Chicago-ebook/dp/B0DJ1L9XMM/ref=zg_bs_g_digital-text_d_sccl_32/130-1325303-5807162?psc=1"
+                "product_url": "https://www.amazon.com/Lodge-Skillet-Pre-Seasoned-Ready-Stove/dp/B00006JSUA/ref=zg_bs_g_kitchen_d_sccl_32/132-0522728-8629165?psc=1"
             },
             {
                 "rank": 33,
-                "asin": "B0DDLJ8CBP",
-                "name": "It's Just Business",
-                "ratings_count": 2156,
-                "rating": "4.3",
-                "sale_price": "$3.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81fvu2JLIOL._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B00DDXWFY0",
+                "name": "DASH Rapid Egg Cooker: 6 Egg Capacity Electric Egg Cooker for Hard Boiled Eggs, Poached Eggs, Scrambled Eggs, or Omelets with Auto Shut Off Feature - Black",
+                "ratings_count": 124939,
+                "rating": "4.7",
+                "sale_price": "$18.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61pF6D-ulVL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Its-Just-Business-Lauren-Landish-ebook/dp/B0DDLJ8CBP/ref=zg_bs_g_digital-text_d_sccl_33/130-1325303-5807162?psc=1"
+                "product_url": "https://www.amazon.com/Dash-Rapid-Egg-Cooker-Scrambled/dp/B00DDXWFY0/ref=zg_bs_g_kitchen_d_sccl_33/132-0522728-8629165?psc=1"
             },
             {
                 "rank": 34,
-                "asin": "B0CVLHTFDS",
-                "name": "Natural Selection: A Short Story",
-                "ratings_count": 28547,
-                "rating": "3.9",
-                "sale_price": "$1.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81rMfFTVmYL._UX300__PJku-headphones-v2,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B0C8VXLW37",
+                "name": "YETI Rambler 20 oz Stainless Steel Vacuum Insulated Tumbler w/MagSlider Lid",
+                "ratings_count": 1381,
+                "rating": "4.8",
+                "sale_price": "$35.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61xFTk0T7fL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Natural-Selection-Short-Elin-Hilderbrand-ebook/dp/B0CVLHTFDS/ref=zg_bs_g_digital-text_d_sccl_34/130-1325303-5807162?psc=1"
+                "product_url": "https://www.amazon.com/YETI-Rambler-Stainless-Insulated-MagSlider/dp/B0C8VXLW37/ref=zg_bs_g_kitchen_d_sccl_34/132-0522728-8629165?psc=1"
             },
             {
                 "rank": 35,
-                "asin": "B0BTJCWKRC",
-                "name": "My Temptation (Kingston Lane Book 1)",
-                "ratings_count": 28772,
-                "rating": "4.3",
-                "sale_price": "$1.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71jKjsitiTL._UX300__PJku-headphones-v2,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B01M9I779L",
+                "name": "DASH Mini Waffle Maker - 4” Waffle Mold, Nonstick Waffle Iron with Quick Heat-Up, PTFE Nonstick Surface - Perfect Mini Waffle Maker for Kids and Families, Just Add Batter (Aqua)",
+                "ratings_count": 241216,
+                "rating": "4.6",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71Ejqyr1fQL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/My-Temptation-Kingston-Lane-Book-ebook/dp/B0BTJCWKRC/ref=zg_bs_g_digital-text_d_sccl_35/130-1325303-5807162?psc=1"
+                "product_url": "https://www.amazon.com/DASH-Mini-Waffle-Maker-Nonstick/dp/B01M9I779L/ref=zg_bs_g_kitchen_d_sccl_35/132-0522728-8629165?psc=1"
             },
             {
                 "rank": 36,
-                "asin": "B0C436JH9L",
-                "name": "Holmes, Marple & Poe: The Greatest Crime-Solving Team of the Twenty-First Century (Holmes, Margaret & Poe Book 1)",
-                "ratings_count": 13233,
-                "rating": "4.4",
-                "sale_price": "$14.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71p4d02gMxL._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B07D15V7T3",
+                "name": "Farberware 5211438 Professional Heat Resistant Nylon Meat and Potato Masher, Safe for Non-Stick Cookware, 10-Inch, Black",
+                "ratings_count": 54213,
+                "rating": "4.7",
+                "sale_price": "$6.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/518Siu2n+AL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Holmes-Marple-Poe-Crime-Solving-Twenty-First-ebook/dp/B0C436JH9L/ref=zg_bs_g_digital-text_d_sccl_36/130-1325303-5807162?psc=1"
+                "product_url": "https://www.amazon.com/Farberware-5211438-Professional-Resistant-Masher-Safe/dp/B07D15V7T3/ref=zg_bs_g_kitchen_d_sccl_36/132-0522728-8629165?psc=1"
             },
             {
                 "rank": 37,
-                "asin": "B0CVLHHKRR",
-                "name": "When We Were Friends: A Short Story",
-                "ratings_count": 10954,
-                "rating": "3.7",
-                "sale_price": "$1.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/A1CTxioX17L._UX300__PJku-headphones-v2,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B085NDYY1P",
+                "name": "Sweet Alice Gravity Electric Pepper and Salt Grinder Set, Adjustable Coarseness, Battery Powered with LED Light, One Hand Automatic Operation, Stainless Steel Black, 2 Pack",
+                "ratings_count": 33811,
+                "rating": "4.2",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71Ozh8r6hOL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/When-We-Were-Friends-Short-ebook/dp/B0CVLHHKRR/ref=zg_bs_g_digital-text_d_sccl_37/130-1325303-5807162?psc=1"
+                "product_url": "https://www.amazon.com/Adjustable-Coarseness-Automatic-Operation-Stainless/dp/B085NDYY1P/ref=zg_bs_g_kitchen_d_sccl_37/132-0522728-8629165?psc=1"
             },
             {
                 "rank": 38,
-                "asin": "B09H7Q4B74",
-                "name": "The Ritual: A Dark College Romance",
-                "ratings_count": 81650,
-                "rating": "4.4",
-                "sale_price": "$4.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/8180RQGWErL._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B08FLKHG8J",
+                "name": "iBayam Kitchen Scissors All Purpose Heavy Duty Meat Poultry Shears, Dishwasher Safe Food Cooking Scissors Stainless Steel Utility Scissors, 2-Pack (Black Red, Black Gray)",
+                "ratings_count": 50889,
+                "rating": "4.8",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/612eZSoIGeL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Ritual-Dark-College-Romance-ebook/dp/B09H7Q4B74/ref=zg_bs_g_digital-text_d_sccl_38/130-1325303-5807162?psc=1"
+                "product_url": "https://www.amazon.com/iBayam-Scissors-Dishwasher-Multipurpose-Stainless/dp/B08FLKHG8J/ref=zg_bs_g_kitchen_d_sccl_38/132-0522728-8629165?psc=1"
             },
             {
                 "rank": 39,
-                "asin": "B0CXR6ZHLS",
-                "name": "Wild Eyes",
-                "ratings_count": 23643,
-                "rating": "4.5",
-                "sale_price": "$5.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/91ylJ1Y6mLL._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B0CSZ7WBYW",
+                "name": "Ninja Air Fryer Pro 4-in-1 with 5 QT Capacity, Air Fry, Roast, Reheat, Dehydrate, Air Crisp Technology with 400F for hot, crispy results in just minutes, Nonstick Basket & Crisper Plate, Grey, AF141",
+                "ratings_count": 1449,
+                "rating": "4.7",
+                "sale_price": "$89.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71QwoGmcfUL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Wild-Eyes-Elsie-Silver-ebook/dp/B0CXR6ZHLS/ref=zg_bs_g_digital-text_d_sccl_39/130-1325303-5807162?psc=1"
+                "product_url": "https://www.amazon.com/Ninja-Capacity-Dehydrate-Technology-AF141/dp/B0CSZ7WBYW/ref=zg_bs_g_kitchen_d_sccl_39/132-0522728-8629165?psc=1"
             },
             {
                 "rank": 40,
-                "asin": "B0C4JMJBNX",
-                "name": "Iron Flame (The Empyrean Book 2)",
-                "ratings_count": 200536,
+                "asin": "B07RPRVXNX",
+                "name": "Simple Modern Kids Water Bottle with Straw Lid | Insulated Stainless Steel Reusable Tumbler for Toddlers, School | Summit Collection | 14oz, Under Construction",
+                "ratings_count": 13926,
                 "rating": "4.7",
-                "sale_price": "$14.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/912fTvsUKLL._AC_UL300_SR300,200_.jpg",
+                "sale_price": "$17.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61JjZJtA7jL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Iron-Flame-Empyrean-Book-2-ebook/dp/B0C4JMJBNX/ref=zg_bs_g_digital-text_d_sccl_40/130-1325303-5807162?psc=1"
+                "product_url": "https://www.amazon.com/Simple-Modern-Summit-Water-Bottles/dp/B07RPRVXNX/ref=zg_bs_g_kitchen_d_sccl_40/132-0522728-8629165?psc=1"
             },
             {
                 "rank": 41,
-                "asin": "B0BTTJWYFN",
-                "name": "The Pumpkin Spice Café: TikTok Made Me Buy It (Dream Harbor, Book 1)",
-                "ratings_count": 25364,
-                "rating": "3.8",
-                "sale_price": "$2.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/812KgDJPd8L._AC_UL300_SR300,200_.jpg",
+                "asin": "B072P11H8L",
+                "name": "Amazon Basics 2 Slice Extra Wide Slot Toaster with Bagel Function, Removable Crumb Tray, 6 Browning Settings, Frozen Food Setting, Cancel Button, 900W, Black & Silver.",
+                "ratings_count": 33578,
+                "rating": "4.3",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71ZauD8ClBL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Pumpkin-Spice-Caf%C3%A9-sunshine-romantic-ebook/dp/B0BTTJWYFN/ref=zg_bs_g_digital-text_d_sccl_41/130-1325303-5807162?psc=1"
+                "product_url": "https://www.amazon.com/Amazon-Basics-Extra-Wide-Toaster-Settings/dp/B072P11H8L/ref=zg_bs_g_kitchen_d_sccl_41/132-0522728-8629165?psc=1"
             },
             {
                 "rank": 42,
-                "asin": "B0CVS5TT3V",
-                "name": "Forever Starts Tonight: a Small Town, Brother's Best Friend romance (Wilder Family)",
-                "ratings_count": 2720,
-                "rating": "4.6",
-                "sale_price": "$4.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81wHzJr3DtL._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B007WQ9YNO",
+                "name": "AROMA Digital Rice Cooker, 4-Cup (Uncooked) / 8-Cup (Cooked), Steamer, Grain Cooker, Multicooker, 2 Qt, Stainless Steel Exterior, ARC-914SBD",
+                "ratings_count": 60594,
+                "rating": "4.5",
+                "sale_price": "$29.92",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71-U1rX30iL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Forever-Starts-Tonight-Wilders-Wilder-ebook/dp/B0CVS5TT3V/ref=zg_bs_g_digital-text_d_sccl_42/130-1325303-5807162?psc=1"
+                "product_url": "https://www.amazon.com/Aroma-Housewares-ARC-914SBD-Cool-Touch-Stainless/dp/B007WQ9YNO/ref=zg_bs_g_kitchen_d_sccl_42/132-0522728-8629165?psc=1"
             },
             {
                 "rank": 43,
-                "asin": "B0D3KJNPFW",
-                "name": "The Unplanned Wedding: Knox & June's Story. Boss Employee Marriage of Convenience Romance (The Davenports Book 3)",
-                "ratings_count": 1248,
-                "rating": "4.1",
-                "sale_price": "$5.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81ZtlM-eaOL._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B09WF796VW",
+                "name": "Powerful Immersion Blender, Electric Hand Blender 500 Watt with Turbo Mode, Detachable Base. Handheld Kitchen Gadget Blender Stick for Soup, Smoothie, Puree, Baby Food, 304 Stainless Steel Blades",
+                "ratings_count": 8741,
+                "rating": "4.5",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81A6emwYQGL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Unplanned-Wedding-Employee-Convenience-Davenports-ebook/dp/B0D3KJNPFW/ref=zg_bs_g_digital-text_d_sccl_43/130-1325303-5807162?psc=1"
+                "product_url": "https://www.amazon.com/Powerful-Immersion-Electric-Detachable-Stainless/dp/B09WF796VW/ref=zg_bs_g_kitchen_d_sccl_43/132-0522728-8629165?psc=1"
             },
             {
                 "rank": 44,
-                "asin": "B0CKJ75R53",
-                "name": "The Forest of Lost Souls: A Novel",
-                "ratings_count": 3310,
-                "rating": "4.6",
-                "sale_price": "$9.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/716vncti4ZL._UX300__PJku-headphones-v2,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B0B6N7CR8C",
+                "name": "Lifewit Silverware Drawer Organizer, Expandable Utensil Tray for Kitchen, BPA Free Flatware and Cutlery Holder, Adjustable Plastic Storage for Spoons Forks Knives, Large, Black",
+                "ratings_count": 12679,
+                "rating": "4.7",
+                "sale_price": "$18.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/710k5CCqHhL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Forest-Lost-Souls-Dean-Koontz-ebook/dp/B0CKJ75R53/ref=zg_bs_g_digital-text_d_sccl_44/130-1325303-5807162?psc=1"
+                "product_url": "https://www.amazon.com/Lifewit-Silverware-Organizer-Expandable-Adjustable/dp/B0B6N7CR8C/ref=zg_bs_g_kitchen_d_sccl_44/132-0522728-8629165?psc=1"
             },
             {
                 "rank": 45,
-                "asin": "B0CPWS8T9X",
-                "name": "The Games Gods Play",
-                "ratings_count": 4537,
+                "asin": "B0BDDX27WT",
+                "name": "LOVE MOMENT Electric Mason Jar Vacuum Sealer Kit for Wide Mouth and Regular Mouth Mason Jars",
+                "ratings_count": 8590,
                 "rating": "4.5",
-                "sale_price": "$14.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81Nkc1+owuL._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "sale_price": "$28.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61yY35w8IhL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Games-Gods-Play-Abigail-Owen-ebook/dp/B0CPWS8T9X/ref=zg_bs_g_digital-text_d_sccl_45/130-1325303-5807162?psc=1"
+                "product_url": "https://www.amazon.com/Electric-Mason-Vacuum-Sealer-Regular/dp/B0BDDX27WT/ref=zg_bs_g_kitchen_d_sccl_45/132-0522728-8629165?psc=1"
             },
             {
                 "rank": 46,
-                "asin": "B0BBL2ZW73",
-                "name": "Never Lie",
-                "ratings_count": 195559,
+                "asin": "B0C3J421WK",
+                "name": "Zulay Rotary Cheese Grater 5 Blade Cheese Shredder - Manual Hand Crank Cheese Grater With Reinforced Suction & 5 Interchangeable Drums - Easy to Use, Vegetable Chopper Round Mandoline Slicer - Black",
+                "ratings_count": 3096,
                 "rating": "4.4",
-                "sale_price": "$3.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/8196x-1wIOL._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81UjQY9wypL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Never-Lie-addictive-psychological-thriller-ebook/dp/B0BBL2ZW73/ref=zg_bs_g_digital-text_d_sccl_46/130-1325303-5807162?psc=1"
+                "product_url": "https://www.amazon.com/Rotary-Cheese-Grater-Upgraded-Suction/dp/B0C3J421WK/ref=zg_bs_g_kitchen_d_sccl_46/132-0522728-8629165?psc=1"
             },
             {
                 "rank": 47,
-                "asin": "B0D1HN1M5Y",
-                "name": "The Romance Line (Love and Hockey Book 2)",
-                "ratings_count": 1257,
-                "rating": "4.5",
-                "sale_price": "$5.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81vyZV6tfIL._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B09BDGQYW5",
+                "name": "Crock-Pot 20-Ounce Electric Lunch Box, Portable Food Warmer, Blush Pink | Perfect for Travel, Car, On-the-Go | Spill-Free, Dishwasher-Safe",
+                "ratings_count": 7888,
+                "rating": "4.6",
+                "sale_price": "$34.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71JqPgwUuIL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Romance-Line-Love-Hockey-Book-ebook/dp/B0D1HN1M5Y/ref=zg_bs_g_digital-text_d_sccl_47/130-1325303-5807162?psc=1"
+                "product_url": "https://www.amazon.com/Crockpot-Electric-Portable-Warmer-20-Ounce/dp/B09BDGQYW5/ref=zg_bs_g_kitchen_d_sccl_47/132-0522728-8629165?psc=1"
             },
             {
                 "rank": 48,
-                "asin": "B07F6C3YYL",
-                "name": "The Perfect Child",
-                "ratings_count": 77016,
+                "asin": "B0CGMFGX87",
+                "name": "Chefman 12-Quart 6-in-1 Air Fryer Oven with Digital Timer, Touchscreen, and 12 Presets - Family Size Countertop Convection Oven, Dishwasher-Safe Parts",
+                "ratings_count": 40188,
                 "rating": "4.3",
-                "sale_price": "$4.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81d9VVIof9L._UX300__PJku-headphones-v2,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "sale_price": "$89.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51UxNtqlxYL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Perfect-Child-Lucinda-Berry-ebook/dp/B07F6C3YYL/ref=zg_bs_g_digital-text_d_sccl_48/130-1325303-5807162?psc=1"
+                "product_url": "https://www.amazon.com/Chefman-12-Quart-Digital-Touchscreen-Presets/dp/B0CGMFGX87/ref=zg_bs_g_kitchen_d_sccl_48/132-0522728-8629165?psc=1"
             },
             {
                 "rank": 49,
-                "asin": "B0C1X97LW7",
-                "name": "The Women: A Novel",
-                "ratings_count": 189692,
-                "rating": "4.7",
-                "sale_price": "$14.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/913C+MR3S5L._AC_UL300_SR300,200_.jpg",
+                "asin": "B08L37BPBN",
+                "name": "Paper Towel Holders for Kitchen,Paper Towels Bulk- Self-Adhesive Under Cabinet,Both Available in Adhesive and Screws,Stainless Steel",
+                "ratings_count": 28559,
+                "rating": "4.4",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51C1-nOf1nL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Women-Novel-Kristin-Hannah-ebook/dp/B0C1X97LW7/ref=zg_bs_g_digital-text_d_sccl_49/130-1325303-5807162?psc=1"
+                "product_url": "https://www.amazon.com/Holders-Self-Adhesive-Available-Adhesive-Stainless/dp/B08L37BPBN/ref=zg_bs_g_kitchen_d_sccl_49/132-0522728-8629165?psc=1"
             },
             {
                 "rank": 50,
-                "asin": "B0CFQTT2BV",
-                "name": "The Wolf King: A Fantasy Romance",
-                "ratings_count": 7024,
-                "rating": "4.5",
-                "sale_price": "$2.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/91XFDk2p9oL._UX300__PJku-sticker-v8,TopRight,0,-50_AC_UL300_SR300,200_.jpg",
+                "asin": "B08B115T54",
+                "name": "Bentgo Kids Prints Leak-Proof, 5-Compartment Bento-Style Kids Lunch Box - Ideal Portion Sizes for Ages 3-7, Durable, Drop-Proof, Dishwasher Safe, & Made with BPA-Free Materials (Dinosaur)",
+                "ratings_count": 60764,
+                "rating": "4.7",
+                "sale_price": "$29.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81GkPhNVhHL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Wolf-King-Fantasy-Romance-ebook/dp/B0CFQTT2BV/ref=zg_bs_g_digital-text_d_sccl_50/130-1325303-5807162?psc=1"
+                "product_url": "https://www.amazon.com/Bentgo-Leak-Proof-5-Compartment-Bento-Style-Lunch/dp/B08B115T54/ref=zg_bs_g_kitchen_d_sccl_50/132-0522728-8629165?psc=1"
             }
         ]
     }

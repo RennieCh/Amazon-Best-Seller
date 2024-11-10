@@ -1,634 +1,602 @@
 {
     "200": {
-        "category": "Amazon Best SellersSoftware",
+        "category": "Amazon Best SellersSports & Outdoors",
         "category_hierarchy": [
             {
                 "name": "Any Department",
-                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_software_0_1"
+                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_sporting-goods_0_1"
             },
             {
-                "name": "Software",
-                "url": "https://www.amazon.com/best-sellers-software/zgbs/software/ref=zg_bs_nav_software_0?pg=1"
+                "name": "Sports & Outdoors",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Outdoors/zgbs/sporting-goods/ref=zg_bs_nav_sporting-goods_0?pg=1"
             }
         ],
         "child_categories": [
             {
-                "category": "Accounting & Finance",
-                "url": "https://www.amazon.com/Best-Sellers-Software-Accounting-Finance/zgbs/software/5223260011/ref=zg_bs_nav_software_1"
+                "category": "Accessories",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Outdoors-Sports-Outdoor-Recreation-Accessories/zgbs/sporting-goods/3394801/ref=zg_bs_nav_sporting-goods_1"
             },
             {
-                "category": "Antivirus & Security",
-                "url": "https://www.amazon.com/Best-Sellers-Software-Antivirus-Security/zgbs/software/229677/ref=zg_bs_nav_software_1"
+                "category": "Exercise & Fitness",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Outdoors-Exercise-Fitness-Equipment/zgbs/sporting-goods/3407731/ref=zg_bs_nav_sporting-goods_1"
             },
             {
-                "category": "Business & Office",
-                "url": "https://www.amazon.com/Best-Sellers-Software-Business-Office/zgbs/software/229535/ref=zg_bs_nav_software_1"
+                "category": "Fan Shop",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Outdoors-Sports-Fan-Shop/zgbs/sporting-goods/3386071/ref=zg_bs_nav_sporting-goods_1"
             },
             {
-                "category": "Children's Software",
-                "url": "https://www.amazon.com/Best-Sellers-Software-Childrens-Software/zgbs/software/229548/ref=zg_bs_nav_software_1"
+                "category": "Hunting & Fishing",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Outdoors-Hunting-Fishing-Products/zgbs/sporting-goods/706813011/ref=zg_bs_nav_sporting-goods_1"
             },
             {
-                "category": "Design & Illustration",
-                "url": "https://www.amazon.com/Best-Sellers-Software-Photography-Graphic-Design/zgbs/software/229614/ref=zg_bs_nav_software_1"
+                "category": "Memorabilia Display & Storage",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Outdoors-Memorabilia-Display-Storage/zgbs/sporting-goods/2358921011/ref=zg_bs_nav_sporting-goods_1"
             },
             {
-                "category": "Education & Reference",
-                "url": "https://www.amazon.com/Best-Sellers-Software-Education-Reference/zgbs/software/229563/ref=zg_bs_nav_software_1"
+                "category": "Outdoor Recreation",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Outdoors-Outdoor-Recreation/zgbs/sporting-goods/706814011/ref=zg_bs_nav_sporting-goods_1"
             },
             {
-                "category": "Lifestyle & Hobbies",
-                "url": "https://www.amazon.com/Best-Sellers-Software-Home-Hobbies/zgbs/software/229624/ref=zg_bs_nav_software_1"
+                "category": "Sports",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Outdoors-Sports-Apparel-Equipment/zgbs/sporting-goods/10971181011/ref=zg_bs_nav_sporting-goods_1"
             },
             {
-                "category": "Mac Software",
-                "url": "https://www.amazon.com/Best-Sellers-Software-Mac-Software/zgbs/software/120225784011/ref=zg_bs_nav_software_1"
-            },
-            {
-                "category": "Music",
-                "url": "https://www.amazon.com/Best-Sellers-Software-Music/zgbs/software/497022/ref=zg_bs_nav_software_1"
-            },
-            {
-                "category": "Networking & Servers",
-                "url": "https://www.amazon.com/Best-Sellers-Software-Networking-Servers/zgbs/software/229637/ref=zg_bs_nav_software_1"
-            },
-            {
-                "category": "Operating Systems",
-                "url": "https://www.amazon.com/Best-Sellers-Software-Operating-Systems/zgbs/software/229653/ref=zg_bs_nav_software_1"
-            },
-            {
-                "category": "Photography",
-                "url": "https://www.amazon.com/Best-Sellers-Software-Photography/zgbs/software/229621/ref=zg_bs_nav_software_1"
-            },
-            {
-                "category": "Programming & Web Development",
-                "url": "https://www.amazon.com/Best-Sellers-Software-Programming-Web-Development/zgbs/software/5223262011/ref=zg_bs_nav_software_1"
-            },
-            {
-                "category": "Tax Preparation",
-                "url": "https://www.amazon.com/Best-Sellers-Software-Tax-Preparation/zgbs/software/229545/ref=zg_bs_nav_software_1"
-            },
-            {
-                "category": "Utilities",
-                "url": "https://www.amazon.com/Best-Sellers-Software-Utilities/zgbs/software/229672/ref=zg_bs_nav_software_1"
-            },
-            {
-                "category": "Video",
-                "url": "https://www.amazon.com/Best-Sellers-Software-Digital-Video/zgbs/software/290542/ref=zg_bs_nav_software_1"
+                "category": "Sports Medicine",
+                "url": "https://www.amazon.com/Best-Sellers-Sports-Outdoors-Sports-Medicine-Products/zgbs/sporting-goods/3422351/ref=zg_bs_nav_sporting-goods_1"
             }
         ],
-        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/best-sellers-software/zgbs/software/ref%3Dzg_bs_pg_2_software%3F_encoding%3DUTF8%26pg%3D2",
-        "url": "https://www.amazon.com/best-sellers-software/zgbs/software/ref=zg_bs_nav_software_0?pg=1",
+        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/Best-Sellers-Sports-Outdoors/zgbs/sporting-goods/ref%3Dzg_bs_pg_2_sporting-goods%3F_encoding%3DUTF8%26pg%3D2",
+        "url": "https://www.amazon.com/Best-Sellers-Sports-Outdoors/zgbs/sporting-goods/ref=zg_bs_nav_sporting-goods_0?pg=1",
         "product_listings": [
             {
                 "rank": 1,
-                "asin": "B0CLC5MKTP",
-                "name": "TurboTax Home & Business 2023 Tax Software, Federal & State Tax Return [Amazon Exclusive] [PC/Mac Download]IntuitWindows 10 / 11, Mac OS Monterey 12",
-                "ratings_count": 4423,
-                "rating": "4.4",
-                "sale_price": "$119.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71K4wikrrkL._AC_UL300_SR300,200_.jpg",
+                "asin": "B01LR5S6HK",
+                "name": "Amazon Basics Neoprene Dumbbell Hand Weights",
+                "ratings_count": 104748,
+                "rating": "4.8",
+                "sale_price": "$21.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81Y26toqdTL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/TurboTax-Business-Software-Exclusive-Download/dp/B0CLC5MKTP/ref=zg_bs_g_software_d_sccl_1/130-4180459-9701019?psc=1"
+                "product_url": "https://www.amazon.com/AmazonBasics-Pound-Neoprene-Dumbbells-Weights/dp/B01LR5S6HK/ref=zg_bs_g_sporting-goods_d_sccl_1/146-9711317-9917558?psc=1"
             },
             {
                 "rank": 2,
-                "asin": "B07Q33SJDW",
-                "name": "Norton 360 Deluxe 2024, Antivirus software for 5 Devices with Auto Renewal - Includes VPN, PC Cloud Backup & Dark Web Monitoring [Download]NortonWindows 8.1 / 10 / 11 / 7, Mac OS Sierra 10.12, Mac OS X El Capitan 10.11",
-                "ratings_count": 14964,
-                "rating": "4.1",
-                "sale_price": "$19.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71wMGGsiQHL._AC_UL300_SR300,200_.jpg",
+                "asin": "B006QF3TW4",
+                "name": "LifeStraw Personal Water Filter for Hiking, Camping, Travel, and Emergency Preparedness",
+                "ratings_count": 117427,
+                "rating": "4.8",
+                "sale_price": "$17.47",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61IM+k4lmQL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/NEW-Norton-360-Deluxe-Monitoring/dp/B07Q33SJDW/ref=zg_bs_g_software_d_sccl_2/130-4180459-9701019?psc=1"
+                "product_url": "https://www.amazon.com/LifeStraw-Personal-Camping-Emergency-Preparedness/dp/B006QF3TW4/ref=zg_bs_g_sporting-goods_d_sccl_2/146-9711317-9917558?psc=1"
             },
             {
                 "rank": 3,
-                "asin": "B0CLBV27N2",
-                "name": "TurboTax Deluxe 2023 Tax Software, Federal & State Tax Return [Amazon Exclusive] [PC/Mac Download]IntuitWindows 10 / 11, Mac OS Monterey 12",
-                "ratings_count": 15086,
-                "rating": "4.4",
-                "sale_price": "$69.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/719rCYQpjdL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0BHFC9QCQ",
+                "name": "Franklin Sports Pressureless Tennis Balls - Official Size Low Pressure Tennis Balls - Great for Training + Practice - Low Bounce Tennis Balls - All Court Surface Tennis Balls - Carry Bag Included",
+                "ratings_count": 2551,
+                "rating": "4.7",
+                "sale_price": "$1.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/7140AFB7YoL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/TurboTax-Software-Federal-Exclusive-Download/dp/B0CLBV27N2/ref=zg_bs_g_software_d_sccl_3/130-4180459-9701019?psc=1"
+                "product_url": "https://www.amazon.com/Franklin-Sports-Practice-Tennis-Balls/dp/B0BHFC9QCQ/ref=zg_bs_g_sporting-goods_d_sccl_3/146-9711317-9917558?psc=1"
             },
             {
                 "rank": 4,
-                "asin": "B0DGVQMGBB",
-                "name": "Microsoft Office Home 2024 | Classic Apps: Word, Excel, PowerPoint | One-Time Purchase for 1 PC/MAC | Instant Download | Formerly Home & Student 2021 [PC/Mac Online Code]MicrosoftWindows 10 / 11, Mac OS X",
-                "ratings_count": 1888,
-                "rating": "3.8",
-                "sale_price": "$149.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61phY52G-OL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07518RBH2",
+                "name": "ZELUS Weighted Vest, 6lb/8lb/12lb/16lb/20lb/25lb/30lb Weight Vest with Reflective Stripe for Workout, Strength Training, Running, Fitness, Muscle Building, Weight Loss, Weightlifting",
+                "ratings_count": 5551,
+                "rating": "4.5",
+                "sale_price": "$36.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/710yBz6hfUL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Microsoft-Office-Home-2024-Classic/dp/B0DGVQMGBB/ref=zg_bs_g_software_d_sccl_4/130-4180459-9701019?psc=1"
+                "product_url": "https://www.amazon.com/ZELUS-Weighted-Reflective-Strength-Weightlifting/dp/B07518RBH2/ref=zg_bs_g_sporting-goods_d_sccl_4/146-9711317-9917558?psc=1"
             },
             {
                 "rank": 5,
-                "asin": "B0BB2N69J8",
-                "name": "McAfee Total Protection 2024 | 3 Device | Cybersecurity Software Includes Antivirus, Secure VPN, Password Manager, Dark Web Monitoring | DownloadMcAfeeWindows 8.1 / 10 / 11, iOS, Android, Mac OS Catalina 10.15",
-                "ratings_count": 5050,
-                "rating": "4.0",
-                "sale_price": "$14.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71KwjkEdXaL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0CT4BB651",
+                "name": "Stanley IceFlow Stainless Steel Tumbler - Vacuum Insulated Water Bottle for Home, Office or Car Reusable Cup with Straw Leak Resistant Flip Cold for 12 Hours or Iced for 2 Days, Lilac, 30 OZ / 0.89 L",
+                "ratings_count": 36588,
+                "rating": "4.6",
+                "sale_price": "$35.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51SxIyLWwUL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/McAfee-Protection-Exclusive-Monitoring-Subscription/dp/B0BB2N69J8/ref=zg_bs_g_software_d_sccl_5/130-4180459-9701019?psc=1"
+                "product_url": "https://www.amazon.com/Stanley-IceFlow-Stainless-Steel-Tumbler/dp/B0CT4BB651/ref=zg_bs_g_sporting-goods_d_sccl_5/146-9711317-9917558?psc=1"
             },
             {
                 "rank": 6,
-                "asin": "B0823GT5JG",
-                "name": "iFit Train - Monthly MembershipIFitWindows, Mac OS X, Android",
-                "ratings_count": 560,
-                "rating": "3.9",
-                "sale_price": "$15.00",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/518nPPYk0iL._AC_UL300_SR300,200_.jpg",
+                "asin": "B01AVDVHTI",
+                "name": "Fit Simplify Resistance Loop Exercise Bands with Instruction Guide and Carry Bag, Set of 5",
+                "ratings_count": 126389,
+                "rating": "4.5",
+                "sale_price": "$9.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71S4-NjoTDL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/iFit-1-Month-Individual-Membership-Subscription/dp/B0823GT5JG/ref=zg_bs_g_software_d_sccl_6/130-4180459-9701019?psc=1"
+                "product_url": "https://www.amazon.com/Fit-Simplify-Resistance-Exercise-Instruction/dp/B01AVDVHTI/ref=zg_bs_g_sporting-goods_d_sccl_6/146-9711317-9917558?psc=1"
             },
             {
                 "rank": 7,
-                "asin": "B07K98XDX8",
-                "name": "McAfee Total Protection 2024 | 3 Device | Cybersecurity Software Includes Antivirus, Secure VPN, Password Manager, Dark Web MonitoringMcAfeeWindows 8.1 / 8 / 10 / 11, Mac OS X, Mac OS Catalina 10.15",
-                "ratings_count": 5050,
-                "rating": "4.0",
-                "sale_price": "$99.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71qzG0gtV2L._AC_UL300_SR300,200_.jpg",
+                "asin": "B08D66HCXW",
+                "name": "LHKNL Headlamp Flashlight, 1200 Lumen Ultra-Light Bright LED Rechargeable Headlight with White Red Light,2-Pack Waterproof Motion Sensor Head Lamp,8 Mode for Outdoor Camping Running Hiking Fishing",
+                "ratings_count": 20827,
+                "rating": "4.5",
+                "sale_price": "$19.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71DxWxvCwlL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/McAfee-Total-Protection-Devices-Subscription/dp/B07K98XDX8/ref=zg_bs_g_software_d_sccl_7/130-4180459-9701019?psc=1"
+                "product_url": "https://www.amazon.com/Flashlight-LHKNL-Ultra-Light-Rechargeable-Waterproof/dp/B08D66HCXW/ref=zg_bs_g_sporting-goods_d_sccl_7/146-9711317-9917558?psc=1"
             },
             {
                 "rank": 8,
-                "asin": "B0CLBVVRF3",
-                "name": "TurboTax Premier 2023 Tax Software, Federal & State Tax Return [Amazon Exclusive] [PC/Mac Download]IntuitWindows 10 / 11, Mac OS Monterey 12",
-                "ratings_count": 6042,
-                "rating": "4.3",
-                "sale_price": "$104.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71ABLSmFI3L._AC_UL300_SR300,200_.jpg",
+                "asin": "B0869HGSVL",
+                "name": "INTEX 64417ED Dura-Beam Deluxe Comfort-Plush High-Rise Air Mattress: Fiber-Tech – Queen Size – Built-in Electric Pump – 22in Bed Height – 600lb Weight Capacity,Grey",
+                "ratings_count": 21996,
+                "rating": "4.4",
+                "sale_price": "$60.29",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71WGsXRgQrL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/TurboTax-Premier-Software-Exclusive-Download/dp/B0CLBVVRF3/ref=zg_bs_g_software_d_sccl_8/130-4180459-9701019?psc=1"
+                "product_url": "https://www.amazon.com/Intex-Elevated-Dura-Beam-Internal-Electric/dp/B0869HGSVL/ref=zg_bs_g_sporting-goods_d_sccl_8/146-9711317-9917558?psc=1"
             },
             {
                 "rank": 9,
-                "asin": "B07Q8JGCSQ",
-                "name": "Norton 360 Deluxe 2024, Antivirus software for 3 Devices with Auto Renewal - Includes VPN, PC Cloud Backup & Dark Web Monitoring [Download]NortonWindows 8.1 / 10 / 11 / 7, Mac OS Sierra 10.12, Mac OS X El Capitan 10.11",
-                "ratings_count": 5196,
-                "rating": "4.0",
-                "sale_price": "$19.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71uuBMzSgrL._AC_UL300_SR300,200_.jpg",
+                "asin": "B071P2MQ5D",
+                "name": "Amazon Basics High Density Foam Roller for Exercise and Recovery",
+                "ratings_count": 110518,
+                "rating": "4.6",
+                "sale_price": "$13.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91yuQpw++mL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/NEW-Norton-360-Deluxe-Monitoring/dp/B07Q8JGCSQ/ref=zg_bs_g_software_d_sccl_9/130-4180459-9701019?psc=1"
+                "product_url": "https://www.amazon.com/Amazon-Basics-Density-Exercise-Recovery/dp/B071P2MQ5D/ref=zg_bs_g_sporting-goods_d_sccl_9/146-9711317-9917558?psc=1"
             },
             {
                 "rank": 10,
-                "asin": "B07F3TQ6DQ",
-                "name": "Microsoft 365 Personal | 12-Month Subscription, 1 person | Word, Excel, PowerPoint | 1TB OneDrive cloud storage | PC/Mac Instant Download | Activation RequiredMicrosoftiOS, Windows, Android",
-                "ratings_count": 10914,
-                "rating": "4.4",
-                "sale_price": "$69.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61pCCojbi-L._AC_UL300_SR300,200_.jpg",
+                "asin": "B01LP0U5X0",
+                "name": "Amazon Basics 1/2 Inch Extra Thick Exercise Yoga Mat with Carrying Strap",
+                "ratings_count": 97358,
+                "rating": "4.6",
+                "sale_price": "$21.96",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71I2r88GXhL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Microsoft-Personal-12-month-subscription-Auto-renewal/dp/B07F3TQ6DQ/ref=zg_bs_g_software_d_sccl_10/130-4180459-9701019?psc=1"
+                "product_url": "https://www.amazon.com/AmazonBasics-Extra-Thick-Exercise-Carrying/dp/B01LP0U5X0/ref=zg_bs_g_sporting-goods_d_sccl_10/146-9711317-9917558?psc=1"
             },
             {
                 "rank": 11,
-                "asin": "B0CJCWHXH2",
-                "name": "H&R Block Tax Software Deluxe + State 2023 with Refund Bonus Offer (Amazon Exclusive) (PC/MAC Download)H&R BlockWindows 10 / 11, Mac OS Catalina 10.15",
-                "ratings_count": 4213,
-                "rating": "4.1",
-                "sale_price": "$39.97",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/51WNth-N57L._AC_UL300_SR300,200_.jpg",
+                "asin": "B09FFQN924",
+                "name": "Aquatabs 397mg Water Purification Tablets (100 Pack). Water Filtration System for, Camping, Emergencies, Survival, and RVs. Easy to Use Water Treatment and Disinfection.",
+                "ratings_count": 3189,
+                "rating": "4.7",
+                "sale_price": "$29.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61lwQiF0RmL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Block-Software-Deluxe-Exclusive-Download/dp/B0CJCWHXH2/ref=zg_bs_g_software_d_sccl_11/130-4180459-9701019?psc=1"
+                "product_url": "https://www.amazon.com/Aquatabs-Gallon-Water-Purification-Tablet/dp/B09FFQN924/ref=zg_bs_g_sporting-goods_d_sccl_11/146-9711317-9917558?psc=1"
             },
             {
                 "rank": 12,
-                "asin": "B09MYJ1R6L",
-                "name": "Microsoft System Builder | Windоws 11 Home | Intended use for new systems | Install on a new PC | Branded by MicrosoftMicrosoftWindows 11",
-                "ratings_count": 1430,
-                "rating": "4.3",
-                "sale_price": "$119.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61JfosHunyL._AC_UL300_SR300,200_.jpg",
+                "asin": "B06XTW1BND",
+                "name": "Franklin Sports Outdoor Pickleballs - X-40 Pickleball Balls - USA Pickleball (USAPA) Approved - Official US Open Ball",
+                "ratings_count": 20666,
+                "rating": "4.7",
+                "sale_price": "$7.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61HjNVWCVqL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Microsoft-Wind%D0%BEws-Home-OEM-DVD/dp/B09MYJ1R6L/ref=zg_bs_g_software_d_sccl_12/130-4180459-9701019?psc=1"
+                "product_url": "https://www.amazon.com/Franklin-Sports-X-40-Pickleballs-Approved/dp/B06XTW1BND/ref=zg_bs_g_sporting-goods_d_sccl_12/146-9711317-9917558?psc=1"
             },
             {
                 "rank": 13,
-                "asin": "B07Q6B5YL5",
-                "name": "Norton 360 Premium 2024, Antivirus software for 10 Devices with Auto Renewal - Includes VPN, PC Cloud Backup & Dark Web Monitoring [Download]NortonWindows 8.1 / 10 / 11 / 7, Mac OS Sierra 10.12, Mac OS X El Capitan 10.11",
-                "ratings_count": 4847,
-                "rating": "4.2",
-                "sale_price": "$44.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/718a2Fg9VCL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0CLD7RNM8",
+                "name": "Zak Designs Sage Barbie Water Bottle For School or Travel, 16oz Durable Plastic Water Bottle With Straw, Handle, and Leak-Proof, Pop-Up Spout Cover (Barbie)",
+                "ratings_count": 19090,
+                "rating": "4.6",
+                "sale_price": "$8.89",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71FDgCINUaL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/NEW-Norton-360-Premium-Monitoring/dp/B07Q6B5YL5/ref=zg_bs_g_software_d_sccl_13/130-4180459-9701019?psc=1"
+                "product_url": "https://www.amazon.com/Zak-Designs-Durable-Plastic-Leak-Proof/dp/B0CLD7RNM8/ref=zg_bs_g_sporting-goods_d_sccl_13/146-9711317-9917558?psc=1"
             },
             {
                 "rank": 14,
-                "asin": "B07CYFFH4H",
-                "name": "Bitdefender Total Security - 5 Devices | 1 year Subscription | PC/Mac | Activation Code by emailBitdefenderWindows 10, Mac OS Sierra 10.12",
-                "ratings_count": 2336,
-                "rating": "4.3",
-                "sale_price": "$44.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/714clBtOSiL._AC_UL300_SR300,200_.jpg",
+                "asin": "B093R5F5PF",
+                "name": "CAP Barbell Coated Hex Dumbbell Weight | Multiple Options",
+                "ratings_count": 7126,
+                "rating": "4.7",
+                "sale_price": "$17.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71+KDPrgeDL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Bitdefender-Total-Security-Download-Online/dp/B07CYFFH4H/ref=zg_bs_g_software_d_sccl_14/130-4180459-9701019?psc=1"
+                "product_url": "https://www.amazon.com/Cap-Coated-Hex-Dumbbell-Weight/dp/B093R5F5PF/ref=zg_bs_g_sporting-goods_d_sccl_14/146-9711317-9917558?psc=1"
             },
             {
                 "rank": 15,
-                "asin": "B07BFRVMMN",
-                "name": "McAfee Total Protection 2024 | Unlimited Devices | Cybersecurity Software Includes Antivirus, Secure VPN, Password Manager, Dark Web Monitoring | DownloadMcAfeeWindows 8.1 / 8 / 10 / 11, Mac OS Sierra 10.12, Mac OS Catalina 10.15",
-                "ratings_count": 2713,
-                "rating": "4.2",
-                "sale_price": "$149.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/711Xo6nGdML._AC_UL300_SR300,200_.jpg",
+                "asin": "B08WC2VYMS",
+                "name": "Energizer Universal Plus LED Headlamp, Lightweight Bright Headlamp for Outdoors, Camping and Emergency Light for Adults and Kids, includes Batteries, Pack of 2",
+                "ratings_count": 6733,
+                "rating": "4.4",
+                "sale_price": "$9.18",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61CSF0ZXqKL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/McAfee-Protection-Unlimited-Device-Download/dp/B07BFRVMMN/ref=zg_bs_g_software_d_sccl_15/130-4180459-9701019?psc=1"
+                "product_url": "https://www.amazon.com/Energizer-Universal-Lightweight-Emergency-Batteries/dp/B08WC2VYMS/ref=zg_bs_g_sporting-goods_d_sccl_15/146-9711317-9917558?psc=1"
             },
             {
                 "rank": 16,
-                "asin": "B0CLBPQX99",
-                "name": "TurboTax Business 2023 Tax Software, Federal Tax Return [PC Download]IntuitWindows 10 / 11",
-                "ratings_count": 902,
-                "rating": "4.2",
+                "asin": "B0C48GQJNC",
+                "name": "Sperax Walking Pad,Under Desk Treadmills for Home,320 Lbs Capacity,3 in 1 Portable Walking Treadmill",
+                "ratings_count": 6515,
+                "rating": "4.3",
                 "sale_price": "$179.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71yyAB8-OPL._AC_UL300_SR300,200_.jpg",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61E-t1xEXFL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/TurboTax-Business-Software-Federal-Download/dp/B0CLBPQX99/ref=zg_bs_g_software_d_sccl_16/130-4180459-9701019?psc=1"
+                "product_url": "https://www.amazon.com/Sperax-Walking-Treadmill-Treadmills-Capacity/dp/B0C48GQJNC/ref=zg_bs_g_sporting-goods_d_sccl_16/146-9711317-9917558?psc=1"
             },
             {
                 "rank": 17,
-                "asin": "B07Q4QZGFR",
-                "name": "Adobe Acrobat Pro | 12-Month Subscription | PDF Software |Convert, Edit, E-Sign, Protect |Activation Required [PC/Mac Online Code]AdobeWindows 8.1 / 10, Mac OS X",
-                "ratings_count": 1050,
-                "rating": "4.2",
-                "sale_price": "$148.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/51XI9kYWK8L._AC_UL300_SR300,200_.jpg",
+                "asin": "B08QDWMMW5",
+                "name": "Cool Coolers by Fit & Fresh 4 Pack XL Slim Ice Packs, Quick Freeze Space Saving Reusable Ice Packs for Lunch Boxes or Coolers, Multi",
+                "ratings_count": 42222,
+                "rating": "4.6",
+                "sale_price": "$11.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/8197ZnzLxJL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Acrobat-Subscription-Software-Activation-Required/dp/B07Q4QZGFR/ref=zg_bs_g_software_d_sccl_17/130-4180459-9701019?psc=1"
+                "product_url": "https://www.amazon.com/Fit-Fresh-Coolers-Freezer-Multi-Colored/dp/B08QDWMMW5/ref=zg_bs_g_sporting-goods_d_sccl_17/146-9711317-9917558?psc=1"
             },
             {
                 "rank": 18,
-                "asin": "B07DDNL2BJ",
-                "name": "Webroot Antivirus Software 2024 | 3 Device | 1 Year Download for PC/MacWebrootWindows 8.1 / 8 / 10 / 11 / 7, Mac OS X",
-                "ratings_count": 2914,
-                "rating": "4.3",
-                "sale_price": "$14.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71564zohGmL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0BMGYT38K",
+                "name": "Callaway Golf Supersoft 2023 Golf Balls",
+                "ratings_count": 7629,
+                "rating": "4.8",
+                "sale_price": "$24.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71hYbAifNoL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Webroot-Antivirus-Protection-Internet-Subscription/dp/B07DDNL2BJ/ref=zg_bs_g_software_d_sccl_18/130-4180459-9701019?psc=1"
+                "product_url": "https://www.amazon.com/Callaway-Supersoft-Balls-Version-White/dp/B0BMGYT38K/ref=zg_bs_g_sporting-goods_d_sccl_18/146-9711317-9917558?psc=1"
             },
             {
                 "rank": 19,
-                "asin": "B0BB2GF9WW",
-                "name": "McAfee Total Protection 2024 | 5 Device | Cybersecurity Software Includes Antivirus, Secure VPN, Password Manager, Dark Web Monitoring | DownloadMcAfeeWindows 8.1 / 10 / 11, iOS, Android, Mac OS Catalina 10.15",
-                "ratings_count": 1216,
-                "rating": "4.1",
-                "sale_price": "$22.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71-PAHwakhL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07N71DDXC",
+                "name": "GCI Outdoor Rocker Camping Chair",
+                "ratings_count": 86965,
+                "rating": "4.7",
+                "sale_price": "$52.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/8175sWOHL4L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/McAfee-Protection-Exclusive-Monitoring-Subscription/dp/B0BB2GF9WW/ref=zg_bs_g_software_d_sccl_19/130-4180459-9701019?psc=1"
+                "product_url": "https://www.amazon.com/GCI-Outdoor-Collapsible-Rocking-Sunshade/dp/B07N71DDXC/ref=zg_bs_g_sporting-goods_d_sccl_19/146-9711317-9917558?psc=1"
             },
             {
                 "rank": 20,
-                "asin": "B09C1RQQ2Z",
-                "name": "Norton 360 for Amazon 2024, Antivirus software for up to 5 Devices with Auto Renewal [Subscription]NortonWindows 8.1 / 8 / 10 / 11 / 7, Mac OS X",
-                "ratings_count": 511,
-                "rating": "4.0",
-                "sale_price": "$34.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/710R2j7jEQL._AC_UL300_SR300,200_.jpg",
+                "asin": "B000UVTDLG",
+                "name": "SABRE Pepper Spray, Quick Release Keychain for Easy Carry and Fast Access, Finger Grip for More Accurate and Faster Aim, Maximum Police Strength OC Spray, 0.54 fl oz, Secure and Easy to Use Safety",
+                "ratings_count": 104627,
+                "rating": "4.7",
+                "sale_price": "$9.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71VI9p+uylL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Norton-360-Amazon-Antivirus-Subscription/dp/B09C1RQQ2Z/ref=zg_bs_g_software_d_sccl_20/130-4180459-9701019?psc=1"
+                "product_url": "https://www.amazon.com/SABRE-Pepper-Spray-Quick-Release/dp/B000UVTDLG/ref=zg_bs_g_sporting-goods_d_sccl_20/146-9711317-9917558?psc=1"
             },
             {
                 "rank": 21,
-                "asin": "B0CJDFTC7T",
-                "name": "H&R Block Tax Software Premium 2023 with Refund Bonus Offer (Amazon Exclusive) (PC/MAC Download)H&R BlockWindows 10 / 11, Mac OS Catalina 10.15",
-                "ratings_count": 816,
-                "rating": "4.0",
-                "sale_price": "$59.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/51N4PQO2AmL._AC_UL300_SR300,200_.jpg",
+                "asin": "B00CWL3M96",
+                "name": "Igloo Ice Blocks, Reusable Ice Packs for Coolers, Long Lasting Cold Freezer Packs, Cold Packs for Coolers, Lunch Bags, Lunch Boxes, Camping, Fishing, Road Trips",
+                "ratings_count": 20785,
+                "rating": "4.7",
+                "sale_price": "$0.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/618XZ40wBmL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Block-Software-Premium-Exclusive-Download/dp/B0CJDFTC7T/ref=zg_bs_g_software_d_sccl_21/130-4180459-9701019?psc=1"
+                "product_url": "https://www.amazon.com/Igloo-Corporation-25197-Maxcold-Small/dp/B00CWL3M96/ref=zg_bs_g_sporting-goods_d_sccl_21/146-9711317-9917558?psc=1"
             },
             {
                 "rank": 22,
-                "asin": "B07K98LLVV",
-                "name": "McAfee Total Protection 2024 | 5 Device | Cybersecurity Software Includes Antivirus, Secure VPN, Password Manager, Dark Web MonitoringMcAfeeWindows 8.1 / 8 / 10 / 11, Mac OS X, Mac OS Catalina 10.15",
-                "ratings_count": 1216,
-                "rating": "4.1",
-                "sale_price": "$119.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71FVm3ki6NL._AC_UL300_SR300,200_.jpg",
+                "asin": "B003L9GRD6",
+                "name": "Franklin Sports NFL Youth Football Uniform Set for Boys & Girls - Includes Helmet, Jersey & Pants with Chinstrap + Numbers",
+                "ratings_count": 14055,
+                "rating": "4.6",
+                "sale_price": "$59.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/91K4vr3mUDL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/McAfee-Total-Protection-Devices-Subscription/dp/B07K98LLVV/ref=zg_bs_g_software_d_sccl_22/130-4180459-9701019?psc=1"
+                "product_url": "https://www.amazon.com/Franklin-Sports-Kansas-Chiefs-Uniform/dp/B003L9GRD6/ref=zg_bs_g_sporting-goods_d_sccl_22/146-9711317-9917558?psc=1"
             },
             {
                 "rank": 23,
-                "asin": "B0BB2N2YQ9",
-                "name": "McAfee AntiVirus Protection 2024 | 1 PC (Windows)| Cybersecurity software includes Antivirus Protection, Internet Security Software | 1 Year Subscription | DownloadMcAfeeWindows 8.1 / 8 / 10 / 11",
-                "ratings_count": 780,
-                "rating": "4.1",
-                "sale_price": "$12.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61Iy7n2u-jL._AC_UL300_SR300,200_.jpg",
+                "asin": "B000AAYBHI",
+                "name": "Bell Standard and Self Sealing Bike Tubes",
+                "ratings_count": 60322,
+                "rating": "4.6",
+                "sale_price": "$5.79",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/810bh-IO8zL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/McAfee-AntiVirus-Protection-Antivirus-Subscription/dp/B0BB2N2YQ9/ref=zg_bs_g_software_d_sccl_23/130-4180459-9701019?psc=1"
+                "product_url": "https://www.amazon.com/Bell-STANDARD-Tube-26-1-75-2-25/dp/B000AAYBHI/ref=zg_bs_g_sporting-goods_d_sccl_23/146-9711317-9917558?psc=1"
             },
             {
                 "rank": 24,
-                "asin": "B09H7F77JR",
-                "name": "Microsoft Office Home & Business 2021 | Word, Excel, PowerPoint, Outlook | One-time purchase for 1 PC or Mac | Instant DownloadMicrosoftiOS, Windows, Android",
-                "ratings_count": 865,
-                "rating": "4.2",
-                "sale_price": "$229.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61hSSVPvT3L._AC_UL300_SR300,200_.jpg",
+                "asin": "B092RHC2FY",
+                "name": "Energizer LED Headlamp PRO (2-Pack), IPX4 Water Resistant Headlamps, High-Performance Head Light for Outdoors, Camping, Running, Storm, Survival LED Light for Emergencies (Batteries Included)",
+                "ratings_count": 5161,
+                "rating": "4.7",
+                "sale_price": "$11.57",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71R6M2P3r1S._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Microsoft-Business-One-time-purchase-Download/dp/B09H7F77JR/ref=zg_bs_g_software_d_sccl_24/130-4180459-9701019?psc=1"
+                "product_url": "https://www.amazon.com/Energizer-Flashlight-Two-Handed-Activities-Emergencies/dp/B092RHC2FY/ref=zg_bs_g_sporting-goods_d_sccl_24/146-9711317-9917558?psc=1"
             },
             {
                 "rank": 25,
-                "asin": "B09WCTTXQ6",
-                "name": "Windows 11 Pro Upgrade, from Windows 11 Home (Digital Download)MicrosoftWindows 11",
-                "ratings_count": 520,
-                "rating": "3.8",
-                "sale_price": "$99.00",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61R6ivLSfrL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0C5M773VW",
+                "name": "SecuCaptain Emergency Fire Blanket for Home and Kitchen - 2 Pack 40\"x40\" Flame Suppression Fiberglass Fire Blankets for House Camping Car Office Warehouse Emergency Survival Safety",
+                "ratings_count": 4087,
+                "rating": "4.8",
+                "sale_price": "$16.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81EUyYcaxFL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Windows-Upgrade-Home-Digital-Download/dp/B09WCTTXQ6/ref=zg_bs_g_software_d_sccl_25/130-4180459-9701019?psc=1"
+                "product_url": "https://www.amazon.com/SecuCaptain-Emergency-Fire-Blanket-Kitchen/dp/B0C5M773VW/ref=zg_bs_g_sporting-goods_d_sccl_25/146-9711317-9917558?psc=1"
             },
             {
                 "rank": 26,
-                "asin": "B076VQ4Y4J",
-                "name": "Laplink PCmover Ultimate 11 - Easily Transfer Files to New Computer - Efficient Migration of Applications from Old PC to a New PC - Data Transfer Software - Includes Optional Ethernet Cable - 1 UseLAPLINKWindows Vista / 8.1 / 8 / 10 / 11 / XP / 7",
-                "ratings_count": 5125,
-                "rating": "4.1",
-                "sale_price": "$39.95",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/51MC+P+rEpL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0CRCJY6YH",
+                "name": "Owala Kids FreeSip Insulated Stainless Steel Water Bottle with Straw, BPA-Free Sports Water Bottle, Great for Travel, 16 oz, All the Berries",
+                "ratings_count": 58198,
+                "rating": "4.7",
+                "sale_price": "$31.08",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61TTjjUGYKL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Laplink-PCmover-Ultimate-Ethernet-Cable/dp/B076VQ4Y4J/ref=zg_bs_g_software_d_sccl_26/130-4180459-9701019?psc=1"
+                "product_url": "https://www.amazon.com/Owala-FreeSip-Insulated-Stainless-BPA-Free/dp/B0CRCJY6YH/ref=zg_bs_g_sporting-goods_d_sccl_26/146-9711317-9917558?psc=1"
             },
             {
                 "rank": 27,
-                "asin": "B07VGCN1K2",
-                "name": "Norton 360 Platinum 2024, Antivirus software for 20 Devices with Auto Renewal - 3 Months FREE - Includes VPN, PC Cloud Backup & Dark Web Monitoring [Download]NortonWindows 8.1 / 10 / 11 / 7, Mac OS Sierra 10.12, Mac OS X El Capitan 10.11",
-                "ratings_count": 2090,
-                "rating": "4.4",
-                "sale_price": "$49.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71eJpfjaDLL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0007ZF4OA",
+                "name": "HotHands Hand Warmers - Long Lasting Safe Natural Odorless Air Activated Warmers - Up to 10 Hours of Heat - 40 Pair",
+                "ratings_count": 48919,
+                "rating": "4.8",
+                "sale_price": "$27.43",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81LIVrFpRqL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/EXCLUSIVE-Norton-360-Platinum-Subscription/dp/B07VGCN1K2/ref=zg_bs_g_software_d_sccl_27/130-4180459-9701019?psc=1"
+                "product_url": "https://www.amazon.com/HotHands-Hand-Warmers-Odorless-Activated/dp/B0007ZF4OA/ref=zg_bs_g_sporting-goods_d_sccl_27/146-9711317-9917558?psc=1"
             },
             {
                 "rank": 28,
-                "asin": "B084L8X5VV",
-                "name": "Malwarebytes | Amazon Exclusive | 18 Months, 2 Devices | PC, Mac, Android [Online Code]MalwarebytesWindows, Mac OS X, Android",
-                "ratings_count": 726,
+                "asin": "B09DF9NWC7",
+                "name": "Jump Rope, Tangle-Free Rapid Speed Jumping Rope Cable with Ball Bearings for Women, Men, and Kids, Adjustable Steel Jump Rope Workout with Foam Handles for Fitness, Home Exercise & Slim Body",
+                "ratings_count": 18266,
                 "rating": "4.5",
-                "sale_price": "$39.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/51ar4vgTBCL._AC_UL300_SR300,200_.jpg",
+                "sale_price": "$8.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71wm42EtoNL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Malwarebytes-Amazon-Exclusive-Devices-Android/dp/B084L8X5VV/ref=zg_bs_g_software_d_sccl_28/130-4180459-9701019?psc=1"
+                "product_url": "https://www.amazon.com/Tangle-Free-Jumping-Bearings-Adjustable-Handles/dp/B09DF9NWC7/ref=zg_bs_g_sporting-goods_d_sccl_28/146-9711317-9917558?psc=1"
             },
             {
                 "rank": 29,
-                "asin": "B07Q6ZPC1Q",
-                "name": "Acrobat Pro | 1-Month Subscription | PDF Software |Convert, Edit, E-Sign, Protect |Activation Required [PC/Mac Online Code]AdobeWindows 8.1 / 10, Mac OS X",
-                "ratings_count": 1444,
-                "rating": "3.9",
-                "sale_price": "$29.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/517ul+lt2GL._AC_UL300_SR300,200_.jpg",
+                "asin": "B017AGGBTU",
+                "name": "Sweet Sweat Waist Trimmer for Women and Men - Sweat Band Waist Trainer for High-Intensity Training & Workouts",
+                "ratings_count": 188865,
+                "rating": "4.6",
+                "sale_price": "$27.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71cSLFE39zL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/12-Month-Subscription-Software-Activation-Required/dp/B07Q6ZPC1Q/ref=zg_bs_g_software_d_sccl_29/130-4180459-9701019?psc=1"
+                "product_url": "https://www.amazon.com/Sports-Research-Sweet-Sweat-Trimmer/dp/B017AGGBTU/ref=zg_bs_g_sporting-goods_d_sccl_29/146-9711317-9917558?psc=1"
             },
             {
                 "rank": 30,
-                "asin": "B09MYBD79G",
-                "name": "Microsoft OEM System Builder | Windоws 11 Pro | Intended use for new systems | Authorized by MicrosoftMicrosoftWindows 11",
-                "ratings_count": 1430,
-                "rating": "4.3",
-                "sale_price": "$142.00",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61p-Ylv5vtL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0BG6M961C",
+                "name": "Hydro Flask Wide Mouth vacuum insulated stainless steel water bottle with leakproof closeable straw lid for cold water drinks, sports, travel, car and school",
+                "ratings_count": 6410,
+                "rating": "4.7",
+                "sale_price": "$31.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/610P7TO60CL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Microsoft-Wind%D0%BEws-Pro-OEM-DVD/dp/B09MYBD79G/ref=zg_bs_g_software_d_sccl_30/130-4180459-9701019?psc=1"
+                "product_url": "https://www.amazon.com/Hydro-Flask-Wide-Straw-Black/dp/B0BG6M961C/ref=zg_bs_g_sporting-goods_d_sccl_30/146-9711317-9917558?psc=1"
             },
             {
                 "rank": 31,
-                "asin": "B0CLCC3GSN",
-                "name": "TurboTax Deluxe 2023 Tax Software, Federal Tax Return [Amazon Exclusive] [PC/Mac Download]IntuitWindows 10 / 11, Mac OS Monterey 12",
-                "ratings_count": 1751,
-                "rating": "4.3",
-                "sale_price": "$59.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61LncjXdK2L._AC_UL300_SR300,200_.jpg",
+                "asin": "B0CHFDWF3L",
+                "name": "2 Pack Hand Warmers Rechargeable, Portable Electric Hand Warmers Reusable, USB 2 in 1 Handwarmers, Outdoor/Indoor/Warm Gifts for Men Women Kids",
+                "ratings_count": 2711,
+                "rating": "4.4",
+                "sale_price": "$17.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61sTgTCuOiL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/TurboTax-Software-Federal-Exclusive-Download/dp/B0CLCC3GSN/ref=zg_bs_g_software_d_sccl_31/146-3873623-7314555?psc=1"
+                "product_url": "https://www.amazon.com/Rechargeable-Portable-Electric-Reusable-Handwarmers/dp/B0CHFDWF3L/ref=zg_bs_g_sporting-goods_d_sccl_31/130-0955186-8905056?psc=1"
             },
             {
                 "rank": 32,
-                "asin": "B00MEO1G08",
-                "name": "Sony Movie Studio 13- 30 Day Free Trial [Download]SonyWindows 8 / 10 / 7, Windows",
-                "ratings_count": 92,
-                "rating": "3.0",
-                "sale_price": "$0.01",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/813NgbhuOdL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07YXM6XTF",
+                "name": "Hydro Flask Wide Mouth vacuum insulated stainless steel water bottle with leakproof closeable lid for cold water drinks, sports, travel, car and school",
+                "ratings_count": 29478,
+                "rating": "4.8",
+                "sale_price": "$28.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/6176qXxgtIL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Sony-Movie-Studio-Trial-Download/dp/B00MEO1G08/ref=zg_bs_g_software_d_sccl_32/146-3873623-7314555?psc=1"
+                "product_url": "https://www.amazon.com/Hydro-Flask-Water-Bottle-Stainless/dp/B07YXM6XTF/ref=zg_bs_g_sporting-goods_d_sccl_32/130-0955186-8905056?psc=1"
             },
             {
                 "rank": 33,
-                "asin": "B09VLYKW94",
-                "name": "Norton Utilities Ultimate – cleans and speeds up your PC, Windows PCs only [Download]NortonWindows 8.1 / 8 / 10 / 7, Windows",
-                "ratings_count": 628,
-                "rating": "4.1",
-                "sale_price": "$39.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61zuLMONS9L._AC_UL300_SR300,200_.jpg",
+                "asin": "B00B4IHXRU",
+                "name": "ProsourceFit Puzzle Exercise Mat ½ in, EVA Interlocking Foam Floor Tiles for Home Gym, Mat for Home Workout Equipment, Floor Padding for Kids, Grey, 24 in x 24 in x ½ in, 144 Sq Ft - 36 Tiles",
+                "ratings_count": 54198,
+                "rating": "4.6",
+                "sale_price": "$25.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81MfOTcByXL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Norton-Utilities-Ultimate-Windows-Download/dp/B09VLYKW94/ref=zg_bs_g_software_d_sccl_33/146-3873623-7314555?psc=1"
+                "product_url": "https://www.amazon.com/ProSource-fs-1908-pzzl-Puzzle-Exercise-Interlocking/dp/B00B4IHXRU/ref=zg_bs_g_sporting-goods_d_sccl_33/130-0955186-8905056?psc=1"
             },
             {
                 "rank": 34,
-                "asin": "B0BH5MZ7VT",
-                "name": "[Old Version] TurboTax Deluxe 2022 Tax Software, Federal and State Tax Return, [Amazon Exclusive] [PC/MAC Download]IntuitWindows 10 / 11, Mac OS Big Sur 11, Mac OS Monterey 12",
-                "ratings_count": 10845,
-                "rating": "4.3",
-                "sale_price": "$69.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71IgMkror-L._AC_UL300_SR300,200_.jpg",
+                "asin": "B07BB3VQ42",
+                "name": "Gymreapers Lifting Wrist Straps for Weightlifting, Bodybuilding, Powerlifting, Strength Training, & Deadlifts - Padded Neoprene with 18 inch Cotton",
+                "ratings_count": 21264,
+                "rating": "4.7",
+                "sale_price": "$14.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61+UlXddzxL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/TurboTax-Software-Federal-Exclusive-Download/dp/B0BH5MZ7VT/ref=zg_bs_g_software_d_sccl_34/146-3873623-7314555?psc=1"
+                "product_url": "https://www.amazon.com/Gymreapers-Weightlifting-Bodybuilding-Powerlifting-Deadlifts/dp/B07BB3VQ42/ref=zg_bs_g_sporting-goods_d_sccl_34/130-0955186-8905056?psc=1"
             },
             {
                 "rank": 35,
-                "asin": "B092M5G1G7",
-                "name": "Mullvad VPN | 12 Months for 5 Devices | Protect Your Privacy with Easy-To-Use Security VPN ServiceMullvad VPNLinux, Windows, Android",
-                "ratings_count": 803,
+                "asin": "B0B1VYSF8T",
+                "name": "Owala Silicone Water Bottle Boot, Anti-Slip Protective Sleeve for Water Bottle, Protects FreeSip and Flip Stainless Steel Water Bottles, 32 Oz, Blue",
+                "ratings_count": 6322,
                 "rating": "4.8",
-                "sale_price": "$57.00",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/31QJJ68ENgL._AC_UL300_SR300,200_.jpg",
+                "sale_price": "$7.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41c+ROMdgcL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Mullvad-VPN-Windows-Android-SCRATCH/dp/B092M5G1G7/ref=zg_bs_g_software_d_sccl_35/146-3873623-7314555?psc=1"
+                "product_url": "https://www.amazon.com/Owala-Silicone-Anti-Slip-Protective-Stainless/dp/B0B1VYSF8T/ref=zg_bs_g_sporting-goods_d_sccl_35/130-0955186-8905056?psc=1"
             },
             {
                 "rank": 36,
-                "asin": "B0CJCVFLSZ",
-                "name": "H&R Block Tax Software Premium & Business 2023 with Refund Bonus Offer (Amazon Exclusive) (PC Download)H&R BlockWindows 10 / 11",
-                "ratings_count": 481,
-                "rating": "3.7",
-                "sale_price": "$76.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/512B6Ew347L._AC_UL300_SR300,200_.jpg",
+                "asin": "B08KZPHDPY",
+                "name": "Clear Fishing Wire, Acejoz 656FT Fishing Line Clear Invisible Hanging Wire Strong Nylon String Supports 40 Pounds for Balloon Garland Hanging Decorations",
+                "ratings_count": 9057,
+                "rating": "4.7",
+                "sale_price": "$5.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/714ge3eepCL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Block-Software-Business-Exclusive-Download/dp/B0CJCVFLSZ/ref=zg_bs_g_software_d_sccl_36/146-3873623-7314555?psc=1"
+                "product_url": "https://www.amazon.com/Fishing-Acejoz-Invisible-Hanging-Supports/dp/B08KZPHDPY/ref=zg_bs_g_sporting-goods_d_sccl_36/130-0955186-8905056?psc=1"
             },
             {
                 "rank": 37,
-                "asin": "B0B9VY13PM",
-                "name": "McAfee Total Protection 2024 | 3 Device | Cybersecurity Software Includes Antivirus, Secure VPN, Password Manager, Dark Web Monitoring | Key CardMcAfeeWindows 8.1 / 10 / 11, iOS, Mac OS Catalina 10.15",
-                "ratings_count": 348,
-                "rating": "4.0",
-                "sale_price": "$46.64",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71xhk2FWwNL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0C3QY37Y8",
+                "name": "Yagud Under Desk Treadmill, Walking Pad for Home and Office, 2.5 HP Portable Walking Jogging Running Machine with Remote Control and LED Display, Sliver",
+                "ratings_count": 2764,
+                "rating": "4.2",
+                "sale_price": "$99.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61A8Iq0O4ZL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/McAfee-Protection-Exclusive-Monitoring-Subscription/dp/B0B9VY13PM/ref=zg_bs_g_software_d_sccl_37/146-3873623-7314555?psc=1"
+                "product_url": "https://www.amazon.com/Yagud-Treadmill-Walking-Portable-Jogging/dp/B0C3QY37Y8/ref=zg_bs_g_sporting-goods_d_sccl_37/130-0955186-8905056?psc=1"
             },
             {
                 "rank": 38,
-                "asin": "B07QFXSQFP",
-                "name": "Norton 360 Deluxe 2024, Antivirus software for 3 Devices with Auto Renewal - Includes VPN, PC Cloud Backup & Dark Web Monitoring [Key Card]NortonWindows 8.1 / 10 / 11 / 7, Mac OS Sierra 10.12, Mac OS X El Capitan 10.11",
-                "ratings_count": 2842,
-                "rating": "4.1",
-                "sale_price": "$19.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71wzSyueOpL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07KQR9VXG",
+                "name": "ATERCEL Workout Gloves for Men and Women, Exercise Gloves for Weight Lifting, Cycling, Gym, Training, Breathable and Snug fit",
+                "ratings_count": 36232,
+                "rating": "4.5",
+                "sale_price": "$13.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61HAw2w69hL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/NEW-Norton-360-Deluxe-Monitoring/dp/B07QFXSQFP/ref=zg_bs_g_software_d_sccl_38/146-3873623-7314555?psc=1"
+                "product_url": "https://www.amazon.com/Atercel-Exercise-Crossfit-Training-Breathable/dp/B07KQR9VXG/ref=zg_bs_g_sporting-goods_d_sccl_38/130-0955186-8905056?psc=1"
             },
             {
                 "rank": 39,
-                "asin": "B07QCVZW81",
-                "name": "Norton 360 Premium 2024, Antivirus software for 10 Devices with Auto Renewal - Includes VPN, PC Cloud Backup & Dark Web Monitoring [Key card]NortonWindows 8.1 / 10 / 11 / 7, Mac OS Sierra 10.12, Mac OS X El Capitan 10.11",
-                "ratings_count": 6514,
-                "rating": "4.4",
-                "sale_price": "$29.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71+0sewCxOL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0794BXVY4",
+                "name": "LifePro Waver Vibration Plate Exercise Machine - Whole Body Workout Vibration Fitness Platform w/ Loop Bands - Home Training Equipment for Weight Loss & Toning",
+                "ratings_count": 24668,
+                "rating": "4.6",
+                "sale_price": "$127.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81u65S3QwTL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/NEW-Norton-360-Premium-Monitoring/dp/B07QCVZW81/ref=zg_bs_g_software_d_sccl_39/146-3873623-7314555?psc=1"
+                "product_url": "https://www.amazon.com/LifePro-Vibration-Plate-Exercise-Machine-Weight-Loss/dp/B0794BXVY4/ref=zg_bs_g_sporting-goods_d_sccl_39/130-0955186-8905056?psc=1"
             },
             {
                 "rank": 40,
-                "asin": "B082DZBFP7",
-                "name": "Rosetta Stone Learn UNLIMITED Languages | Lifetime Access - Learn 24 Languages | PC/Mac/iOS/Android Online CodeRosetta StoneWindows 8 / 10 / 11 / 7, Mac OS X, Android, Mac OS Catalina 10.15, Mac OS X 10.9 Mavericks",
-                "ratings_count": 1476,
-                "rating": "4.3",
-                "sale_price": "$189.00",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/51nheJ4PQAL._AC_UL300_SR300,200_.jpg",
+                "asin": "B00D7H9LIA",
+                "name": "HotHands Hand Warmer Value Pack(10 Count)",
+                "ratings_count": 13636,
+                "rating": "4.8",
+                "sale_price": "$7.48",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/610GhgA90CL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Rosetta-Stone-UNLIMITED-Languages-Activation/dp/B082DZBFP7/ref=zg_bs_g_software_d_sccl_40/146-3873623-7314555?psc=1"
+                "product_url": "https://www.amazon.com/HotHands-Hand-Warmers-Odorless-Activated/dp/B00D7H9LIA/ref=zg_bs_g_sporting-goods_d_sccl_40/130-0955186-8905056?psc=1"
             },
             {
                 "rank": 41,
-                "asin": "B0BH5P7142",
-                "name": "[Old Version] TurboTax Home & Business 2022 Tax Software, Federal and State Tax Return, [Amazon Exclusive] [PC/MAC Download]IntuitWindows 10 / 11, Mac OS Big Sur 11, Mac OS Monterey 12",
-                "ratings_count": 3405,
-                "rating": "4.4",
-                "sale_price": "$119.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71SKL1biC-L._AC_UL300_SR300,200_.jpg",
+                "asin": "B0B5F9SZW7",
+                "name": "Fitbit Inspire 3 Health &-Fitness-Tracker with Stress Management, Workout Intensity, Sleep Tracking, 24/7 Heart Rate and more, Midnight Zen/Black One Size (S & L Bands Included)",
+                "ratings_count": 14725,
+                "rating": "4.3",
+                "sale_price": "$99.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51CtR+quteL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/TurboTax-Business-Software-Exclusive-Download/dp/B0BH5P7142/ref=zg_bs_g_software_d_sccl_41/146-3873623-7314555?psc=1"
+                "product_url": "https://www.amazon.com/Fitbit-Management-Intensity-Tracking-Midnight/dp/B0B5F9SZW7/ref=zg_bs_g_sporting-goods_d_sccl_41/130-0955186-8905056?psc=1"
             },
             {
                 "rank": 42,
-                "asin": "B07DDL3N69",
-                "name": "Webroot Internet Security Complete | Antivirus Software 2024 | 5 Device | 1 Year Download for PC/Mac/Chromebook/Android/IOS + Password Manager, Performance Optimizer and Cloud BackupWebrootWindows 8.1 / 8 / 10 / 11 / 7, Mac OS X",
-                "ratings_count": 1777,
-                "rating": "4.5",
-                "sale_price": "$29.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71dSKXXc54L._AC_UL300_SR300,200_.jpg",
+                "asin": "B012A7R7I8",
+                "name": "IDAODAN Electric Balloon Pump, Portable Electric Balloon Blower Machine Balloon Air Pump Dual Nozzle Rose Red 110V 600W Balloon Inflator for Party Decorations",
+                "ratings_count": 59354,
+                "rating": "4.7",
+                "sale_price": "$15.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71+zOwxb15L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Webroot-Internet-Antivirus-Protection-Subscription/dp/B07DDL3N69/ref=zg_bs_g_software_d_sccl_42/146-3873623-7314555?psc=1"
+                "product_url": "https://www.amazon.com/IDAODAN-Portable-Electric-Inflator-Decoration/dp/B012A7R7I8/ref=zg_bs_g_sporting-goods_d_sccl_42/130-0955186-8905056?psc=1"
             },
             {
                 "rank": 43,
-                "asin": "B092M55HJ2",
-                "name": "Mullvad VPN | 5 Devices for 6 Months | Protect Your Privacy with Easy-To-Use Security VPN ServiceMullvad VPN",
-                "ratings_count": 803,
-                "rating": "4.8",
-                "sale_price": "$29.00",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61+MBtXYA1L._AC_UL300_SR300,200_.jpg",
+                "asin": "B0BFWNGCL2",
+                "name": "APEXUP Weighted Vest Men 5lbs/10lbs/15lbs/20lbs/25lbs/30lbs Weights with Reflective Stripe, Weighted vest for Women Workout Equipment for Strength Training Running",
+                "ratings_count": 1782,
+                "rating": "4.6",
+                "sale_price": "$44.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/719wrHvyyDL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Mullvad-VPN-Devices-Protect-Security/dp/B092M55HJ2/ref=zg_bs_g_software_d_sccl_43/146-3873623-7314555?psc=1"
+                "product_url": "https://www.amazon.com/APEXUP-Weighted-Vest-Black-15lbs/dp/B0BFWNGCL2/ref=zg_bs_g_sporting-goods_d_sccl_43/130-0955186-8905056?psc=1"
             },
             {
                 "rank": 44,
-                "asin": "B07G8RQGHL",
-                "name": "Bitdefender Total Security 2024 – Complete Antivirus and Internet Security Suite – 5 Devices | 2 year Subscription | PC/Mac | Activation Code by MailBitdefenderWindows 8, Mac, Windows, Android",
-                "ratings_count": 3485,
-                "rating": "4.4",
-                "sale_price": "$74.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71ClkhVTSbL._AC_UL300_SR300,200_.jpg",
+                "asin": "B094DJRMCS",
+                "name": "TECEUM Paracord Rope 1000 – 1000ft / 200ft / 120ft / 100ft / 50ft – Tactical Parachute Cord – 45+ Colors – Ideal Nylon String for Survival & Camping Gear – Stripe Cord for Survival – Utility Rope",
+                "ratings_count": 4643,
+                "rating": "4.7",
+                "sale_price": "$6.80",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71GnXeaNhqL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Bitdefender-Total-Security-Device-license/dp/B07G8RQGHL/ref=zg_bs_g_software_d_sccl_44/146-3873623-7314555?psc=1"
+                "product_url": "https://www.amazon.com/Teceum-Paracord-Type-III-Black/dp/B094DJRMCS/ref=zg_bs_g_sporting-goods_d_sccl_44/130-0955186-8905056?psc=1"
             },
             {
                 "rank": 45,
-                "asin": "B07F3SNQT5",
-                "name": "Microsoft 365 Family | 12-Month Subscription, Up to 6 People | Word, Excel, PowerPoint | 1TB OneDrive Cloud Storage | PC/MAC Instant Download | Activation RequiredMicrosoftiOS, Windows, Android",
-                "ratings_count": 2761,
-                "rating": "4.4",
-                "sale_price": "$99.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61qISsi8rAL._AC_UL300_SR300,200_.jpg",
+                "asin": "B082HD5JDH",
+                "name": "LED Camping Lantern, Consciot Battery Powered Camping Lights, 1000LM, 4 Light Modes, IPX4 Waterproof Tent Lights, Portable Flashlight for Power Outages, Emergency, Hurricane, Hiking, 2-Pack",
+                "ratings_count": 3821,
+                "rating": "4.7",
+                "sale_price": "$21.29",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71MkWLsBUGL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/MICROSOFT-12-MONTH-SUBSCRIPTION-PowerPoint-ACTIVATION/dp/B07F3SNQT5/ref=zg_bs_g_software_d_sccl_45/146-3873623-7314555?psc=1"
+                "product_url": "https://www.amazon.com/Consciot-Dimmable-Water-Resistant-Flashlight-Emergency/dp/B082HD5JDH/ref=zg_bs_g_sporting-goods_d_sccl_45/130-0955186-8905056?psc=1"
             },
             {
                 "rank": 46,
-                "asin": "B0CJYL7JYV",
-                "name": "TurboTax Deluxe 2023 [Disc]IntuitWindows 10 / 11, Mac OS Monterey 12",
-                "ratings_count": 15086,
-                "rating": "4.4",
-                "sale_price": null,
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71Eulvi6neL._AC_UL300_SR300,200_.jpg",
+                "asin": "B074DZ5YL9",
+                "name": "Amazon Basics Rubber Encased Exercise & Fitness Hex Dumbbell, Single, Hand Weight For Strength Training",
+                "ratings_count": 47254,
+                "rating": "4.7",
+                "sale_price": "$17.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61T7+l4TdwL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/TurboTax-Deluxe-Software-Federal-Exclusive/dp/B0CJYL7JYV/ref=zg_bs_g_software_d_sccl_46/146-3873623-7314555?psc=1"
+                "product_url": "https://www.amazon.com/AmazonBasics-Rubber-Encased-Dumbbell-Weight/dp/B074DZ5YL9/ref=zg_bs_g_sporting-goods_d_sccl_46/130-0955186-8905056?psc=1"
             },
             {
                 "rank": 47,
-                "asin": "B07DDJRKWV",
-                "name": "Webroot Internet Security Plus | Antivirus Software 2024 | 3 Device | 1 Year Download for PC/Mac/Chromebook/Android/IOS + Password ManagerWebrootWindows 8.1 / 8 / 10 / 11 / 7, Mac OS X",
-                "ratings_count": 1131,
-                "rating": "4.2",
-                "sale_price": "$23.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71KhybsqehL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0DCDS4D5L",
+                "name": "Stanley Quencher H2.0 FlowState Stainless Steel Vacuum Insulated Tumbler with Lid and Straw for Water, Iced Tea or Coffee, Smoothie and More, Glacier, 30 oz",
+                "ratings_count": 42947,
+                "rating": "4.7",
+                "sale_price": "$35.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/51BeMW7lU6L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Webroot-Internet-Antivirus-Protection-Subscription/dp/B07DDJRKWV/ref=zg_bs_g_software_d_sccl_47/146-3873623-7314555?psc=1"
+                "product_url": "https://www.amazon.com/Quencher-FlowState-Stainless-Insulated-Smoothie/dp/B0DCDS4D5L/ref=zg_bs_g_sporting-goods_d_sccl_47/130-0955186-8905056?psc=1"
             },
             {
                 "rank": 48,
-                "asin": "B0BZ2K72LD",
-                "name": "McAfee Total Protection 2024 Ready | 3 Devices | 15 Month Subscription | Cybersecurity software includes Antivirus, Secure VPN, Password Manager, Dark Web Monitoring | Amazon Exclusive | DownloadMcAfeeiOS, Windows, Android, Mac OS Catalina 10.15",
-                "ratings_count": 306,
-                "rating": "4.4",
-                "sale_price": "$21.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61E+VTq9d9L._AC_UL300_SR300,200_.jpg",
+                "asin": "B0000DZSUX",
+                "name": "Penn Championship Tennis Balls - Regular Duty Felt Pressurized Tennis Balls",
+                "ratings_count": 8492,
+                "rating": "4.7",
+                "sale_price": "$3.94",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/713ybkIUp9L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/McAfee-Protection-Subscription-Antivirus-Monitoring/dp/B0BZ2K72LD/ref=zg_bs_g_software_d_sccl_48/146-3873623-7314555?psc=1"
+                "product_url": "https://www.amazon.com/Penn-Championship-Regular-Tennis-Single/dp/B0000DZSUX/ref=zg_bs_g_sporting-goods_d_sccl_48/130-0955186-8905056?psc=1"
             },
             {
                 "rank": 49,
-                "asin": "B0CLBPM8HZ",
-                "name": "TurboTax Basic 2023 Tax Software, Federal Tax Return [PC/Mac Download]IntuitWindows 10 / 11, Mac OS Monterey 12",
-                "ratings_count": 329,
-                "rating": "4.1",
-                "sale_price": "$39.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61dNj+m5PXL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07WYKJXXY",
+                "name": "MAXTOP Large Crossbody Fanny Pack Belt Bag with 4-Zipper Pockets,Gifts for Enjoy Sports Festival Workout Traveling Running Casual Hands-Free Wallets Waist Pack Phone Bag Fits All Phones",
+                "ratings_count": 50841,
+                "rating": "4.6",
+                "sale_price": "$14.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61yp4ryRMVL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/TurboTax-Software-Federal-Return-Download/dp/B0CLBPM8HZ/ref=zg_bs_g_software_d_sccl_49/146-3873623-7314555?psc=1"
+                "product_url": "https://www.amazon.com/Headphone-4-Zipper-Pockets-Traveling-Outdoors/dp/B07WYKJXXY/ref=zg_bs_g_sporting-goods_d_sccl_49/130-0955186-8905056?psc=1"
             },
             {
                 "rank": 50,
-                "asin": "B0CJDF53FT",
-                "name": "H&R Block Tax Software Deluxe 2023 with Refund Bonus Offer (Amazon Exclusive) (PC/MAC Download)H&R BlockWindows 10 / 11, Mac OS Catalina 10.15",
-                "ratings_count": 829,
-                "rating": "4.2",
-                "sale_price": "$30.93",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/51QHSXb9alL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07N2F3JXP",
+                "name": "IRON °FLASK Camping & Hiking Hydration Flask, Wide Mouth, 3 Straw Lids, Stainless Steel Outdoor Water Bottle, Double Walled, Insulated Thermos, Metal Canteen - Midnight Black, 40 Oz",
+                "ratings_count": 91752,
+                "rating": "4.8",
+                "sale_price": "$24.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71QGGb+wa9L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Block-Software-Deluxe-Exclusive-Download/dp/B0CJDF53FT/ref=zg_bs_g_software_d_sccl_50/146-3873623-7314555?psc=1"
+                "product_url": "https://www.amazon.com/IRON-%C2%B0FLASK-Hydration-Stainless-Insulated/dp/B07N2F3JXP/ref=zg_bs_g_sporting-goods_d_sccl_50/130-0955186-8905056?psc=1"
             }
         ]
     }

@@ -1,618 +1,598 @@
 {
     "200": {
-        "category": "Amazon Best SellersPatio, Lawn & Garden",
+        "category": "Amazon Best SellersPet Supplies",
         "category_hierarchy": [
             {
                 "name": "Any Department",
-                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_lawn-garden_0_1"
+                "link": "https://amazon.com/Best-Sellers/zgbs/ref=zg_bs_unv_pet-supplies_0_1"
             },
             {
-                "name": "Patio, Lawn & Garden",
-                "url": "https://www.amazon.com/Best-Sellers-Patio-Lawn-Garden/zgbs/lawn-garden/ref=zg_bs_nav_lawn-garden_0?pg=1"
+                "name": "Pet Supplies",
+                "url": "https://www.amazon.com/Best-Sellers-Pet-Supplies/zgbs/pet-supplies/ref=zg_bs_nav_pet-supplies_0?pg=1"
             }
         ],
         "child_categories": [
             {
-                "category": "Farm & Ranch",
-                "url": "https://www.amazon.com/Best-Sellers-Patio-Lawn-Garden-Farm-Ranch/zgbs/lawn-garden/4619352011/ref=zg_bs_nav_lawn-garden_1"
+                "category": "Birds",
+                "url": "https://www.amazon.com/Best-Sellers-Pet-Supplies-Pet-Bird-Supplies/zgbs/pet-supplies/2975221011/ref=zg_bs_nav_pet-supplies_1"
             },
             {
-                "category": "Gardening",
-                "url": "https://www.amazon.com/Best-Sellers-Patio-Lawn-Garden-Gardening-Lawn-Care/zgbs/lawn-garden/3610851/ref=zg_bs_nav_lawn-garden_1"
+                "category": "Cats",
+                "url": "https://www.amazon.com/Best-Sellers-Pet-Supplies-Cat-Supplies/zgbs/pet-supplies/2975241011/ref=zg_bs_nav_pet-supplies_1"
             },
             {
-                "category": "Generators & Portable Power",
-                "url": "https://www.amazon.com/Best-Sellers-Patio-Lawn-Garden-Outdoor-Generators-Portable-Power/zgbs/lawn-garden/552808/ref=zg_bs_nav_lawn-garden_1"
+                "category": "Dogs",
+                "url": "https://www.amazon.com/Best-Sellers-Pet-Supplies-Dog-Supplies/zgbs/pet-supplies/2975312011/ref=zg_bs_nav_pet-supplies_1"
             },
             {
-                "category": "Grills & Outdoor Cooking",
-                "url": "https://www.amazon.com/Best-Sellers-Patio-Lawn-Garden-Outdoor-Cooking/zgbs/lawn-garden/553760/ref=zg_bs_nav_lawn-garden_1"
+                "category": "Fish & Aquatic Pets",
+                "url": "https://www.amazon.com/Best-Sellers-Pet-Supplies-Fish-Aquatic-Pets/zgbs/pet-supplies/2975446011/ref=zg_bs_nav_pet-supplies_1"
             },
             {
-                "category": "Mowers & Outdoor Power Tools",
-                "url": "https://www.amazon.com/Best-Sellers-Patio-Lawn-Garden-Outdoor-Power-Lawn-Equipment/zgbs/lawn-garden/551242/ref=zg_bs_nav_lawn-garden_1"
+                "category": "Horses",
+                "url": "https://www.amazon.com/Best-Sellers-Pet-Supplies-Horse-Supplies/zgbs/pet-supplies/2975481011/ref=zg_bs_nav_pet-supplies_1"
             },
             {
-                "category": "Outdoor Décor",
-                "url": "https://www.amazon.com/Best-Sellers-Patio-Lawn-Garden-Outdoor-Dcor/zgbs/lawn-garden/553788/ref=zg_bs_nav_lawn-garden_1"
+                "category": "Reptiles & Amphibians",
+                "url": "https://www.amazon.com/Best-Sellers-Pet-Supplies-Reptiles-Amphibian-Supplies/zgbs/pet-supplies/2975504011/ref=zg_bs_nav_pet-supplies_1"
             },
             {
-                "category": "Outdoor Heating",
-                "url": "https://www.amazon.com/Best-Sellers-Patio-Lawn-Garden-Outdoor-Heating-Cooling/zgbs/lawn-garden/13638732011/ref=zg_bs_nav_lawn-garden_1"
-            },
-            {
-                "category": "Outdoor Storage",
-                "url": "https://www.amazon.com/Best-Sellers-Patio-Lawn-Garden-Outdoor-Storage-Housing/zgbs/lawn-garden/13400641/ref=zg_bs_nav_lawn-garden_1"
-            },
-            {
-                "category": "Patio Furniture & Accessories",
-                "url": "https://www.amazon.com/Best-Sellers-Patio-Lawn-Garden-Patio-Furniture-Accessories/zgbs/lawn-garden/553824/ref=zg_bs_nav_lawn-garden_1"
-            },
-            {
-                "category": "Pest Control",
-                "url": "https://www.amazon.com/Best-Sellers-Patio-Lawn-Garden-Pest-Control-Products/zgbs/lawn-garden/553844/ref=zg_bs_nav_lawn-garden_1"
-            },
-            {
-                "category": "Pools, Hot Tubs & Supplies",
-                "url": "https://www.amazon.com/Best-Sellers-Patio-Lawn-Garden-Pools-Hot-Tubs-Supplies/zgbs/lawn-garden/1272941011/ref=zg_bs_nav_lawn-garden_1"
-            },
-            {
-                "category": "Snow Removal",
-                "url": "https://www.amazon.com/Best-Sellers-Patio-Lawn-Garden-Snow-Removal-Tools/zgbs/lawn-garden/3043471/ref=zg_bs_nav_lawn-garden_1"
+                "category": "Small Animals",
+                "url": "https://www.amazon.com/Best-Sellers-Pet-Supplies-Small-Animal-Supplies/zgbs/pet-supplies/2975520011/ref=zg_bs_nav_pet-supplies_1"
             }
         ],
-        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/Best-Sellers-Patio-Lawn-Garden/zgbs/lawn-garden/ref%3Dzg_bs_pg_2_lawn-garden%3F_encoding%3DUTF8%26pg%3D2",
-        "url": "https://www.amazon.com/Best-Sellers-Patio-Lawn-Garden/zgbs/lawn-garden/ref=zg_bs_nav_lawn-garden_0?pg=1",
+        "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/Best-Sellers-Pet-Supplies/zgbs/pet-supplies/ref%3Dzg_bs_pg_2_pet-supplies%3F_encoding%3DUTF8%26pg%3D2",
+        "url": "https://www.amazon.com/Best-Sellers-Pet-Supplies/zgbs/pet-supplies/ref=zg_bs_nav_pet-supplies_0?pg=1",
         "product_listings": [
             {
                 "rank": 1,
-                "asin": "B0C3FTCYZL",
-                "name": "ZEVO Flying Insect Refills for Indoor Light Trap: 4 Light Trap Refill Cartridges Capture Fruit Flies, Gnats and Houseflies (4 Cartridges)",
-                "ratings_count": 9576,
-                "rating": "4.8",
-                "sale_price": "$13.47",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71pdJMZpB7L._AC_UL300_SR300,200_.jpg",
+                "asin": "B00MW8G62E",
+                "name": "Amazon Basics Dog and Puppy Pee Pads with Leak-Proof Quick-Dry Design for Potty Training, Standard Absorbency, Regular Size, 22 x 22 Inches, Pack of 100, Blue & White",
+                "ratings_count": 242818,
+                "rating": "4.5",
+                "sale_price": "$20.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71LHksRF15L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/ZEVO-Flying-Insect-Refills-Indoor/dp/B0C3FTCYZL/ref=zg_bs_g_lawn-garden_d_sccl_1/146-5391294-3515447?psc=1"
+                "product_url": "https://www.amazon.com/Amazon-Basics-Leak-Proof-Quick-Dry-Absorbency/dp/B00MW8G62E/ref=zg_bs_g_pet-supplies_d_sccl_1/144-8260952-4971240?psc=1"
             },
             {
                 "rank": 2,
-                "asin": "B07T869RNY",
-                "name": "Zevo Flying Insect Trap for Indoors: Light Trap Captures Fruit Flies, Gnats and Houseflies, Starter Kit (1 Plug-in Base + 1 Cartridge)",
-                "ratings_count": 17340,
-                "rating": "4.2",
-                "sale_price": "$19.97",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71HHm6ymvZL._AC_UL300_SR300,200_.jpg",
+                "asin": "B00BSYR7K8",
+                "name": "Earth Rated Dog Poop Bags, Guaranteed Leak Proof and Extra Thick Waste Bag Refill Rolls For Dogs, Lavender Scented, 270 Count",
+                "ratings_count": 229186,
+                "rating": "4.8",
+                "sale_price": "$13.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71ciGcL3WYL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Electric-Flying-Insect-Trap-Starter/dp/B07T869RNY/ref=zg_bs_g_lawn-garden_d_sccl_2/146-5391294-3515447?psc=1"
+                "product_url": "https://www.amazon.com/Earth-Rated-Lavender-Scented-Completely/dp/B00BSYR7K8/ref=zg_bs_g_pet-supplies_d_sccl_2/144-8260952-4971240?psc=1"
             },
             {
                 "rank": 3,
-                "asin": "B00E4GACB8",
-                "name": "TERRO T300B Liquid Ant Killer, 12 Bait Stations",
-                "ratings_count": 167394,
-                "rating": "4.5",
-                "sale_price": "$11.18",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81D3MYgXqLL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0009X29WK",
+                "name": "Dr. Elsey's Cat Litter - Premium Unscented Cat Litter w/ Natural Ingredients - Low Dust Superior Odor Control Cat Litter - Hard Clumping Moisture Absorbing Clay Multi Cat Litter (For All Cats - 40lbs)",
+                "ratings_count": 80438,
+                "rating": "4.3",
+                "sale_price": "$20.56",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71yvqBnUtKL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/TERRO-T300B-2-Pack-Liquid-Baits/dp/B00E4GACB8/ref=zg_bs_g_lawn-garden_d_sccl_3/146-5391294-3515447?psc=1"
+                "product_url": "https://www.amazon.com/Dr-Elseys-Premium-Clumping-Litter/dp/B0009X29WK/ref=zg_bs_g_pet-supplies_d_sccl_3/144-8260952-4971240?psc=1"
             },
             {
                 "rank": 4,
-                "asin": "B01MRHXM0I",
-                "name": "Terro Fruit Fly Trap 4 Traps + 180 Days Lure Supply",
-                "ratings_count": 16284,
-                "rating": "4.0",
-                "sale_price": "$13.29",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81nZ+EBVJZL._AC_UL300_SR300,200_.jpg",
+                "asin": "B00NABTC8M",
+                "name": "Amazon Basics Dog Poop Leak Proof Bags With Dispenser and Leash Clip, Unscented, 300 Count, 20 Pack of 15, Black, 13 Inch x 9 Inch",
+                "ratings_count": 207695,
+                "rating": "4.8",
+                "sale_price": "$7.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71pS4O3AJ6L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Terro-Fruit-Trap-Traps-Supply/dp/B01MRHXM0I/ref=zg_bs_g_lawn-garden_d_sccl_4/146-5391294-3515447?psc=1"
+                "product_url": "https://www.amazon.com/AmazonBasics-Waste-Bags-Dispenser-Leash/dp/B00NABTC8M/ref=zg_bs_g_pet-supplies_d_sccl_4/144-8260952-4971240?psc=1"
             },
             {
                 "rank": 5,
-                "asin": "B09T3T1FYN",
-                "name": "Safer Home SH502 Indoor Plug-In Fly Trap for Flies, Fruit Flies, Moths, Gnats, and Other Flying Insects – 400 Sq Ft of Protection",
-                "ratings_count": 34231,
-                "rating": "4.2",
-                "sale_price": "$13.48",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71DEdxriBxL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07D323MFZ",
+                "name": "INABA Churu Cat Treats, Grain-Free, Lickable, Squeezable Creamy Purée Cat Treat/Topper with Vitamin E & Taurine, 0.5 Ounces Each Tube, 50 Tubes, Tuna & Chicken Variety",
+                "ratings_count": 38662,
+                "rating": "4.8",
+                "sale_price": "$24.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71sgD3kIhLL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Safer-Brand-SH502-Chemical-Insects/dp/B09T3T1FYN/ref=zg_bs_g_lawn-garden_d_sccl_5/146-5391294-3515447?psc=1"
+                "product_url": "https://www.amazon.com/INABA-Chicken-Lickable-Creamy-Variety/dp/B07D323MFZ/ref=zg_bs_g_pet-supplies_d_sccl_5/144-8260952-4971240?psc=1"
             },
             {
                 "rank": 6,
-                "asin": "B00S93EQUK",
-                "name": "Alpha Grillers Instant Read Meat Thermometer for Cooking Grill and BBQ Griddle - Waterproof w/Backlight & Calibration for Food, Oven, Air Fryer Accessories, Kitchen Essentials, Stocking Stuffer Gifts",
-                "ratings_count": 69290,
-                "rating": "4.7",
-                "sale_price": "$15.98",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81bpKKv68-L._AC_UL300_SR300,200_.jpg",
+                "asin": "B000VDR8LA",
+                "name": "Fresh Step Clumping Cat Litter Multi-Cat Extra Strength Formula With Febreze Freshness, Multi Cat Litter With Ammonia Block Technology, 14 lb. Box",
+                "ratings_count": 90068,
+                "rating": "4.6",
+                "sale_price": "$9.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81BiWXf8BsL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Thermometer-Cooking-BACKLIGHT-WATERPROOF-Temperature/dp/B00S93EQUK/ref=zg_bs_g_lawn-garden_d_sccl_6/146-5391294-3515447?psc=1"
+                "product_url": "https://www.amazon.com/Fresh-Step-Multi-Cat-Febreze-Shield/dp/B000VDR8LA/ref=zg_bs_g_pet-supplies_d_sccl_6/144-8260952-4971240?psc=1"
             },
             {
                 "rank": 7,
-                "asin": "B007E83LUM",
-                "name": "Catchmaster Max-Catch Mouse & Insect Glue Trap 36Pk, Mouse Traps Indoor for Home, Sticky Pest Control Adhesive Tray for Catching Bugs, Rats & Rodents, Non Toxic Bulk Pre-Baited Glue Boards",
-                "ratings_count": 82848,
-                "rating": "4.3",
-                "sale_price": "$20.49",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/710J2Avv9AL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0009YWKUA",
+                "name": "Blue Buffalo Life Protection Formula Adult Dry Dog Food, Helps Build and Maintain Strong Muscles, Made with Natural Ingredients, Chicken & Brown Rice Recipe, 30-lb. Bag",
+                "ratings_count": 47977,
+                "rating": "4.6",
+                "sale_price": "$64.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71jQsmvE0pL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Sticky-Mouse-Traps-Indoor-Home-Bulk-72/dp/B007E83LUM/ref=zg_bs_g_lawn-garden_d_sccl_7/146-5391294-3515447?psc=1"
+                "product_url": "https://www.amazon.com/Blue-Buffalo-Protection-Formula-Adult/dp/B0009YWKUA/ref=zg_bs_g_pet-supplies_d_sccl_7/144-8260952-4971240?psc=1"
             },
             {
                 "rank": 8,
-                "asin": "B0C3PDTYYX",
-                "name": "Zevo Flying Insect Trap for Indoors: Light Trap Captures Fruit Flies, Gnats and Houseflies, Starter Kit Value Pack (2 Plug-in Bases + 2 Cartridges)",
-                "ratings_count": 9453,
-                "rating": "4.3",
-                "sale_price": "$36.49",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71ZIS+yhIFL._AC_UL300_SR300,200_.jpg",
+                "asin": "B01LNB6SA0",
+                "name": "Temptations Classic Crunchy and Soft Cat Treats Tasty Chicken Flavor, 30 oz. Tub",
+                "ratings_count": 71244,
+                "rating": "4.8",
+                "sale_price": "$15.48",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/8108Aln7zcL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Flying-Insect-Fruit-Refill-Cartridges/dp/B0C3PDTYYX/ref=zg_bs_g_lawn-garden_d_sccl_8/146-5391294-3515447?psc=1"
+                "product_url": "https://www.amazon.com/Temptations-Treats-Chicken-Flavor-Holiday/dp/B01LNB6SA0/ref=zg_bs_g_pet-supplies_d_sccl_8/144-8260952-4971240?psc=1"
             },
             {
                 "rank": 9,
-                "asin": "B07JMDYDVJ",
-                "name": "Grandpa Gus's Extra-Strength Mouse Repellent Pouches, Cinnamon/Peppermint Oils Repel Mice from Nesting & Freshen Air in Car/RV/Boat/Garage/Shed/Cabin, 1.75 oz (Pack of 10)",
-                "ratings_count": 14113,
-                "rating": "4.1",
-                "sale_price": "$31.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/619OGpxgYzL._AC_UL300_SR300,200_.jpg",
+                "asin": "B001650NNW",
+                "name": "Purina Pro Plan Veterinary Supplements FortiFlora Dog Probiotic Supplement, Canine Nutritional Supplement - 30 Ct. Box",
+                "ratings_count": 45940,
+                "rating": "4.7",
+                "sale_price": "$30.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71NHJn8UsCL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Grandpa-Guss-Mouse-Repellent-Pouches/dp/B07JMDYDVJ/ref=zg_bs_g_lawn-garden_d_sccl_9/146-5391294-3515447?psc=1"
+                "product_url": "https://www.amazon.com/Purina-Veterinary-Fortiflora-Nutritional-Supplement/dp/B001650NNW/ref=zg_bs_g_pet-supplies_d_sccl_9/144-8260952-4971240?psc=1"
             },
             {
                 "rank": 10,
-                "asin": "B005BV0DD2",
-                "name": "Tomcat with Bromethalin Bait Chunx Pail, Rat and Mice Control for Agricultural Use and Professional Applicators, 4 lbs.",
-                "ratings_count": 27798,
-                "rating": "4.4",
-                "sale_price": "$19.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71dX9tcic6L._AC_UL300_SR300,200_.jpg",
+                "asin": "B07GL8SLKY",
+                "name": "Arm & Hammer Platinum SLIDE Easy Clean, Clumping Litter, Multi-Cat, 37 Lbs",
+                "ratings_count": 34134,
+                "rating": "4.6",
+                "sale_price": "$29.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71d4grOMlyL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Tomcat-Bait-Chunx-Pail-LB/dp/B005BV0DD2/ref=zg_bs_g_lawn-garden_d_sccl_10/146-5391294-3515447?psc=1"
+                "product_url": "https://www.amazon.com/Arm-Hammer-Platinum-Clean-Up-Multi-Cat/dp/B07GL8SLKY/ref=zg_bs_g_pet-supplies_d_sccl_10/144-8260952-4971240?psc=1"
             },
             {
                 "rank": 11,
-                "asin": "B00730QW70",
-                "name": "Advion Cockroach Gel Bait, 4 Tubes x 30-Grams, 4 Plunger and 4 Tips, German Roach Insect Pest Control, Indoor and Outdoor Use, Roach Killer Gel for American, German and Other Major Cockroach Species",
-                "ratings_count": 60441,
-                "rating": "4.5",
-                "sale_price": "$26.63",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71sGQGrxynL._AC_UL300_SR300,200_.jpg",
+                "asin": "B01ALT2IRM",
+                "name": "Fancy Feast Poultry and Beef Feast Classic Pate Collection Grain Free Wet Cat Food Variety Pack - (Pack of 30) 3 oz. Cans",
+                "ratings_count": 37582,
+                "rating": "4.7",
+                "sale_price": "$21.64",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81sGVUT6RSL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Advion-Cockroach-30-Grams-Plunger-American/dp/B00730QW70/ref=zg_bs_g_lawn-garden_d_sccl_11/146-5391294-3515447?psc=1"
+                "product_url": "https://www.amazon.com/Purina-Fancy-Feast-Variety-Collection/dp/B01ALT2IRM/ref=zg_bs_g_pet-supplies_d_sccl_11/144-8260952-4971240?psc=1"
             },
             {
                 "rank": 12,
-                "asin": "B07YCSNLDG",
-                "name": "1400 sqft Halloween Spider Webs Decorations with 150 Extra Fake Spiders, Super Stretchy Cobwebs for Halloween Decor Indoor and Outdoor",
-                "ratings_count": 3448,
+                "asin": "B00BAGTNAQ",
+                "name": "Chom Chom Roller Pet Hair Remover and Reusable Lint Roller - ChomChom Cat and Dog Hair Remover for Furniture, Couch, Carpet, Clothing and Bedding - Portable, Multi-Surface Fur Removal Tool",
+                "ratings_count": 187052,
                 "rating": "4.5",
-                "sale_price": "$16.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/91ZXNcE9RFL._AC_UL300_SR300,200_.jpg",
+                "sale_price": "$24.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71YFOZ2k0XL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Halloween-Decorations-Spiders-Stretchy-Cobwebs/dp/B07YCSNLDG/ref=zg_bs_g_lawn-garden_d_sccl_12/146-5391294-3515447?psc=1"
+                "product_url": "https://www.amazon.com/Pet-Dog-Cat-Hair-Remover-Couch/dp/B00BAGTNAQ/ref=zg_bs_g_pet-supplies_d_sccl_12/144-8260952-4971240?psc=1"
             },
             {
                 "rank": 13,
-                "asin": "B09K4SWZNY",
-                "name": "Back to the Roots 6qt Specialty Blend",
-                "ratings_count": 6957,
-                "rating": "4.3",
-                "sale_price": "$6.96",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61OrMgo8SoL._AC_UL300_SR300,200_.jpg",
+                "asin": "B09PF4KVHJ",
+                "name": "Pooph Pet Odor Eliminator, 32oz Spray - Dismantles Odors on a Molecular Basis, Dogs, Cats, Freshener, Urine, Poop, Pee, Deodorizer, Natures, Puppy, Fresh, Clean, Furniture, Potty, Safe",
+                "ratings_count": 50684,
+                "rating": "4.1",
+                "sale_price": "$23.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61UfWwUq+vL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Back-Roots-Natural-All-Purpose-Peat-Free/dp/B09K4SWZNY/ref=zg_bs_g_lawn-garden_d_sccl_13/146-5391294-3515447?psc=1"
+                "product_url": "https://www.amazon.com/Pooph-Odor-Eliminator-32oz-Spray/dp/B09PF4KVHJ/ref=zg_bs_g_pet-supplies_d_sccl_13/144-8260952-4971240?psc=1"
             },
             {
                 "rank": 14,
-                "asin": "B00CEFPWV6",
-                "name": "Catchmaster Glue Mouse Traps Indoor for Home 10PK, Bulk Traps for Mice and Rats, Pre-Baited Adhesive Plastic Trays for Inside House, Snake, Lizard, Insect, & Spider Traps, Pet Safe Pest Control",
-                "ratings_count": 28165,
-                "rating": "4.4",
-                "sale_price": "$18.89",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61HLx4V8dUL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07NHL31CC",
+                "name": "Earth Rated Textured Pet Wipes for Dogs & Cats, Cleaning and Odor-Controlling Grooming Wipes for Paws, Body, and Butt, Unscented, 100 Count",
+                "ratings_count": 49087,
+                "rating": "4.6",
+                "sale_price": "$9.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61aJFGGJmQL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Catchmaster-Baited-Mouse-Professional-Strength/dp/B00CEFPWV6/ref=zg_bs_g_lawn-garden_d_sccl_14/146-5391294-3515447?psc=1"
+                "product_url": "https://www.amazon.com/Earth-Rated-USDA-Certified-Hypoallergenic-Deodorizing/dp/B07NHL31CC/ref=zg_bs_g_pet-supplies_d_sccl_14/144-8260952-4971240?psc=1"
             },
             {
                 "rank": 15,
-                "asin": "B07HMRZSWT",
-                "name": "900 sqft Spider Webs Halloween Decorations Bonus with 30 Fake Spiders, Super Stretch Cobwebs for Halloween Indoor and Outdoor Party Supplies",
-                "ratings_count": 4309,
-                "rating": "4.5",
-                "sale_price": "$9.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81JCNXXndQL._AC_UL300_SR300,200_.jpg",
+                "asin": "B001STX13U",
+                "name": "Purina Fancy Feast Grilled Wet Cat Food Seafood Collection in Wet Cat Food Variety Pack - (Pack of 24) 3 oz. Cans",
+                "ratings_count": 36896,
+                "rating": "4.7",
+                "sale_price": "$17.49",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/8122nv6lJlL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Halloween-Decorations-Spiders-Stretch-Supplies/dp/B07HMRZSWT/ref=zg_bs_g_lawn-garden_d_sccl_15/146-5391294-3515447?psc=1"
+                "product_url": "https://www.amazon.com/Purina-Fancy-Feast-Grilled-Collection/dp/B001STX13U/ref=zg_bs_g_pet-supplies_d_sccl_15/144-8260952-4971240?psc=1"
             },
             {
                 "rank": 16,
-                "asin": "B003TFE7ZM",
-                "name": "Flexzilla Garden Hose 5/8 in. x 50 ft, Heavy Duty, Lightweight, Drinking Water Safe, ZillaGreen - HFZG550YW-E",
-                "ratings_count": 87325,
-                "rating": "4.4",
-                "sale_price": "$39.98",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/511ucq6UzkL._AC_UL300_SR300,200_.jpg",
+                "asin": "B08P2D95G8",
+                "name": "Pur Luv Dog Treats, Chicken Jerky for Dogs, Made with 100% Real Chicken Breast, 16 Ounces, Healthy, Easily Digestible, Long-Lasting, High Protein Dog Treat, Satisfies Dog's Urge to Chew",
+                "ratings_count": 17711,
+                "rating": "4.6",
+                "sale_price": "$10.85",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/816d5YD4e9L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Flexzilla-HFZG550YW-Garden-Lightweight-Drinking/dp/B003TFE7ZM/ref=zg_bs_g_lawn-garden_d_sccl_16/146-5391294-3515447?psc=1"
+                "product_url": "https://www.amazon.com/Pur-Luv-Chicken-Jerky-Treats/dp/B08P2D95G8/ref=zg_bs_g_pet-supplies_d_sccl_16/144-8260952-4971240?psc=1"
             },
             {
                 "rank": 17,
-                "asin": "B09T3SZ79V",
-                "name": "Safer Home SH503 Indoor Plug-In Fly Trap Refill Pack of Glue Cards for SH502 Indoor Fly Trap – 3 Count (Pack of 1)",
-                "ratings_count": 11886,
-                "rating": "4.6",
+                "asin": "B09BBM5CX8",
+                "name": "Best Pet Supplies Crinkle Dog Toy for Small, Medium, and Large Breeds, Cute No Stuffing Duck with Soft Squeaker, Fun for Indoor Puppies and Senior Pups, Plush No Mess Chew and Play - Yellow",
+                "ratings_count": 30155,
+                "rating": "4.4",
                 "sale_price": "$5.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61LokBvQZiL._AC_UL300_SR300,200_.jpg",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61iLNIUwPnL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Safer-Brand-SH503-Chemical-Refill/dp/B09T3SZ79V/ref=zg_bs_g_lawn-garden_d_sccl_17/146-5391294-3515447?psc=1"
+                "product_url": "https://www.amazon.com/Best-Pet-Supplies-Stuffing-Squeaker/dp/B09BBM5CX8/ref=zg_bs_g_pet-supplies_d_sccl_17/144-8260952-4971240?psc=1"
             },
             {
                 "rank": 18,
-                "asin": "B0CQ8RSTC9",
-                "name": "Victor M150-12 Metal Pedal Sustainably Sourced FSC Wood Snap Mouse Trap - 12 Traps",
-                "ratings_count": 19193,
-                "rating": "4.3",
-                "sale_price": "$11.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/813MLzzHmbL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07CTBXRXD",
+                "name": "Fancy Feast Poultry and Beef Feast Classic Pate Collection Grain Free Wet Cat Food Variety Pack - (Pack of 30) 3 oz. Cans",
+                "ratings_count": 56175,
+                "rating": "4.6",
+                "sale_price": "$25.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81oqk+lTFwL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Victor-M150-12-Metal-Sustainably-Sourced/dp/B0CQ8RSTC9/ref=zg_bs_g_lawn-garden_d_sccl_18/146-5391294-3515447?psc=1"
+                "product_url": "https://www.amazon.com/Purina-Fancy-Feast-Classic-Collection/dp/B07CTBXRXD/ref=zg_bs_g_pet-supplies_d_sccl_18/144-8260952-4971240?psc=1"
             },
             {
                 "rank": 19,
-                "asin": "B0148W0WOE",
-                "name": "Advion Cockroach Gel Bait, 4 Tubes x 30-Grams, 1 Plunger and 2 Tips, German Roach Insect Pest Control, Indoor and Outdoor Use, Roach Killer Gel for American, German and Other Major Cockroach Species",
-                "ratings_count": 46284,
-                "rating": "4.6",
-                "sale_price": "$26.55",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71D+7sez6SL._AC_UL300_SR300,200_.jpg",
+                "asin": "B00CPDWT2M",
+                "name": "Benebone Wishbone Durable Dog Chew Toy for Aggressive Chewers, Real Bacon, Made in USA, Medium",
+                "ratings_count": 96834,
+                "rating": "4.5",
+                "sale_price": "$9.00",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81Agaj-W5LL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Advion-Cockroach-Tubes-Control-Syngenta/dp/B0148W0WOE/ref=zg_bs_g_lawn-garden_d_sccl_19/146-5391294-3515447?psc=1"
+                "product_url": "https://www.amazon.com/Benebone-Wishbone-Durable-Aggressive-Chewers/dp/B00CPDWT2M/ref=zg_bs_g_pet-supplies_d_sccl_19/144-8260952-4971240?psc=1"
             },
             {
                 "rank": 20,
-                "asin": "B0CKY689WQ",
-                "name": "Zevo Flying Insect Trap for Indoors: Light Trap Captures Fruit Flies, Gnats and Houseflies, Starter Kit + Refills (1 Plug-in Base + 3 Cartridges)",
-                "ratings_count": 13893,
-                "rating": "4.3",
-                "sale_price": "$26.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71Cj97guaUL._AC_UL300_SR300,200_.jpg",
+                "asin": "B003ULL1NQ",
+                "name": "Nutramax Laboratories Cosequin Maximum Strength Joint Health Supplement for Dogs - With Glucosamine, Chondroitin, and MSM, 132 Chewable Tablets",
+                "ratings_count": 69394,
+                "rating": "4.7",
+                "sale_price": "$32.21",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71HO0FsnMbL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Flying-Insect-Refill-Cartridge-Cartridges/dp/B0CKY689WQ/ref=zg_bs_g_lawn-garden_d_sccl_20/146-5391294-3515447?psc=1"
+                "product_url": "https://www.amazon.com/Cosequin-DS-Maximum-Strength-Chewable/dp/B003ULL1NQ/ref=zg_bs_g_pet-supplies_d_sccl_20/144-8260952-4971240?psc=1"
             },
             {
                 "rank": 21,
-                "asin": "B000E28UQU",
-                "name": "Chapin 20000 Made in USA 1 -Gallon Lawn and Garden Pump Pressured Sprayer, for Spraying Plants, Garden Watering, Weeds and Pests, Polypropylene, Translucent White",
-                "ratings_count": 83513,
-                "rating": "4.5",
-                "sale_price": "$14.98",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61b9Ktrca9L._AC_UL300_SR300,200_.jpg",
+                "asin": "B07S2TDDCK",
+                "name": "Greenies Pill Pockets for Dogs Capsule Size Natural Soft Dog Treats with Real Peanut Butter, 15.8 oz. Pack (60 Treats)",
+                "ratings_count": 47445,
+                "rating": "4.7",
+                "sale_price": "$17.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81kuxogKiPL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Chapin-International-20000-1-Gallon-Translucent/dp/B000E28UQU/ref=zg_bs_g_lawn-garden_d_sccl_21/146-5391294-3515447?psc=1"
+                "product_url": "https://www.amazon.com/Greenies-Pockets-Natural-Treats-Capsule/dp/B07S2TDDCK/ref=zg_bs_g_pet-supplies_d_sccl_21/144-8260952-4971240?psc=1"
             },
             {
                 "rank": 22,
-                "asin": "B0BDT4XZR4",
-                "name": "VEYOFLY Fly Trap Indoor, Fruit Fly Traps for Indoors, (2 Device + 6 Refills) Gnat Traps for House Indoor, Fly Catcher Indoor, Plug in Light Flying Insect Trap, Bug Light Killer, Fly Trap",
-                "ratings_count": 6336,
-                "rating": "4.0",
-                "sale_price": "$29.97",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/618xKVZ7MmL._AC_UL300_SR300,200_.jpg",
+                "asin": "B000F4AVPA",
+                "name": "Chuckit! Ultra Ball Dog Toy - Medium Bouncy Fetch Balls For Dogs 20-60 lbs - Made from Durable Rubber - Floating Water Pet Toys - Size Medium - 2.5-inch Diameter - Pack of 2",
+                "ratings_count": 133600,
+                "rating": "4.8",
+                "sale_price": "$5.10",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/714HUsBpO+L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/VEYOFLY-Flying-Insect-Catcher-Indoors/dp/B0BDT4XZR4/ref=zg_bs_g_lawn-garden_d_sccl_22/146-5391294-3515447?psc=1"
+                "product_url": "https://www.amazon.com/ChuckIt-Ultra-Ball-Medium-Inch/dp/B000F4AVPA/ref=zg_bs_g_pet-supplies_d_sccl_22/144-8260952-4971240?psc=1"
             },
             {
                 "rank": 23,
-                "asin": "B083LDKS6Z",
-                "name": "Feeke Mouse Traps, Mice Traps for House, Small Mice Trap Indoor Quick Effective Sanitary Safe Mousetrap Catcher for Family and Pet - 6 Pack, (M01-6Pack)",
-                "ratings_count": 27114,
-                "rating": "4.2",
-                "sale_price": "$10.78",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71qaRXm6raL._AC_UL300_SR300,200_.jpg",
+                "asin": "B000FEF10A",
+                "name": "PetSafe ScoopFree Crystal Cat Litter Tray Refills – Fresh Scent, 3-Pack – Disposable Tray – Includes Leak Protection & Low Tracking Litter – Absorbs Odors On Contact",
+                "ratings_count": 39614,
+                "rating": "4.6",
+                "sale_price": "$69.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81bOn7u3kGL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Indoor-Effective-Sanitary-Catcher-Family/dp/B083LDKS6Z/ref=zg_bs_g_lawn-garden_d_sccl_23/146-5391294-3515447?psc=1"
+                "product_url": "https://www.amazon.com/PetSafe-ScoopFree-Self-Cleaning-Refills-Non-Clumping/dp/B000FEF10A/ref=zg_bs_g_pet-supplies_d_sccl_23/144-8260952-4971240?psc=1"
             },
             {
                 "rank": 24,
-                "asin": "B000I1M5OU",
-                "name": "Scotts Turf Builder WinterGuard Fall Lawn Fertilizer for All Grass Types, 5,000 sq. ft., 12.5 lbs.",
-                "ratings_count": 12083,
-                "rating": "4.6",
-                "sale_price": "$32.49",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81lQ+3XkBbL._AC_UL300_SR300,200_.jpg",
+                "asin": "B00CKFL93K",
+                "name": "Rocco & Roxie Supply Co. Stain & Odor Eliminator for Strong Odor, 32oz Enzyme Pet Odor Eliminator for Home, Carpet Stain Remover for Cats & Dog Pee, Enzymatic Cat Urine Destroyer, Carpet Cleaner Spray",
+                "ratings_count": 115572,
+                "rating": "4.4",
+                "sale_price": "$19.31",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61pzPQSDW4L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Scotts-Turf-Builder-Lawn-Food/dp/B000I1M5OU/ref=zg_bs_g_lawn-garden_d_sccl_24/146-5391294-3515447?psc=1"
+                "product_url": "https://www.amazon.com/Rocco-Roxie-Supply-Co-Professional/dp/B00CKFL93K/ref=zg_bs_g_pet-supplies_d_sccl_24/144-8260952-4971240?psc=1"
             },
             {
                 "rank": 25,
-                "asin": "B0D6DTWJVT",
-                "name": "24 Pcs Mouse Rodent Repellent, Safe for Humans & Pets",
-                "ratings_count": 25,
-                "rating": "5.0",
-                "sale_price": "$29.98",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81Pu1npbsfL._AC_UL300_SR300,200_.jpg",
+                "asin": "B009IOCCD2",
+                "name": "Purina ONE Dry Dog Food Lamb and Rice Formula - 31.1 lb. Bag",
+                "ratings_count": 7409,
+                "rating": "4.7",
+                "sale_price": "$48.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71Azp-504uL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Mouse-Rodent-Repellent-Safe-Humans/dp/B0D6DTWJVT/ref=zg_bs_g_lawn-garden_d_sccl_25/146-5391294-3515447?psc=1"
+                "product_url": "https://www.amazon.com/Purina-ONE-Food-Lamb-Formula/dp/B009IOCCD2/ref=zg_bs_g_pet-supplies_d_sccl_25/144-8260952-4971240?psc=1"
             },
             {
                 "rank": 26,
-                "asin": "B01N7KSXHX",
-                "name": "Ortho 0220910 Home Defense Insect Killer for Indoor & Perimeter2 with Comfort Wand Bonus Size, 1 Pack",
-                "ratings_count": 69231,
+                "asin": "B01J5GE3MA",
+                "name": "PetSafe ScoopFree Premium Crystal Cat Litter (Two 4.3 Lb Bags of Litter - 8.6 Lb Total) Kitten Litter Quickly Absorbs Urine, Dries Solid Waste, Eliminates Odors 5 Times Faster, Fresh Scent",
+                "ratings_count": 46487,
                 "rating": "4.4",
-                "sale_price": "$14.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71QxsWZZVUL._AC_UL300_SR300,200_.jpg",
+                "sale_price": "$24.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71KrEq+MpZL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Ortho-Defense-Insect-Perimeter2-Comfort/dp/B01N7KSXHX/ref=zg_bs_g_lawn-garden_d_sccl_26/146-5391294-3515447?psc=1"
+                "product_url": "https://www.amazon.com/PetSafe-ScoopFree-Premium-Clumping-Crystal/dp/B01J5GE3MA/ref=zg_bs_g_pet-supplies_d_sccl_26/144-8260952-4971240?psc=1"
             },
             {
                 "rank": 27,
-                "asin": "B0CQYH6LQ9",
-                "name": "8 Pack Refill Cartridge Compatible with ZEVO Plug-in Light M364 and Max, Replacement 100% Fit (Refill Cartridges, Counts, 8)",
-                "ratings_count": 3718,
-                "rating": "4.6",
-                "sale_price": "$17.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71iEIPz+JSL._AC_UL300_SR300,200_.jpg",
+                "asin": "B00ZJ5BJ74",
+                "name": "Glandex Anal Gland Soft Chew Treats with Pumpkin for Dogs Digestive Enzymes, Probiotics Fiber Supplement for Dogs Boot The Scoot (Peanut Butter Chews, 60ct)",
+                "ratings_count": 40606,
+                "rating": "4.4",
+                "sale_price": "$29.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71AO0HjkIDL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Refill-Cartridge-Kit-Compatible-Replacement/dp/B0CQYH6LQ9/ref=zg_bs_g_lawn-garden_d_sccl_27/146-5391294-3515447?psc=1"
+                "product_url": "https://www.amazon.com/Glandex-Pumpkin-Digestive-Probiotics-Supplement/dp/B00ZJ5BJ74/ref=zg_bs_g_pet-supplies_d_sccl_27/144-8260952-4971240?psc=1"
             },
             {
                 "rank": 28,
-                "asin": "B012VJLZOM",
-                "name": "Tomcat Glue Traps Mouse Size with Eugenol for Enhanced Stickiness for Mice, Cockroaches, and Spiders, 6 Traps",
-                "ratings_count": 40884,
-                "rating": "4.4",
-                "sale_price": "$5.30",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71-IaoKDnSL._AC_UL300_SR300,200_.jpg",
+                "asin": "B089XVJHFK",
+                "name": "PetLab Co. Probiotics for Dogs, Support Gut Health, Diarrhea, Digestive Health & Seasonal Allergies - Pork Flavor - 30 Soft Chews - Packaging May Vary",
+                "ratings_count": 45691,
+                "rating": "4.1",
+                "sale_price": "$35.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71qgLWaA5EL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Tomcat-Mouse-Glue-Trap-Eugenol/dp/B012VJLZOM/ref=zg_bs_g_lawn-garden_d_sccl_28/146-5391294-3515447?psc=1"
+                "product_url": "https://www.amazon.com/Petlab-Co-Probiotics-Dogs-Allergies/dp/B089XVJHFK/ref=zg_bs_g_pet-supplies_d_sccl_28/144-8260952-4971240?psc=1"
             },
             {
                 "rank": 29,
-                "asin": "B08DCYHSZN",
-                "name": "OWLTRA Indoor Electric Mouse Trap, Instant Eliminate Rodent Zapper with Pet Safe Trigger, Black, Small",
-                "ratings_count": 14671,
-                "rating": "4.0",
-                "sale_price": "$17.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61CZSjtVp2L._AC_UL300_SR300,200_.jpg",
+                "asin": "B006HKA6II",
+                "name": "Milk-Bone Soft & Chewy Dog Treats, Beef & Filet Mignon Recipe, 25 Ounce Made with Real Chuck Roast",
+                "ratings_count": 52473,
+                "rating": "4.7",
+                "sale_price": "$14.48",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81424BjzYrL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/OWLTRA-OW-2-Electric-Instant-Trigger/dp/B08DCYHSZN/ref=zg_bs_g_lawn-garden_d_sccl_29/146-5391294-3515447?psc=1"
+                "product_url": "https://www.amazon.com/Milk-Bone-Mignon-Recipe-Treats-25-Ounce/dp/B006HKA6II/ref=zg_bs_g_pet-supplies_d_sccl_29/144-8260952-4971240?psc=1"
             },
             {
                 "rank": 30,
-                "asin": "B00NES7LMU",
-                "name": "Raid® Ant & Roach Killer Spray, Fragrance-Free, 17.5 Oz, Pack Of 2",
-                "ratings_count": 9766,
-                "rating": "4.7",
-                "sale_price": "$9.12",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71CG8UQ7dXL._AC_UL300_SR300,200_.jpg",
+                "asin": "B01EY9KQ2Y",
+                "name": "Purina Pro Plan Sensitive Skin and Stomach Dog Food Salmon and Rice Formula - 30 lb. Bag",
+                "ratings_count": 24357,
+                "rating": "4.6",
+                "sale_price": "$71.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81cnlh1S7aL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Raid-Roach-Killer-Fragrance-Free/dp/B00NES7LMU/ref=zg_bs_g_lawn-garden_d_sccl_30/146-5391294-3515447?psc=1"
+                "product_url": "https://www.amazon.com/Purina-Pro-Plan-Sensitive-Stomach/dp/B01EY9KQ2Y/ref=zg_bs_g_pet-supplies_d_sccl_30/144-8260952-4971240?psc=1"
             },
             {
                 "rank": 31,
-                "asin": "B007CRG4CW",
-                "name": "Bonide Captain Jack's Neem Oil, 32 oz Ready-to-Use Spray, Multi-Purpose Fungicide, Insecticide and Miticide for Organic Gardening",
-                "ratings_count": 38873,
-                "rating": "4.4",
-                "sale_price": "$11.97",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61pAcVYsuSL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0114BNXQ6",
+                "name": "Milk-Bone Mini's Flavor Snacks Dog Treats, 36 Ounce Crunchy Texture Helps Reduce Tartar",
+                "ratings_count": 38919,
+                "rating": "4.8",
+                "sale_price": "$11.48",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81tU7UkyxZL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Bonide-BND022-Pesticide-Organic-Gardening/dp/B007CRG4CW/ref=zg_bs_g_lawn-garden_d_sccl_31/146-5794284-0631644?psc=1"
+                "product_url": "https://www.amazon.com/Milk-Bone-Flavor-Snacks-Biscuits-36-Ounce/dp/B0114BNXQ6/ref=zg_bs_g_pet-supplies_d_sccl_31/147-0306543-1157515?psc=1"
             },
             {
                 "rank": 32,
-                "asin": "B084RRY8Z2",
-                "name": "Blackstone 4114 Griddle Seasoning and Cast Iron Conditioner, 6.5 Ounce",
-                "ratings_count": 8062,
-                "rating": "4.7",
-                "sale_price": "$9.19",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81-lHAFkV9L._AC_UL300_SR300,200_.jpg",
+                "asin": "B071WCV19B",
+                "name": "Zesty Paws Dog Allergy Relief - Anti Itch Supplement - Omega 3 Probiotics for Dogs - Digestive Health - Soft Chews for Skin & Seasonal Allergies - with Epicor Pets - Lamb - 90 Count",
+                "ratings_count": 94772,
+                "rating": "4.2",
+                "sale_price": null,
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81qOJsdRCnL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Blackstone-Griddle-Seasoning-Conditioner-9-16-ZYQGM-0135/dp/B084RRY8Z2/ref=zg_bs_g_lawn-garden_d_sccl_32/146-5794284-0631644?psc=1"
+                "product_url": "https://www.amazon.com/Zesty-Paws-Dog-Allergy-Relief/dp/B071WCV19B/ref=zg_bs_g_pet-supplies_d_sccl_32/147-0306543-1157515?psc=1"
             },
             {
                 "rank": 33,
-                "asin": "B00LHE5OSQ",
-                "name": "Wagner's 53002 Farmer's Delight Wild Bird Food with Cherry Flavor, 10-Pound Bag",
-                "ratings_count": 11271,
-                "rating": "4.5",
-                "sale_price": "$11.98",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61wrXmTl2eL._AC_UL300_SR300,200_.jpg",
+                "asin": "B006W6YHHI",
+                "name": "Greenies Original Regular Natural Dog Dental Care Chews Oral Health Dog Treats, 36 count (Pack of 1)",
+                "ratings_count": 48953,
+                "rating": "4.8",
+                "sale_price": "$36.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81L067gIDLL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Wagners-53002-Farmers-Delight-10-Pound/dp/B00LHE5OSQ/ref=zg_bs_g_lawn-garden_d_sccl_33/146-5794284-0631644?psc=1"
+                "product_url": "https://www.amazon.com/GREENIES-Original-Regular-Natural-Dental/dp/B006W6YHHI/ref=zg_bs_g_pet-supplies_d_sccl_33/147-0306543-1157515?psc=1"
             },
             {
                 "rank": 34,
-                "asin": "B0BLG8NL23",
-                "name": "LULUCATCH Mouse & Insect Traps 12 Pack, Heavier Sticky Traps with Non-Toxic Glue for Small Mice & Insects. Sticky Mouse Traps Indoor, Easy to Set, Safe to Children & Pets",
-                "ratings_count": 6037,
-                "rating": "4.3",
-                "sale_price": "$9.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71hbDf-I3VL._AC_UL300_SR300,200_.jpg",
+                "asin": "B003PMQMK2",
+                "name": "Milk-Bone, Marosnacks, 40 Ounce",
+                "ratings_count": 79572,
+                "rating": "4.7",
+                "sale_price": "$11.48",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81P6Z2vH2-L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/LULUCATCH-Heavier-Non-Toxic-Insects-Children/dp/B0BLG8NL23/ref=zg_bs_g_lawn-garden_d_sccl_34/146-5794284-0631644?psc=1"
+                "product_url": "https://www.amazon.com/Milk-Bone-Marosnacks-Treats-Sizes-40-Ounce/dp/B003PMQMK2/ref=zg_bs_g_pet-supplies_d_sccl_34/147-0306543-1157515?psc=1"
             },
             {
                 "rank": 35,
-                "asin": "B002WKKEU2",
-                "name": "In The Swim Pool Closing Kit - Winterizing Chemicals for Above Ground and In-Ground Pools - Up to 15,000 Gallons",
-                "ratings_count": 16191,
-                "rating": "4.7",
-                "sale_price": "$54.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/713NTbv875L._AC_UL300_SR300,200_.jpg",
+                "asin": "B0BNP527D2",
+                "name": "ARM & HAMMER Clump & Seal Platinum Multi-Cat Complete Odor Sealing Clumping Cat Litter with 14 Days of Odor Control, 37 lbs, Online Exclusive Formula",
+                "ratings_count": 45217,
+                "rating": "4.6",
+                "sale_price": "$32.20",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71bufMjTCTL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Swim-Pool-Winterizing-Closing-Chemical/dp/B002WKKEU2/ref=zg_bs_g_lawn-garden_d_sccl_35/146-5794284-0631644?psc=1"
+                "product_url": "https://www.amazon.com/Platinum-Multi-Cat-Complete-Clumping-Exclusive/dp/B0BNP527D2/ref=zg_bs_g_pet-supplies_d_sccl_35/147-0306543-1157515?psc=1"
             },
             {
                 "rank": 36,
-                "asin": "B0742G9C3D",
-                "name": "HOOSUN Garden Flag Stand, Premium Garden Flag Pole Holder Metal Powder-Coated Weather-Proof Paint with one Tiger Clip and two Spring Stoppers without flag",
-                "ratings_count": 66235,
-                "rating": "4.4",
-                "sale_price": "$8.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71S5c4ihITL._AC_UL300_SR300,200_.jpg",
+                "asin": "B00CU2CMOI",
+                "name": "PEDIGREE DENTASTIX Large Dog Dental Care Treats Original, Beef & Fresh Variety Pack, 2.73 lb.Pack (51 Treats)",
+                "ratings_count": 41167,
+                "rating": "4.8",
+                "sale_price": "$23.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81A6av3VWdL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Premium-Powder-Coated-Weather-Proof-Anti-Wind-Stoppers/dp/B0742G9C3D/ref=zg_bs_g_lawn-garden_d_sccl_36/146-5794284-0631644?psc=1"
+                "product_url": "https://www.amazon.com/PEDIGREE-DENTASTIX-Original-Variety-lb-Pack/dp/B00CU2CMOI/ref=zg_bs_g_pet-supplies_d_sccl_36/147-0306543-1157515?psc=1"
             },
             {
                 "rank": 37,
-                "asin": "B000KL1LDE",
-                "name": "Combat Max 12 Month Roach Killing Bait, Small Roach Bait Station, Child-Resistant, 18 Count",
-                "ratings_count": 37260,
-                "rating": "4.2",
-                "sale_price": "$15.39",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/715CW0XxRBL._AC_UL300_SR300,200_.jpg",
+                "asin": "B089PM6FRC",
+                "name": "Fresh Step Advanced Clumping Litter With Febreze Freshness With Febreze Gain Scent, Fights Odor on Contact, 37 lbs. (2 x 18.5 lb. Box)",
+                "ratings_count": 27764,
+                "rating": "4.7",
+                "sale_price": "$31.99",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81lfNdQfF5L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Combat-Month-Roach-Killing-Station/dp/B000KL1LDE/ref=zg_bs_g_lawn-garden_d_sccl_37/146-5794284-0631644?psc=1"
+                "product_url": "https://www.amazon.com/Fresh-Step-Advanced-Clumping-Litter/dp/B089PM6FRC/ref=zg_bs_g_pet-supplies_d_sccl_37/147-0306543-1157515?psc=1"
             },
             {
                 "rank": 38,
-                "asin": "B01H1R0K68",
-                "name": "ThermoPro TP50 Digital Hygrometer Indoor Thermometer Room Thermometer and Humidity Gauge with Temperature Monitor",
-                "ratings_count": 132926,
-                "rating": "4.6",
-                "sale_price": "$10.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61sk3L14n9L._AC_UL300_SR300,200_.jpg",
+                "asin": "B0CXKNLKMX",
+                "name": "Wild Alaskan Salmon Oil Formula for Dogs & Cats - Omega 3 Skin & Coat Support - Liquid Food Supplement for Pets - Natural EPA + DHA Fatty Acids for Joint Function, Immune & Heart Health 8.5oz",
+                "ratings_count": 61325,
+                "rating": "4.5",
+                "sale_price": "$16.97",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61oELRcWptL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/ThermoPro-TP50-Digital-Thermometer-Temperature/dp/B01H1R0K68/ref=zg_bs_g_lawn-garden_d_sccl_38/146-5794284-0631644?psc=1"
+                "product_url": "https://www.amazon.com/Wild-Alaskan-Salmon-Oil-Formula/dp/B0CXKNLKMX/ref=zg_bs_g_pet-supplies_d_sccl_38/147-0306543-1157515?psc=1"
             },
             {
                 "rank": 39,
-                "asin": "B07W6SP4W1",
-                "name": "Grill Cover, 58 inch BBQ Gas Grill Cover for Outdoor Grill, Waterproof, Anti-UV, Rip-Proof, Fade Resistant Material, Barbecue Cover with Hook-and-Loop Straps & Adjustable Hem Drawstring, Black",
-                "ratings_count": 37274,
-                "rating": "4.4",
-                "sale_price": "$17.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71LiO1SychL._AC_UL300_SR300,200_.jpg",
+                "asin": "B005OB3E30",
+                "name": "Purina Fancy Feast Gravy Lovers Poultry and Beef Grilled Gourmet Wet Cat Food Variety Pack - (Pack of 24) 3 oz. Cans",
+                "ratings_count": 38636,
+                "rating": "4.7",
+                "sale_price": "$19.92",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81moxJT5azL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Waterproof-Resistant-Char-Broil-Nexgrill-VIBOOS/dp/B07W6SP4W1/ref=zg_bs_g_lawn-garden_d_sccl_39/146-5794284-0631644?psc=1"
+                "product_url": "https://www.amazon.com/Purina-Fancy-Feast-Poultry-Collection/dp/B005OB3E30/ref=zg_bs_g_pet-supplies_d_sccl_39/147-0306543-1157515?psc=1"
             },
             {
                 "rank": 40,
-                "asin": "B00P7MZZAG",
-                "name": "Hot Shot Fogger With Odor Neutralizer, Kills Roaches, Ants, Spiders & Fleas, Controls Heavy Infestations, 6 count-2 oz - Pack of 2",
-                "ratings_count": 36563,
-                "rating": "4.3",
-                "sale_price": null,
-                "image": "https://images-na.ssl-images-amazon.com/images/I/81v6LANmhaL._AC_UL300_SR300,200_.jpg",
+                "asin": "B00HQM0UMS",
+                "name": "Greenies Pill Pockets for Dogs Capsule Size Natural Soft Dog Treats Chicken Flavor, 15.8 oz. Pack (60 Treats)",
+                "ratings_count": 49720,
+                "rating": "4.7",
+                "sale_price": "$17.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81M3aEXmq4L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Neutralizer-Roaches-Spiders-Controls-Infestations/dp/B00P7MZZAG/ref=zg_bs_g_lawn-garden_d_sccl_40/146-5794284-0631644?psc=1"
+                "product_url": "https://www.amazon.com/GREENIES-POCKETS-Capsule-Natural-Chicken/dp/B00HQM0UMS/ref=zg_bs_g_pet-supplies_d_sccl_40/147-0306543-1157515?psc=1"
             },
             {
                 "rank": 41,
-                "asin": "B00002N66H",
-                "name": "Fiskars Bypass Pruning Shears, 5/8-Inch Cut Capacity Garden Clippers, Gardening Scissors with Sharp, Rust Resistant Steel Blade",
-                "ratings_count": 46171,
+                "asin": "B007JXVR76",
+                "name": "Meow Mix Original Choice Dry Cat Food, 6.3 Pound, Complete & Balanced Nutrition",
+                "ratings_count": 43079,
                 "rating": "4.7",
-                "sale_price": "$13.97",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/712oOsznuxL._AC_UL300_SR300,200_.jpg",
+                "sale_price": "$8.45",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81vWMgATvTL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Fiskars-91095935J-Bypass-Pruning-Shears/dp/B00002N66H/ref=zg_bs_g_lawn-garden_d_sccl_41/146-5794284-0631644?psc=1"
+                "product_url": "https://www.amazon.com/Meow-Mix-Original-Dry-Food/dp/B007JXVR76/ref=zg_bs_g_pet-supplies_d_sccl_41/147-0306543-1157515?psc=1"
             },
             {
                 "rank": 42,
-                "asin": "B08MZN1K2Y",
-                "name": "Fruit Fly Traps Fungus Gnat Traps Yellow Sticky Bug Traps 36 Pack Non-Toxic and Odorless for Indoor Outdoor Use Protect The Plant",
-                "ratings_count": 22833,
-                "rating": "4.4",
-                "sale_price": "$5.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71ptN0iopNL._AC_UL300_SR300,200_.jpg",
+                "asin": "B083MN4LGT",
+                "name": "Minties Dental Chews for Dogs, 40 Count, Vet-Recommended Mint-Flavored Dental Treats for Medium Dogs 25-50 lbs, Dental Bones Clean Teeth, Fight Bad Breath, and Removes Plaque and Tartar",
+                "ratings_count": 28945,
+                "rating": "4.5",
+                "sale_price": "$16.94",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71-tWbxDZoL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Mosqueda-Fruit-Traps-Sticky-Pack/dp/B08MZN1K2Y/ref=zg_bs_g_lawn-garden_d_sccl_42/146-5794284-0631644?psc=1"
+                "product_url": "https://www.amazon.com/Mintes-Dental-Vet-Recommended-Mint-Flavored-Removes/dp/B083MN4LGT/ref=zg_bs_g_pet-supplies_d_sccl_42/147-0306543-1157515?psc=1"
             },
             {
                 "rank": 43,
-                "asin": "B08GY7MZMC",
-                "name": "Miracle-Gro Succulent Potting Mix: Fertilized Soil with Premium Nutrition for Indoor Cactus Plants, Aloe Vera and More, 4 qt.",
-                "ratings_count": 16682,
-                "rating": "4.6",
-                "sale_price": "$10.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71Ik0bhYnwL._AC_UL300_SR300,200_.jpg",
+                "asin": "B000I82DTU",
+                "name": "Milk-Bone Original Dog Treats for Medium Dogs, 10 Pound, Crunchy Biscuit Helps Clean Teeth",
+                "ratings_count": 36457,
+                "rating": "4.8",
+                "sale_price": "$14.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81FAGudnFfL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Miracle-Gro-Succulent-Potting-Mix-Fertilized/dp/B08GY7MZMC/ref=zg_bs_g_lawn-garden_d_sccl_43/146-5794284-0631644?psc=1"
+                "product_url": "https://www.amazon.com/Milk-Bone-Original-Treats-Medium-10-Pound/dp/B000I82DTU/ref=zg_bs_g_pet-supplies_d_sccl_43/147-0306543-1157515?psc=1"
             },
             {
                 "rank": 44,
-                "asin": "B07HF6YDYV",
-                "name": "AUTOMAN-Garden-Hose-Nozzle,ABS Water Spray Nozzle with Heavy Duty 7 Adjustable Watering Patterns,Slip Resistant for Plants,Lawn,Washing Cars,Cleaning,Showering Pets & Outdoor Fun.",
-                "ratings_count": 17593,
-                "rating": "4.3",
-                "sale_price": "$8.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71kCq9AkbhL._AC_UL300_SR300,200_.jpg",
+                "asin": "B097S7LP8T",
+                "name": "Pup-Peroni Dog Treats, Prime Rib Flavor, 22.5 Ounce, Made with Real Steak",
+                "ratings_count": 27012,
+                "rating": "4.8",
+                "sale_price": null,
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81JomtlCLdL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/AUTOMAN-Garden-Hose-Nozzle-Adjustable-Watering-Resistant-Showering/dp/B07HF6YDYV/ref=zg_bs_g_lawn-garden_d_sccl_44/146-5794284-0631644?psc=1"
+                "product_url": "https://www.amazon.com/Pup-Peroni-Original-Prime-Flavor-Snacks/dp/B097S7LP8T/ref=zg_bs_g_pet-supplies_d_sccl_44/147-0306543-1157515?psc=1"
             },
             {
                 "rank": 45,
-                "asin": "B08DFCQ7G7",
-                "name": "68Pcs Bat Wall Decor, Halloween Bats Decorations 3D Bats Wall Decor Realistic PVC Bats Stickers for Outdoor DIY Home Decor Party Supplies",
-                "ratings_count": 1536,
-                "rating": "4.4",
-                "sale_price": "$9.59",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61-8l5gMDUL._AC_UL300_SR300,200_.jpg",
+                "asin": "B08CCG96FR",
+                "name": "Voyager Step-in Air Dog Harness - All Weather Mesh, Reflective, No Pull Harness for Small, Medium Dogs, Cats - Secure with Hook & Loop Fastener, Buckle, Double D-Rings - Fuchsia, S",
+                "ratings_count": 57152,
+                "rating": "4.6",
+                "sale_price": "$8.91",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81vE3wSyceL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Halloween-Decorations-Supplies-Decoration-decorations/dp/B08DFCQ7G7/ref=zg_bs_g_lawn-garden_d_sccl_45/146-5794284-0631644?psc=1"
+                "product_url": "https://www.amazon.com/Best-Pet-Supplies-Voyager-Harness/dp/B08CCG96FR/ref=zg_bs_g_pet-supplies_d_sccl_45/147-0306543-1157515?psc=1"
             },
             {
                 "rank": 46,
-                "asin": "B00P3SM7M8",
-                "name": "Thermacell Mosquito Repellent Refills; Compatible with Any Fuel-Powered Thermacell Repeller; Highly Effective, Long Lasting, No Spray or Mess; 15 Foot Zone of Mosquito Protection",
-                "ratings_count": 11767,
-                "rating": "4.7",
-                "sale_price": "$39.89",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71v2hJ2Y9uL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0037Z6VJE",
+                "name": "Veterinary Formula Clinical Care Hot Spot & Itch Relief Medicated Spray, 8oz – Easy to Use Spray for Dogs & Cats – Helps Alleviate Sensitive Skin, Scratching, and Licking of Coat",
+                "ratings_count": 34612,
+                "rating": "4.4",
+                "sale_price": "$9.98",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/61leBnEZLYL._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Thermacell-Cartridges-Compatible-Fuel-Powered-Alternative/dp/B00P3SM7M8/ref=zg_bs_g_lawn-garden_d_sccl_46/146-5794284-0631644?psc=1"
+                "product_url": "https://www.amazon.com/SynergyLabs-Veterinary-Formula-Clinical-Medicated/dp/B0037Z6VJE/ref=zg_bs_g_pet-supplies_d_sccl_46/147-0306543-1157515?psc=1"
             },
             {
                 "rank": 47,
-                "asin": "B0BQ782XNW",
-                "name": "Meat Thermometer Digital for Grilling and Cooking - ANDAXIN Waterproof Ultra-Fast Instant Read Food thermometers with Backlight & Calibration for Kitchen, Deep Fry, BBQ, Grill(Red/Black), LCD",
-                "ratings_count": 6853,
-                "rating": "4.4",
-                "sale_price": "$8.98",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/71oqTL-o3EL._AC_UL300_SR300,200_.jpg",
+                "asin": "B00283MYSI",
+                "name": "Purina Friskies Gravy Wet Cat Food Variety Pack, Poultry Shreds, Meaty Bits & Prime Filets - (Pack of 32) 5.5 oz. Cans",
+                "ratings_count": 31866,
+                "rating": "4.7",
+                "sale_price": "$22.49",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81iIQO3FF2L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Meat-Thermometer-Digital-Grilling-Cooking/dp/B0BQ782XNW/ref=zg_bs_g_lawn-garden_d_sccl_47/146-5794284-0631644?psc=1"
+                "product_url": "https://www.amazon.com/Purina-Friskies-Poultry-Adult-Variety/dp/B00283MYSI/ref=zg_bs_g_pet-supplies_d_sccl_47/147-0306543-1157515?psc=1"
             },
             {
                 "rank": 48,
-                "asin": "B07WCR5Y4B",
-                "name": "ThermoPro TP49 Digital Hygrometer Indoor Thermometer Humidity Meter Room Thermometer with Temperature and Humidity Monitor Mini Hygrometer Thermometer",
-                "ratings_count": 64097,
-                "rating": "4.6",
-                "sale_price": "$8.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61Cme7jI2eL._AC_UL300_SR300,200_.jpg",
+                "asin": "B0C1HG6XC8",
+                "name": "Wuffes Chewable Dog Hip and Joint Supplement for Small & Medium Breeds - Glucosamine & Chondroitin Chews - Dog Joint Supplements & Vitamins - Extended Joint Care - 60 Ct",
+                "ratings_count": 5703,
+                "rating": "4.2",
+                "sale_price": "$38.95",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71s361LXv3L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/ThermoPro-TP49-Hygrometer-Thermometer-Temperature/dp/B07WCR5Y4B/ref=zg_bs_g_lawn-garden_d_sccl_48/146-5794284-0631644?psc=1"
+                "product_url": "https://www.amazon.com/Wuffes-Chewable-Supplement-Medium-Breeds/dp/B0C1HG6XC8/ref=zg_bs_g_pet-supplies_d_sccl_48/147-0306543-1157515?psc=1"
             },
             {
                 "rank": 49,
-                "asin": "B0C9DJWH1L",
-                "name": "GKGG 900 sqft Halloween Spider Webs Decorations with 30 Extra Fake Spiders, Super Practical Spider Web for Halloween Decor Outdoor and Indoor",
-                "ratings_count": 393,
-                "rating": "4.6",
-                "sale_price": "$7.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/7110-oYiALL._AC_UL300_SR300,200_.jpg",
+                "asin": "B07C22NTL4",
+                "name": "All-Absorb A26 Male Dog Wrap, 50 Count, Small",
+                "ratings_count": 24888,
+                "rating": "4.7",
+                "sale_price": "$14.38",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71gYlXY6i-L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/GKGG-Halloween-Decorations-Spiders-Practical/dp/B0C9DJWH1L/ref=zg_bs_g_lawn-garden_d_sccl_49/146-5794284-0631644?psc=1"
+                "product_url": "https://www.amazon.com/All-Absorb-Male-Dog-Wrap-Count/dp/B07C22NTL4/ref=zg_bs_g_pet-supplies_d_sccl_49/147-0306543-1157515?psc=1"
             },
             {
                 "rank": 50,
-                "asin": "B09YXPRQWW",
-                "name": "Mosalogic Flying Insect Trap Plug-in Mosquito Killer Indoor Gnat Moth Catcher Fly Tapper with Night Light UV Attractant Catcher for Home Office White-1PACK",
-                "ratings_count": 9253,
-                "rating": "3.9",
-                "sale_price": "$15.99",
-                "image": "https://images-na.ssl-images-amazon.com/images/I/61cX9mfnfzL._AC_UL300_SR300,200_.jpg",
+                "asin": "B00RZDXA7K",
+                "name": "Virbac CET Enzymatic Toothpaste| Eliminates Bad Breath by Removing Plaque & Tartar Buildup | Best Pet Dental Care Toothpaste | Poultry Flavor, 2.5 oz tube",
+                "ratings_count": 33952,
+                "rating": "4.6",
+                "sale_price": "$11.52",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71KfByVA16L._AC_UL300_SR300,200_.jpg",
                 "is_prime": false,
-                "product_url": "https://www.amazon.com/Mosalogic-Flying-Mosquito-Catcher-Attractant/dp/B09YXPRQWW/ref=zg_bs_g_lawn-garden_d_sccl_50/146-5794284-0631644?psc=1"
+                "product_url": "https://www.amazon.com/Virbac-Control-Enzymatic-Toothpaste-Poultry/dp/B00RZDXA7K/ref=zg_bs_g_pet-supplies_d_sccl_50/147-0306543-1157515?psc=1"
             }
         ]
     }
