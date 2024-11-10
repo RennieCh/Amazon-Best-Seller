@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a web app (Dashboard) that displays the most recent best-selling products across 36 categories from Amazon. The dashboard aims to make it easier for shoppers to browse and analyze bestsellers by summarizing and presenting products with high ratings (four and five stars). The data is collected using APIs, aggregated into a unified format, and displayed in a user-friendly interface.
+This project is a web app (Dashboard) that displays the most recent best-selling products across 36 categories from Amazon. The dashboard aims to make it easier for shoppers to browse and analyze bestsellers by summarizing and presenting products with high ratings count. The data is collected using APIs, aggregated into a unified format, and displayed in a user-friendly interface.
 
 The dashboard is built using **React** and styled with **HTML** and **CSS**. It provides insights into product popularity and trends across different categories, enabling users to make informed shopping decisions.
 
@@ -30,7 +30,7 @@ The dashboard is built using **React** and styled with **HTML** and **CSS**. It 
 
 - **Real-Time Data**: Pulls data dynamically from Amazon best seller categories.
 - **Product Details**: Displays detailed information for each product, including ASIN, price, ratings, and product title.
-- **User-Friendly Dashboard**: A clean and simple interface for browsing the most popular products.
+- **User-Friendly Dashboard**: A clean and simple interface for summarizing the most popular products.
 
 ## Available Scripts
 
