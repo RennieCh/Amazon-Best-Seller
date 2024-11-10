@@ -3,6 +3,8 @@ import { FaHome } from 'react-icons/fa';
 import { GrTableAdd } from 'react-icons/gr';
 import { FaGithub } from 'react-icons/fa6';
 import { BsBodyText } from "react-icons/bs";
+import { GoGraph } from "react-icons/go";
+
 
 
 export default function TOC() {
@@ -23,6 +25,22 @@ export default function TOC() {
                     >
                         <FaHome style={{ color: 'red', marginRight: '8px' }} />
                         Home Page
+                    </NavLink>
+                </li>
+
+                {/* Graph Link */}
+                <li className="nav-item ms-3">
+                    <NavLink
+                        to="/graph"
+                        className="nav-link d-flex align-items-center"
+                        style={({ isActive }) => ({
+                            backgroundColor: 'black',
+                            color: isActive ? 'red' : 'white',
+                            borderColor: 'transparent',
+                        })}
+                    >
+                        <GoGraph style={{ color: 'red', marginRight: '8px' }} />
+                        Graph
                     </NavLink>
                 </li>
 

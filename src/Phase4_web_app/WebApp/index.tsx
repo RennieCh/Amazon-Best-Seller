@@ -3,6 +3,7 @@ import TOC from './TOC';
 import Graph from './graph';
 import Table from './table';
 import Wordcloud from './wordcloud';
+import Home from './home';
 
 export default function WebApp() {
     return (
@@ -16,7 +17,7 @@ export default function WebApp() {
                     {/* Logo */}
                     <img src="images/NEU.png" width="90px" alt="NEU Logo" />
                 </div>
-                
+
                 {/* TOC Navigation */}
                 <TOC />
             </div>
@@ -24,7 +25,8 @@ export default function WebApp() {
             {/* Content Section */}
             <div>
                 <Routes>
-                    <Route path="/" element={<Graph />} />
+                    <Route path="/" element={<Home />} />
+                    <Route path="/graph" element={<Graph />} />
                     <Route path="/wordcloud" element={<Wordcloud />} />
                     <Route path="/table" element={<Table />} />
                     <Route path="*" element={<Navigate to="/" />} />
