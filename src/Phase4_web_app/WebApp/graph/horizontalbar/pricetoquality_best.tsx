@@ -37,14 +37,19 @@ const BestValueBarChart: React.FC = () => {
                     image: item.image,
                 }));
 
-                // Sort by price_to_quality_ratio
-                const sortedData = parsedData.sort((a, b) => b.price_to_quality_ratio - a.price_to_quality_ratio);
+                // Filter out products with ratings_count = 0 or price_to_quality_ratio = 0
+                const filteredData = parsedData.filter(
+                    (item) => item.ratings_count > 0 && item.price_to_quality_ratio > 0
+                );
 
-                const uniqueCategories = Array.from(new Set(parsedData.map(d => d.category)));
+                // Sort by price_to_quality_ratio in ascending order
+                const sortedData = filteredData.sort((a, b) => a.price_to_quality_ratio - b.price_to_quality_ratio);
+
+                const uniqueCategories = Array.from(new Set(filteredData.map(d => d.category)));
                 setCategories(['All', ...uniqueCategories]);
 
                 setData(sortedData);
-                setFilteredData(sortedData.slice(0, 10)); // Show top 10 products by default
+                setFilteredData(sortedData.slice(0, 10)); // Show Top 10 products by default
             },
         });
     };
@@ -56,11 +61,11 @@ const BestValueBarChart: React.FC = () => {
     // Filter data based on selected category
     useEffect(() => {
         if (selectedCategory === 'All') {
-            setFilteredData(data.slice(0, 10));
+            setFilteredData(data.slice(0, 10)); // Show Top 10 products overall
         } else {
             const filtered = data
                 .filter(d => d.category === selectedCategory)
-                .sort((a, b) => b.price_to_quality_ratio - a.price_to_quality_ratio)
+                .sort((a, b) => a.price_to_quality_ratio - b.price_to_quality_ratio)
                 .slice(0, 10);
             setFilteredData(filtered);
         }
@@ -75,12 +80,12 @@ const BestValueBarChart: React.FC = () => {
         const product = filteredData[payload.index];
         return (
             <foreignObject x={x - 60} y={y - 30} width={60} height={60}>
-                <img 
-                    src={product?.image} 
-                    alt={product?.name} 
-                    width="60" 
-                    height="60" 
-                    style={{ objectFit: 'cover', borderRadius: '8px' }} 
+                <img
+                    src={product?.image}
+                    alt={product?.name}
+                    width="60"
+                    height="60"
+                    style={{ objectFit: 'cover', borderRadius: '8px' }}
                 />
             </foreignObject>
         );
@@ -114,7 +119,7 @@ const BestValueBarChart: React.FC = () => {
                             width={100}
                         />
                         <Tooltip formatter={(value: any) => `${value.toFixed(2)}`} />
-                        <Bar dataKey="price_to_quality_ratio" fill="#28a745" barSize={40} />
+                        <Bar dataKey="price_to_quality_ratio" fill="#6a0dad" barSize={40} />
                     </BarChart>
                 </ResponsiveContainer>
             </div>

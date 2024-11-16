@@ -3,7 +3,8 @@ import RatingsCountTreemap from "./treemap/ratingscount";
 import DualAxisChart from "./dual-axis";
 import RatingsBarChart from "./horizontalbar/ratingscount";
 import RevenueBarChart from "./horizontalbar/revenue";
-import BestValueBarChart from "./horizontalbar/pricetoquality";
+import WorstValueBarChart from "./horizontalbar/pricetoquality_worst";
+import BestValueBarChart from "./horizontalbar/pricetoquality_best";
 import ScatterPlot from "./scatterplot";
 
 
@@ -16,6 +17,7 @@ export default function Graph() {
             <RatingsBarChart />
             <RevenueBarChart />
             <BestValueBarChart />
+            <WorstValueBarChart />
             <ScatterPlot />
         </div>
     );
