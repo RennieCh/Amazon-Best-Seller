@@ -1,6 +1,6 @@
 # 📊 Amazon Bestsellers Dashboard
 
-🌐 **[Live Demo](https://673031ab45d9fc3a4d465174--amazonbestsellersneu.netlify.app/#/)**
+🌐 **[Live Demo][(https://6737f89c4af06c000880a0b4--amazonbestsellersneu.netlify.app/)]**
 
 ---
 
